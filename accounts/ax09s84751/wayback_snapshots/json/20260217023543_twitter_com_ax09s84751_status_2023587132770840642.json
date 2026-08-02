@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2019978992556908806",
+    "created_at": "2026-02-17T02:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T03:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023587132770840642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2008943608695840768",
+          "start": 0,
+          "username": "electronic_dirt"
+        },
+        {
+          "end": 30,
+          "id": "1994592809551073280",
+          "start": 17,
+          "username": "Shiaohan5525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023587132770840642",
+    "in_reply_to_user_id": "2008943608695840768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019978992556908806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@electronic_dirt @Shiaohan5525 我也09的唉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019978979013455873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhoLdnacAEPkkx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019978978971582464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhoLddbgAAcdZv.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1605,
+        "media_key": "3_2019978979017650182",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhoLdoacAYI5LC.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2019978978958929922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhoLdaacAIW9nU.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2019978992556908806",
+        "created_at": "2026-02-17T02:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T03:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023587132770840642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2008943608695840768",
+              "start": 0,
+              "username": "electronic_dirt"
+            },
+            {
+              "end": 30,
+              "id": "1994592809551073280",
+              "start": 17,
+              "username": "Shiaohan5525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023587132770840642",
+        "in_reply_to_user_id": "2008943608695840768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019978992556908806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@electronic_dirt @Shiaohan5525 我也09的唉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019978979013455873",
+            "3_2019978978971582464",
+            "3_2019978979017650182",
+            "3_2019978978958929922"
+          ]
+        },
+        "author_id": "2008943608695840768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019978992556908806",
+        "created_at": "2026-02-07T03:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019978992556908806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 89,
+              "id": "1994592809551073280",
+              "start": 76,
+              "username": "Shiaohan5525"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3Mvkkfcc0",
+              "end": 197,
+              "expanded_url": "https://x.com/electronic_dirt/status/2019978992556908806/photo/1",
+              "media_key": "3_2019978979013455873",
+              "start": 174,
+              "url": "https://t.co/B3Mvkkfcc0"
+            },
+            {
+              "display_url": "pic.x.com/B3Mvkkfcc0",
+              "end": 197,
+              "expanded_url": "https://x.com/electronic_dirt/status/2019978992556908806/photo/1",
+              "media_key": "3_2019978978971582464",
+              "start": 174,
+              "url": "https://t.co/B3Mvkkfcc0"
+            },
+            {
+              "display_url": "pic.x.com/B3Mvkkfcc0",
+              "end": 197,
+              "expanded_url": "https://x.com/electronic_dirt/status/2019978992556908806/photo/1",
+              "media_key": "3_2019978979017650182",
+              "start": 174,
+              "url": "https://t.co/B3Mvkkfcc0"
+            },
+            {
+              "display_url": "pic.x.com/B3Mvkkfcc0",
+              "end": 197,
+              "expanded_url": "https://x.com/electronic_dirt/status/2019978992556908806/photo/1",
+              "media_key": "3_2019978978958929922",
+              "start": 174,
+              "url": "https://t.co/B3Mvkkfcc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019978992556908806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6732,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "自我介绍（重制）\n以后这里是大号 那边只发画\n\n=通缉/电子垢\n2009/09/12 休学中\n画画自学的问相关不回\n我是KAITO梦女 拒同价\n\n男友：@Shiaohan5525 \n\n刻板印象速成：\nINFP-t/室女座/拉文克劳\n精无/泛性恋\n\n我o我割我果 我有精神病\n我喜欢玩 mc 血猎gal基本都玩过\n\n互fo大欢迎 同好请来找我玩喵！ https://t.co/B3Mvkkfcc0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 68,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 24
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T16:47:44.000Z",
+        "description": "💉𓂋 我是电子垢/通缉喵 可以找我互fo捏( ^ω^ ) 09休学中 内含画画｜废话｜od｜自伤｜果",
+        "id": "2008943608695840768",
+        "name": "通缉💡",
+        "pinned_tweet_id": "2019978992556908806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018785279499497472/GMU_7D_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 164,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 596
+        },
+        "username": "electronic_dirt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T02:22:52.000Z",
+        "description": "Shiaohan希望给大家带来快乐捏～会修电脑，可以是大家的树洞，愿意做最真诚的倾听者！无门槛！无门槛！！无门槛！！！",
+        "id": "1994592809551073280",
+        "location": "Queens, NY",
+        "name": "是一只Shiaohan酱（互fo）",
+        "pinned_tweet_id": "2020139746500944365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020140995346620416/rS_MifPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 35,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 67
+        },
+        "username": "Shiaohan5525",
+        "verified": false
+      }
+    ]
+  }
+}

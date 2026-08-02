@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2039228105315991954",
+    "created_at": "2026-04-01T06:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039228105315991954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuriano3479/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/yuriano3479/status/2038981012278149144",
+          "start": 16,
+          "url": "https://t.co/ziKKjPbYsJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039228105315991954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038981012278149144",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "应该会有吧？？ (*^▽^*) https://t.co/ziKKjPbYsJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2039228105315991954",
+        "created_at": "2026-04-01T06:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039228105315991954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuriano3479/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/yuriano3479/status/2038981012278149144",
+              "start": 16,
+              "url": "https://t.co/ziKKjPbYsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039228105315991954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038981012278149144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "应该会有吧？？ (*^▽^*) https://t.co/ziKKjPbYsJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727277830025973760",
+        "conversation_id": "2038981012278149144",
+        "created_at": "2026-03-31T14:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038981012278149144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038981012278149144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1135,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "希望我们都有不会再想自残的那一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 659,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:48:32.000Z",
+        "description": "我是优理。喜欢我就请关注吧^^什么都发｜欢迎互fo/DM○｜中文/日本語/Eng｜😈🍟最好的@Ngtyuri233.｡.:*☆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "Ngtyuri233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/8020909Yo7hsb",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/8020909Yo7hsb",
+                "start": 0,
+                "url": "https://t.co/dUGLHyy8uQ"
+              }
+            ]
+          }
+        },
+        "id": "1727277830025973760",
+        "location": "天国",
+        "name": "yuriiano",
+        "pinned_tweet_id": "2038174961668669522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037149597009928198/mPcUl3UR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 339,
+          "like_count": 4423,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 1163
+        },
+        "url": "https://t.co/dUGLHyy8uQ",
+        "username": "yuriano3479",
+        "verified": false
+      }
+    ]
+  }
+}

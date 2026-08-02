@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055221607162163603",
+    "created_at": "2026-05-15T09:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T10:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055221607162163603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055221607162163603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055108159652708653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 看到一个有趣的post：地球今年45岁半。它大约7岁开始养细菌，38岁开始养水母，2年前开始养恐龙，凌晨在宠物市场领养了人，到现在养了8个小时的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055221607162163603",
+        "created_at": "2026-05-15T09:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055221607162163603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055221607162163603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055108159652708653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 看到一个有趣的post：地球今年45岁半。它大约7岁开始养细菌，38岁开始养水母，2年前开始养恐龙，凌晨在宠物市场领养了人，到现在养了8个小时的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2055108159652708653",
+        "created_at": "2026-05-15T02:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055108159652708653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055108159652708653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 20134,
+          "like_count": 489,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "看到一个有趣的post：地球今年45岁半。它大约7岁开始养细菌，38岁开始养水母，2年前开始养恐龙，凌晨在宠物市场领养了人，到现在养了8个小时的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 1642,
+          "like_count": 2046,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 1759
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7585,
+          "following_count": 68,
+          "like_count": 7175,
+          "listed_count": 7,
+          "media_count": 159,
+          "tweet_count": 1740
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

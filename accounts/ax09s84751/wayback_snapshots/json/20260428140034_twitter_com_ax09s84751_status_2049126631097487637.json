@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2049118758103633933",
+    "created_at": "2026-04-28T14:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049126631097487637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        },
+        {
+          "end": 22,
+          "id": "2028321716049743872",
+          "start": 12,
+          "username": "xynMTFxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049126631097487637",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049118758103633933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 @xynMTFxyn 😮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2049118758103633933",
+        "created_at": "2026-04-28T14:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049126631097487637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            },
+            {
+              "end": 22,
+              "id": "2028321716049743872",
+              "start": 12,
+              "username": "xynMTFxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049126631097487637",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049118758103633933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 @xynMTFxyn 😮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2049118758103633933",
+        "created_at": "2026-04-28T13:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049118758103633933"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049118758103633933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈就特看不起一种人\n说几把自己是跨\n跨个100天又后悔说自己是男的\n😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 1392,
+          "like_count": 913,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1174
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3866,
+          "following_count": 1283,
+          "like_count": 6280,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 1302
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-02T04:14:51.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/30|药娘小资历| ENTP| 生产日期2010/10/19 | 174厘米 | 75公斤| 摄影📹| LGBT 🏳️‍🌈 | 青岛|私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 非常helpful的南盺 | 小南 |",
+        "id": "2028321716049743872",
+        "name": "南盺酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2048584251495563682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028373556783153152/usYeYRCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 100,
+          "like_count": 110,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 594
+        },
+        "username": "xynMTFxyn",
+        "verified": true
+      }
+    ]
+  }
+}

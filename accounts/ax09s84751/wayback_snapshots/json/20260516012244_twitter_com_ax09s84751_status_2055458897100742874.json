@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055458897100742874",
+    "created_at": "2026-05-16T01:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055458897100742874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022153081031733252",
+          "start": 3,
+          "username": "ax09s84751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055458897100742874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055453365199675639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax09s84751: 通知一下\n我被msk影子限流了\n回复你们看不见\n以后回复你们尽量引用\n爱你们哟ε٩(๑&gt; ₃ &lt;)۶з"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055458897100742874",
+        "created_at": "2026-05-16T01:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055458897100742874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022153081031733252",
+              "start": 3,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055458897100742874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055453365199675639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax09s84751: 通知一下\n我被msk影子限流了\n回复你们看不见\n以后回复你们尽量引用\n爱你们哟ε٩(๑&gt; ₃ &lt;)۶з"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055453365199675639",
+        "created_at": "2026-05-16T01:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055453365199675639"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055453365199675639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "通知一下\n我被msk影子限流了\n回复你们看不见\n以后回复你们尽量引用\n爱你们哟ε٩(๑&gt; ₃ &lt;)۶з"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 1657,
+          "like_count": 2073,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1838
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

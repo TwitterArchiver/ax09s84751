@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2032965042107543886",
+    "created_at": "2026-04-23T02:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047135239475175495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799308675158605825",
+          "start": 0,
+          "username": "CPUP2024"
+        },
+        {
+          "end": 26,
+          "id": "1766722039795294208",
+          "start": 10,
+          "username": "zhoujunhong2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047135239475175495",
+    "in_reply_to_user_id": "1799308675158605825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033497096851190188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPUP2024 @zhoujunhong2024 三七开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2032965042107543886",
+        "created_at": "2026-04-23T02:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047135239475175495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799308675158605825",
+              "start": 0,
+              "username": "CPUP2024"
+            },
+            {
+              "end": 26,
+              "id": "1766722039795294208",
+              "start": 10,
+              "username": "zhoujunhong2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047135239475175495",
+        "in_reply_to_user_id": "1799308675158605825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033497096851190188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPUP2024 @zhoujunhong2024 三七开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799308675158605825",
+        "conversation_id": "2032965042107543886",
+        "created_at": "2026-03-16T10:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T11:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033497096851190188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766722039795294208",
+              "start": 0,
+              "username": "zhoujunhong2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033497096851190188",
+        "in_reply_to_user_id": "1766722039795294208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 41572,
+          "like_count": 2338,
+          "quote_count": 16,
+          "reply_count": 29,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032965042107543886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoujunhong2024 我特别敬爱毛主席，但我觉得毛主席最大的错误就是对你这种人杀的太少，老毛过于心善导致的（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 1222,
+          "like_count": 802,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 897
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "你好，这里是葱 小号@mikulovermua 偏生活/一位左翼挺建制&CPC🇨🇳的汉人/仰慕☪️亲什叶派 🏳️‍🌈ally&挺跨挺酷儿/stand with🇵🇸🇨🇺🇷🇺and Iran☫/同情↖️、毛左📕🚩、🇨🇳爱国者/笑霍霍尔锡安港废台绿 赞美我川皇狠栓洋人👊🏻🤠🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "mikulovermua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn/",
+                "start": 0,
+                "url": "https://t.co/m1dLzTSfCB"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "PRC🇨🇳",
+        "name": "赛高の葱娘酱miku🇨🇳☭☪︎☫——本人自豪粉区的身份",
+        "pinned_tweet_id": "2046777448407458103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030189135823261698/oQMUI0fX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 1848,
+          "like_count": 45788,
+          "listed_count": 35,
+          "media_count": 1033,
+          "tweet_count": 12970
+        },
+        "url": "https://t.co/m1dLzTSfCB",
+        "username": "CPUP2024",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T07:05:44.000Z",
+        "description": "周君红，海外律盟创始人，原深圳律师，湖南武冈人，基督徒，三孩妈，获北大学士、法大硕士学位，2024年3月，在美考试期间，因发表反共言论意外走红，迫于因言获罪留美，致使骨肉分离。邮箱：z185221331@gmail.com，反共电报群：https://t.co/jzZo3Grouq；反跨国镇压群：https://t.co/lMPwjzz07o",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/junhong2025",
+                "end": 141,
+                "expanded_url": "http://t.me/junhong2025",
+                "start": 118,
+                "url": "https://t.co/jzZo3Grouq"
+              },
+              {
+                "display_url": "t.me/fanpohai2026",
+                "end": 172,
+                "expanded_url": "http://t.me/fanpohai2026",
+                "start": 149,
+                "url": "https://t.co/lMPwjzz07o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "renquanlvshi.org",
+                "end": 23,
+                "expanded_url": "https://renquanlvshi.org/",
+                "start": 0,
+                "url": "https://t.co/lC5qNg5WLJ"
+              }
+            ]
+          }
+        },
+        "id": "1766722039795294208",
+        "location": "California, USA",
+        "name": "周君红（原深圳律师）",
+        "pinned_tweet_id": "2046769501686165809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990941484657639424/r3JF_Wio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31607,
+          "following_count": 662,
+          "like_count": 12452,
+          "listed_count": 135,
+          "media_count": 5434,
+          "tweet_count": 18261
+        },
+        "url": "https://t.co/lC5qNg5WLJ",
+        "username": "zhoujunhong2024",
+        "verified": true
+      }
+    ]
+  }
+}

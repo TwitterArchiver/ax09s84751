@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2039970097582981527",
+    "created_at": "2026-04-03T07:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T08:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039970097582981527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/orange21969561…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/orange219695619/status/2039966623810134444",
+          "start": 9,
+          "url": "https://t.co/cy5mdaTj71"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039970097582981527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039966623810134444",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？不是哥们儿😰😰 https://t.co/cy5mdaTj71"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2039966621100568577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE9q1WxacAEZHJc.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2039970097582981527",
+        "created_at": "2026-04-03T07:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039970097582981527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/orange21969561…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/orange219695619/status/2039966623810134444",
+              "start": 9,
+              "url": "https://t.co/cy5mdaTj71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039970097582981527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039966623810134444",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？不是哥们儿😰😰 https://t.co/cy5mdaTj71"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039966621100568577"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2039966623810134444",
+        "created_at": "2026-04-03T07:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039966623810134444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1662293107738640384",
+              "start": 22,
+              "username": "SHUGE0731"
+            },
+            {
+              "end": 43,
+              "id": "1949348575378644992",
+              "start": 33,
+              "username": "Ace_Purin"
+            },
+            {
+              "end": 63,
+              "id": "1845076547197353984",
+              "start": 50,
+              "username": "xhskskfb7885"
+            },
+            {
+              "end": 81,
+              "id": "2022153081031733252",
+              "start": 70,
+              "username": "ax09s84751"
+            },
+            {
+              "end": 96,
+              "id": "1866221225309270016",
+              "start": 82,
+              "username": "ffscintillant"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 124,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2039126085452046336/gVYkyw19?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2039126085452046336/gVYkyw19?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/cwsx0WSdzO"
+            },
+            {
+              "display_url": "pic.x.com/ur7POIrlcP",
+              "end": 148,
+              "expanded_url": "https://x.com/orange219695619/status/2039966623810134444/photo/1",
+              "media_key": "3_2039966621100568577",
+              "start": 125,
+              "url": "https://t.co/ur7POIrlcP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039966623810134444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @SHUGE0731 @Ace_Purin\n👰 配偶: @xhskskfb7885\n👶 孩子: @ax09s84751 @ffscintillant\n\n➡️ https://t.co/cwsx0WSdzO https://t.co/ur7POIrlcP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 665,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 435
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 54,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 461
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

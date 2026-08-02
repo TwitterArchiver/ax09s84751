@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2038602319215075356",
+    "created_at": "2026-03-30T13:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038616665135714747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933114395854610432",
+          "start": 0,
+          "username": "eweisi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038616665135714747",
+    "in_reply_to_user_id": "1933114395854610432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038602319215075356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eweisi32 那就\n自杀和自残差一个字。\n真的很难受的话，\n我希望你选择自残。。\n。。\n尽量割浅一点。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2038602319215075356",
+        "created_at": "2026-03-30T13:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038616665135714747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933114395854610432",
+              "start": 0,
+              "username": "eweisi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038616665135714747",
+        "in_reply_to_user_id": "1933114395854610432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038602319215075356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eweisi32 那就\n自杀和自残差一个字。\n真的很难受的话，\n我希望你选择自残。。\n。。\n尽量割浅一点。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933114395854610432",
+        "conversation_id": "2038602319215075356",
+        "created_at": "2026-03-30T13:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038602319215075356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038602319215075356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不畏惧死亡。。好难过 好焦虑 太糟糕了 死亡是我能想到的唯一解决问题的办法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf/爱看od圈/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 650,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "叫我蚀蚀就好…\n我会塔罗占卜可以找我 | \n自残伤口可定制 | 喜欢我请打钱…无上限 | 求指令红包 | 互fo直关",
+        "id": "1933114395854610432",
+        "location": "🚪35好友位/88陪聊照片/122语音/288一切",
+        "name": "Marvin",
+        "pinned_tweet_id": "2037435971369599134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 267,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 213
+        },
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

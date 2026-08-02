@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2065412915965133259",
+    "created_at": "2026-06-12T12:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065412915965133259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yacht_ono/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yacht_ono/status/2064943082018410928",
+          "start": 5,
+          "url": "https://t.co/93fu8Cek9I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065412915965133259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064943082018410928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说的道理 https://t.co/93fu8Cek9I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2065412915965133259",
+        "created_at": "2026-06-12T12:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065412915965133259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yacht_ono/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yacht_ono/status/2064943082018410928",
+              "start": 5,
+              "url": "https://t.co/93fu8Cek9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065412915965133259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064943082018410928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说的道理 https://t.co/93fu8Cek9I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045127800324288513",
+        "conversation_id": "2064943082018410928",
+        "created_at": "2026-06-11T05:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064943082018410928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064943082018410928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 70645,
+          "like_count": 2927,
+          "quote_count": 33,
+          "reply_count": 132,
+          "retweet_count": 402
+        },
+        "reply_settings": "everyone",
+        "text": "拧巴的人需要引导型人民币\n回避的人需要主动型人民币\n缺爱的人需要依恋型人民币\n暴躁的人需要讨好型人民币\n孤独的人需要陪伴型人民币\n迷茫的人需要指引型人民币\n脆弱的人需要守护型人民币"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）+ Seve\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 124,
+                "username": "Echo42es"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2062097916781797730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 1811,
+          "like_count": 2856,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 2535
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T13:12:15.000Z",
+        "description": "碎碎念寄存处",
+        "id": "2045127800324288513",
+        "location": "🚪40",
+        "name": "yacht",
+        "pinned_tweet_id": "2058824497806074128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059069717709721600/K6TBjpNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 42,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 234
+        },
+        "username": "yacht_ono",
+        "verified": false
+      }
+    ]
+  }
+}

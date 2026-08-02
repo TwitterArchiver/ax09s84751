@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055934089732210688"
+      ],
+      "media_source_tweet_id": [
+        "2055934095524524397"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2056017797755588908",
+    "created_at": "2026-05-17T14:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056017797755588908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1664742004423794688",
+          "start": 3,
+          "username": "rwayne"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hukcSxR0GU",
+          "end": 53,
+          "expanded_url": "https://x.com/rwayne/status/2055934095524524397/photo/1",
+          "media_key": "3_2055934089732210688",
+          "start": 30,
+          "url": "https://t.co/hukcSxR0GU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056017797755588908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055934095524524397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rwayne: 新密码：英国信封\n\n京东开始发力了 https://t.co/hukcSxR0GU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055934089732210688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIglKWwawAALkly.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055934089732210688"
+          ],
+          "media_source_tweet_id": [
+            "2055934095524524397"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2056017797755588908",
+        "created_at": "2026-05-17T14:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056017797755588908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1664742004423794688",
+              "start": 3,
+              "username": "rwayne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hukcSxR0GU",
+              "end": 53,
+              "expanded_url": "https://x.com/rwayne/status/2055934095524524397/photo/1",
+              "media_key": "3_2055934089732210688",
+              "start": 30,
+              "url": "https://t.co/hukcSxR0GU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056017797755588908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055934095524524397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rwayne: 新密码：英国信封\n\n京东开始发力了 https://t.co/hukcSxR0GU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055934089732210688"
+          ]
+        },
+        "author_id": "1664742004423794688",
+        "conversation_id": "2055934095524524397",
+        "created_at": "2026-05-17T08:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055934095524524397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hukcSxR0GU",
+              "end": 41,
+              "expanded_url": "https://x.com/rwayne/status/2055934095524524397/photo/1",
+              "media_key": "3_2055934089732210688",
+              "start": 18,
+              "url": "https://t.co/hukcSxR0GU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055934095524524397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 404,
+          "impression_count": 504347,
+          "like_count": 593,
+          "quote_count": 5,
+          "reply_count": 245,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "新密码：英国信封\n\n京东开始发力了 https://t.co/hukcSxR0GU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 1678,
+          "like_count": 2154,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 1911
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "🧑‍⚕️ 医学&经济学全奖PhD 🇦🇺\n🚀3 个月 X 涨粉 4w｜累计曝光 1.5 亿\n💼《中国企业AI转型白皮书》作者｜企业AI转型咨询｜AI医疗创业者\n⭐ 订阅都是本人精华｜优先回复订阅者评论和私信👈",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2055192360968171954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48181,
+          "following_count": 797,
+          "like_count": 31699,
+          "listed_count": 252,
+          "media_count": 2224,
+          "tweet_count": 13795
+        },
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

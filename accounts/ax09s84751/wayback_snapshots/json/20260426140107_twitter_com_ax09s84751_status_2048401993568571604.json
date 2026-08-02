@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048071411978420705",
+    "created_at": "2026-04-26T14:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048401993568571604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2006896037412352000",
+          "start": 0,
+          "username": "plh1649513"
+        },
+        {
+          "end": 25,
+          "id": "622036546",
+          "start": 12,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048401993568571604",
+    "in_reply_to_user_id": "2006896037412352000",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048399447667937417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plh1649513 @overdose_six ?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048071411978420705",
+        "created_at": "2026-04-26T14:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048401993568571604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2006896037412352000",
+              "start": 0,
+              "username": "plh1649513"
+            },
+            {
+              "end": 25,
+              "id": "622036546",
+              "start": 12,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048401993568571604",
+        "in_reply_to_user_id": "2006896037412352000",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048399447667937417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plh1649513 @overdose_six ?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006896037412352000",
+        "conversation_id": "2048071411978420705",
+        "created_at": "2026-04-26T13:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048399447667937417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            },
+            {
+              "end": 25,
+              "id": "622036546",
+              "start": 12,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048399447667937417",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048083719005863950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 @overdose_six 在说反话呢☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/视成分互关\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 1340,
+          "like_count": 874,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1072
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-02T01:12:08.000Z",
+        "description": "自杀未遂×2/有自杀倾向与自残倾向/重度抑郁症转双相情感障碍和精神分裂/住院休学中/虚无主义/臭看番的/fo互关/🈷️的别来/臭吃药的/怒气重的赶紧滚别天天跟白痴一样骂人没点家教吗？/",
+        "id": "2006896037412352000",
+        "location": "广东深圳",
+        "name": "我将在18岁之前死亡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046553614496501760/5ZhOV5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 141,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 246
+        },
+        "username": "plh1649513",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "接受药物报告及相关投稿 | 提问箱：https://t.co/b5c8bbntR6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 41,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 18,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名Shiina",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2843,
+          "following_count": 101,
+          "like_count": 11534,
+          "listed_count": 8,
+          "media_count": 691,
+          "tweet_count": 4163
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

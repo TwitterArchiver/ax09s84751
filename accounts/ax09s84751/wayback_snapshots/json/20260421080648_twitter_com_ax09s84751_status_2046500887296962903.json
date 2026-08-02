@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2046449764024422491",
+    "created_at": "2026-04-21T08:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046500887296962903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780369819310981120",
+          "start": 0,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046500887296962903",
+    "in_reply_to_user_id": "1780369819310981120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046449764024422491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520illusion 真的没了 苯海索，苯海拉明，金刚烷胺 这些东西你说能欧是能欧，但是伤害性太大了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 874,
+        "media_key": "3_2046449419302936576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZy54BbIAAD17S.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2046449764024422491",
+        "created_at": "2026-04-21T08:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046500887296962903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046500887296962903",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046449764024422491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 真的没了 苯海索，苯海拉明，金刚烷胺 这些东西你说能欧是能欧，但是伤害性太大了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046449419302936576"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046449764024422491",
+        "created_at": "2026-04-21T04:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046449764024422491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/slGiCwqeAk",
+              "end": 80,
+              "expanded_url": "https://x.com/520illusion/status/2046449764024422491/photo/1",
+              "media_key": "3_2046449419302936576",
+              "start": 57,
+              "url": "https://t.co/slGiCwqeAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046449764024422491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1374,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "oder们现在已经把广州禁毒作为菜单了\n\n广州禁毒就是方便 连获取渠道 法律风险 作用 副作用都一起标明了 😂😂 https://t.co/slGiCwqeAk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 1182,
+          "like_count": 758,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 836
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "All in crypto | 08 | 杭州南京合肥随机刷新 想和可爱的人面面 | illusion | 抑郁幻想向 | 坠落星空 | 梦幻主义 | 蓝 | 氯硝西泮 | 终将成为你 | 我向神明祈祷 许你岁岁平安  | 故里蓝鸢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市轨道交通3号线中兴大桥南站A出口",
+        "name": "ill",
+        "pinned_tweet_id": "2045348085803655561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4540,
+          "following_count": 208,
+          "like_count": 9979,
+          "listed_count": 7,
+          "media_count": 910,
+          "tweet_count": 5925
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

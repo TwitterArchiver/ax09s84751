@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2025083704209723586",
+    "created_at": "2026-02-21T05:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025083704209723586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811690667720212480",
+          "start": 3,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025083704209723586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024248663825113531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y0zarashi: 参加所谓od圈的下场：\nspring风：死于服用死藤水自残\n彩加：死于od晚安后坠楼\n崔金元：劳拉西泮羟考酮普瑞巴林\n布洛妮娅：死于酒配pr\n刘宣祯：死于思诺思阿片普瑞巴林\n咴咴：死于亚硝酸钠\nspring风二周目：普挫仑普瑞巴林伏特加\n可叹奇葩父…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024248661434392576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBeTbsHbYAAt-Nu.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2025083704209723586",
+        "created_at": "2026-02-21T05:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025083704209723586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811690667720212480",
+              "start": 3,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025083704209723586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024248663825113531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y0zarashi: 参加所谓od圈的下场：\nspring风：死于服用死藤水自残\n彩加：死于od晚安后坠楼\n崔金元：劳拉西泮羟考酮普瑞巴林\n布洛妮娅：死于酒配pr\n刘宣祯：死于思诺思阿片普瑞巴林\n咴咴：死于亚硝酸钠\nspring风二周目：普挫仑普瑞巴林伏特加\n可叹奇葩父…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024248661434392576"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "conversation_id": "2024248663825113531",
+        "created_at": "2026-02-18T22:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T23:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024248663825113531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0GPS5NpJv",
+              "end": 177,
+              "expanded_url": "https://x.com/y0zarashi/status/2024248663825113531/photo/1",
+              "media_key": "3_2024248661434392576",
+              "start": 154,
+              "url": "https://t.co/V0GPS5NpJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024248663825113531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2724,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "参加所谓od圈的下场：\nspring风：死于服用死藤水自残\n彩加：死于od晚安后坠楼\n崔金元：劳拉西泮羟考酮普瑞巴林\n布洛妮娅：死于酒配pr\n刘宣祯：死于思诺思阿片普瑞巴林\n咴咴：死于亚硝酸钠\nspring风二周目：普挫仑普瑞巴林伏特加\n可叹奇葩父母吸毒儿，十八年华付东流。莫道天公无眼目，反华贱种自封喉。 https://t.co/V0GPS5NpJv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 170,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 110
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "文学会改变人的心性，轻易的影响一个人使他走火入魔做不了凡人，读完一定程度的世界文学，十几年就过去了，而这条路才刚开始，而且读书之后大部分会忘却需要重新复读，留下来的比例如同鲁迅说的“炼炭”，精神会被前人之精神改造，如果你有诗歌或宗教的天赋，会更加偏离常人，你的友人家人同辈都会跟你谈不到一块，也很难有女人适合你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y0zarashi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y0zarashi",
+                "start": 0,
+                "url": "https://t.co/YWqrMoB9vO"
+              }
+            ]
+          }
+        },
+        "id": "1811690667720212480",
+        "location": "20260214",
+        "name": "CallumL1（老婆孩子我的命）",
+        "pinned_tweet_id": "2022794040962617855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024031514825289730/m4GjB-P2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 147,
+          "like_count": 54,
+          "listed_count": 5,
+          "media_count": 287,
+          "tweet_count": 966
+        },
+        "url": "https://t.co/YWqrMoB9vO",
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

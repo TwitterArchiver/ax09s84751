@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062464231786823681"
+      ],
+      "media_source_tweet_id": [
+        "2062464234341216376"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2063150656949760431",
+    "created_at": "2026-06-06T06:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063150656949760431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546431985086009344",
+          "start": 3,
+          "username": "NL8526"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L0fnSeTeCk",
+          "end": 40,
+          "expanded_url": "https://x.com/NL8526/status/2062464234341216376/photo/1",
+          "media_key": "3_2062464231786823681",
+          "start": 17,
+          "url": "https://t.co/L0fnSeTeCk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063150656949760431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062464234341216376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NL8526: 高考加油 https://t.co/L0fnSeTeCk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2062464231786823681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9YSpmaQAEx17k.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062464231786823681"
+          ],
+          "media_source_tweet_id": [
+            "2062464234341216376"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2063150656949760431",
+        "created_at": "2026-06-06T06:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063150656949760431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546431985086009344",
+              "start": 3,
+              "username": "NL8526"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L0fnSeTeCk",
+              "end": 40,
+              "expanded_url": "https://x.com/NL8526/status/2062464234341216376/photo/1",
+              "media_key": "3_2062464231786823681",
+              "start": 17,
+              "url": "https://t.co/L0fnSeTeCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063150656949760431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062464234341216376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NL8526: 高考加油 https://t.co/L0fnSeTeCk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062464231786823681"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2062464234341216376",
+        "created_at": "2026-06-04T09:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062464234341216376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L0fnSeTeCk",
+              "end": 28,
+              "expanded_url": "https://x.com/NL8526/status/2062464234341216376/photo/1",
+              "media_key": "3_2062464231786823681",
+              "start": 5,
+              "url": "https://t.co/L0fnSeTeCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062464234341216376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 133378,
+          "like_count": 1947,
+          "quote_count": 6,
+          "reply_count": 245,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "高考加油 https://t.co/L0fnSeTeCk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2062097916781797730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 1825,
+          "like_count": 2790,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 2508
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明 🩷同类蓝v互fo🉑忘回请私 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 721,
+          "like_count": 14650,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

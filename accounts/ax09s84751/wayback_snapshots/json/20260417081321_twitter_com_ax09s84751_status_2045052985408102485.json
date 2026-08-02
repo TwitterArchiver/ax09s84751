@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2045052985408102485",
+    "created_at": "2026-04-17T08:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T09:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045052985408102485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1647170304844914689",
+          "start": 3,
+          "username": "DustSwallo15805"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045052985408102485",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044978408808231073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DustSwallo15805: 没有人理我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2045052985408102485",
+        "created_at": "2026-04-17T08:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045052985408102485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1647170304844914689",
+              "start": 3,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045052985408102485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044978408808231073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DustSwallo15805: 没有人理我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2044978408808231073",
+        "created_at": "2026-04-17T03:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T04:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044978408808231073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044978408808231073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没有人理我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 901,
+          "like_count": 590,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 702
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044340892664995841/VJhtus_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 726,
+          "like_count": 74518,
+          "listed_count": 3,
+          "media_count": 677,
+          "tweet_count": 3924
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      }
+    ]
+  }
+}

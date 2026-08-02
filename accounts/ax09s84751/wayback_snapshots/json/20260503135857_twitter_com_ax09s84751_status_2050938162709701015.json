@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2050889379259047961",
+    "created_at": "2026-05-03T13:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050938162709701015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050938162709701015",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050935848825471385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 我苏E😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2050889379259047961",
+        "created_at": "2026-05-03T13:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050938162709701015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050938162709701015",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050935848825471385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 我苏E😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2050889379259047961",
+        "created_at": "2026-05-03T13:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050935848825471385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050935848825471385",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050889379259047961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 苏U还是太小资历了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 1468,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1382
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3910,
+          "following_count": 1290,
+          "like_count": 6496,
+          "listed_count": 6,
+          "media_count": 350,
+          "tweet_count": 1387
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

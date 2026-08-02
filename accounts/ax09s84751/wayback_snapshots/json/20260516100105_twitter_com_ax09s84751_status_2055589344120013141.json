@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055575187379388632",
+    "created_at": "2026-05-16T10:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T11:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055589344120013141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1598557374046179328",
+          "start": 0,
+          "username": "huihui_mikumi"
+        },
+        {
+          "end": 27,
+          "id": "1628965541057642496",
+          "start": 15,
+          "username": "Warma_Plaza"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055589344120013141",
+    "in_reply_to_user_id": "1598557374046179328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055587391675711953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huihui_mikumi @Warma_Plaza 少见唉，竟然还是蓝色的"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055575187379388632",
+        "created_at": "2026-05-16T10:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055589344120013141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            },
+            {
+              "end": 27,
+              "id": "1628965541057642496",
+              "start": 15,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055589344120013141",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055587391675711953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi @Warma_Plaza 少见唉，竟然还是蓝色的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2055575187379388632",
+        "created_at": "2026-05-16T09:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055587391675711953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055587391675711953",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055587108463739358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 是德补捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 1662,
+          "like_count": 2121,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1856
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|互fo\n\nwx🚪52（求求啦小惠太穷穷啦）",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 495,
+          "like_count": 508,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1056
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5015,
+          "following_count": 7500,
+          "like_count": 669,
+          "listed_count": 8,
+          "media_count": 569,
+          "tweet_count": 9100
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      }
+    ]
+  }
+}

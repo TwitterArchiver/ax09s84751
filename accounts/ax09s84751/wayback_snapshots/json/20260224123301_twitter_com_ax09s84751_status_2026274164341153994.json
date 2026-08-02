@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026274161342246913"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2026274164341153994",
+    "created_at": "2026-02-24T12:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026274164341153994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eiVC7rzJZ3",
+          "end": 101,
+          "expanded_url": "https://x.com/ax09s84751/status/2026274164341153994/photo/1",
+          "media_key": "3_2026274161342246913",
+          "start": 78,
+          "url": "https://t.co/eiVC7rzJZ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026274164341153994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "-核心发现：首次证实男跨女（MtF）的BNST（BSTc）神经元数量与女性一致，与生理男性存在显著差异；且该差异不随成年激素变化，是终身稳定的“硬件特征” https://t.co/eiVC7rzJZ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026274161342246913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7FnTRbcAEEdrr.jpg",
+        "width": 569
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026274161342246913"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2026274164341153994",
+        "created_at": "2026-02-24T12:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026274164341153994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eiVC7rzJZ3",
+              "end": 101,
+              "expanded_url": "https://x.com/ax09s84751/status/2026274164341153994/photo/1",
+              "media_key": "3_2026274161342246913",
+              "start": 78,
+              "url": "https://t.co/eiVC7rzJZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026274164341153994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "-核心发现：首次证实男跨女（MtF）的BNST（BSTc）神经元数量与女性一致，与生理男性存在显著差异；且该差异不随成年激素变化，是终身稳定的“硬件特征” https://t.co/eiVC7rzJZ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直/不zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n理想：无证含糖mtf格式化💾 跨救助机构卸载❌\n允许跨人关/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSeL2"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 431,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/6aaNEtSeL2",
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055163310694445192",
+    "created_at": "2026-05-15T05:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055163310694445192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TixItem4527/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/TixItem4527/status/2054994576012906648",
+          "start": 14,
+          "url": "https://t.co/mgy5rSnxZs"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055163310694445192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054994576012906648",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以和n55 tyw并列了 https://t.co/mgy5rSnxZs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1775,
+        "media_key": "3_2054993942702424065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITOGmJbgAEuYUE.jpg",
+        "width": 1080
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055163310694445192",
+        "created_at": "2026-05-15T05:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055163310694445192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TixItem4527/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/TixItem4527/status/2054994576012906648",
+              "start": 14,
+              "url": "https://t.co/mgy5rSnxZs"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055163310694445192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054994576012906648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以和n55 tyw并列了 https://t.co/mgy5rSnxZs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054993942702424065"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2054994576012906648",
+        "created_at": "2026-05-14T18:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054994576012906648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8mYqfEAQUM",
+              "end": 151,
+              "expanded_url": "https://x.com/TixItem4527/status/2054994576012906648/photo/1",
+              "media_key": "3_2054993942702424065",
+              "start": 128,
+              "url": "https://t.co/8mYqfEAQUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054994576012906648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2756,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "转帖:QQ空间\n(愿她来世做个幸福的女孩)\n讣告\n里央，一位跨性别女性，在今日于8楼跳楼自杀，目前生死未卜。\n以及，我要痛批一下鲨猫做的那些事情了,他在逝者跳楼自杀前讨要金钱，获取了1000赃款，并将其给了其他的人。他自称报警了。在逝者跳楼后约3~5分钟 https://t.co/8mYqfEAQUM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtf🏳️‍⚧️？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 1636,
+          "like_count": 2006,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注-同类互fo\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm(有点高烦恼)|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 146,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 540,
+          "like_count": 1385,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

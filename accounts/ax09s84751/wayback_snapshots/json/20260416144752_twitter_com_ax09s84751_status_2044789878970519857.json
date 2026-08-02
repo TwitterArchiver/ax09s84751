@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2044789878970519857",
+    "created_at": "2026-04-16T14:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044789878970519857"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7S21345/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/7S21345/status/2044697414616150085",
+          "start": 8,
+          "url": "https://t.co/O9v9b6Pz7G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044789878970519857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044697414616150085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那我确实很猛了 https://t.co/O9v9b6Pz7G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2044789878970519857",
+        "created_at": "2026-04-16T14:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044789878970519857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7S21345/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/7S21345/status/2044697414616150085",
+              "start": 8,
+              "url": "https://t.co/O9v9b6Pz7G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044789878970519857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044697414616150085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我确实很猛了 https://t.co/O9v9b6Pz7G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540718749053231105",
+        "conversation_id": "2044697414616150085",
+        "created_at": "2026-04-16T08:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044697414616150085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044697414616150085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10091,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 74,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内这次对VPN是真的严管了，我一上午都没用上X和TikTok\n\n最近大部分的梯子都卡的不像样，甚至根本打不开\n\n这几天还能上推的都是猛人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 827,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 672
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-25T15:29:21.000Z",
+        "description": "07年大学生勇闯Web3｜希望可以认识更多人",
+        "id": "1540718749053231105",
+        "location": "Los Angeles, CA",
+        "name": "尼奥Neo",
+        "pinned_tweet_id": "2040819603476246630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043552861351739392/vbGdl_Sc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 809,
+          "like_count": 858,
+          "listed_count": 6,
+          "media_count": 41,
+          "tweet_count": 643
+        },
+        "username": "7S21345",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2056542209051406676",
+    "created_at": "2026-05-19T01:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T02:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056542209051406676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1980236829455511552",
+          "start": 3,
+          "username": "PaulDrizzyvlni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056542209051406676",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056297018654609510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PaulDrizzyvlni: 完全男人啊兄弟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2056542209051406676",
+        "created_at": "2026-05-19T01:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056542209051406676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1980236829455511552",
+              "start": 3,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056542209051406676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056297018654609510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PaulDrizzyvlni: 完全男人啊兄弟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980236829455511552",
+        "conversation_id": "2056297018654609510",
+        "created_at": "2026-05-18T08:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056297018654609510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TransYuwen/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/TransYuwen/status/2056227189839061471",
+              "start": 8,
+              "url": "https://t.co/hGA25eeGmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056297018654609510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7220,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056227189839061471",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全男人啊兄弟 https://t.co/hGA25eeGmF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1681,
+          "like_count": 2198,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 1973
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "恢覆出廠 25.11.18🏳️‍⚧️🍥|香山陰暗女高|粵內勢力|重度抑郁患者|精神支持：保羅喬治|一定會好的吧|愛好睡覺和汉堡🐱|好姐姐 @HappyHejsDay | 對象@shixveriya 🥰 |可愛姊妹@shiyaoshiwo |安卓小號 @PG13LD77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "shixveriya"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "shiyaoshiwo"
+              },
+              {
+                "end": 134,
+                "start": 125,
+                "username": "PG13LD77"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "happiness🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029097178988425216/wR_-2rgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 1374,
+          "like_count": 6446,
+          "listed_count": 7,
+          "media_count": 390,
+          "tweet_count": 4716
+        },
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      }
+    ]
+  }
+}

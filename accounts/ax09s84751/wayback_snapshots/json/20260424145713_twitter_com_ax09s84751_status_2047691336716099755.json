@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047691336716099755",
+    "created_at": "2026-04-24T14:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047691336716099755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/553078693Meng/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/553078693Meng/status/2047622198274499034",
+          "start": 13,
+          "url": "https://t.co/WkQ49GXP2D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047691336716099755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047622198274499034",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是不是要开普瑞巴林了？? https://t.co/WkQ49GXP2D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1506,
+        "media_key": "3_2047622189915226112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqdiHAawAAb-8u.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047691336716099755",
+        "created_at": "2026-04-24T14:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047691336716099755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/553078693Meng/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/553078693Meng/status/2047622198274499034",
+              "start": 13,
+              "url": "https://t.co/WkQ49GXP2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047691336716099755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047622198274499034",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是不是要开普瑞巴林了？? https://t.co/WkQ49GXP2D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047622189915226112"
+          ]
+        },
+        "author_id": "1657693850700509185",
+        "conversation_id": "2047622198274499034",
+        "created_at": "2026-04-24T10:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047622198274499034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHDVA1HRfV",
+              "end": 60,
+              "expanded_url": "https://x.com/553078693Meng/status/2047622198274499034/photo/1",
+              "media_key": "3_2047622189915226112",
+              "start": 37,
+              "url": "https://t.co/jHDVA1HRfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047622198274499034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 322535,
+          "like_count": 124,
+          "quote_count": 3,
+          "reply_count": 457,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是什么，下午睡了一觉起来就这样了，而且很痒啊  \n兄弟们\n这是什么啊？ https://t.co/jHDVA1HRfV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 1292,
+          "like_count": 822,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 965
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-14T10:26:53.000Z",
+        "description": "做时间的朋友，而非波动的囚徒。",
+        "id": "1657693850700509185",
+        "name": "招财猫",
+        "pinned_tweet_id": "2046888948312768866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998597079430742016/mCfSLsRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4522,
+          "following_count": 4557,
+          "like_count": 2761,
+          "listed_count": 6,
+          "media_count": 637,
+          "tweet_count": 5997
+        },
+        "username": "553078693Meng",
+        "verified": true
+      }
+    ]
+  }
+}

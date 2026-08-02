@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037774485898838016"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037774604954185789",
+    "created_at": "2026-03-28T06:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037774604954185789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ylV4ezjjR8",
+          "end": 35,
+          "expanded_url": "https://x.com/ax09s84751/status/2037774604954185789/photo/1",
+          "media_key": "3_2037774485898838016",
+          "start": 12,
+          "url": "https://t.co/ylV4ezjjR8"
+        },
+        {
+          "display_url": "x.com/rinii165892/st…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/rinii165892/status/2037514592122008035",
+          "start": 36,
+          "url": "https://t.co/HHzddGMN6z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037774604954185789",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037514592122008035",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个od？那很浪漫了😰 https://t.co/ylV4ezjjR8 https://t.co/HHzddGMN6z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 520,
+        "media_key": "3_2037774485898838016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEehGSxawAABlZb.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037774485898838016"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037774604954185789",
+        "created_at": "2026-03-28T06:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037774604954185789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ylV4ezjjR8",
+              "end": 35,
+              "expanded_url": "https://x.com/ax09s84751/status/2037774604954185789/photo/1",
+              "media_key": "3_2037774485898838016",
+              "start": 12,
+              "url": "https://t.co/ylV4ezjjR8"
+            },
+            {
+              "display_url": "x.com/rinii165892/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/rinii165892/status/2037514592122008035",
+              "start": 36,
+              "url": "https://t.co/HHzddGMN6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037774604954185789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037514592122008035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个od？那很浪漫了😰 https://t.co/ylV4ezjjR8 https://t.co/HHzddGMN6z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032033299980566528",
+        "conversation_id": "2037514592122008035",
+        "created_at": "2026-03-27T12:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037514592122008035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037514592122008035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2446,
+          "like_count": 84,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "od可以减少自杀率，大家多od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 552,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "霖的第二黑化人格/寻回推u【查成分回fo】\n性别是末影人/不登校/💊2024.11/无证含糖/家暴党/炸柜2025.3/二次炸柜2026.3.26/出厂日期 2012.09.17/喹硫平我爱人/od/sh 全否定\n✟❀信徒:@Fislonely_ ❀灵宠:@dbdbsjbsja❀永远纪念:@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 157,
+                "start": 145,
+                "username": "wu_si787878"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "msk坟头",
+        "name": "3.雨木木（已黑化）",
+        "pinned_tweet_id": "2037038843824922810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032130669959397377/7kOyBARR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 250,
+          "like_count": 1365,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 886
+        },
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

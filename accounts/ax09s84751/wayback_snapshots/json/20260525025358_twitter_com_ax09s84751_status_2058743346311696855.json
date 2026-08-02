@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058720942650744832"
+      ],
+      "media_source_tweet_id": [
+        "2058720951794360729"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2058743346311696855",
+    "created_at": "2026-05-25T02:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T03:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058743346311696855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1741063508102627328",
+          "start": 3,
+          "username": "kitty068_ly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/whi1zOuDUZ",
+          "end": 46,
+          "expanded_url": "https://x.com/kitty068_ly/status/2058720951794360729/photo/1",
+          "media_key": "3_2058720942650744832",
+          "start": 23,
+          "url": "https://t.co/whi1zOuDUZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058743346311696855",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058720951794360729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitty068_ly: 我靠我炸了 https://t.co/whi1zOuDUZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2058720942650744832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJILyi5a4AAWTyF.jpg",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058720942650744832"
+          ],
+          "media_source_tweet_id": [
+            "2058720951794360729"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2058743346311696855",
+        "created_at": "2026-05-25T02:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058743346311696855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1741063508102627328",
+              "start": 3,
+              "username": "kitty068_ly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/whi1zOuDUZ",
+              "end": 46,
+              "expanded_url": "https://x.com/kitty068_ly/status/2058720951794360729/photo/1",
+              "media_key": "3_2058720942650744832",
+              "start": 23,
+              "url": "https://t.co/whi1zOuDUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058743346311696855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058720951794360729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitty068_ly: 我靠我炸了 https://t.co/whi1zOuDUZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058720942650744832"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "conversation_id": "2058720951794360729",
+        "created_at": "2026-05-25T01:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058720951794360729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/whi1zOuDUZ",
+              "end": 29,
+              "expanded_url": "https://x.com/kitty068_ly/status/2058720951794360729/photo/1",
+              "media_key": "3_2058720942650744832",
+              "start": 6,
+              "url": "https://t.co/whi1zOuDUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058720951794360729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 21268,
+          "like_count": 382,
+          "quote_count": 12,
+          "reply_count": 31,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我靠我炸了 https://t.co/whi1zOuDUZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1790,
+          "like_count": 2425,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2184
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "只想随便说些想说的话和喜欢我或者认同我的人交流懒得说服或者赢过任何人请大家保持文明呦/经常失踪想念我的话欢迎私联/一个lgbtqia \n任何求偶意愿的私信和评论@dngyng169770781都会看/https://t.co/RoA8dVrPtp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "dngyng169770781"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A4%A9%E4%B…",
+                "end": 123,
+                "expanded_url": "https://ngl.link/%E5%A4%A9%E4%BD%BF%E9%93%83",
+                "start": 100,
+                "url": "https://t.co/RoA8dVrPtp"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 523,
+          "like_count": 7592,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 4295
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

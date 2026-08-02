@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2051948891969667576",
+    "created_at": "2026-05-06T11:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051980876670713996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2029031867601829888",
+          "start": 0,
+          "username": "Wu5fwc"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2051980876670713996",
+    "in_reply_to_user_id": "2029031867601829888",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051948891969667576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wu5fwc 1111111111111"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2051948891969667576",
+        "created_at": "2026-05-06T11:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051980876670713996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2029031867601829888",
+              "start": 0,
+              "username": "Wu5fwc"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2051980876670713996",
+        "in_reply_to_user_id": "2029031867601829888",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051948891969667576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wu5fwc 1111111111111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029031867601829888",
+        "conversation_id": "2051948891969667576",
+        "created_at": "2026-05-06T08:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051948891969667576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051948891969667576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 465,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "40粉fo：\n1:白兔一盒（折现80）\n2:自选一盒药（折现60）\n3:巧克力（折现50）\n4:转盘两次（最大40）\n5:小礼物（折现30）\n\n安慰奖2（折现各20）\n时限5.6——5.10\n\n私信扣1参加"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 1480,
+          "like_count": 1117,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1432
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-04T03:12:47.000Z",
+        "description": "| 中文中國🇨🇳 | 19+｜Transformers | Negative Emotions | My Girlfriend |#shtwt｜我很有钱！嗯！来找我互fofo吧喵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 65,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "2029031867601829888",
+        "name": "我需要更多pr（互fo",
+        "pinned_tweet_id": "2044685713304912265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051953924408807424/Hw8z5VyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 188,
+          "like_count": 1982,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 158
+        },
+        "username": "Wu5fwc",
+        "verified": false
+      }
+    ]
+  }
+}

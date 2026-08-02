@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2052732648485949614",
+    "created_at": "2026-05-09T10:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053053174018445471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1652200117494231043",
+          "start": 0,
+          "username": "OuO_QwQg"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2053053174018445471",
+    "in_reply_to_user_id": "1652200117494231043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052732648485949614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO_QwQg 纯小丑."
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2052732648485949614",
+        "created_at": "2026-05-09T10:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053053174018445471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652200117494231043",
+              "start": 0,
+              "username": "OuO_QwQg"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2053053174018445471",
+        "in_reply_to_user_id": "1652200117494231043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052732648485949614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO_QwQg 纯小丑."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2052732648485949614",
+        "created_at": "2026-05-08T12:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052732648485949614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052732648485949614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5422,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我其实早就觉得唐毓文不是真心认为自己是女孩，是因为炒作才嘎蛋然后吃\n当时我鉴她那篇被说每个人都有自己的成长历程，然后加上我说的有些太难听了，我就删推了\n现在她自己发的一长篇文也能看出来她疑似只是想出名…然后就偏执又极端的走上了这条不归路……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 1542,
+          "like_count": 1345,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxian1527\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "maoxian1527"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 116,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 93,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2020621499112272132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027768091149840384/B-OhTElb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 66,
+          "like_count": 9187,
+          "listed_count": 3,
+          "media_count": 298,
+          "tweet_count": 3350
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "OuO_QwQg",
+        "verified": false
+      }
+    ]
+  }
+}

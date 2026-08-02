@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2067102476915118542",
+    "created_at": "2026-06-17T04:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067102476915118542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2067028911196914156",
+          "start": 9,
+          "url": "https://t.co/uAK6iIZ882"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2067102476915118542",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067028911196914156",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "摸摸洛姐姐😿😿😿 https://t.co/uAK6iIZ882"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c00e5392b3fa46fb].",
+      "parameter": "geo.place_id",
+      "resource_id": "c00e5392b3fa46fb",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c00e5392b3fa46fb"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2067028803466182656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-PvsMaQAA9SrA.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2067102476915118542",
+        "created_at": "2026-06-17T04:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067102476915118542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2067028911196914156",
+              "start": 9,
+              "url": "https://t.co/uAK6iIZ882"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2067102476915118542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067028911196914156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "摸摸洛姐姐😿😿😿 https://t.co/uAK6iIZ882"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067028803466182656"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067028911196914156",
+        "created_at": "2026-06-16T23:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067028911196914156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7c0XpGc6r",
+              "end": 33,
+              "expanded_url": "https://x.com/luoshuyao/status/2067028911196914156/photo/1",
+              "media_key": "3_2067028803466182656",
+              "start": 10,
+              "url": "https://t.co/Q7c0XpGc6r"
+            },
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2066663687939924051",
+              "start": 34,
+              "url": "https://t.co/r9ZP6GRt0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067028911196914156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 206,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066663687939924051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第三天，饼干和酸奶 https://t.co/Q7c0XpGc6r https://t.co/r9ZP6GRt0j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echo42es"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2062097916781797730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065816996605005824/yyrl8vBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 1826,
+          "like_count": 2929,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 2582
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 287,
+          "like_count": 18190,
+          "listed_count": 2,
+          "media_count": 361,
+          "tweet_count": 3970
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": false
+      }
+    ]
+  }
+}

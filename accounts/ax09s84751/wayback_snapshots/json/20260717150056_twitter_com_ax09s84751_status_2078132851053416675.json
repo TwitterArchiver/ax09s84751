@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077742200834953216"
+      ],
+      "media_source_tweet_id": [
+        "2077742916450357760"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078132851053416675",
+    "created_at": "2026-07-17T15:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078132851053416675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1880979169297022976",
+          "start": 3,
+          "username": "Wesley10032"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sTbRtAy9bk",
+          "end": 108,
+          "expanded_url": "https://x.com/Wesley10032/status/2077742916450357760/photo/1",
+          "media_key": "3_2077742200834953216",
+          "start": 85,
+          "url": "https://t.co/sTbRtAy9bk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078132851053416675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077742916450357760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wesley10032: B站特有的顶级刻板印象\n在国内跨性别群体根本没有发展起来的情况下\n仅凭一些极端分子的言行\n就跟风肆意攻击他人\n保守封闭的思想会害了中国 https://t.co/sTbRtAy9bk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 818,
+        "media_key": "3_2077742200834953216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWfhfebEAAw5bT.jpg",
+        "width": 1482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077742200834953216"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077742916450357760",
+        "created_at": "2026-07-16T13:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077742916450357760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sTbRtAy9bk",
+              "end": 91,
+              "expanded_url": "https://x.com/Wesley10032/status/2077742916450357760/photo/1",
+              "media_key": "3_2077742200834953216",
+              "start": 68,
+              "url": "https://t.co/sTbRtAy9bk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077742916450357760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 30640,
+          "like_count": 337,
+          "quote_count": 9,
+          "reply_count": 90,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "B站特有的顶级刻板印象\n在国内跨性别群体根本没有发展起来的情况下\n仅凭一些极端分子的言行\n就跟风肆意攻击他人\n保守封闭的思想会害了中国 https://t.co/sTbRtAy9bk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077742200834953216"
+          ],
+          "media_source_tweet_id": [
+            "2077742916450357760"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078132851053416675",
+        "created_at": "2026-07-17T15:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078132851053416675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1880979169297022976",
+              "start": 3,
+              "username": "Wesley10032"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sTbRtAy9bk",
+              "end": 108,
+              "expanded_url": "https://x.com/Wesley10032/status/2077742916450357760/photo/1",
+              "media_key": "3_2077742200834953216",
+              "start": 85,
+              "url": "https://t.co/sTbRtAy9bk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078132851053416675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077742916450357760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wesley10032: B站特有的顶级刻板印象\n在国内跨性别群体根本没有发展起来的情况下\n仅凭一些极端分子的言行\n就跟风肆意攻击他人\n保守封闭的思想会害了中国 https://t.co/sTbRtAy9bk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2075833932537589993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 1797,
+          "like_count": 3191,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 2736
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n好基友@lockloveovo\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 690,
+          "like_count": 5585,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1143
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      }
+    ]
+  }
+}

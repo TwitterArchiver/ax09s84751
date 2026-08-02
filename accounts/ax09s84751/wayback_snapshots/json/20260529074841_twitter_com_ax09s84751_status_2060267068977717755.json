@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2060159330624983183",
+    "created_at": "2026-05-29T07:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060267068977717755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1400390484967690241",
+          "start": 0,
+          "username": "LuBtc888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060267068977717755",
+    "in_reply_to_user_id": "1400390484967690241",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060159330624983183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuBtc888 B+"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2060159330624983183",
+        "created_at": "2026-05-29T07:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060267068977717755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1400390484967690241",
+              "start": 0,
+              "username": "LuBtc888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060267068977717755",
+        "in_reply_to_user_id": "1400390484967690241",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060159330624983183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuBtc888 B+"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400390484967690241",
+        "conversation_id": "2060159330624983183",
+        "created_at": "2026-05-29T00:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:28:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060156214722638152",
+          "2060159330624983183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060159330624983183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 203283,
+          "like_count": 243,
+          "quote_count": 2,
+          "reply_count": 417,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X 实现了全球自动翻译，如果你能看到这条推文，\n\n我想知道你对中国的真实印象是？\n\nA：非常强大\n\nB：中等水平\n\nC：非常落后\n\n请把你的答案留在评论区。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 1836,
+          "like_count": 2663,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 2366
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-03T09:54:53.000Z",
+        "description": "加密投研｜美股投资｜交易体系｜财经认知 ｜AI科技",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LuBtc8",
+                "end": 23,
+                "expanded_url": "http://t.me/LuBtc8",
+                "start": 0,
+                "url": "https://t.co/WgqN6FG2cG"
+              }
+            ]
+          }
+        },
+        "id": "1400390484967690241",
+        "location": "合作👉",
+        "name": "0x鸣人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913942129623359488/fN9ecUe6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62401,
+          "following_count": 2273,
+          "like_count": 1977,
+          "listed_count": 510,
+          "media_count": 2002,
+          "tweet_count": 5554
+        },
+        "url": "https://t.co/WgqN6FG2cG",
+        "username": "LuBtc888",
+        "verified": true
+      }
+    ]
+  }
+}

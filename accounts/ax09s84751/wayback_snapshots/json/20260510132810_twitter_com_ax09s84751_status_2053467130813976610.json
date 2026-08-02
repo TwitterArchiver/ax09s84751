@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053466946344243200"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2053467130813976610",
+    "created_at": "2026-05-10T13:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T14:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053467130813976610"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AzMmeKQAHK",
+          "end": 34,
+          "expanded_url": "https://x.com/ax09s84751/status/2053467130813976610/video/1",
+          "media_key": "13_2053466946344243200",
+          "start": 11,
+          "url": "https://t.co/AzMmeKQAHK"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2053467130813976610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "兄弟们，活着好爽啊！ https://t.co/AzMmeKQAHK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11029,
+        "height": 960,
+        "media_key": "13_2053466946344243200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053466946344243200/img/8eKjQaXDRVgfYitn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053466946344243200/vid/avc1/320x426/9IM-FNN0v_oEbRSo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053466946344243200/vid/avc1/480x640/Zuc_70R7_Q2Lhn_R.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053466946344243200/vid/avc1/720x960/eEJw3TdgdorIRW7c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053466946344243200/pl/l2u5me7VrEJ5LAX2.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053466946344243200"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2053467130813976610",
+        "created_at": "2026-05-10T13:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053467130813976610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AzMmeKQAHK",
+              "end": 34,
+              "expanded_url": "https://x.com/ax09s84751/status/2053467130813976610/video/1",
+              "media_key": "13_2053466946344243200",
+              "start": 11,
+              "url": "https://t.co/AzMmeKQAHK"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2053467130813976610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，活着好爽啊！ https://t.co/AzMmeKQAHK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 1575,
+          "like_count": 1512,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 1605
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

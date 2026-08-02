@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2049817617498865892",
+    "created_at": "2026-04-30T11:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049819398048043433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 16,
+          "id": "1982449259774656512",
+          "start": 6,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2049819398048043433",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049819065359708267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @smiroyama 您这是哪个中国？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2049819063749115904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJrk_yXAAAS8oi.jpg",
+        "width": 784
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2049817617498865892",
+        "created_at": "2026-04-30T11:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049819398048043433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 16,
+              "id": "1982449259774656512",
+              "start": 6,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2049819398048043433",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049819065359708267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @smiroyama 您这是哪个中国？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049819063749115904"
+          ]
+        },
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2049817617498865892",
+        "created_at": "2026-04-30T11:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049819065359708267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            },
+            {
+              "end": 22,
+              "id": "1982449259774656512",
+              "start": 12,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/11FEyqb7dC",
+              "end": 90,
+              "expanded_url": "https://x.com/grok/status/2049819065359708267/photo/1",
+              "media_key": "3_2049819063749115904",
+              "start": 67,
+              "url": "https://t.co/11FEyqb7dC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049819065359708267",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049818915329749032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 @smiroyama 好的！这里是一张类似的中式教育五一假期作业表，模仿学生笔记本风格，科目和任务贴近原帖。 https://t.co/11FEyqb7dC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 1418,
+          "like_count": 935,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1262
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8677731,
+          "following_count": 4,
+          "like_count": 89,
+          "listed_count": 6755,
+          "media_count": 8877126,
+          "tweet_count": 124261750
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4089,
+          "following_count": 2091,
+          "like_count": 9430,
+          "listed_count": 11,
+          "media_count": 1411,
+          "tweet_count": 5722
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023956977660149760"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2023956988497891738",
+    "created_at": "2026-02-18T03:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023956988497891738"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KRzlFmhrCS",
+          "end": 32,
+          "expanded_url": "https://x.com/ax09s84751/status/2023956988497891738/photo/1",
+          "media_key": "3_2023956977660149760",
+          "start": 9,
+          "url": "https://t.co/KRzlFmhrCS"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2023956988497891738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要减肥！！！。 https://t.co/KRzlFmhrCS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023956977660149760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaKJdYbQAA3fz7.jpg",
+        "width": 1615
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023956977660149760"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2023956988497891738",
+        "created_at": "2026-02-18T03:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023956988497891738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KRzlFmhrCS",
+              "end": 32,
+              "expanded_url": "https://x.com/ax09s84751/status/2023956988497891738/photo/1",
+              "media_key": "3_2023956977660149760",
+              "start": 9,
+              "url": "https://t.co/KRzlFmhrCS"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2023956988497891738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要减肥！！！。 https://t.co/KRzlFmhrCS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 76,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 28
+        },
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

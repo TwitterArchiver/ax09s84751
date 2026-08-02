@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077956019968425984"
+      ],
+      "media_source_tweet_id": [
+        "2077974072064155786"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2078134195554300240",
+    "created_at": "2026-07-17T15:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078134195554300240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5iyHpPeC7q",
+          "end": 118,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2077974072064155786/photo/1",
+          "media_key": "3_2077956019968425984",
+          "start": 95,
+          "url": "https://t.co/5iyHpPeC7q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078134195554300240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077974072064155786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 习近平对外谈AI公平，对内给AI设禁区\n\n7月17日，习近平在上海举行的世界人工智能大会开幕式上发表主旨讲话，强调人工智能发展应坚持“以人为本”。… https://t.co/5iyHpPeC7q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_2077956019968425984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZh_Z0aQAAnZcE.jpg",
+        "width": 1099
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077956019968425984"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2077974072064155786",
+        "created_at": "2026-07-17T04:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077974072064155786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5iyHpPeC7q",
+              "end": 97,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2077974072064155786/photo/1",
+              "media_key": "3_2077956019968425984",
+              "start": 74,
+              "url": "https://t.co/5iyHpPeC7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077974072064155786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "习近平对外谈AI公平，对内给AI设禁区\n\n7月17日，习近平在上海举行的世界人工智能大会开幕式上发表主旨讲话，强调人工智能发展应坚持“以人为本”。\n\n据路透社报道，习近平称，中国将帮助发展中国家平等获得人工智能能力建设机会，避免AI领域出现“新的历史不公”，并计划与非洲、拉丁美洲、亚洲及金砖国家相关机构展开合作。\n\n然而在中国国内，生成式AI仍受到严格内容审查，大量政治、历史和社会议题无法正常讨论。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 163628,
+          "like_count": 599,
+          "quote_count": 3,
+          "reply_count": 146,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "习近平对外谈AI公平，对内给AI设禁区\n\n7月17日，习近平在上海举行的世界人工智能大会开幕式上发表主旨讲话，强调人工智能发展应坚持“以人为本”。 https://t.co/5iyHpPeC7q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077956019968425984"
+          ],
+          "media_source_tweet_id": [
+            "2077974072064155786"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2078134195554300240",
+        "created_at": "2026-07-17T15:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078134195554300240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5iyHpPeC7q",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2077974072064155786/photo/1",
+              "media_key": "3_2077956019968425984",
+              "start": 95,
+              "url": "https://t.co/5iyHpPeC7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078134195554300240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077974072064155786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 习近平对外谈AI公平，对内给AI设禁区\n\n7月17日，习近平在上海举行的世界人工智能大会开幕式上发表主旨讲话，强调人工智能发展应坚持“以人为本”。… https://t.co/5iyHpPeC7q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2075833932537589993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 1797,
+          "like_count": 3202,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 2741
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242365,
+          "following_count": 1078,
+          "like_count": 9798,
+          "listed_count": 8826,
+          "media_count": 50566,
+          "tweet_count": 57783
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

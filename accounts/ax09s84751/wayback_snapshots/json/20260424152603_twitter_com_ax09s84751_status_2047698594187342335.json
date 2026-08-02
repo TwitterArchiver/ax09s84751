@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047698528051576832",
+        "3_2047698528055742464"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047698594187342335",
+    "created_at": "2026-04-24T15:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047698594187342335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qBr8hOEowr",
+          "end": 71,
+          "expanded_url": "https://x.com/ax09s84751/status/2047698594187342335/photo/1",
+          "media_key": "3_2047698528051576832",
+          "start": 48,
+          "url": "https://t.co/qBr8hOEowr"
+        },
+        {
+          "display_url": "pic.x.com/qBr8hOEowr",
+          "end": 71,
+          "expanded_url": "https://x.com/ax09s84751/status/2047698594187342335/photo/1",
+          "media_key": "3_2047698528055742464",
+          "start": 48,
+          "url": "https://t.co/qBr8hOEowr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047698594187342335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神威 盐酸金刚烷胺颗粒 6g:60mg*10袋/盒 效期至【26年9月】\n10块钱3000毫克 https://t.co/qBr8hOEowr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047698528051576832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGri9kuawAAE1UM.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047698528055742464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGri9kvaUAAFicl.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047698528051576832",
+            "3_2047698528055742464"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047698594187342335",
+        "created_at": "2026-04-24T15:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047698594187342335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBr8hOEowr",
+              "end": 71,
+              "expanded_url": "https://x.com/ax09s84751/status/2047698594187342335/photo/1",
+              "media_key": "3_2047698528051576832",
+              "start": 48,
+              "url": "https://t.co/qBr8hOEowr"
+            },
+            {
+              "display_url": "pic.x.com/qBr8hOEowr",
+              "end": 71,
+              "expanded_url": "https://x.com/ax09s84751/status/2047698594187342335/photo/1",
+              "media_key": "3_2047698528055742464",
+              "start": 48,
+              "url": "https://t.co/qBr8hOEowr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047698594187342335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神威 盐酸金刚烷胺颗粒 6g:60mg*10袋/盒 效期至【26年9月】\n10块钱3000毫克 https://t.co/qBr8hOEowr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 1293,
+          "like_count": 822,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

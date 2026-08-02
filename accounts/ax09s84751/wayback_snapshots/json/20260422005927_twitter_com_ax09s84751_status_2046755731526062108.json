@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2046755731526062108",
+    "created_at": "2026-04-22T00:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T01:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046755731526062108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/45_206MHz/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/45_206MHz/status/2046567506673123506",
+          "start": 5,
+          "url": "https://t.co/d1401N2wvw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046755731526062108",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046567506673123506",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "豪到我了 https://t.co/d1401N2wvw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2046755731526062108",
+        "created_at": "2026-04-22T00:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T01:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046755731526062108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/45_206MHz/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/45_206MHz/status/2046567506673123506",
+              "start": 5,
+              "url": "https://t.co/d1401N2wvw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046755731526062108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046567506673123506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "豪到我了 https://t.co/d1401N2wvw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "2046567506673123506",
+        "created_at": "2026-04-21T12:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046567506673123506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046567506673123506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 68021,
+          "like_count": 427,
+          "quote_count": 1,
+          "reply_count": 183,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "嘉豪这又是啥烂梗？我平时在家学学琴棋书画，玩玩股票基金啥的，对这些网络梗不太了解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 1199,
+          "like_count": 776,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 856
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun\n叫我 45 就好啦\nAMAB | gender apathetic\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "45_206io"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 116,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 93,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2142,
+          "following_count": 500,
+          "like_count": 33462,
+          "listed_count": 0,
+          "media_count": 623,
+          "tweet_count": 3838
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007721089246343168"
+      ],
+      "media_source_tweet_id": [
+        "2007721100227272996"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024487902521282831",
+    "created_at": "2026-02-19T14:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024487902521282831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1834168992577019904",
+          "start": 3,
+          "username": "chinkchongqiong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GE3tOMp6y8",
+          "end": 44,
+          "expanded_url": "https://x.com/chinkchongqiong/status/2007721100227272996/photo/1",
+          "media_key": "3_2007721089246343168",
+          "start": 21,
+          "url": "https://t.co/GE3tOMp6y8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024487902521282831",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007721100227272996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chinkchongqiong: https://t.co/GE3tOMp6y8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 509,
+        "media_key": "3_2007721089246343168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9zbsXyWsAAkVDg.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007721089246343168"
+          ],
+          "media_source_tweet_id": [
+            "2007721100227272996"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024487902521282831",
+        "created_at": "2026-02-19T14:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024487902521282831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1834168992577019904",
+              "start": 3,
+              "username": "chinkchongqiong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GE3tOMp6y8",
+              "end": 44,
+              "expanded_url": "https://x.com/chinkchongqiong/status/2007721100227272996/photo/1",
+              "media_key": "3_2007721089246343168",
+              "start": 21,
+              "url": "https://t.co/GE3tOMp6y8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024487902521282831",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007721100227272996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chinkchongqiong: https://t.co/GE3tOMp6y8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007721089246343168"
+          ]
+        },
+        "author_id": "1834168992577019904",
+        "conversation_id": "2007721100227272996",
+        "created_at": "2026-01-04T07:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007721100227272996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GE3tOMp6y8",
+              "end": 23,
+              "expanded_url": "https://x.com/chinkchongqiong/status/2007721100227272996/photo/1",
+              "media_key": "3_2007721089246343168",
+              "start": 0,
+              "url": "https://t.co/GE3tOMp6y8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007721100227272996",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GE3tOMp6y8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵/看od精神科圈/坚持跟随党的领导/偶尔骂骂殖人",
+        "id": "2022153081031733252",
+        "location": "中华人民共和国",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 126,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 62
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T09:56:06.000Z",
+        "description": "爱国互of",
+        "id": "1834168992577019904",
+        "location": "距离8964m",
+        "name": "伊吹绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887560470397386752/svTyzzwc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 3810,
+          "like_count": 2421,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 443
+        },
+        "username": "chinkchongqiong",
+        "verified": false
+      }
+    ]
+  }
+}

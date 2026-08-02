@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042875972857532471",
+    "created_at": "2026-04-11T08:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042876974427967624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1758428820045189120",
+          "start": 0,
+          "username": "YuSuQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042876974427967624",
+    "in_reply_to_user_id": "1758428820045189120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042876463519805661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuSuQAQ 呕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042875972857532471",
+        "created_at": "2026-04-11T08:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042876974427967624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758428820045189120",
+              "start": 0,
+              "username": "YuSuQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042876974427967624",
+        "in_reply_to_user_id": "1758428820045189120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042876463519805661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuSuQAQ 呕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758428820045189120",
+        "conversation_id": "2042875972857532471",
+        "created_at": "2026-04-11T08:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042876463519805661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042876463519805661",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042875972857532471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 这是真胡闹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 679,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T09:51:25.000Z",
+        "description": "男的，主页都是负能，请谨慎接触。会偶尔转发一点点🔞。",
+        "id": "1758428820045189120",
+        "location": "距离你325m",
+        "name": "空白（负能量大王）",
+        "pinned_tweet_id": "2035888462847771098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002097716051259393/7M3q9Is9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 523,
+          "like_count": 10480,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 10311
+        },
+        "username": "YuSuQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

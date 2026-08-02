@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2046248335443743194",
+    "created_at": "2026-04-20T15:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046248335443743194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013321876224057344",
+          "start": 3,
+          "username": "OTxiashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046248335443743194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046191434529993013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OTxiashu: 普瑞的生物利用率很高 如果没药了可以喝自己的尿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2046248335443743194",
+        "created_at": "2026-04-20T15:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046248335443743194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013321876224057344",
+              "start": 3,
+              "username": "OTxiashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046248335443743194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046191434529993013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OTxiashu: 普瑞的生物利用率很高 如果没药了可以喝自己的尿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013321876224057344",
+        "conversation_id": "2046191434529993013",
+        "created_at": "2026-04-20T11:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046191434529993013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046191434529993013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1313,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞的生物利用率很高 如果没药了可以喝自己的尿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 1167,
+          "like_count": 755,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 825
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 407,
+          "like_count": 7651,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 3065
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

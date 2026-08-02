@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2059915929631539369",
+    "created_at": "2026-05-28T08:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059915929631539369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nihili10/statu…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/Nihili10/status/2059538166856712643",
+          "start": 23,
+          "url": "https://t.co/eDx0PRRxCo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059915929631539369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059538166856712643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ill n55 至少还算人类\ntyw？\n难说 https://t.co/eDx0PRRxCo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059538164596015104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTzDH4bAAAzEGu.jpg",
+        "width": 387
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2059915929631539369",
+        "created_at": "2026-05-28T08:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059915929631539369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nihili10/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Nihili10/status/2059538166856712643",
+              "start": 23,
+              "url": "https://t.co/eDx0PRRxCo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059915929631539369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059538166856712643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ill n55 至少还算人类\ntyw？\n难说 https://t.co/eDx0PRRxCo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059538164596015104"
+          ]
+        },
+        "author_id": "1463116235478999042",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059538166856712643",
+        "created_at": "2026-05-27T07:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059538166856712643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yKfkVSftbQ",
+              "end": 38,
+              "expanded_url": "https://x.com/Nihili10/status/2059538166856712643/photo/1",
+              "media_key": "3_2059538164596015104",
+              "start": 15,
+              "url": "https://t.co/yKfkVSftbQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059538166856712643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 25046,
+          "like_count": 121,
+          "quote_count": 15,
+          "reply_count": 100,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "逆天，这人在科技博主群里乱叫 https://t.co/yKfkVSftbQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1833,
+          "like_count": 2629,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 2284
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-23T12:04:37.000Z",
+        "description": "我是猪猪，喜欢吃饭，哼唧哼唧~\n可以喊我“nihili”/You can call me Nihili/爱的黑洞/跨妹/trans pride/我的🐷@xiliver1\n#perth",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "perth"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "xiliver1"
+              }
+            ]
+          }
+        },
+        "id": "1463116235478999042",
+        "location": "Perth",
+        "name": "Nihili（谢邀，人在土澳，刚下飞机,Perth）",
+        "pinned_tweet_id": "1642900290918809600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993739960495878145/jrGB8W1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 518,
+          "like_count": 47609,
+          "listed_count": 0,
+          "media_count": 773,
+          "tweet_count": 12246
+        },
+        "username": "Nihili10",
+        "verified": false
+      }
+    ]
+  }
+}

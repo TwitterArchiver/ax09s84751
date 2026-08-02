@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024799793470714141",
+    "created_at": "2026-02-20T13:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T14:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024845275677003836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022584798867525635",
+          "start": 0,
+          "username": "lixinqaz1"
+        },
+        {
+          "end": 22,
+          "id": "1989254812572196864",
+          "start": 11,
+          "username": "hzh1450627"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024845275677003836",
+    "in_reply_to_user_id": "2022584798867525635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024844282579091921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lixinqaz1 @hzh1450627 那以后翻墙的全抓起来，手机系统全换成国产的，外国软件一个别用，你先来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2024844280406437888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmxJRsbcAARsD8.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024799793470714141",
+        "created_at": "2026-02-20T13:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024845275677003836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022584798867525635",
+              "start": 0,
+              "username": "lixinqaz1"
+            },
+            {
+              "end": 22,
+              "id": "1989254812572196864",
+              "start": 11,
+              "username": "hzh1450627"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024845275677003836",
+        "in_reply_to_user_id": "2022584798867525635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024844282579091921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lixinqaz1 @hzh1450627 那以后翻墙的全抓起来，手机系统全换成国产的，外国软件一个别用，你先来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024844280406437888"
+          ]
+        },
+        "author_id": "2022584798867525635",
+        "conversation_id": "2024799793470714141",
+        "created_at": "2026-02-20T13:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024844282579091921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989254812572196864",
+              "start": 0,
+              "username": "hzh1450627"
+            },
+            {
+              "end": 23,
+              "id": "2022153081031733252",
+              "start": 12,
+              "username": "ax09s84751"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Boz8c6zC4j",
+              "end": 47,
+              "expanded_url": "https://x.com/lixinqaz1/status/2024844282579091921/photo/1",
+              "media_key": "3_2024844280406437888",
+              "start": 24,
+              "url": "https://t.co/Boz8c6zC4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024844282579091921",
+        "in_reply_to_user_id": "1989254812572196864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024844110469923273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzh1450627 @ax09s84751 https://t.co/Boz8c6zC4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 155,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 95
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T08:13:00.000Z",
+        "description": "这是小号",
+        "id": "2022584798867525635",
+        "location": "731医学研究院滞纳总部",
+        "name": "近平酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022585320848625664/RvlPXXb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 39,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 85
+        },
+        "username": "lixinqaz1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T08:51:31.000Z",
+        "description": "cn沥雨 I 可以叫我沥雨或者鲤鱼噢 I 是一个双相障碍患者 I 超级想和与od/精神疾病/割腕/负面/二次元和一些有趣的朋友互fo交朋友聊天！此号为日常号互动负能量较多，属性持续发掘中，我≈废物，鲤鱼是躁狂，沥雨是抑郁，长期处于快速循环中，不再鉴证键政",
+        "id": "1989254812572196864",
+        "location": "年龄小，很多观念没有成熟和理解透彻，没必要当刻板印象",
+        "name": "人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023450577460752385/ebYeUguF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 84,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 820
+        },
+        "username": "hzh1450627",
+        "verified": false
+      }
+    ]
+  }
+}

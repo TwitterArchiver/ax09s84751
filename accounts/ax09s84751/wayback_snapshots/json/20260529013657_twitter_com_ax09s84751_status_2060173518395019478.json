@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2060173518395019478",
+    "created_at": "2026-05-29T01:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T02:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060173518395019478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1482971074883366912",
+          "start": 3,
+          "username": "ChrysalisQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060173518395019478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060040161250144336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChrysalisQWQ: 还有十几天就要手术啦，一路颠颠簸簸的走到现在真的不容易，很幸运自己有了开明的家人，人生短短几十年，自己开心就好，没必要在乎别人的眼光！\n也谢谢陪了我整整三年的他❤️我们一起走过好与不好，但最后依然在一起，陪我迎来最重要的一步。谢谢你一直都在…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_2060039592909352961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJa7GF6aMAEzcit.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2060173518395019478",
+        "created_at": "2026-05-29T01:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060173518395019478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1482971074883366912",
+              "start": 3,
+              "username": "ChrysalisQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060173518395019478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060040161250144336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChrysalisQWQ: 还有十几天就要手术啦，一路颠颠簸簸的走到现在真的不容易，很幸运自己有了开明的家人，人生短短几十年，自己开心就好，没必要在乎别人的眼光！\n也谢谢陪了我整整三年的他❤️我们一起走过好与不好，但最后依然在一起，陪我迎来最重要的一步。谢谢你一直都在…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060039592909352961"
+          ]
+        },
+        "author_id": "1482971074883366912",
+        "conversation_id": "2060040161250144336",
+        "created_at": "2026-05-28T16:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060040161250144336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dk6r50nf0N",
+              "end": 165,
+              "expanded_url": "https://x.com/ChrysalisQWQ/status/2060040161250144336/photo/1",
+              "media_key": "3_2060039592909352961",
+              "start": 142,
+              "url": "https://t.co/Dk6r50nf0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060040161250144336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4433,
+          "like_count": 107,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "还有十几天就要手术啦，一路颠颠簸簸的走到现在真的不容易，很幸运自己有了开明的家人，人生短短几十年，自己开心就好，没必要在乎别人的眼光！\n也谢谢陪了我整整三年的他❤️我们一起走过好与不好，但最后依然在一起，陪我迎来最重要的一步。谢谢你一直都在\n接下来就要迎接全新的、真正属于我的人生！ https://t.co/Dk6r50nf0N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 1837,
+          "like_count": 2655,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 2358
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-17T07:00:43.000Z",
+        "description": "是个不可爱的孩子",
+        "id": "1482971074883366912",
+        "location": "China",
+        "name": "komi",
+        "pinned_tweet_id": "1814563906570051652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935808293512818688/yjfyVlvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4899,
+          "following_count": 625,
+          "like_count": 4295,
+          "listed_count": 12,
+          "media_count": 427,
+          "tweet_count": 3079
+        },
+        "username": "ChrysalisQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

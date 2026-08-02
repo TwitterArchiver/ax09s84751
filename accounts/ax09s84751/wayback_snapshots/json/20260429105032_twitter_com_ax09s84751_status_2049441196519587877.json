@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2049441196519587877",
+    "created_at": "2026-04-29T10:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049441196519587877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seitenkanna/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/seitenkanna/status/2049328627989553219",
+          "start": 20,
+          "url": "https://t.co/JCPCDbGXeu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049441196519587877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049328627989553219",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蓝色*114514100869178颗 https://t.co/JCPCDbGXeu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2049328514948825088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCtbTGagAAewCG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2049441196519587877",
+        "created_at": "2026-04-29T10:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049441196519587877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seitenkanna/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/seitenkanna/status/2049328627989553219",
+              "start": 20,
+              "url": "https://t.co/JCPCDbGXeu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049441196519587877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049328627989553219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蓝色*114514100869178颗 https://t.co/JCPCDbGXeu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049328514948825088"
+          ]
+        },
+        "author_id": "1536879871694999553",
+        "conversation_id": "2049328627989553219",
+        "created_at": "2026-04-29T03:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049328627989553219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7N5mH0IjlG",
+              "end": 34,
+              "expanded_url": "https://x.com/seitenkanna/status/2049328627989553219/photo/1",
+              "media_key": "3_2049328514948825088",
+              "start": 11,
+              "url": "https://t.co/7N5mH0IjlG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049328627989553219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4968,
+          "like_count": 124,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "如果可以選 你選那個 https://t.co/7N5mH0IjlG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 1401,
+          "like_count": 920,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1193
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-15T01:15:55.000Z",
+        "description": "一位在魔界練習偽聲實況的轉貼迷因陰角魅魔大叔\nFA:#晴天繪 直播:#天晴放送 FN:#Master\n棉花糖:https://t.co/slwAtNZxoh\n圖奇:https://t.co/bEsa6u2TFr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "晴天繪"
+              },
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "天晴放送"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "Master"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/seitenkanna",
+                "end": 78,
+                "expanded_url": "http://marshmallow-qa.com/seitenkanna",
+                "start": 55,
+                "url": "https://t.co/slwAtNZxoh"
+              },
+              {
+                "display_url": "twitch.tv/seitenkanna",
+                "end": 105,
+                "expanded_url": "https://www.twitch.tv/seitenkanna",
+                "start": 82,
+                "url": "https://t.co/bEsa6u2TFr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@seiten_kanna",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@seiten_kanna",
+                "start": 0,
+                "url": "https://t.co/Sc9o1krf6X"
+              }
+            ]
+          }
+        },
+        "id": "1536879871694999553",
+        "location": "魔界",
+        "name": "晴天神奈@轉貼迷因Vtuber",
+        "pinned_tweet_id": "1713829179014426931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991793225141825536/rU2YpGKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8863,
+          "following_count": 914,
+          "like_count": 21839,
+          "listed_count": 43,
+          "media_count": 3620,
+          "tweet_count": 14701
+        },
+        "url": "https://t.co/Sc9o1krf6X",
+        "username": "seitenkanna",
+        "verified": true
+      }
+    ]
+  }
+}

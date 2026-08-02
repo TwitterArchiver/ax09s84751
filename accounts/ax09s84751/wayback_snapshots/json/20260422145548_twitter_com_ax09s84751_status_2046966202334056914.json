@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1492242611997790208",
+          "name": "Great East Japan earthquake day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492242611997790208",
+          "name": "Great East Japan earthquake day"
+        }
+      }
+    ],
+    "conversation_id": "2046966202334056914",
+    "created_at": "2026-04-22T14:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046966202334056914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iingwen/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/iingwen/status/2046903653588742615",
+          "start": 8,
+          "url": "https://t.co/AmhSTrVzFP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046966202334056914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046903653588742615",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蔡英文你牛大了 https://t.co/AmhSTrVzFP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2046903463813222402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgP2voakAIXcQF.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1492242611997790208",
+              "name": "Great East Japan earthquake day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492242611997790208",
+              "name": "Great East Japan earthquake day"
+            }
+          }
+        ],
+        "conversation_id": "2046966202334056914",
+        "created_at": "2026-04-22T14:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046966202334056914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iingwen/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/iingwen/status/2046903653588742615",
+              "start": 8,
+              "url": "https://t.co/AmhSTrVzFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046966202334056914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046903653588742615",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蔡英文你牛大了 https://t.co/AmhSTrVzFP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046903463813222402"
+          ]
+        },
+        "author_id": "155814794",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1492242611997790208",
+              "name": "Great East Japan earthquake day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492242611997790208",
+              "name": "Great East Japan earthquake day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "2046903653588742615",
+        "created_at": "2026-04-22T10:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046903653588742615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DXMebHdPN",
+              "end": 119,
+              "expanded_url": "https://x.com/iingwen/status/2046903653588742615/photo/1",
+              "media_key": "3_2046903463813222402",
+              "start": 96,
+              "url": "https://t.co/8DXMebHdPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046903653588742615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "今回の地震は、我々台湾の人々にとっても東日本大震災の記憶を呼び起こすものでした。\n\nこの数日間、台湾中が日本にいる家族や友人の状況を案じ、「自分たちにできることはないか」と動き続けています。\n\n苦楽を共にし、困難な時にこそ支え合うのが台日の絆です。台湾はいつでも駆けつけます。今回も、そしてこれからも。日本の皆様の安全を、台湾より祈り続けています。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 879,
+          "impression_count": 775739,
+          "like_count": 53111,
+          "quote_count": 311,
+          "reply_count": 871,
+          "retweet_count": 7468
+        },
+        "reply_settings": "everyone",
+        "text": "今回の地震は、我々台湾の人々にとっても東日本大震災の記憶を呼び起こすものでした。\n\nこの数日間、台湾中が日本にいる家族や友人の状況を案じ、「自分たちにできることはないか」と動き続けています。 https://t.co/8DXMebHdPN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 1221,
+          "like_count": 792,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 887
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2010-06-15T06:45:09.000Z",
+        "description": "中華民國第15任總統 Former President of the Republic of China (Taiwan)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "presidenttsai.com",
+                "end": 23,
+                "expanded_url": "http://www.presidenttsai.com",
+                "start": 0,
+                "url": "https://t.co/vbMyJhRNu1"
+              }
+            ]
+          }
+        },
+        "id": "155814794",
+        "location": "Taipei City",
+        "name": "蔡英文 Tsai Ing-wen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616607829305208832/wqRoWiTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2396811,
+          "following_count": 43,
+          "like_count": 534,
+          "listed_count": 6112,
+          "media_count": 2473,
+          "tweet_count": 4700
+        },
+        "url": "https://t.co/vbMyJhRNu1",
+        "username": "iingwen",
+        "verified": true
+      }
+    ]
+  }
+}

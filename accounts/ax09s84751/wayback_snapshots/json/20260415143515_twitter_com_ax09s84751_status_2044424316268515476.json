@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2044424316268515476",
+    "created_at": "2026-04-15T14:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T15:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044424316268515476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1764818331822182400",
+          "start": 3,
+          "username": "xiaohu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044424316268515476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044315906462150814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaohu: 完蛋了 \n\n中国用户彻底要被封杀了\n\nClaude 推出了全新的用身份验证\n\n要验证的身份证和护照了...\n\n要求你必须：\n\n用有效的政府签发带照片身份证件：需持有实体原件\n\n而且复印件、屏幕截图、扫描件或翻拍的照片通通不行\n\n一部带有摄像头的手机或电脑…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3948,
+        "media_key": "3_2044315250586202116",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7d46AasAQx4j7.png",
+        "width": 1452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2044424316268515476",
+        "created_at": "2026-04-15T14:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044424316268515476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764818331822182400",
+              "start": 3,
+              "username": "xiaohu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044424316268515476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044315906462150814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaohu: 完蛋了 \n\n中国用户彻底要被封杀了\n\nClaude 推出了全新的用身份验证\n\n要验证的身份证和护照了...\n\n要求你必须：\n\n用有效的政府签发带照片身份证件：需持有实体原件\n\n而且复印件、屏幕截图、扫描件或翻拍的照片通通不行\n\n一部带有摄像头的手机或电脑…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044315250586202116"
+          ]
+        },
+        "author_id": "1764818331822182400",
+        "conversation_id": "2044315906462150814",
+        "created_at": "2026-04-15T07:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044315906462150814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CtG0Ex14e7",
+              "end": 176,
+              "expanded_url": "https://x.com/xiaohu/status/2044315906462150814/photo/1",
+              "media_key": "3_2044315250586202116",
+              "start": 153,
+              "url": "https://t.co/CtG0Ex14e7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044315906462150814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 306,
+          "impression_count": 459913,
+          "like_count": 622,
+          "quote_count": 69,
+          "reply_count": 349,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "完蛋了 \n\n中国用户彻底要被封杀了\n\nClaude 推出了全新的用身份验证\n\n要验证的身份证和护照了...\n\n要求你必须：\n\n用有效的政府签发带照片身份证件：需持有实体原件\n\n而且复印件、屏幕截图、扫描件或翻拍的照片通通不行\n\n一部带有摄像头的手机或电脑：要求使用手机或网络摄像头拍摄一张实时自拍照\n\n😂 https://t.co/CtG0Ex14e7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 738,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-05T01:01:23.000Z",
+        "description": "带你了解全球最前沿科技、AI动态...\n\n学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...\n\n小互AI日报 社群：https://t.co/LIEXfWUHv1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xiaohu.ai",
+                "end": 57,
+                "expanded_url": "http://xiaohu.ai",
+                "start": 34,
+                "url": "https://t.co/4PVaHEr5r3"
+              },
+              {
+                "display_url": "xiaohu.ai/c/xiaohu-ai/xi…",
+                "end": 96,
+                "expanded_url": "https://www.xiaohu.ai/c/xiaohu-ai/xiaohu-ai-e5aae9",
+                "start": 73,
+                "url": "https://t.co/LIEXfWUHv1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaohu.ai",
+                "end": 23,
+                "expanded_url": "http://xiaohu.ai",
+                "start": 0,
+                "url": "https://t.co/4PVaHEr5r3"
+              }
+            ]
+          }
+        },
+        "id": "1764818331822182400",
+        "location": "Mars",
+        "name": "小互",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102878,
+          "following_count": 1628,
+          "like_count": 2175,
+          "listed_count": 1539,
+          "media_count": 6048,
+          "tweet_count": 9647
+        },
+        "url": "https://t.co/4PVaHEr5r3",
+        "username": "xiaohu",
+        "verified": true
+      }
+    ]
+  }
+}

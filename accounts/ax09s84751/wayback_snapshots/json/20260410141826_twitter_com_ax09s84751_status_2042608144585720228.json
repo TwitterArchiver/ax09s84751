@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042608144585720228",
+    "created_at": "2026-04-10T14:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042608144585720228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AAcfun/status/…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/AAcfun/status/2042517206354006439",
+          "start": 26,
+          "url": "https://t.co/lduNGv7nYr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042608144585720228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042517206354006439",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是，我搞不懂上面的人弄这个玩意干嘛 小题大做了吧 https://t.co/lduNGv7nYr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_2042517190038163460",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFh6kAfakAQ9f8c.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2042517200108687363",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFh6kmAakAMB4Rp.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042608144585720228",
+        "created_at": "2026-04-10T14:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042608144585720228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AAcfun/status/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/AAcfun/status/2042517206354006439",
+              "start": 26,
+              "url": "https://t.co/lduNGv7nYr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042608144585720228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042517206354006439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是，我搞不懂上面的人弄这个玩意干嘛 小题大做了吧 https://t.co/lduNGv7nYr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042517190038163460",
+            "3_2042517200108687363"
+          ]
+        },
+        "author_id": "2030455725374550016",
+        "conversation_id": "2042517206354006439",
+        "created_at": "2026-04-10T08:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042517206354006439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ieydnxcosC",
+              "end": 36,
+              "expanded_url": "https://x.com/AAcfun/status/2042517206354006439/photo/1",
+              "media_key": "3_2042517190038163460",
+              "start": 13,
+              "url": "https://t.co/ieydnxcosC"
+            },
+            {
+              "display_url": "pic.x.com/ieydnxcosC",
+              "end": 36,
+              "expanded_url": "https://x.com/AAcfun/status/2042517206354006439/photo/1",
+              "media_key": "3_2042517200108687363",
+              "start": 13,
+              "url": "https://t.co/ieydnxcosC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042517206354006439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1726,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "SBTI已被GFW封禁。 https://t.co/ieydnxcosC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 677,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 508
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T01:29:09.000Z",
+        "description": "是男孩子 | 2007 | 超级社恐、胆小 | 不建政 不聊黄 | 精神状态不稳定 | 回fo私信我喵 |没情商(如果回复的不好 原谅我...)",
+        "id": "2030455725374550016",
+        "location": "自己的小房间",
+        "name": "AAcfun🏳️‍⚧️",
+        "pinned_tweet_id": "2041147956926218646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030455820924903424/W2qzunzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 120,
+          "like_count": 4834,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 700
+        },
+        "username": "AAcfun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2057092484698919173",
+    "created_at": "2026-05-20T13:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057092484698919173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1810873766119100416",
+          "start": 3,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057092484698919173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056998254773141741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine2024: 听说我成为跨圈知名人物了？我不是很能理解为什么在推上会有人把我和跨圈绑在一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2057092484698919173",
+        "created_at": "2026-05-20T13:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057092484698919173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1810873766119100416",
+              "start": 3,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057092484698919173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056998254773141741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine2024: 听说我成为跨圈知名人物了？我不是很能理解为什么在推上会有人把我和跨圈绑在一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2056998254773141741",
+        "created_at": "2026-05-20T07:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056998254773141741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056998254773141741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5001,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听说我成为跨圈知名人物了？我不是很能理解为什么在推上会有人把我和跨圈绑在一块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 1699,
+          "like_count": 2296,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 2060
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052221080052674560/erKoHu5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10168,
+          "following_count": 955,
+          "like_count": 88832,
+          "listed_count": 24,
+          "media_count": 1755,
+          "tweet_count": 12311
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

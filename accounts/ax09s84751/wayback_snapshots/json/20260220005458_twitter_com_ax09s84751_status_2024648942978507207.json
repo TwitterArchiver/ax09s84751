@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024648942978507207",
+    "created_at": "2026-02-20T00:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T01:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024648942978507207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022153081031733252",
+          "start": 3,
+          "username": "ax09s84751"
+        },
+        {
+          "end": 31,
+          "id": "1604181895721504771",
+          "start": 16,
+          "username": "mengtunwudaimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024648942978507207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024648921889591657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax09s84751: @mengtunwudaimu 你自己发的啥自己看看，北京南京后面接东京，你搁这祈祷啥呢，日本是你老家啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024648942978507207",
+        "created_at": "2026-02-20T00:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T01:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024648942978507207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022153081031733252",
+              "start": 3,
+              "username": "ax09s84751"
+            },
+            {
+              "end": 31,
+              "id": "1604181895721504771",
+              "start": 16,
+              "username": "mengtunwudaimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024648942978507207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024648921889591657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax09s84751: @mengtunwudaimu 你自己发的啥自己看看，北京南京后面接东京，你搁这祈祷啥呢，日本是你老家啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024433944197038380",
+        "created_at": "2026-02-20T00:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T01:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024648921889591657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604181895721504771",
+              "start": 0,
+              "username": "mengtunwudaimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024648921889591657",
+        "in_reply_to_user_id": "1604181895721504771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024433944197038380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengtunwudaimu 你自己发的啥自己看看，北京南京后面接东京，你搁这祈祷啥呢，日本是你老家啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵/看od精神科圈/坚持跟随党的领导/偶尔骂骂殖人",
+        "id": "2022153081031733252",
+        "location": "中华人民共和国",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 129,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 75
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "喵酱的真实账号\n政治立场：台独、支黑\n喜欢批判支人的奴性和劣根性\n评论区互fo或者私信",
+        "id": "1604181895721504771",
+        "location": "IP属地：南京",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011343699327000576/ngvpFLui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13308,
+          "following_count": 2734,
+          "like_count": 26465,
+          "listed_count": 148,
+          "media_count": 2282,
+          "tweet_count": 14217
+        },
+        "username": "mengtunwudaimu",
+        "verified": true
+      }
+    ]
+  }
+}

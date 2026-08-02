@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "1983456222138495101",
+    "created_at": "2026-02-21T00:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T01:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024998838285861341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2883213786",
+          "start": 0,
+          "username": "hitorikanawo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024998838285861341",
+    "in_reply_to_user_id": "2883213786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983456222138495101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hitorikanawo 你他妈诡不诡异啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1754,
+        "media_key": "3_1983456218183344128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4am6_BboAAx54v.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "1983456222138495101",
+        "created_at": "2026-02-21T00:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T01:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024998838285861341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2883213786",
+              "start": 0,
+              "username": "hitorikanawo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024998838285861341",
+        "in_reply_to_user_id": "2883213786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983456222138495101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hitorikanawo 你他妈诡不诡异啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983456218183344128"
+          ]
+        },
+        "author_id": "2883213786",
+        "conversation_id": "1983456222138495101",
+        "created_at": "2025-10-29T08:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T09:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983456222138495101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QUTubffe9P",
+              "end": 23,
+              "expanded_url": "https://x.com/hitorikanawo/status/1983456222138495101/photo/1",
+              "media_key": "3_1983456218183344128",
+              "start": 0,
+              "url": "https://t.co/QUTubffe9P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983456222138495101",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 880,
+          "impression_count": 103177,
+          "like_count": 3004,
+          "quote_count": 37,
+          "reply_count": 77,
+          "retweet_count": 217
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QUTubffe9P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 165,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 105
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-30T11:39:58.000Z",
+        "description": "PPP Sounds所属。癖なものを描いています イラスト・曲 作ります youtube：https://t.co/pKDBCrZd0j skeb：https://t.co/XEn6030RLo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ppp_sounds",
+                "end": 68,
+                "expanded_url": "https://www.youtube.com/@ppp_sounds",
+                "start": 45,
+                "url": "https://t.co/pKDBCrZd0j"
+              },
+              {
+                "display_url": "skeb.jp/@hitorikanawo",
+                "end": 97,
+                "expanded_url": "https://skeb.jp/@hitorikanawo",
+                "start": 74,
+                "url": "https://t.co/XEn6030RLo"
+              }
+            ]
+          }
+        },
+        "id": "2883213786",
+        "name": "LOL-苦解幸成",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874803901884723200/SCK8C7AP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32849,
+          "following_count": 8677,
+          "like_count": 19830,
+          "listed_count": 104,
+          "media_count": 92,
+          "tweet_count": 231
+        },
+        "username": "hitorikanawo",
+        "verified": false
+      }
+    ]
+  }
+}

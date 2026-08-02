@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042472327150198868",
+    "created_at": "2026-04-10T05:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T06:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042472327150198868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BdZzbw6goo2/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/BdZzbw6goo2/status/2042413818148745454",
+          "start": 11,
+          "url": "https://t.co/yohg2yz6Ra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042472327150198868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042413818148745454",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么没有晶哥找我？ https://t.co/yohg2yz6Ra"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042413807675572224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgciXLbAAAKzmc.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042472327150198868",
+        "created_at": "2026-04-10T05:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042472327150198868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BdZzbw6goo2/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/BdZzbw6goo2/status/2042413818148745454",
+              "start": 11,
+              "url": "https://t.co/yohg2yz6Ra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042472327150198868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042413818148745454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么没有晶哥找我？ https://t.co/yohg2yz6Ra"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042413807675572224"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042413818148745454",
+        "created_at": "2026-04-10T01:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042413818148745454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IquJBcaIGG",
+              "end": 29,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2042413818148745454/photo/1",
+              "media_key": "3_2042413807675572224",
+              "start": 6,
+              "url": "https://t.co/IquJBcaIGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042413818148745454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4120,
+          "like_count": 85,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "晶哥别钓了 https://t.co/IquJBcaIGG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 673,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 493
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 816,
+          "like_count": 53703,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 379
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

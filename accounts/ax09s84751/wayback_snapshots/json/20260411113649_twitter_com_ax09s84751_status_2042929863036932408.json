@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042929863036932408",
+    "created_at": "2026-04-11T11:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T12:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042929863036932408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dizhuting/stat…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/dizhuting/status/1911524053002891394",
+          "start": 47,
+          "url": "https://t.co/ORwY2Z5Owc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042929863036932408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911524053002891394",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈还这个年头，我记得狗不是站不起来吗\n狗现在都可以举牌子了？ \n我是跟不上时代了，真的😨 https://t.co/ORwY2Z5Owc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1911524042982477824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GocY_UmW0AAGs-u.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1911524043032817664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GocY_UyW8AAPgWK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042929863036932408",
+        "created_at": "2026-04-11T11:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042929863036932408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dizhuting/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/dizhuting/status/1911524053002891394",
+              "start": 47,
+              "url": "https://t.co/ORwY2Z5Owc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042929863036932408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911524053002891394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈还这个年头，我记得狗不是站不起来吗\n狗现在都可以举牌子了？ \n我是跟不上时代了，真的😨 https://t.co/ORwY2Z5Owc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911524042982477824",
+            "3_1911524043032817664"
+          ]
+        },
+        "author_id": "1612390920867180546",
+        "conversation_id": "1911524053002891394",
+        "created_at": "2025-04-13T20:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T21:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911524053002891394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/08pZzwHHwq",
+              "end": 115,
+              "expanded_url": "https://x.com/dizhuting/status/1911524053002891394/photo/1",
+              "media_key": "3_1911524042982477824",
+              "start": 92,
+              "url": "https://t.co/08pZzwHHwq"
+            },
+            {
+              "display_url": "pic.x.com/08pZzwHHwq",
+              "end": 115,
+              "expanded_url": "https://x.com/dizhuting/status/1911524053002891394/photo/1",
+              "media_key": "3_1911524043032817664",
+              "start": 92,
+              "url": "https://t.co/08pZzwHHwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911524053002891394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 405382,
+          "like_count": 142,
+          "quote_count": 2,
+          "reply_count": 186,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "今日之香港，明日之台湾！\n反对中共统一台湾！\n\n反对还有6亿人月人均收入150美元的中共去统一月人均收入1460美元的台湾！\n\n推翻中共独裁，走向多党制制度。才能让老百姓过上好日子！ https://t.co/08pZzwHHwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 681,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 548
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T10:08:56.000Z",
+        "description": "大陆已经证明，共匪除了祸害老百姓，就只剩享受特权。一个庆祝五四运动的党却不许人民有集会自由和言论自由。推翻共党独裁暴政，建立宪政中国，审判习近平，才能还自由于人民；本人齐冬冬，湖北人。现为中国民主党党员。",
+        "id": "1612390920867180546",
+        "name": "地主-齐冬冬",
+        "pinned_tweet_id": "1880127389902270624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933981028290646016/0NH-QbYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 39,
+          "like_count": 31,
+          "listed_count": 7,
+          "media_count": 433,
+          "tweet_count": 763
+        },
+        "username": "dizhuting",
+        "verified": true
+      }
+    ]
+  }
+}

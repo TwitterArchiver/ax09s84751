@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2053314533280866795",
+    "created_at": "2026-05-10T03:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053314533280866795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600024316552179713",
+          "start": 3,
+          "username": "kiki_qiqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053314533280866795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049417890374594831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiki_qiqing: 同龄人：上学\n我：嗑雌二醇上推喵来喵去\n就很😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2053314533280866795",
+        "created_at": "2026-05-10T03:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053314533280866795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600024316552179713",
+              "start": 3,
+              "username": "kiki_qiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053314533280866795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049417890374594831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiki_qiqing: 同龄人：上学\n我：嗑雌二醇上推喵来喵去\n就很😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600024316552179713",
+        "conversation_id": "2049417890374594831",
+        "created_at": "2026-04-29T09:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049417890374594831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itsCatRoll/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/itsCatRoll/status/2049392345322607094",
+              "start": 24,
+              "url": "https://t.co/CMGcHpqoOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049417890374594831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12192,
+          "like_count": 49,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049392345322607094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同龄人：上学\n我：嗑雌二醇上推喵来喵去\n就很😂 https://t.co/CMGcHpqoOu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 1555,
+          "like_count": 1399,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1566
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 无证含糖 | 非二元 | 同类可以找我互fo，但最好说一声 |  大概是个泛性恋喵 | 170cm/55kg | 有点地雷 | 药娘共产主义）",
+        "id": "1600024316552179713",
+        "name": "祈晴🏳️‍⚧️🍥💛🤍💜🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998058486715072512/Shc3tli3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 335,
+          "like_count": 5437,
+          "listed_count": 7,
+          "media_count": 78,
+          "tweet_count": 1968
+        },
+        "username": "kiki_qiqing",
+        "verified": false
+      }
+    ]
+  }
+}

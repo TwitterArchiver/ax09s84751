@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077426503995064320"
+      ],
+      "media_source_tweet_id": [
+        "2077426521502024146"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2078134325154021627",
+    "created_at": "2026-07-17T15:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078134325154021627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ysqoX7HOkh",
+          "end": 62,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2077426521502024146/photo/1",
+          "media_key": "3_2077426503995064320",
+          "start": 39,
+          "url": "https://t.co/ysqoX7HOkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078134325154021627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077426521502024146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 这是真的假的？华为真的有那么令人反感吗 https://t.co/ysqoX7HOkh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1832,
+        "media_key": "3_2077426503995064320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSAZhGbgAAcAgs.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077426503995064320"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2077426521502024146",
+        "created_at": "2026-07-15T16:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077426521502024146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ysqoX7HOkh",
+              "end": 43,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2077426521502024146/photo/1",
+              "media_key": "3_2077426503995064320",
+              "start": 20,
+              "url": "https://t.co/ysqoX7HOkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077426521502024146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 374763,
+          "like_count": 1915,
+          "quote_count": 6,
+          "reply_count": 448,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "这是真的假的？华为真的有那么令人反感吗 https://t.co/ysqoX7HOkh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077426503995064320"
+          ],
+          "media_source_tweet_id": [
+            "2077426521502024146"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2078134325154021627",
+        "created_at": "2026-07-17T15:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078134325154021627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ysqoX7HOkh",
+              "end": 62,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2077426521502024146/photo/1",
+              "media_key": "3_2077426503995064320",
+              "start": 39,
+              "url": "https://t.co/ysqoX7HOkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078134325154021627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077426521502024146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 这是真的假的？华为真的有那么令人反感吗 https://t.co/ysqoX7HOkh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2075833932537589993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 1797,
+          "like_count": 3203,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 2742
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "蓝v互关必回｜私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "location": "魔女岛",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95946,
+          "following_count": 1958,
+          "like_count": 6889,
+          "listed_count": 204,
+          "media_count": 333,
+          "tweet_count": 3116
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

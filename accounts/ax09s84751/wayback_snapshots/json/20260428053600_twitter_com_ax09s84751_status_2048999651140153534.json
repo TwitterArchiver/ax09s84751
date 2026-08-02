@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048323257166958954",
+    "created_at": "2026-04-28T05:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T06:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048999651140153534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1915124824126427137",
+          "start": 0,
+          "username": "Grtr_nk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048999651140153534",
+    "in_reply_to_user_id": "1915124824126427137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048323257166958954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grtr_nk 天才"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048323192687923200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0bF11bkAAch59.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048323192683683840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0bF10a4AAPZxT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048323257166958954",
+        "created_at": "2026-04-28T05:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048999651140153534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1915124824126427137",
+              "start": 0,
+              "username": "Grtr_nk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048999651140153534",
+        "in_reply_to_user_id": "1915124824126427137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048323257166958954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grtr_nk 天才"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048323192687923200",
+            "3_2048323192683683840"
+          ]
+        },
+        "author_id": "1915124824126427137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048323257166958954",
+        "created_at": "2026-04-26T08:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048323257166958954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OBJ0u1peys",
+              "end": 133,
+              "expanded_url": "https://x.com/Grtr_nk/status/2048323257166958954/photo/1",
+              "media_key": "3_2048323192687923200",
+              "start": 110,
+              "url": "https://t.co/OBJ0u1peys"
+            },
+            {
+              "display_url": "pic.x.com/OBJ0u1peys",
+              "end": 133,
+              "expanded_url": "https://x.com/Grtr_nk/status/2048323257166958954/photo/1",
+              "media_key": "3_2048323192683683840",
+              "start": 110,
+              "url": "https://t.co/OBJ0u1peys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048323257166958954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 468,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欸我真是個天才您猜怎麼著，因為我要從家裡潤，我還有10盒普瑞存貨我想著我直接裝40板膠囊放箱子裡可能會被安檢攔，然後我就買了一瓶空膠囊，把膠囊殼扔了，把普瑞掰出來，放了7盒，瓶子買小了應該買0號的這樣估計10盒都能放下 https://t.co/OBJ0u1peys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 1377,
+          "like_count": 905,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1141
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-23T19:25:21.000Z",
+        "description": "暴论bot\n翻车顺女HRT23.05.29/多意识体OSDD+cptsd/od💊ed BMI14.2😇/ pfp @LeonRui_ / 里帐 @Luminme_Vas 互关请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "LeonRui_"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Luminme_Vas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://confess.ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/C5qsiDuDPc"
+              }
+            ]
+          }
+        },
+        "id": "1915124824126427137",
+        "location": "🚪68/128",
+        "name": "🐱🍥灰尾猫🍥🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998235803676463104/qPOn02np_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 692,
+          "like_count": 272,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 505
+        },
+        "url": "https://t.co/C5qsiDuDPc",
+        "username": "Grtr_nk",
+        "verified": false
+      }
+    ]
+  }
+}

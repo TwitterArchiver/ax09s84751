@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2068270876018311337",
+    "created_at": "2026-06-22T03:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T04:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068901125450092989"
+    ],
+    "entities": {},
+    "geo": {
+      "place_id": "7212dcc55b4890ae"
+    },
+    "id": "2068901125450092989",
+    "in_reply_to_user_id": "2022153081031733252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "ps:该药没有进入中国大陆市场\n\n维拉佐酮原研厂家（曾为 Forest Laboratories，后并入 Allergan/AbbVie）放弃中国市场，\n\n主要有以下客观原因：\n\n1.国内已有强力的“机制替代”竞品\n在维拉佐酮于美国获批（2011年）的前后，另一款具有多受体调节机制的新型抗抑郁药伏硫西汀，已经由武田制药引入中国，并于2017年左右正式获批上市。\n伏硫西汀同样主打“改善认知功能”和“较低的性功能障碍发生率”，且原研厂家为其在中国开展了大规模注册临床。对于原研厂家而言，维拉佐酮的“SPARI机制”在中国市场缺乏足够的差异化商业优势来对抗已有的竞品。\n\n2. 传统抗抑郁药的“集采”壁垒\n中国抗抑郁药市场的主力是 SSRI（如舍曲林、草酸艾司西酞普兰）和 SNRI（如文拉法辛、度洛西汀）。这些药物专利早已过期，且大量国产仿制药通过了“一致性评价”并进入国家集中带量采购（集采价格极低（通常仅需几毛钱一片）。\n作为一款新型专利药，维拉佐酮如果进入中国，其定价必然远高于集采药物。在医保控费的大背景下，原研厂家很难收回高昂的注册和学术推广成本。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068272757159460870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ps:该药没有进入中国大陆市场\n\n维拉佐酮原研厂家（曾为 Forest Laboratories，后并入 Allergan/AbbVie）放弃中国市场，\n\n主要有以下客观原因：\n\n1.国内已有强力的“机制替代”竞品"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [7212dcc55b4890ae].",
+      "parameter": "geo.place_id",
+      "resource_id": "7212dcc55b4890ae",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "7212dcc55b4890ae"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2068270876018311337",
+        "created_at": "2026-06-22T03:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068901125450092989"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "7212dcc55b4890ae"
+        },
+        "id": "2068901125450092989",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "ps:该药没有进入中国大陆市场\n\n维拉佐酮原研厂家（曾为 Forest Laboratories，后并入 Allergan/AbbVie）放弃中国市场，\n\n主要有以下客观原因：\n\n1.国内已有强力的“机制替代”竞品\n在维拉佐酮于美国获批（2011年）的前后，另一款具有多受体调节机制的新型抗抑郁药伏硫西汀，已经由武田制药引入中国，并于2017年左右正式获批上市。\n伏硫西汀同样主打“改善认知功能”和“较低的性功能障碍发生率”，且原研厂家为其在中国开展了大规模注册临床。对于原研厂家而言，维拉佐酮的“SPARI机制”在中国市场缺乏足够的差异化商业优势来对抗已有的竞品。\n\n2. 传统抗抑郁药的“集采”壁垒\n中国抗抑郁药市场的主力是 SSRI（如舍曲林、草酸艾司西酞普兰）和 SNRI（如文拉法辛、度洛西汀）。这些药物专利早已过期，且大量国产仿制药通过了“一致性评价”并进入国家集中带量采购（集采价格极低（通常仅需几毛钱一片）。\n作为一款新型专利药，维拉佐酮如果进入中国，其定价必然远高于集采药物。在医保控费的大背景下，原研厂家很难收回高昂的注册和学术推广成本。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068272757159460870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ps:该药没有进入中国大陆市场\n\n维拉佐酮原研厂家（曾为 Forest Laboratories，后并入 Allergan/AbbVie）放弃中国市场，\n\n主要有以下客观原因：\n\n1.国内已有强力的“机制替代”竞品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2068270876018311337",
+        "created_at": "2026-06-20T10:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068272757159460870"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "01023d814ffb4645"
+        },
+        "id": "2068272757159460870",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "必须“随餐服用” belike:鲁拉西酮\n\n机制：\n维拉唑酮的吸收高度依赖食物。如果不随餐服用（空腹吃），药物的生物利用度会暴跌约50%\n\n后果:\n空腹吃药会导致血药浓度严重不足，药物直接失效，相当于没吃。因此，FDA和NMPA说明书均强制要求必须与食物同服\n\n建议滴定加量\n\n原因:为了对抗其明显的胃肠道副作用，临床上一般不能一上来就吃足量。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068270876018311337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "必须“随餐服用” belike:鲁拉西酮\n\n机制：\n维拉唑酮的吸收高度依赖食物。如果不随餐服用（空腹吃），药物的生物利用度会暴跌约50%\n\n后果:\n空腹吃药会导致血药浓度严重不足，药物直接失效，相当于没吃。因此，FDA和NMPA说明书均强制要求必须与食物同服\n\n建议滴定加量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echo42es"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2062097916781797730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065816996605005824/yyrl8vBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 1822,
+          "like_count": 2956,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 2609
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

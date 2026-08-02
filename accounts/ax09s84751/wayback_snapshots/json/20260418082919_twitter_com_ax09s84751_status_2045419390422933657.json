@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2045371878353907925",
+    "created_at": "2026-04-18T08:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T09:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045419390422933657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        },
+        {
+          "end": 23,
+          "id": "1758508742780567552",
+          "start": 11,
+          "username": "qianxunchan"
+        },
+        {
+          "end": 29,
+          "id": "1720665183188922368",
+          "start": 24,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045419390422933657",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045373845943771387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama @qianxunchan @grok 咬什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2045371878353907925",
+        "created_at": "2026-04-18T08:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045419390422933657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            },
+            {
+              "end": 23,
+              "id": "1758508742780567552",
+              "start": 11,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 29,
+              "id": "1720665183188922368",
+              "start": 24,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045419390422933657",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045373845943771387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama @qianxunchan @grok 咬什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2045371878353907925",
+        "created_at": "2026-04-18T05:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045373845943771387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045373845943771387",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5238,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045373284636922344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 咬你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 952,
+          "like_count": 674,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |Dev @HRTtracker🍥|  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan \nthey/them",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 91,
+                "start": 81,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041377830597246976/UX0FQmaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3177,
+          "following_count": 1916,
+          "like_count": 8050,
+          "listed_count": 3,
+          "media_count": 1137,
+          "tweet_count": 4931
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\nQ群：667335570\ntg：在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 923,
+          "like_count": 1699,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 1414
+        },
+        "username": "qianxunchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8515117,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6591,
+          "media_count": 8836114,
+          "tweet_count": 123005450
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

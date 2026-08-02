@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2049133599639978179",
+    "created_at": "2026-04-29T06:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T07:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049376133909725442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1476546742577504265",
+          "start": 0,
+          "username": "luoshuyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049376133909725442",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049133599639978179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoshuyao 我有一个底线吧，我不追求那种大富大贵，但是最起码要能达到我心中的预期吧?("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2049133599639978179",
+        "created_at": "2026-04-29T06:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049376133909725442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049376133909725442",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049133599639978179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 我有一个底线吧，我不追求那种大富大贵，但是最起码要能达到我心中的预期吧?("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2049133599639978179",
+        "created_at": "2026-04-28T14:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049133599639978179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049133599639978179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 724,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说我不在乎钱，这句话肯定会有很多人不信。谁会和钱过不去呢？\n果然成年人的世界全是金钱和利益，我一点都不想当大人，因为我不喜欢这些东西。但是我也不想当孩子，因为已经没有人会把我当成孩子了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1397,
+          "like_count": 917,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1188
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 282,
+          "like_count": 12087,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 2690
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

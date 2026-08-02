@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1724509618271838208",
+          "name": "CES 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1861836747824328705",
+          "name": "CES 2025"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2061765785991930296",
+    "created_at": "2026-06-02T11:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061765785991930296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1547986150941306882",
+          "start": 3,
+          "username": "StatChrisCotton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061765785991930296",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3274
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061714199013634216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StatChrisCotton: Nous sommes le 02 juin 2026, quand vous lirez ces lignes j’aurais quitté ce monde.\nPour ceux qui ne me connaissent pas…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1724509618271838208",
+              "name": "CES 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1861836747824328705",
+              "name": "CES 2025"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2061765785991930296",
+        "created_at": "2026-06-02T11:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061765785991930296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1547986150941306882",
+              "start": 3,
+              "username": "StatChrisCotton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061765785991930296",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3274
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061714199013634216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StatChrisCotton: Nous sommes le 02 juin 2026, quand vous lirez ces lignes j’aurais quitté ce monde.\nPour ceux qui ne me connaissent pas…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547986150941306882",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1724509618271838208",
+              "name": "CES 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1861836747824328705",
+              "name": "CES 2025"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2061714199013634216",
+        "created_at": "2026-06-02T07:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061714199013634216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061714199013634216",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {},
+          "text": "Nous sommes le 02 juin 2026, quand vous lirez ces lignes j’aurais quitté ce monde.\nPour ceux qui ne me connaissent pas, je m’appelle Christine Cotton, je suis ce qu’on appelle une lanceuse d’alerte. j’ai travaillé 25 ans pour l’industrie pharmaceutique dans la gestion et l’analyse des données cliniques. En tant que biostatisticienne, Depuis décembre 2020, je me suis plongée dans les documents du vaccin covid du laboratoire pfizer. J’ai ecrit de nombreux documents et fait de nombreuses émissions pour partager les vrais résultats. Mes conclusions sont catastrophiques, en plus de la non validité des résultats due à des erreurs voire des fraudes manifestes. Le vaccin pfizer que la population a recu, que vous avez peut-être recu n’est pas celui de l’essai clinique au 95% d’efficacité annoncée par tous les politiques, journalistes et médecins de plateau. On vous a administré un produit pour lequel il n’y avait strictement aucun résultat , ni d’efficacité, ni de tolérance. Ce message n’a pas pour but de faire du sensationnalisme sur les reseaux mais pour vous informer de l’une des plus grosses manipulations que l’humanité aut connu. Toutes les preuves se trouvent dans la derriere version de mon travail que je vous invite a télécharger et a lire. Pour les plus feignants et les tres occupes, les quelques pages de la conclusion et les liens sur les docs sources vous éclaireront déjà beaucoup.\nJe suis tombée malade au moment ou j’ai porté plainte contre les autorités de santé. Je souffre depuis plus d’un an de douleurs atroces partant des lombaires jusque dans les jambes, de brulures dans la peau ,essentiellement dans les jambes et le dos. J’ai consulté des médecins généraliste, neurologues, ostéopathe, virologue, dermatologue, rhumatologue, psychiatre , homéopathe… j’ai avalé des milliers de gélules de compléments alimentaires, des anxiolytiques, des neuroleptiques, des antidouleurs prescrits par le centre antidouleur. J’ai meme fait des seances de bioresonnance et vu des magnétiseurs et ce, sans aucun résultat.\nJe suis a bout de ce que je peux supporter.\n\nJe demande pardon a ceux qui m’aiment, vous qui me suivez sur les réseaux sociaux depuis 4 ans, mes amis, mes parents et surtout a dieu ou quel que soit sa nature ou son nom de mettre fin a ma vie, moi qui n’aie eu de cesse de la protéger depuis l’enfance , que ce soit la vie végétale, animale ou humain.\nJe remercie du fond du coeur ceux qui m’ont soutenue , encouragée et tous ceux qui prient ou ont organisé des groupes de prière. Je vais vous demander de prier encore pour que mon ame soit au plus vite dans la lumière du créateur."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1352,
+          "impression_count": 241368,
+          "like_count": 6704,
+          "quote_count": 461,
+          "reply_count": 1089,
+          "retweet_count": 3274
+        },
+        "reply_settings": "everyone",
+        "text": "Nous sommes le 02 juin 2026, quand vous lirez ces lignes j’aurais quitté ce monde.\nPour ceux qui ne me connaissent pas, je m’appelle Christine Cotton, je suis ce qu’on appelle une lanceuse d’alerte. j’ai travaillé 25 ans pour l’industrie pharmaceutique dans la gestion et"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 1828,
+          "like_count": 2760,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 2476
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-15T16:47:38.000Z",
+        "description": "Whistleblower- Biostatistician in pharmaceutical industry. Former CEO of my own company, a CRO Clinical Research Organization https://t.co/sEAbr8yfmU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "christinecotton.com",
+                "end": 149,
+                "expanded_url": "http://christinecotton.com",
+                "start": 126,
+                "url": "https://t.co/sEAbr8yfmU"
+              }
+            ]
+          }
+        },
+        "id": "1547986150941306882",
+        "location": "France",
+        "name": "Christine Cotton OFFICIEL",
+        "pinned_tweet_id": "2016238942056808733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550107528826163201/8UbyxsaS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110246,
+          "following_count": 2953,
+          "like_count": 76563,
+          "listed_count": 221,
+          "media_count": 1603,
+          "tweet_count": 14711
+        },
+        "username": "StatChrisCotton",
+        "verified": true
+      }
+    ]
+  }
+}

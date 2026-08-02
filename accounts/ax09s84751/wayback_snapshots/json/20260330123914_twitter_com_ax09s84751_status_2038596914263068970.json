@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2038596914263068970",
+    "created_at": "2026-03-30T12:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038596914263068970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XldscX/status/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/XldscX/status/2038575483751911497",
+          "start": 20,
+          "url": "https://t.co/SBN4hG0Asj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038596914263068970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038575483751911497",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这已经不是智人了，可以说是类人了😱😰😰 https://t.co/SBN4hG0Asj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2038575384099442688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEp5gtEaUAA_iIh.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2038596914263068970",
+        "created_at": "2026-03-30T12:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038596914263068970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XldscX/status/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/XldscX/status/2038575483751911497",
+              "start": 20,
+              "url": "https://t.co/SBN4hG0Asj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038596914263068970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038575483751911497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这已经不是智人了，可以说是类人了😱😰😰 https://t.co/SBN4hG0Asj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038575384099442688"
+          ]
+        },
+        "author_id": "2001598933169315840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2038575483751911497",
+        "created_at": "2026-03-30T11:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038575483751911497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfvI5gWDbn",
+              "end": 39,
+              "expanded_url": "https://x.com/XldscX/status/2038575483751911497/photo/1",
+              "media_key": "3_2038575384099442688",
+              "start": 16,
+              "url": "https://t.co/GfvI5gWDbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038575483751911497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "智人 tv 之逗包是人脑上传。 https://t.co/GfvI5gWDbn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf/爱看od圈/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 644,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "17y.o./xy/友跨顺男/hrt24.4.20/181cm 59kg/成功学校三楼跳楼/平淡而没有任何特长/喜欢Apex,CS,mai&Arcaea和睡觉/🀄️🍃\n\n我是翎\n可以蹭蓝标互关，7000fo小号@AzureV1xen \n\n好厚米🇲🇴@letana358121\n对象♥️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "AzureV1xen"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "letana358121"
+              },
+              {
+                "end": 152,
+                "start": 142,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/llenium1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/llenium1",
+                "start": 0,
+                "url": "https://t.co/mE8Cawnpdp"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "🇹🇼中華民國戰時陪都重慶市",
+        "name": "Re: Yu1kaX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038196472232267776/XkfzpOwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 504,
+          "like_count": 13535,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 4915
+        },
+        "url": "https://t.co/mE8Cawnpdp",
+        "username": "XldscX",
+        "verified": true
+      }
+    ]
+  }
+}

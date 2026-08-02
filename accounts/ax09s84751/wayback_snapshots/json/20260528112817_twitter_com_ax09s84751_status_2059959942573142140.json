@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2059783710900105508",
+    "created_at": "2026-05-28T11:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059959942573142140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1387779928507273226",
+          "start": 0,
+          "username": "sevdaloji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059959942573142140",
+    "in_reply_to_user_id": "1387779928507273226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059783710900105508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sevdaloji 还有土耳其的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2059744356286844930",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWulDyX0AIiMSH.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2059783710900105508",
+        "created_at": "2026-05-28T11:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059959942573142140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1387779928507273226",
+              "start": 0,
+              "username": "sevdaloji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059959942573142140",
+        "in_reply_to_user_id": "1387779928507273226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059783710900105508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sevdaloji 还有土耳其的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059744356286844930"
+          ]
+        },
+        "author_id": "1387779928507273226",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059783710900105508",
+        "created_at": "2026-05-27T23:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059783710900105508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBfaEkRPKZ",
+              "end": 93,
+              "expanded_url": "https://x.com/sevdaloji/status/2059783710900105508/photo/1",
+              "media_key": "3_2059744356286844930",
+              "start": 70,
+              "url": "https://t.co/XBfaEkRPKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059783710900105508",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1036,
+          "impression_count": 583110,
+          "like_count": 63891,
+          "quote_count": 58,
+          "reply_count": 85,
+          "retweet_count": 561
+        },
+        "reply_settings": "everyone",
+        "text": "bunu tweeti favlamadan geçersen haziran ayı sana kötü şans getirecek. https://t.co/XBfaEkRPKZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 1834,
+          "like_count": 2644,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 2320
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-29T14:45:08.000Z",
+        "description": "ücretli rt reklam ve iş birliği için DM📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sevdalojim",
+                "end": 23,
+                "expanded_url": "http://instagram.com/sevdalojim",
+                "start": 0,
+                "url": "https://t.co/PNqIQthSQ5"
+              }
+            ]
+          }
+        },
+        "id": "1387779928507273226",
+        "location": "İstanbul, Türkiye",
+        "name": "Sevda",
+        "pinned_tweet_id": "1954629293373640910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756750369332346880/TmOzTWg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169889,
+          "following_count": 64018,
+          "like_count": 716609,
+          "listed_count": 67,
+          "media_count": 545,
+          "tweet_count": 3742
+        },
+        "url": "https://t.co/PNqIQthSQ5",
+        "username": "sevdaloji",
+        "verified": true
+      }
+    ]
+  }
+}

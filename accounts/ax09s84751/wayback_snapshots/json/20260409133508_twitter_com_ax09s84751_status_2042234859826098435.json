@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042234859826098435",
+    "created_at": "2026-04-09T13:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042234859826098435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/111q_a54867/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/111q_a54867/status/2041911070361841740",
+          "start": 14,
+          "url": "https://t.co/A7FKeV3rmR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042234859826098435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041911070361841740",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那个老叔叔怎么什么都懂啊？ https://t.co/A7FKeV3rmR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041911050287902722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZTSB9a8AIVr2o.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041911050355011589",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZTSCNa8AUOs3J.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042234859826098435",
+        "created_at": "2026-04-09T13:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042234859826098435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/111q_a54867/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/111q_a54867/status/2041911070361841740",
+              "start": 14,
+              "url": "https://t.co/A7FKeV3rmR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042234859826098435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041911070361841740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那个老叔叔怎么什么都懂啊？ https://t.co/A7FKeV3rmR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041911050287902722",
+            "3_2041911050355011589"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "2041911070361841740",
+        "created_at": "2026-04-08T16:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041911070361841740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTDZV1Liwo",
+              "end": 45,
+              "expanded_url": "https://x.com/111q_a54867/status/2041911070361841740/photo/1",
+              "media_key": "3_2041911050287902722",
+              "start": 22,
+              "url": "https://t.co/vTDZV1Liwo"
+            },
+            {
+              "display_url": "pic.x.com/vTDZV1Liwo",
+              "end": 45,
+              "expanded_url": "https://x.com/111q_a54867/status/2041911070361841740/photo/1",
+              "media_key": "3_2041911050355011589",
+              "start": 22,
+              "url": "https://t.co/vTDZV1Liwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041911070361841740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 80021,
+          "like_count": 370,
+          "quote_count": 6,
+          "reply_count": 46,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "广州禁毒你牛大了，碎碎念都被截上去上电视了 https://t.co/vTDZV1Liwo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 671,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 486
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 1234,
+          "like_count": 6258,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 1200
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

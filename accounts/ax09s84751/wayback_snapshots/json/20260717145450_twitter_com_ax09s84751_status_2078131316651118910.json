@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2078131316651118910",
+    "created_at": "2026-07-17T14:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078131316651118910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060679315126439936",
+          "start": 3,
+          "username": "KitsuMio7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078131316651118910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078019055014011336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KitsuMio7: 我就搞不懂一点\nB 站这个平台为什么比抖音还保\n而且观点又红又专还高度统一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2078131316651118910",
+        "created_at": "2026-07-17T14:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078131316651118910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060679315126439936",
+              "start": 3,
+              "username": "KitsuMio7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078131316651118910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078019055014011336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KitsuMio7: 我就搞不懂一点\nB 站这个平台为什么比抖音还保\n而且观点又红又专还高度统一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "conversation_id": "2078019055014011336",
+        "created_at": "2026-07-17T07:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078019055014011336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kitsumio7/stat…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/kitsumio7/status/2078018133928128664",
+              "start": 38,
+              "url": "https://t.co/1pUpNUZSxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078019055014011336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5159,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078018133928128664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就搞不懂一点\nB 站这个平台为什么比抖音还保\n而且观点又红又专还高度统一 https://t.co/1pUpNUZSxJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2075833932537589993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 1797,
+          "like_count": 3184,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 2731
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT 2023 | ENTP | AuDHD | TS/Node | LocalLLM | 先天跨 | 声音女性化 | MioMtFWiki 创建&维护者 | 激进形式平权主义 | 激进性别自决主义 | 反性别权利分化 | 反还原论 | 小号@KitsuMio79 | 同类互 fo 喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KitsuMio79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki/",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki/",
+                "start": 0,
+                "url": "https://t.co/20qbkKwHi3"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074764007295385600/5PZFNtiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 1140,
+          "like_count": 2153,
+          "listed_count": 4,
+          "media_count": 192,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/20qbkKwHi3",
+        "username": "KitsuMio7",
+        "verified": true
+      }
+    ]
+  }
+}

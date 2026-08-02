@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042854733623554152",
+    "created_at": "2026-04-11T06:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042854733623554152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CyberKanjousen…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/CyberKanjousen/status/2042646505501397396",
+          "start": 12,
+          "url": "https://t.co/OLSrGOkG9T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042854733623554152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042646505501397396",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知道这事有啥好讨论的 https://t.co/OLSrGOkG9T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1311,
+        "media_key": "3_2042646489743396874",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjwKPbakAoYxGr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042854733623554152",
+        "created_at": "2026-04-11T06:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042854733623554152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2042646505501397396",
+              "start": 12,
+              "url": "https://t.co/OLSrGOkG9T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042854733623554152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042646505501397396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道这事有啥好讨论的 https://t.co/OLSrGOkG9T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042646489743396874"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2042646505501397396",
+        "created_at": "2026-04-10T16:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042646505501397396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pWMRuaf2QH",
+              "end": 39,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2042646505501397396/photo/1",
+              "media_key": "3_2042646489743396874",
+              "start": 16,
+              "url": "https://t.co/pWMRuaf2QH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042646505501397396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1517,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "两年前的今天，「胖猫」跳江自尽 https://t.co/pWMRuaf2QH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 680,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 397,
+          "like_count": 12017,
+          "listed_count": 4,
+          "media_count": 810,
+          "tweet_count": 4221
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

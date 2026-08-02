@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2049110502618632564",
+    "created_at": "2026-04-28T13:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049125232146100392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033228136180219904",
+          "start": 0,
+          "username": "Chu_Echooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049125232146100392",
+    "in_reply_to_user_id": "2033228136180219904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049110502618632564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chu_Echooo 没有碳水蛋白质，应该过一会就会饿吧？（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_2049110499514830848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_nJIUa0AAx0T2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2049110502618632564",
+        "created_at": "2026-04-28T13:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049125232146100392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049125232146100392",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049110502618632564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 没有碳水蛋白质，应该过一会就会饿吧？（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049110499514830848"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049110502618632564",
+        "created_at": "2026-04-28T12:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049110502618632564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnD5A9Fud7",
+              "end": 48,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2049110502618632564/photo/1",
+              "media_key": "3_2049110499514830848",
+              "start": 25,
+              "url": "https://t.co/vnD5A9Fud7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049110502618632564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚饭！\n别问，问就是刚到家，问就是今天不想做饭。 https://t.co/vnD5A9Fud7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 1392,
+          "like_count": 913,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1171
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 65,
+          "like_count": 2986,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 665
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

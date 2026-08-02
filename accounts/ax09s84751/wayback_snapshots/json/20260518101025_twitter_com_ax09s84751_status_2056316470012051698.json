@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2056316470012051698",
+    "created_at": "2026-05-18T10:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T11:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056316470012051698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_ropu/status/2…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/_ropu/status/2055994643071045939",
+          "start": 4,
+          "url": "https://t.co/b67AukNmOC"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2056316470012051698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055994643071045939",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是 https://t.co/b67AukNmOC"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2056316470012051698",
+        "created_at": "2026-05-18T10:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056316470012051698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_ropu/status/2…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/_ropu/status/2055994643071045939",
+              "start": 4,
+              "url": "https://t.co/b67AukNmOC"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2056316470012051698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055994643071045939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是 https://t.co/b67AukNmOC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "758296624875446272",
+        "conversation_id": "2055994643071045939",
+        "created_at": "2026-05-17T12:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055994643071045939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055994643071045939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1015,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很喜欢你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 1679,
+          "like_count": 2158,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 1944
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん： @Cchang3243 || CN/JP/EN/KR ○ || 变得可爱是第一要义 ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Cchang3243"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ",
+        "pinned_tweet_id": "2055435465881538633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30899,
+          "following_count": 4231,
+          "like_count": 14670,
+          "listed_count": 32,
+          "media_count": 4680,
+          "tweet_count": 33955
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

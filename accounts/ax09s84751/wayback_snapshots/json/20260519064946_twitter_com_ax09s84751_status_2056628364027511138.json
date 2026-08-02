@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2056628364027511138",
+    "created_at": "2026-05-19T06:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T07:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056628364027511138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1857669934341566467",
+          "start": 3,
+          "username": "baiyao105"
+        },
+        {
+          "end": 43,
+          "id": "1758454063535198208",
+          "start": 33,
+          "username": "huanli233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056628364027511138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041027435974779157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baiyao105: 讣告\n\n这是一条迟到了两个月的讣告。@huanli233 她因心理问题选择了自杀。在 2026年2月10日15:00 左右服用最高溶解量亚硝酸钠锁门 达到医院经过大抢救后死亡 离开了我们\n过去两月没公开这个信息是为了不让她的朋友们担心。也防止刷怪。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2056628364027511138",
+        "created_at": "2026-05-19T06:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056628364027511138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1857669934341566467",
+              "start": 3,
+              "username": "baiyao105"
+            },
+            {
+              "end": 43,
+              "id": "1758454063535198208",
+              "start": 33,
+              "username": "huanli233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056628364027511138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041027435974779157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baiyao105: 讣告\n\n这是一条迟到了两个月的讣告。@huanli233 她因心理问题选择了自杀。在 2026年2月10日15:00 左右服用最高溶解量亚硝酸钠锁门 达到医院经过大抢救后死亡 离开了我们\n过去两月没公开这个信息是为了不让她的朋友们担心。也防止刷怪。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857669934341566467",
+        "conversation_id": "2041027435974779157",
+        "created_at": "2026-04-06T05:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041027435974779157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1758454063535198208",
+              "start": 18,
+              "username": "huanli233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041027435974779157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 180655,
+          "like_count": 235,
+          "quote_count": 2,
+          "reply_count": 108,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n\n这是一条迟到了两个月的讣告。@huanli233 她因心理问题选择了自杀。在 2026年2月10日15:00 左右服用最高溶解量亚硝酸钠锁门 达到医院经过大抢救后死亡 离开了我们\n过去两月没公开这个信息是为了不让她的朋友们担心。也防止刷怪。\n我尊重她的选择。愿她安息。\n“逃也是路。不是退路。是生路”\n\n祝好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1689,
+          "like_count": 2213,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 1994
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T06:20:19.000Z",
+        "description": "想死。 l oder /精神病 l INFJ-T l 生日11.17 l she/her l\n只是一个倾倒垃圾和视奸用的账号。/ 好闺闺: @emm101215",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "emm101215"
+              }
+            ]
+          }
+        },
+        "id": "1857669934341566467",
+        "name": "白杳",
+        "pinned_tweet_id": "2026092538457993640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020476650681675776/N8B9tua-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 179,
+          "like_count": 2597,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 142
+        },
+        "username": "baiyao105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T11:31:42.000Z",
+        "description": "此账号不再进一步回复内容。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/huanli233",
+                "end": 23,
+                "expanded_url": "https://github.com/huanli233",
+                "start": 0,
+                "url": "https://t.co/ci67HavRgI"
+              }
+            ]
+          }
+        },
+        "id": "1758454063535198208",
+        "location": "Future",
+        "name": "huanli233🕯",
+        "pinned_tweet_id": "2041067296605769933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041068123055648768/_1Js6WBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 779,
+          "like_count": 3481,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/ci67HavRgI",
+        "username": "huanli233",
+        "verified": false
+      }
+    ]
+  }
+}

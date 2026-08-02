@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048696906910781939",
+    "created_at": "2026-04-27T09:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048696906910781939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huaxuejilebaik…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/huaxuejilebaike/status/2048683741095370827",
+          "start": 17,
+          "url": "https://t.co/6p5KQpd3UQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048696906910781939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048683741095370827",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "珍爱生命，远离overdose! https://t.co/6p5KQpd3UQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2048683193767972864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5igqXaUAA42B-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048696906910781939",
+        "created_at": "2026-04-27T09:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048696906910781939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huaxuejilebaik…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/huaxuejilebaike/status/2048683741095370827",
+              "start": 17,
+              "url": "https://t.co/6p5KQpd3UQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048696906910781939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048683741095370827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "珍爱生命，远离overdose! https://t.co/6p5KQpd3UQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048683193767972864"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2048683741095370827",
+        "created_at": "2026-04-27T08:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048683741095370827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OzRYTVLGk",
+              "end": 182,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2048683741095370827/photo/1",
+              "media_key": "3_2048683193767972864",
+              "start": 159,
+              "url": "https://t.co/3OzRYTVLGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048683741095370827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很现实地说：\n垃圾，都是垃圾。\n普瑞巴林 / DXM / 金刚烷胺 / 美金刚 / 5-MeO 这堆东西从来都不是什么“高级玩法”，在急诊医生眼里，它们就是一堆烂摊子的来源。\n它们共同的特点是：\n体验极不稳定\n同样剂量，有人说“还好”，有人直接进 ICU\n有肾功能、心脏、精神基础问题的人更容易被秒杀\n致死不“干净” https://t.co/3OzRYTVLGk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 1353,
+          "like_count": 890,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1097
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/DF7NTAL0F9 TG交流群：https://t.co/ngKDwwK3ao DC交流群：https://t.co/Zb0fsL464g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/DF7NTAL0F9"
+              },
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 56,
+                "expanded_url": "http://t.me/weizhanersheng666",
+                "start": 33,
+                "url": "https://t.co/ngKDwwK3ao"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/Zb0fsL464g"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "化学极乐百科⚛️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 922,
+          "like_count": 24300,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 2884
+        },
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

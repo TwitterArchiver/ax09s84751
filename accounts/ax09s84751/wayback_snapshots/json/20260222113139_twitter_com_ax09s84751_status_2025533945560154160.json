@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2025533945560154160",
+    "created_at": "2026-02-22T11:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T12:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025533945560154160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kxk1388574/sta…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/kxk1388574/status/2025445048662585481",
+          "start": 55,
+          "url": "https://t.co/bqlLsmCSjX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025533945560154160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025445048662585481",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子们其实我不是跨性别，但是我什么病都没有，我就是为了混你们这猎奇圈子找点刺激顺便哄死几个xyn契丹或紫砂😋 https://t.co/bqlLsmCSjX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2025533945560154160",
+        "created_at": "2026-02-22T11:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025533945560154160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kxk1388574/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/kxk1388574/status/2025445048662585481",
+              "start": 55,
+              "url": "https://t.co/bqlLsmCSjX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025533945560154160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025445048662585481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们其实我不是跨性别，但是我什么病都没有，我就是为了混你们这猎奇圈子找点刺激顺便哄死几个xyn契丹或紫砂😋 https://t.co/bqlLsmCSjX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673364955171782657",
+        "conversation_id": "2025445048662585481",
+        "created_at": "2026-02-22T05:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025445048662585481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025445048662585481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1898,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们其实我是跨性别，但是我什么病都没有，我就是为了混你们这猎奇圈子找点刺激顺便哄死几个xyn契丹或紫砂😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直/不zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n理想：无证含糖mtf格式化💾 跨救助机构卸载❌\n允许跨人关/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSeL2"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 230,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/6aaNEtSeL2",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9258,
+          "following_count": 5836,
+          "like_count": 51856,
+          "listed_count": 12,
+          "media_count": 860,
+          "tweet_count": 7072
+        },
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

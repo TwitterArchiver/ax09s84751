@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2038946520138219973",
+    "created_at": "2026-03-31T11:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038946520138219973"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yui80427542945…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/yui804275429451/status/2038944996653715896",
+          "start": 14,
+          "url": "https://t.co/rqpPrwwoHf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038946520138219973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038944996653715896",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你没有错。\n抱抱。\n•᎔• https://t.co/rqpPrwwoHf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2038946520138219973",
+        "created_at": "2026-03-31T11:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038946520138219973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yui80427542945…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/yui804275429451/status/2038944996653715896",
+              "start": 14,
+              "url": "https://t.co/rqpPrwwoHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038946520138219973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038944996653715896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你没有错。\n抱抱。\n•᎔• https://t.co/rqpPrwwoHf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981563709102477312",
+        "conversation_id": "2038944996653715896",
+        "created_at": "2026-03-31T11:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038944996653715896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038944996653715896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我上班被猥亵我朋友敷衍我我爸妈不管我 我有错吗你们真的好冷漠好冷漠我好难过真的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 658,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 349
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "希望天使降临在我身边",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "pinned_tweet_id": "2036490048368255162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015769888288067585/0C-Vs_Qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10070,
+          "following_count": 440,
+          "like_count": 3599,
+          "listed_count": 13,
+          "media_count": 124,
+          "tweet_count": 1128
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}

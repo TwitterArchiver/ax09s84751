@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2040841139847299447",
+    "created_at": "2026-04-05T17:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T18:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040841139847299447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rinii165892/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/rinii165892/status/2040778271772889327",
+          "start": 15,
+          "url": "https://t.co/LHSvyMpRGH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040841139847299447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040778271772889327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。。？只有我觉得很神圣吗？ https://t.co/LHSvyMpRGH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2040778267528241152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJNBZVboAAI8ZB.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2040841139847299447",
+        "created_at": "2026-04-05T17:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040841139847299447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinii165892/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/rinii165892/status/2040778271772889327",
+              "start": 15,
+              "url": "https://t.co/LHSvyMpRGH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040841139847299447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040778271772889327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。。？只有我觉得很神圣吗？ https://t.co/LHSvyMpRGH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040778267528241152"
+          ]
+        },
+        "author_id": "2032033299980566528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2040778271772889327",
+        "created_at": "2026-04-05T13:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040778271772889327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/jNOg39qm5R"
+            },
+            {
+              "display_url": "pic.x.com/qfU5hwOZUj",
+              "end": 64,
+              "expanded_url": "https://x.com/rinii165892/status/2040778271772889327/photo/1",
+              "media_key": "3_2040778267528241152",
+              "start": 41,
+              "url": "https://t.co/qfU5hwOZUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040778271772889327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 920,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/jNOg39qm5R https://t.co/qfU5hwOZUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 677,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 464
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "被当成人机了随缘回fo【寻回推u】🔪- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- 生活在互联网里！看成分互fo捏喵!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀赛博监护人@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 153,
+                "start": 141,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iirin53261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iirin53261",
+                "start": 0,
+                "url": "https://t.co/1rBZJU4xmt"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040628695006892034/S1_Zc8ek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 361,
+          "like_count": 2319,
+          "listed_count": 5,
+          "media_count": 69,
+          "tweet_count": 1474
+        },
+        "url": "https://t.co/1rBZJU4xmt",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

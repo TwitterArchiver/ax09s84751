@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2037772372040990935",
+    "created_at": "2026-03-28T06:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037772372040990935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "193648759",
+          "start": 3,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037772372040990935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037474173858291878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ripo0079: 中文太棒了！\n很少的字符，很多的意义。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2037772372040990935",
+        "created_at": "2026-03-28T06:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037772372040990935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "193648759",
+              "start": 3,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037772372040990935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037474173858291878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ripo0079: 中文太棒了！\n很少的字符，很多的意义。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193648759",
+        "conversation_id": "2037474173858291878",
+        "created_at": "2026-03-27T10:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037474173858291878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037474173858291878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 45428,
+          "like_count": 750,
+          "quote_count": 3,
+          "reply_count": 124,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "中文太棒了！\n很少的字符，很多的意义。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 544,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 217
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 21-NNT。国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7553,
+          "following_count": 1372,
+          "like_count": 69934,
+          "listed_count": 122,
+          "media_count": 4269,
+          "tweet_count": 53576
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

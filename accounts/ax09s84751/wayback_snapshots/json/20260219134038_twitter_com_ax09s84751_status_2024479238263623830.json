@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024479238263623830",
+    "created_at": "2026-02-19T13:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024479238263623830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022153081031733252",
+          "start": 3,
+          "username": "ax09s84751"
+        },
+        {
+          "end": 27,
+          "id": "1581478431274983424",
+          "start": 16,
+          "username": "yoyobewild"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024479238263623830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024479218302931269",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax09s84751: @yoyobewild 你不反共？那你搁这叭叭啥呢？一边说不当权威，一边把政府踩成 公共组织。你咋不把你爹也改口叫 生物学供养主体 ？，国人眼里就是反贼，你心里没点数？不是大家盲从，是大家不傻，看得出你披着理中客皮玩偷换概念。对，你清高，你是石头…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024479238263623830",
+        "created_at": "2026-02-19T13:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024479238263623830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022153081031733252",
+              "start": 3,
+              "username": "ax09s84751"
+            },
+            {
+              "end": 27,
+              "id": "1581478431274983424",
+              "start": 16,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024479238263623830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024479218302931269",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax09s84751: @yoyobewild 你不反共？那你搁这叭叭啥呢？一边说不当权威，一边把政府踩成 公共组织。你咋不把你爹也改口叫 生物学供养主体 ？，国人眼里就是反贼，你心里没点数？不是大家盲从，是大家不傻，看得出你披着理中客皮玩偷换概念。对，你清高，你是石头…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024162805054918893",
+        "created_at": "2026-02-19T13:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024479218302931269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024479218302931269",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024162805054918893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyobewild 你不反共？那你搁这叭叭啥呢？一边说不当权威，一边把政府踩成 公共组织。你咋不把你爹也改口叫 生物学供养主体 ？，国人眼里就是反贼，你心里没点数？不是大家盲从，是大家不傻，看得出你披着理中客皮玩偷换概念。对，你清高，你是石头缝里蹦出来的。等你明白什么叫感恩再说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 110,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 56
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4637,
+          "following_count": 194,
+          "like_count": 32815,
+          "listed_count": 17,
+          "media_count": 363,
+          "tweet_count": 7566
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

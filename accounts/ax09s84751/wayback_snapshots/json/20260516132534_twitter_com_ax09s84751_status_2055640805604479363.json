@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055640805604479363",
+    "created_at": "2026-05-16T13:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055640805604479363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022153081031733252",
+          "start": 3,
+          "username": "ax09s84751"
+        },
+        {
+          "end": 24,
+          "id": "17874544",
+          "start": 16,
+          "username": "Support"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055640805604479363",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055640453257834724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax09s84751: @Support  Paid via my link, no login shared. Canceled auto-renewal. Now expired, page crashes/not found. Please reset billi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055640805604479363",
+        "created_at": "2026-05-16T13:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055640805604479363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022153081031733252",
+              "start": 3,
+              "username": "ax09s84751"
+            },
+            {
+              "end": 24,
+              "id": "17874544",
+              "start": 16,
+              "username": "Support"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055640805604479363",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055640453257834724",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax09s84751: @Support  Paid via my link, no login shared. Canceled auto-renewal. Now expired, page crashes/not found. Please reset billi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055640453257834724",
+        "created_at": "2026-05-16T13:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055640453257834724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "17874544",
+              "start": 0,
+              "username": "Support"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055640453257834724",
+        "in_reply_to_user_id": "17874544",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@Support  Paid via my link, no login shared. Canceled auto-renewal. Now expired, page crashes/not found. Please reset billing data. Thanks!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 1664,
+          "like_count": 2136,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1881
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-04T18:51:57.000Z",
+        "description": "Official @X support account. Find answers to common questions and get help on our Help Center: https://t.co/EO1OOUj5T5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 9,
+                "username": "X"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "help.x.com",
+                "end": 118,
+                "expanded_url": "http://help.x.com",
+                "start": 95,
+                "url": "https://t.co/EO1OOUj5T5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "help.x.com",
+                "end": 23,
+                "expanded_url": "https://help.x.com",
+                "start": 0,
+                "url": "https://t.co/wzqJpIOEcM"
+              }
+            ]
+          }
+        },
+        "id": "17874544",
+        "name": "Support",
+        "pinned_tweet_id": "1912572496655892718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683508200069296129/KM80Wkfx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6382234,
+          "following_count": 3,
+          "like_count": 481,
+          "listed_count": 14610,
+          "media_count": 273,
+          "tweet_count": 84605
+        },
+        "url": "https://t.co/wzqJpIOEcM",
+        "username": "Support",
+        "verified": true
+      }
+    ]
+  }
+}

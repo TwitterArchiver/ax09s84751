@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2061758027871727681",
+    "created_at": "2026-06-03T02:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T03:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061994502844514362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892789733287460864",
+          "start": 0,
+          "username": "XIAOSUSU456"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2061994502844514362",
+    "in_reply_to_user_id": "1892789733287460864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061758027871727681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIAOSUSU456 哎哟我去，那我也是够冷门了"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2061758027871727681",
+        "created_at": "2026-06-03T02:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061994502844514362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892789733287460864",
+              "start": 0,
+              "username": "XIAOSUSU456"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2061994502844514362",
+        "in_reply_to_user_id": "1892789733287460864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061758027871727681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOSUSU456 哎哟我去，那我也是够冷门了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892789733287460864",
+        "conversation_id": "2061758027871727681",
+        "created_at": "2026-06-02T10:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061758027871727681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061758027871727681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 24573,
+          "like_count": 110,
+          "quote_count": 12,
+          "reply_count": 76,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "跨圈知名度排行(仅部分人物)\nT0(圈外级别):unk 老唐 老任\nT1(圈内顶尖):雪秋 smirnova 冰棍 Rinne 雪風 風轩 南昕 芸光 千夜 \nT2(名声较大):Epheia 小苏打(我) 捌拐玖捌 樱川 柠凉 yuer senzhiwu\nT3(名声中等):WVKI 索瑟尔 猫猫叶 彩椒 宋汐雪 Lvmao mizuki\n由X被关注比例、圈内知名度和圈外曝光度计算"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 1826,
+          "like_count": 2768,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 2489
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T04:13:44.000Z",
+        "description": "家长不管党 年龄党 MtF/X 较社恐\n16岁，高一，不od，不自残，小证含糖\nHRT🍥:2026.04.17 | 友跨友lgbtq+文化 | INFP-T 出生日:2010.3.16\nminecraft丨异环丨铁锈战争玩家\nHTML/Gore/数码/深度二次元/AI\nMTF世界创始人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf-world.com",
+                "end": 23,
+                "expanded_url": "http://mtf-world.com",
+                "start": 0,
+                "url": "https://t.co/wL0Pqnb7i9"
+              }
+            ]
+          }
+        },
+        "id": "1892789733287460864",
+        "name": "_Xiaosuda_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046919261994823935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060953077486858240/uae6848X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 94,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/wL0Pqnb7i9",
+        "username": "XIAOSUSU456",
+        "verified": false
+      }
+    ]
+  }
+}

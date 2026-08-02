@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2052350433893749240",
+    "created_at": "2026-05-07T11:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052352444525682709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027280531097088000",
+          "start": 0,
+          "username": "Lvmaosamaovo"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2052352444525682709",
+    "in_reply_to_user_id": "2027280531097088000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052350433893749240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lvmaosamaovo 我要是被这样了，好吧，我也没招了。。。"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2052350433893749240",
+        "created_at": "2026-05-07T11:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052352444525682709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027280531097088000",
+              "start": 0,
+              "username": "Lvmaosamaovo"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2052352444525682709",
+        "in_reply_to_user_id": "2027280531097088000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052350433893749240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lvmaosamaovo 我要是被这样了，好吧，我也没招了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027280531097088000",
+        "conversation_id": "2052350433893749240",
+        "created_at": "2026-05-07T11:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052350433893749240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052350433893749240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫突然想起了一些不堪回首的过往…\n之前猫猫被爸爸收手机了 然后就偷看我的聊天记录 发现我的qq里有和男生的亲密聊天记录还有“gay” “男娘” “xyn” 这些词🥹 然后就把猫猫拽着打呢😭…\n后来说是要断绝亲子关系 还要跟我妈上法庭之类的… 好可怕😭😭😭\n愿世界和平😇🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 1484,
+          "like_count": 1186,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-27T07:14:07.000Z",
+        "description": "咕咕嘎嘎(๑˃̵ᴗ˂̵) 2011/10/27崭新出厂（mtf\n欢迎同类互fo 所有同类都会回fo喵～ hrt🍥｜2026_4_19\n大！家！快！来！找！我！玩！啊！\n✝︎天使様、ご挨拶申し上げます！✝︎\n✝︎私は天より降り注ぐ光、混沌のネット世界を照らす存在なのです✝︎",
+        "id": "2027280531097088000",
+        "location": "上海精神卫生中心",
+        "name": "☁️Lvmao๑˃̵ᴗ˂̵🍥〜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046302106936897536/wD1z616h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 340,
+          "like_count": 2096,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 751
+        },
+        "username": "Lvmaosamaovo",
+        "verified": false
+      }
+    ]
+  }
+}

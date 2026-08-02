@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2057817915848884680",
+    "created_at": "2026-05-22T13:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057817915848884680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1860552199585300482",
+          "start": 3,
+          "username": "Seven_Eraya"
+        },
+        {
+          "end": 98,
+          "id": "1959893383633358848",
+          "start": 91,
+          "username": "Cbscfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057817915848884680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057555265948676390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seven_Eraya: 2026/5/22 2:30\nCbscfe于家中服用丁二醇剂量(预计6ML+)\n在此前服用3t普瑞巴林\n被我们发现后联系家里人50min后到院就医\n@Cbscfe \n我本来可以更快的让Cbscfe更快的到达医院\n可是我的迟疑 以及Cb平时也使用…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 845,
+        "media_key": "3_2057552399527780352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3lAYibIAAMM2w.png",
+        "width": 523
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2057817915848884680",
+        "created_at": "2026-05-22T13:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057817915848884680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1860552199585300482",
+              "start": 3,
+              "username": "Seven_Eraya"
+            },
+            {
+              "end": 98,
+              "id": "1959893383633358848",
+              "start": 91,
+              "username": "Cbscfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057817915848884680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057555265948676390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seven_Eraya: 2026/5/22 2:30\nCbscfe于家中服用丁二醇剂量(预计6ML+)\n在此前服用3t普瑞巴林\n被我们发现后联系家里人50min后到院就医\n@Cbscfe \n我本来可以更快的让Cbscfe更快的到达医院\n可是我的迟疑 以及Cb平时也使用…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057552399527780352"
+          ]
+        },
+        "author_id": "1860552199585300482",
+        "conversation_id": "2057555265948676390",
+        "created_at": "2026-05-21T20:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T21:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057555265948676390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 81,
+              "id": "1959893383633358848",
+              "start": 74,
+              "username": "Cbscfe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sD3rnJnNtA",
+              "end": 204,
+              "expanded_url": "https://x.com/Seven_Eraya/status/2057555265948676390/photo/1",
+              "media_key": "3_2057552399527780352",
+              "start": 181,
+              "url": "https://t.co/sD3rnJnNtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057555265948676390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 10460,
+          "like_count": 81,
+          "quote_count": 8,
+          "reply_count": 34,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "2026/5/22 2:30\nCbscfe于家中服用丁二醇剂量(预计6ML+)\n在此前服用3t普瑞巴林\n被我们发现后联系家里人50min后到院就医\n@Cbscfe \n我本来可以更快的让Cbscfe更快的到达医院\n可是我的迟疑 以及Cb平时也使用丁二醇让我放下了戒备...\n2026/5/22 3:48\nCbscfe转至ICU\n祝她早日回家...\n我很抱歉... https://t.co/sD3rnJnNtA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 1699,
+          "like_count": 2336,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 2105
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "无证含糖🍥|边缘性人格特质|非典型强迫症|重度抑郁|重度焦虑|性别烦躁|超强易敏体质|已拥盐26.4.8|Hrt Start26.3.7|生产日期12.1.7|已炸柜26.5.9|正在研究 C++11",
+        "id": "1860552199585300482",
+        "name": "Eraya🍥_",
+        "pinned_tweet_id": "2053280846417891698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 155,
+          "like_count": 455,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 328
+        },
+        "username": "Seven_Eraya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 608,
+          "like_count": 23843,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 5574
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

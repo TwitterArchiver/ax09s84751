@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075963061350060032"
+      ],
+      "media_source_tweet_id": [
+        "2076290487154061711"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2076884773583380851",
+    "created_at": "2026-07-14T04:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076884773583380851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1465701247021838341",
+          "start": 3,
+          "username": "show5560"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xZn3gYLBcc",
+          "end": 48,
+          "expanded_url": "https://x.com/show5560/status/2076290487154061711/photo/1",
+          "media_key": "3_2075963061350060032",
+          "start": 25,
+          "url": "https://t.co/xZn3gYLBcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076884773583380851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076290487154061711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @show5560: 为什么这栋楼是亮的🤔 https://t.co/xZn3gYLBcc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_2075963061350060032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9NZ8aaUAAV9Gp.png",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075963061350060032"
+          ],
+          "media_source_tweet_id": [
+            "2076290487154061711"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2076884773583380851",
+        "created_at": "2026-07-14T04:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076884773583380851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1465701247021838341",
+              "start": 3,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZn3gYLBcc",
+              "end": 48,
+              "expanded_url": "https://x.com/show5560/status/2076290487154061711/photo/1",
+              "media_key": "3_2075963061350060032",
+              "start": 25,
+              "url": "https://t.co/xZn3gYLBcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076884773583380851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076290487154061711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @show5560: 为什么这栋楼是亮的🤔 https://t.co/xZn3gYLBcc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075963061350060032"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2076290487154061711",
+        "created_at": "2026-07-12T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076290487154061711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZn3gYLBcc",
+              "end": 34,
+              "expanded_url": "https://x.com/show5560/status/2076290487154061711/photo/1",
+              "media_key": "3_2075963061350060032",
+              "start": 11,
+              "url": "https://t.co/xZn3gYLBcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076290487154061711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 21944,
+          "like_count": 982,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "为什么这栋楼是亮的🤔 https://t.co/xZn3gYLBcc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2075833932537589993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 1796,
+          "like_count": 3144,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 2717
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4901,
+          "following_count": 1732,
+          "like_count": 31128,
+          "listed_count": 13,
+          "media_count": 2248,
+          "tweet_count": 10415
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

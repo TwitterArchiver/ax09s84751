@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2052360588735713451",
+    "created_at": "2026-05-07T12:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052360588735713451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1410841706174455808",
+          "start": 3,
+          "username": "xixikeai_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052360588735713451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051998775611466053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xixikeai_: 真怀念以前的推特，不仅有片看活人味也重，哪像现在评论区一看都是人机我真的哭的恶心，一点刷推的欲望都没有了。一想到你们男生还要跟骗子博弈就挺恶心的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2052360588735713451",
+        "created_at": "2026-05-07T12:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052360588735713451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1410841706174455808",
+              "start": 3,
+              "username": "xixikeai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052360588735713451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051998775611466053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xixikeai_: 真怀念以前的推特，不仅有片看活人味也重，哪像现在评论区一看都是人机我真的哭的恶心，一点刷推的欲望都没有了。一想到你们男生还要跟骗子博弈就挺恶心的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410841706174455808",
+        "conversation_id": "2051998775611466053",
+        "created_at": "2026-05-06T12:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051998775611466053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051998775611466053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 203872,
+          "like_count": 755,
+          "quote_count": 1,
+          "reply_count": 545,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "真怀念以前的推特，不仅有片看活人味也重，哪像现在评论区一看都是人机我真的哭的恶心，一点刷推的欲望都没有了。一想到你们男生还要跟骗子博弈就挺恶心的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 1490,
+          "like_count": 1220,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1476
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-02T06:04:19.000Z",
+        "description": "152r+vx~ 提供满满的情绪价值",
+        "id": "1410841706174455808",
+        "name": "栖栖敲可爱",
+        "pinned_tweet_id": "1774665272907178226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600770625035198464/9PbbUsv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491985,
+          "following_count": 31,
+          "like_count": 901,
+          "listed_count": 515,
+          "media_count": 400,
+          "tweet_count": 1024
+        },
+        "username": "xixikeai_",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

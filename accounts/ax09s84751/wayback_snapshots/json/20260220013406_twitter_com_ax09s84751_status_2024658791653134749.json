@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024439950012535207",
+    "created_at": "2026-02-20T01:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T02:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024658791653134749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1685261233325285376",
+          "start": 0,
+          "username": "caixukun134114"
+        },
+        {
+          "end": 26,
+          "id": "1448545153166180356",
+          "start": 16,
+          "username": "swyxy4484"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024658791653134749",
+    "in_reply_to_user_id": "1685261233325285376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024491288322854960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caixukun134114 @swyxy4484 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024439950012535207",
+        "created_at": "2026-02-20T01:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T02:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024658791653134749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1685261233325285376",
+              "start": 0,
+              "username": "caixukun134114"
+            },
+            {
+              "end": 26,
+              "id": "1448545153166180356",
+              "start": 16,
+              "username": "swyxy4484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024658791653134749",
+        "in_reply_to_user_id": "1685261233325285376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024491288322854960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caixukun134114 @swyxy4484 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685261233325285376",
+        "conversation_id": "2024439950012535207",
+        "created_at": "2026-02-19T14:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024491288322854960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1448545153166180356",
+              "start": 0,
+              "username": "swyxy4484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024491288322854960",
+        "in_reply_to_user_id": "1448545153166180356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11193,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024439950012535207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swyxy4484 中共在简中圈成孙笑川了，啥坏事都是他干的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/偶尔骂骂殖蛆",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 141,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 80
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T12:09:36.000Z",
+        "description": "普通，平淡，稍微沾点建政的日子人，纯情绪输出会拉黑",
+        "id": "1685261233325285376",
+        "location": "安徽，合肥",
+        "name": "万能哈基旅店",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933399946784591872/8l2liLZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 140,
+          "like_count": 10006,
+          "listed_count": 6,
+          "media_count": 298,
+          "tweet_count": 6906
+        },
+        "username": "caixukun134114",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-14T07:04:18.000Z",
+        "description": "出现了多个模仿我号的诈骗账号，他们任何的链接不要点\n防失联小号2，3号机已挂.4号已注册\n\n自干五，会发美好，新闻，体育，蠢坏反华者，奇怪的事和物。\n\n会主动屏蔽我评论区的不文明，蠢坏人士，反向拉黑屏蔽我的\n\n评论区如出现评论完整版在这终于找到后续等不要去点",
+        "id": "1448545153166180356",
+        "name": "无人机咻咻咻",
+        "pinned_tweet_id": "1983425470373999041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809458315736268800/Jad8S-Ow_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217068,
+          "following_count": 292,
+          "like_count": 81231,
+          "listed_count": 490,
+          "media_count": 8954,
+          "tweet_count": 37495
+        },
+        "username": "swyxy4484",
+        "verified": true
+      }
+    ]
+  }
+}

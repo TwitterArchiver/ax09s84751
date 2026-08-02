@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055453861666808317",
+    "created_at": "2026-05-16T01:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055453861666808317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XynUnk/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/XynUnk/status/2055281612343132213",
+          "start": 5,
+          "url": "https://t.co/bKhxlJ2RGK"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055453861666808317",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055281612343132213",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我求你了 https://t.co/bKhxlJ2RGK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055281609117769728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXTu_DboAA_Gro.jpg",
+        "width": 2048
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055453861666808317",
+        "created_at": "2026-05-16T01:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055453861666808317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XynUnk/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/XynUnk/status/2055281612343132213",
+              "start": 5,
+              "url": "https://t.co/bKhxlJ2RGK"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055453861666808317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055281612343132213",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我求你了 https://t.co/bKhxlJ2RGK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055281609117769728"
+          ]
+        },
+        "author_id": "2015213345847300096",
+        "conversation_id": "2055281612343132213",
+        "created_at": "2026-05-15T13:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055281612343132213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CI4QngkCvJ",
+              "end": 35,
+              "expanded_url": "https://x.com/XynUnk/status/2055281612343132213/photo/1",
+              "media_key": "3_2055281609117769728",
+              "start": 12,
+              "url": "https://t.co/CI4QngkCvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055281612343132213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 930,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "21:37 20t晚安 https://t.co/CI4QngkCvJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1657,
+          "like_count": 2068,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 1812
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T00:02:43.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|年龄党+家长不管党|已炸柜|💊oder|生产日期:11.13.2011|161cm52kg75A40码|INFP-T，重度社恐，胆小|初二牲，成绩倒数，休学ing🥰，家里躺尸ing🥰|同类互fo喵～|一代目@UnkXyn|https://t.co/aB65o8oOXI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 133,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 164,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 141,
+                "url": "https://t.co/aB65o8oOXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/2KoP9pAGCu"
+              }
+            ]
+          }
+        },
+        "id": "2015213345847300096",
+        "location": "湖北省-孝感市-汉川市",
+        "name": "Unk~🍥(二代目互fo寻回ing)",
+        "pinned_tweet_id": "2054692978460078311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053140552099749888/BhRMG_MC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 484,
+          "like_count": 519,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/2KoP9pAGCu",
+        "username": "XynUnk",
+        "verified": false
+      }
+    ]
+  }
+}

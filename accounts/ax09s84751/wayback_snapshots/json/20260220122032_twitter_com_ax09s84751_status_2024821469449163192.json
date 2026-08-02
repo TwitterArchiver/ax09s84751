@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024786715865661939",
+    "created_at": "2026-02-20T12:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024821469449163192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975500696427581440",
+          "start": 0,
+          "username": "TReverie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024821469449163192",
+    "in_reply_to_user_id": "1975500696427581440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024786715865661939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TReverie_ 你觉醒一年多了觉醒出啥了，群里还是那几个人吧，户晨风那种高中都考不上的你也当偶像，你是真没啥可崇拜的了是吧，每次看你们这种人说孤独觉醒就想笑，真正孤独的人谁天天上网拉群啊，你自由了，自由到只能窝网上找同类，现实里没人搭理你吧，别装了你不是觉醒你是没混明白，行了不说了你继续醒着吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024786715865661939",
+        "created_at": "2026-02-20T12:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024821469449163192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975500696427581440",
+              "start": 0,
+              "username": "TReverie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024821469449163192",
+        "in_reply_to_user_id": "1975500696427581440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024786715865661939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TReverie_ 你觉醒一年多了觉醒出啥了，群里还是那几个人吧，户晨风那种高中都考不上的你也当偶像，你是真没啥可崇拜的了是吧，每次看你们这种人说孤独觉醒就想笑，真正孤独的人谁天天上网拉群啊，你自由了，自由到只能窝网上找同类，现实里没人搭理你吧，别装了你不是觉醒你是没混明白，行了不说了你继续醒着吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975500696427581440",
+        "conversation_id": "2024786715865661939",
+        "created_at": "2026-02-20T10:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024786715865661939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024786715865661939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1643,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你出生在中共国，你会选择一辈子不看外网成为一个融入基本盘的中共国人，还是会选择当一个像户晨风一样孤独觉醒且自由的灵魂？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 154,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 81
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "“And the universe said I love you because you are love.”",
+        "id": "1975500696427581440",
+        "location": "Ohio, USA",
+        "name": "Tiny Reverie🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2000516104544997765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023995101543104512/aX_mx8Xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5710,
+          "following_count": 1429,
+          "like_count": 17250,
+          "listed_count": 52,
+          "media_count": 1109,
+          "tweet_count": 3776
+        },
+        "username": "TReverie_",
+        "verified": true
+      }
+    ]
+  }
+}

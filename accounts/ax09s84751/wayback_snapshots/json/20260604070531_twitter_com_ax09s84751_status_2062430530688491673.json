@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062405576819154944"
+      ],
+      "media_source_tweet_id": [
+        "2062405600164647028"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2062430530688491673",
+    "created_at": "2026-06-04T07:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062430530688491673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "89421672",
+          "start": 3,
+          "username": "USA_China_Talk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EVIQs3FIiH",
+          "end": 43,
+          "expanded_url": "https://x.com/USA_China_Talk/status/2062405600164647028/photo/1",
+          "media_key": "3_2062405576819154944",
+          "start": 20,
+          "url": "https://t.co/EVIQs3FIiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062430530688491673",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1115
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062405600164647028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @USA_China_Talk: https://t.co/EVIQs3FIiH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2062405576819154944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8i8e0XIAA-M6v.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062405576819154944"
+          ],
+          "media_source_tweet_id": [
+            "2062405600164647028"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2062430530688491673",
+        "created_at": "2026-06-04T07:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062430530688491673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "89421672",
+              "start": 3,
+              "username": "USA_China_Talk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EVIQs3FIiH",
+              "end": 43,
+              "expanded_url": "https://x.com/USA_China_Talk/status/2062405600164647028/photo/1",
+              "media_key": "3_2062405576819154944",
+              "start": 20,
+              "url": "https://t.co/EVIQs3FIiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062430530688491673",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062405600164647028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @USA_China_Talk: https://t.co/EVIQs3FIiH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062405576819154944"
+          ]
+        },
+        "author_id": "89421672",
+        "conversation_id": "2062405600164647028",
+        "created_at": "2026-06-04T05:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062405600164647028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EVIQs3FIiH",
+              "end": 23,
+              "expanded_url": "https://x.com/USA_China_Talk/status/2062405600164647028/photo/1",
+              "media_key": "3_2062405576819154944",
+              "start": 0,
+              "url": "https://t.co/EVIQs3FIiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062405600164647028",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 495,
+          "impression_count": 258030,
+          "like_count": 6329,
+          "quote_count": 112,
+          "reply_count": 600,
+          "retweet_count": 1115
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EVIQs3FIiH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2062097916781797730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 1829,
+          "like_count": 2780,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 2498
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632041,
+          "following_count": 173,
+          "like_count": 11,
+          "listed_count": 4385,
+          "media_count": 468,
+          "tweet_count": 2581
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      }
+    ]
+  }
+}

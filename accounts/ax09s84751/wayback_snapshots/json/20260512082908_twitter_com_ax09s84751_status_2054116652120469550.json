@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054116641269841920"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2054116652120469550",
+    "created_at": "2026-05-12T08:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T09:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054116652120469550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Take the quiz that no one survives. Discover your dumbest possible way to die.",
+          "display_url": "infinitetweet.me/dumb-ways-to-d…",
+          "end": 39,
+          "expanded_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2053799919706910720/CrWngyHS?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2053799919706910720/CrWngyHS?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "Dumb Ways to Die • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+          "url": "https://t.co/Nf6vEZzuze"
+        },
+        {
+          "display_url": "pic.x.com/j7evyqC8eK",
+          "end": 63,
+          "expanded_url": "https://x.com/ax09s84751/status/2054116652120469550/photo/1",
+          "media_key": "3_2054116641269841920",
+          "start": 40,
+          "url": "https://t.co/j7evyqC8eK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054116652120469550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我死的方式和时间\n\n⠀➡️ https://t.co/Nf6vEZzuze https://t.co/j7evyqC8eK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 455,
+        "media_key": "3_2054116641269841920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGwM7obgAAz1Z9.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054116641269841920"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2054116652120469550",
+        "created_at": "2026-05-12T08:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054116652120469550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Take the quiz that no one survives. Discover your dumbest possible way to die.",
+              "display_url": "infinitetweet.me/dumb-ways-to-d…",
+              "end": 39,
+              "expanded_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2053799919706910720/CrWngyHS?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2053799919706910720/CrWngyHS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Dumb Ways to Die • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+              "url": "https://t.co/Nf6vEZzuze"
+            },
+            {
+              "display_url": "pic.x.com/j7evyqC8eK",
+              "end": 63,
+              "expanded_url": "https://x.com/ax09s84751/status/2054116652120469550/photo/1",
+              "media_key": "3_2054116641269841920",
+              "start": 40,
+              "url": "https://t.co/j7evyqC8eK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054116652120469550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我死的方式和时间\n\n⠀➡️ https://t.co/Nf6vEZzuze https://t.co/j7evyqC8eK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtf🏳️‍⚧️？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 1579,
+          "like_count": 1649,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 1633
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

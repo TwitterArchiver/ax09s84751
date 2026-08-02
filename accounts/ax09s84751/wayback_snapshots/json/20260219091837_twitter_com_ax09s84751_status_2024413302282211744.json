@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024413290215219200"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024413302282211744",
+    "created_at": "2026-02-19T09:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024413302282211744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SO6FKprh5x",
+          "end": 23,
+          "expanded_url": "https://x.com/ax09s84751/status/2024413302282211744/photo/1",
+          "media_key": "3_2024413290215219200",
+          "start": 0,
+          "url": "https://t.co/SO6FKprh5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024413302282211744",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/SO6FKprh5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024413290215219200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgpKWHboAA3UJQ.jpg",
+        "width": 652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024413290215219200"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024413302282211744",
+        "created_at": "2026-02-19T09:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024413302282211744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SO6FKprh5x",
+              "end": 23,
+              "expanded_url": "https://x.com/ax09s84751/status/2024413302282211744/photo/1",
+              "media_key": "3_2024413290215219200",
+              "start": 0,
+              "url": "https://t.co/SO6FKprh5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024413302282211744",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SO6FKprh5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 110,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 42
+        },
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

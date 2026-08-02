@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2046170129692823877",
+    "created_at": "2026-04-20T15:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046249013939458244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "TeamRain_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046249013939458244",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046170129692823877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeamRain_2024 品味可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1432,
+        "media_key": "3_2046170127486558208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGV0487aIAAAXqK.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2046170129692823877",
+        "created_at": "2026-04-20T15:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046249013939458244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "TeamRain_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046249013939458244",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046170129692823877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeamRain_2024 品味可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046170127486558208"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "2046170129692823877",
+        "created_at": "2026-04-20T10:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046170129692823877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hm7oIwglUx",
+              "end": 49,
+              "expanded_url": "https://x.com/TeamRain_2024/status/2046170129692823877/photo/1",
+              "media_key": "3_2046170127486558208",
+              "start": 26,
+              "url": "https://t.co/hm7oIwglUx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046170129692823877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 615,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉这首歌简直就是一件艺术品\n是我最喜欢的一首歌 https://t.co/hm7oIwglUx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 1167,
+          "like_count": 756,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 826
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴.",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045274685164949504/jv-Rj4Eo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9659,
+          "following_count": 926,
+          "like_count": 78128,
+          "listed_count": 19,
+          "media_count": 1554,
+          "tweet_count": 11011
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "TeamRain_2024",
+        "verified": true
+      }
+    ]
+  }
+}

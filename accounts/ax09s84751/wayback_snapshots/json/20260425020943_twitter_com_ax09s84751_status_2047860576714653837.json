@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2047860576714653837",
+    "created_at": "2026-04-25T02:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T03:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047860576714653837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1588829429333037056",
+          "start": 3,
+          "username": "435hz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047860576714653837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047603451954364535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @435hz: 真正的生命管理，是放下自我感动的伪自律，每天保证8小时睡眠、远离垃圾食品、适度运动，别给心脏找麻烦，健康的活着才是真正的自律。\n\n活着，健康的有质量的活着，永远是第一位。\n你死了，世界就与你无关了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2047860576714653837",
+        "created_at": "2026-04-25T02:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047860576714653837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1588829429333037056",
+              "start": 3,
+              "username": "435hz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047860576714653837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047603451954364535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @435hz: 真正的生命管理，是放下自我感动的伪自律，每天保证8小时睡眠、远离垃圾食品、适度运动，别给心脏找麻烦，健康的活着才是真正的自律。\n\n活着，健康的有质量的活着，永远是第一位。\n你死了，世界就与你无关了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588829429333037056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2047603451954364535",
+        "created_at": "2026-04-24T09:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047603451954364535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047603451954364535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 5006,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "真正的生命管理，是放下自我感动的伪自律，每天保证8小时睡眠、远离垃圾食品、适度运动，别给心脏找麻烦，健康的活着才是真正的自律。\n\n活着，健康的有质量的活着，永远是第一位。\n你死了，世界就与你无关了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 1301,
+          "like_count": 825,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 980
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-05T09:44:16.000Z",
+        "description": "三角眼观天下，覆船口吞乾坤。\n天纵英才，献忠回来。\n仅在X有账号，其它平台不是本人。",
+        "id": "1588829429333037056",
+        "name": "章工",
+        "pinned_tweet_id": "2046766689044291901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591818969236717569/q95i8uvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118310,
+          "following_count": 90,
+          "like_count": 6739,
+          "listed_count": 686,
+          "media_count": 2239,
+          "tweet_count": 19313
+        },
+        "username": "435hz",
+        "verified": false
+      }
+    ]
+  }
+}

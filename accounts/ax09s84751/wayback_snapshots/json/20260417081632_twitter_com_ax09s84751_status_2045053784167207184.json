@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2044736536814711246",
+    "created_at": "2026-04-17T08:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T09:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045053784167207184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803314964284985344",
+          "start": 0,
+          "username": "jinluomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045053784167207184",
+    "in_reply_to_user_id": "1803314964284985344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044736536814711246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinluomiao 5000 两根内存条完事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2044736536814711246",
+        "created_at": "2026-04-17T08:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045053784167207184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803314964284985344",
+              "start": 0,
+              "username": "jinluomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045053784167207184",
+        "in_reply_to_user_id": "1803314964284985344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044736536814711246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinluomiao 5000 两根内存条完事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803314964284985344",
+        "conversation_id": "2044736536814711246",
+        "created_at": "2026-04-16T11:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044736536814711246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044736536814711246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 639,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有配电脑的，可以找我哦。。。不接线下。。。可以给出一点建议"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 901,
+          "like_count": 590,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 705
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-19T06:32:58.000Z",
+        "description": "阿瑾。。。笨蛋阿瑾\n05年-05日-05月\nINFP\n有主人啦。\n休学中\n情绪状况良好\n调养身体中\n170cm-72kg\n互fo请私信我哦\n幻想友一：大洛洛\n幻想友二：小渺渺\n小号：@jinluomiao5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "jinluomiao5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinluomiao2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinluomiao2",
+                "start": 0,
+                "url": "https://t.co/k5FIDi3qlJ"
+              }
+            ]
+          }
+        },
+        "id": "1803314964284985344",
+        "location": "主人需要阿瑾的每一个地方",
+        "name": "小阿瑾（笨蛋版）",
+        "pinned_tweet_id": "2032833985257287964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038122196045045760/v8L3Bn_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3718,
+          "following_count": 820,
+          "like_count": 23300,
+          "listed_count": 5,
+          "media_count": 290,
+          "tweet_count": 5111
+        },
+        "url": "https://t.co/k5FIDi3qlJ",
+        "username": "jinluomiao",
+        "verified": false
+      }
+    ]
+  }
+}

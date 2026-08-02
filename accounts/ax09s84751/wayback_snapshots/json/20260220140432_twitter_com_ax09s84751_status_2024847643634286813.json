@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2020097710129553525",
+    "created_at": "2026-02-20T14:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T15:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024847643634286813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1961108186255298562",
+          "start": 0,
+          "username": "libngzhnxn27581"
+        },
+        {
+          "end": 32,
+          "id": "1260553941714186241",
+          "start": 17,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024847643634286813",
+    "in_reply_to_user_id": "1961108186255298562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024843316463030657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libngzhnxn27581 @whyyoutouzhele 喜欢寿司不代表喜欢靖国神社，照你这逻辑吃意面就得支持黑手党是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2020097710129553525",
+        "created_at": "2026-02-20T14:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024847643634286813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1961108186255298562",
+              "start": 0,
+              "username": "libngzhnxn27581"
+            },
+            {
+              "end": 32,
+              "id": "1260553941714186241",
+              "start": 17,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024847643634286813",
+        "in_reply_to_user_id": "1961108186255298562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024843316463030657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libngzhnxn27581 @whyyoutouzhele 喜欢寿司不代表喜欢靖国神社，照你这逻辑吃意面就得支持黑手党是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961108186255298562",
+        "conversation_id": "2020097710129553525",
+        "created_at": "2026-02-20T13:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024843316463030657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            },
+            {
+              "end": 27,
+              "id": "1260553941714186241",
+              "start": 12,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024843316463030657",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024834176600739986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 @whyyoutouzhele 那我像那群傻逼ch那样国家拟人反日吗🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 156,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 96
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T16:46:50.000Z",
+        "description": "伟大牢a杀人论告诉我们反共集团是年日剧增的\n厅级以下按30%开屠如果听话那就做成肥皂不听话全部做放绞肉机做成猪饲料\n因为我们政党的名字就叫做中国特色杀人主义是官僚主义的一种\n官僚主义就是除了厅级以下的人其他低级直立人都是都是需要被清除掉的其他贱民均为二等贱民在其他国家同样存在比如朝鲜，这样中国人才能俯瞰世界才能只支不殖",
+        "id": "1961108186255298562",
+        "location": "文明真理传教士",
+        "name": "真左真寻official",
+        "pinned_tweet_id": "2017704313171415077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961108294459904000/e2Iox8CZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 1135,
+          "like_count": 3247,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 1419
+        },
+        "username": "libngzhnxn27581",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192765,
+          "following_count": 1016,
+          "like_count": 9020,
+          "listed_count": 8561,
+          "media_count": 41757,
+          "tweet_count": 48766
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048657627551555940",
+    "created_at": "2026-04-27T11:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048721953335460102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847712034361659392",
+          "start": 0,
+          "username": "huaxuejilebaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048721953335460102",
+    "in_reply_to_user_id": "1847712034361659392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048657627551555940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaxuejilebaike 语气有点像豆包。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1738,
+        "media_key": "3_2048657452741337088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5LGVkaoAAyz7k.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048657627551555940",
+        "created_at": "2026-04-27T11:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048721953335460102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847712034361659392",
+              "start": 0,
+              "username": "huaxuejilebaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048721953335460102",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048657627551555940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaxuejilebaike 语气有点像豆包。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048657452741337088"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2048657627551555940",
+        "created_at": "2026-04-27T06:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048657627551555940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "⚠️ 最重要的一句先说在最前面： 一旦怀疑有人因为摄入亚硝酸钠 / 亚硝酸盐而中毒，第一步永远是：立刻拨打 120（或当地急救电话）。 请以急救调度员和医生的指示为最高优先级，本页面只是帮你把他们可能会说的话讲得更清楚、更有条理，不能代替专业诊断和治疗。 使用说明 适用范围 本页面向两类人：1）旁人 / 朋友 / 家属：刚发现有人吞了亚硝酸盐；2）本人：你自己刚吞了亚硝酸盐，还能看手机、还能做决...",
+              "display_url": "jile.bid/%E6%80%A5%E6%9…",
+              "end": 35,
+              "expanded_url": "https://jile.bid/%E6%80%A5%E6%95%91%E6%8C%87%E5%8D%97/1287.html",
+              "start": 12,
+              "status": 200,
+              "title": "亚硝酸钠（亚硝酸盐）中毒现场急救指南（旁人优先版）",
+              "unwound_url": "https://jile.bid/%E6%80%A5%E6%95%91%E6%8C%87%E5%8D%97/1287.html",
+              "url": "https://t.co/U9WuO3lpu4"
+            },
+            {
+              "display_url": "pic.x.com/YEMRcNMDGI",
+              "end": 59,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2048657627551555940/photo/1",
+              "media_key": "3_2048657452741337088",
+              "start": 36,
+              "url": "https://t.co/YEMRcNMDGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048657627551555940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 218,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更新亚硝酸钠救助指南\n\nhttps://t.co/U9WuO3lpu4 https://t.co/YEMRcNMDGI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 1354,
+          "like_count": 893,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1109
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/DF7NTAL0F9 TG交流群：https://t.co/ngKDwwK3ao DC交流群：https://t.co/Zb0fsL464g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/DF7NTAL0F9"
+              },
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 56,
+                "expanded_url": "http://t.me/weizhanersheng666",
+                "start": 33,
+                "url": "https://t.co/ngKDwwK3ao"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/Zb0fsL464g"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "化学极乐百科⚛️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 923,
+          "like_count": 24303,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 2886
+        },
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024162805054918893",
+    "created_at": "2026-02-20T00:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T01:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024644364119765314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        },
+        {
+          "end": 21,
+          "id": "1581478431274983424",
+          "start": 10,
+          "username": "yoyobewild"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024644364119765314",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024510946677576170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne @yoyobewild 字多就是AI，字少就是理亏，你们到底要我怎样？行我少打点，你爹我真人，就骂你了，怎么着吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024162805054918893",
+        "created_at": "2026-02-20T00:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T01:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024644364119765314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            },
+            {
+              "end": 21,
+              "id": "1581478431274983424",
+              "start": 10,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024644364119765314",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024510946677576170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne @yoyobewild 字多就是AI，字少就是理亏，你们到底要我怎样？行我少打点，你爹我真人，就骂你了，怎么着吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247054463329656832",
+        "conversation_id": "2024162805054918893",
+        "created_at": "2026-02-19T15:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024510946677576170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            },
+            {
+              "end": 23,
+              "id": "1581478431274983424",
+              "start": 12,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024510946677576170",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024479218302931269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 @yoyobewild 政府不是公共组织是私人组织？\n\nAI味大熏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵/看od精神科圈/坚持跟随党的领导/偶尔骂骂殖人",
+        "id": "2022153081031733252",
+        "location": "中华人民共和国",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 129,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 63
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "Knowledge is кии to the universe｜they SAD 👾愛數碼/科幻/策略/音游｜🏳️‍🌈bi(pan)｜🌹🏴Chaos Left 自由•平等•民主｜🌐漢語 吴、普/English OK/日本語 勉強中｜🌌PER ASPERA AD ASTRA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qnacc",
+                "end": 23,
+                "expanded_url": "http://t.me/qnacc",
+                "start": 0,
+                "url": "https://t.co/fofrUB1su9"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "Freedom Territory of QNA",
+        "name": "neⒶστήρ |星ない🇺🇳",
+        "pinned_tweet_id": "1987440923995988466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015318609091026944/HsmCBNSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 826,
+          "like_count": 68896,
+          "listed_count": 5,
+          "media_count": 781,
+          "tweet_count": 11047
+        },
+        "url": "https://t.co/fofrUB1su9",
+        "username": "quasarne",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4651,
+          "following_count": 194,
+          "like_count": 32848,
+          "listed_count": 17,
+          "media_count": 363,
+          "tweet_count": 7570
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

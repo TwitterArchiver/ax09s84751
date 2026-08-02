@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055456961492304341",
+    "created_at": "2026-05-16T01:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055456961492304341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Minako8964/sta…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Minako8964/status/2055302109596463271",
+          "start": 27,
+          "url": "https://t.co/I6KZdcfqq5"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055456961492304341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055302109596463271",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "流量终于淡下来了，其实和互关平平淡淡地过日子就挺好的 https://t.co/I6KZdcfqq5"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055456961492304341",
+        "created_at": "2026-05-16T01:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055456961492304341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minako8964/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Minako8964/status/2055302109596463271",
+              "start": 27,
+              "url": "https://t.co/I6KZdcfqq5"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055456961492304341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055302109596463271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "流量终于淡下来了，其实和互关平平淡淡地过日子就挺好的 https://t.co/I6KZdcfqq5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973430266124541952",
+        "conversation_id": "2055302109596463271",
+        "created_at": "2026-05-15T14:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055302109596463271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055302109596463271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1708,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "流量终于淡下来了，其实和互关平平淡淡地过日子就挺好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 1657,
+          "like_count": 2071,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 1831
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T16:50:30.000Z",
+        "description": "可以叫我寿司🍣不安会屏蔽，此号起到一个墓碑的作用，想互关和私联直接来找我就可以啦\n 这个是匿名问答⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 0,
+                "url": "https://t.co/qNfVsLe4XR"
+              }
+            ]
+          }
+        },
+        "id": "1973430266124541952",
+        "name": "芝士二明治🥪",
+        "pinned_tweet_id": "2052037542984466641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053769022324568064/pXKM1Q-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 249,
+          "like_count": 35417,
+          "listed_count": 4,
+          "media_count": 328,
+          "tweet_count": 4941
+        },
+        "url": "https://t.co/qNfVsLe4XR",
+        "username": "Minako8964",
+        "verified": false
+      }
+    ]
+  }
+}

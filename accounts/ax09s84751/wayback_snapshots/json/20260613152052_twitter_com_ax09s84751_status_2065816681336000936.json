@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2065816681336000936",
+    "created_at": "2026-06-13T15:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065816681336000936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Viki211027/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Viki211027/status/2065703677084713177",
+          "start": 13,
+          "url": "https://t.co/ocYAzGlT94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065816681336000936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065703677084713177",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "盲猜一波是任成轩🤣🤣🤣🤣 https://t.co/ocYAzGlT94"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2065816681336000936",
+        "created_at": "2026-06-13T15:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065816681336000936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Viki211027/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Viki211027/status/2065703677084713177",
+              "start": 13,
+              "url": "https://t.co/ocYAzGlT94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065816681336000936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065703677084713177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "盲猜一波是任成轩🤣🤣🤣🤣 https://t.co/ocYAzGlT94"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013100592202194945",
+        "conversation_id": "2065703677084713177",
+        "created_at": "2026-06-13T07:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065703677084713177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065703677084713177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8370,
+          "like_count": 73,
+          "quote_count": 6,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正式宣布：我选择脱跨，回归原生生理性别。\n回望之前的性别焦虑、身份认同挣扎，是漫长且内耗的自我内耗。经过长期反复的自我审视、心理梳理，确认自身并非跨性别，只是阶段性的自我认知偏差。\n感谢所有曾经理解、陪伴我的人，也接纳过去迷茫的自己。\n往后以原生性别好好生活，祝我们都能和自己和解。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）+ Seve\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 124,
+                "username": "Echo42es"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2062097916781797730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 1811,
+          "like_count": 2870,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 2555
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-19T04:06:07.000Z",
+        "description": "ENTP/10年1月/想和对象永远在一起/长相拟人/双向情感障碍/老婆@xieerfan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "xieerfan"
+              }
+            ]
+          }
+        },
+        "id": "2013100592202194945",
+        "name": "Dr土豆尼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064357476729073664/r6hYsU_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 22,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 280
+        },
+        "username": "Viki211027",
+        "verified": false
+      }
+    ]
+  }
+}

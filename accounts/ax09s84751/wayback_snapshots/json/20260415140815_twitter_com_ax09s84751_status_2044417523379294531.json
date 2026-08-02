@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2044417523379294531",
+    "created_at": "2026-04-15T14:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T15:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044417523379294531"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amecandy_x/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/amecandy_x/status/2044289717915791752",
+          "start": 8,
+          "url": "https://t.co/ZLS5HIwj2M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044417523379294531",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044289717915791752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一盒74？？😦 https://t.co/ZLS5HIwj2M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2044289712521871360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7GqZTaAAA-V8Z.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2044417523379294531",
+        "created_at": "2026-04-15T14:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044417523379294531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2044289717915791752",
+              "start": 8,
+              "url": "https://t.co/ZLS5HIwj2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044417523379294531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044289717915791752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一盒74？？😦 https://t.co/ZLS5HIwj2M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044289712521871360"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2044289717915791752",
+        "created_at": "2026-04-15T05:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044289717915791752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cmLp9VKtIl",
+              "end": 41,
+              "expanded_url": "https://x.com/amecandy_x/status/2044289717915791752/photo/1",
+              "media_key": "3_2044289712521871360",
+              "start": 18,
+              "url": "https://t.co/cmLp9VKtIl"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2044289717915791752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4363,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药片是后天达的，晶哥是当日达的（） https://t.co/cmLp9VKtIl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 723,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药百GPT开发者 / 抽烟嗑药",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6062,
+          "following_count": 2101,
+          "like_count": 27033,
+          "listed_count": 15,
+          "media_count": 1408,
+          "tweet_count": 10061
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

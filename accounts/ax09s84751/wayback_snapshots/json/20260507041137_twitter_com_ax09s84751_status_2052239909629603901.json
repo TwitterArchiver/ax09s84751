@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051596795365797888"
+      ],
+      "media_source_tweet_id": [
+        "2051596804836503993"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2052239909629603901",
+    "created_at": "2026-05-07T04:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052239909629603901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1714571705694420992",
+          "start": 3,
+          "username": "Ayuki_Believe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FkAHE5rqSd",
+          "end": 47,
+          "expanded_url": "https://x.com/Ayuki_Believe/status/2051596804836503993/photo/1",
+          "media_key": "3_2051596795365797888",
+          "start": 24,
+          "url": "https://t.co/FkAHE5rqSd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052239909629603901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051596804836503993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayuki_Believe: 很难不笑 https://t.co/FkAHE5rqSd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1592,
+        "media_key": "3_2051596795365797888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHi8amIbsAAPlVh.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051596795365797888"
+          ],
+          "media_source_tweet_id": [
+            "2051596804836503993"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2052239909629603901",
+        "created_at": "2026-05-07T04:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052239909629603901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1714571705694420992",
+              "start": 3,
+              "username": "Ayuki_Believe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FkAHE5rqSd",
+              "end": 47,
+              "expanded_url": "https://x.com/Ayuki_Believe/status/2051596804836503993/photo/1",
+              "media_key": "3_2051596795365797888",
+              "start": 24,
+              "url": "https://t.co/FkAHE5rqSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052239909629603901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051596804836503993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ayuki_Believe: 很难不笑 https://t.co/FkAHE5rqSd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051596795365797888"
+          ]
+        },
+        "author_id": "1714571705694420992",
+        "conversation_id": "2051596804836503993",
+        "created_at": "2026-05-05T09:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051596804836503993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FkAHE5rqSd",
+              "end": 28,
+              "expanded_url": "https://x.com/Ayuki_Believe/status/2051596804836503993/photo/1",
+              "media_key": "3_2051596795365797888",
+              "start": 5,
+              "url": "https://t.co/FkAHE5rqSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051596804836503993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 250,
+          "impression_count": 1119716,
+          "like_count": 6704,
+          "quote_count": 12,
+          "reply_count": 1539,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "很难不笑 https://t.co/FkAHE5rqSd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 1485,
+          "like_count": 1151,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1444
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-18T09:19:08.000Z",
+        "description": "一个抽象可爱碎碎念高强度冲浪小女孩 喜欢分享自己的一切 （中文繁體English ok） 🫶爱人：@Takitsuki_Shoko| 🥰好妹妹： @Kisen0v0| 碎碎念小号 @Ayuki_Rotsuki 欢迎扩列",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "Takitsuki_Shoko"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "Kisen0v0"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Ayuki_Rotsuki"
+              }
+            ]
+          }
+        },
+        "id": "1714571705694420992",
+        "location": "美乐蒂家",
+        "name": "TekeliLi_iLilekeT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022602123947741184/iEGRxH1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3687,
+          "following_count": 515,
+          "like_count": 9129,
+          "listed_count": 8,
+          "media_count": 1321,
+          "tweet_count": 3819
+        },
+        "url": "",
+        "username": "Ayuki_Believe",
+        "verified": false
+      }
+    ]
+  }
+}

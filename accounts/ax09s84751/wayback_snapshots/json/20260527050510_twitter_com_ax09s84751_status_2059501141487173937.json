@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059501128782589952"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2058179430204444944",
+    "created_at": "2026-05-27T05:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059501141487173937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 25,
+          "id": "1811384610749874176",
+          "start": 16,
+          "username": "wgddking"
+        },
+        {
+          "end": 33,
+          "id": "1856689219764203520",
+          "start": 26,
+          "username": "cmrn_v"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j0QiHzW2HD",
+          "end": 57,
+          "expanded_url": "https://x.com/ax09s84751/status/2059501141487173937/photo/1",
+          "media_key": "3_2059501128782589952",
+          "start": 34,
+          "url": "https://t.co/j0QiHzW2HD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059501141487173937",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058185339500691752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CyberKanjousen @wgddking @cmrn_v https://t.co/j0QiHzW2HD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1235,
+        "media_key": "3_2059501128782589952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTRXWuaMAAS6xL.jpg",
+        "width": 1926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059501128782589952"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2058179430204444944",
+        "created_at": "2026-05-27T05:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059501141487173937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 25,
+              "id": "1811384610749874176",
+              "start": 16,
+              "username": "wgddking"
+            },
+            {
+              "end": 33,
+              "id": "1856689219764203520",
+              "start": 26,
+              "username": "cmrn_v"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j0QiHzW2HD",
+              "end": 57,
+              "expanded_url": "https://x.com/ax09s84751/status/2059501141487173937/photo/1",
+              "media_key": "3_2059501128782589952",
+              "start": 34,
+              "url": "https://t.co/j0QiHzW2HD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059501141487173937",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058185339500691752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen @wgddking @cmrn_v https://t.co/j0QiHzW2HD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2058179430204444944",
+        "created_at": "2026-05-23T13:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058185339500691752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811384610749874176",
+              "start": 0,
+              "username": "wgddking"
+            },
+            {
+              "end": 17,
+              "id": "1856689219764203520",
+              "start": 10,
+              "username": "cmrn_v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058185339500691752",
+        "in_reply_to_user_id": "1811384610749874176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3394,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058184149773816227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@wgddking @cmrn_v 给你脸了，滚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1823,
+          "like_count": 2590,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 2265
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4184,
+          "following_count": 850,
+          "like_count": 22441,
+          "listed_count": 11,
+          "media_count": 1193,
+          "tweet_count": 6659
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "声明\n本人支持中国特色社会主义\n本人无条件支持中国共产党的领导\n本人敬爱伟大的总书记习近平主席\n本人坚持邓公的十个如果 支持改革开放\n本人无条件支持中国共产党的任何决策\n支持一個中國原則\n恩師@Cyberkanjousen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "Cyberkanjousen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "location": "Hitachi-shi, Ibaraki",
+        "name": "wgdd（恩师環狀線）",
+        "pinned_tweet_id": "2058881430311309626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 84,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 2413
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T13:23:08.000Z",
+        "description": "06 大二                        \n认知｜搞钱｜增长                       \n合作｜进社群➕v：engengeng_123",
+        "id": "1856689219764203520",
+        "name": "Cameron 卡卡",
+        "pinned_tweet_id": "2052676305410490529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856964711750774784/J_TxoPNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 253,
+          "like_count": 4442,
+          "listed_count": 8,
+          "media_count": 275,
+          "tweet_count": 3543
+        },
+        "username": "cmrn_v",
+        "verified": true
+      }
+    ]
+  }
+}

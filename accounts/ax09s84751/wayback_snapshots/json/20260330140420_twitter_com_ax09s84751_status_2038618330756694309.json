@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2038618330756694309",
+    "created_at": "2026-03-30T14:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038618330756694309"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fayoubaike003/…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/fayoubaike003/status/2038617945090461886",
+          "start": 34,
+          "url": "https://t.co/u3qIOHoE9p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038618330756694309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038617945090461886",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想要可可爱爱的就对自己身体好点呀。\n不要拿着小刀对着自己啦～•᎔• https://t.co/u3qIOHoE9p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2038618330756694309",
+        "created_at": "2026-03-30T14:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038618330756694309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fayoubaike003/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/fayoubaike003/status/2038617945090461886",
+              "start": 34,
+              "url": "https://t.co/u3qIOHoE9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038618330756694309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038617945090461886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想要可可爱爱的就对自己身体好点呀。\n不要拿着小刀对着自己啦～•᎔• https://t.co/u3qIOHoE9p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920438493647368192",
+        "conversation_id": "2038613227345748426",
+        "created_at": "2026-03-30T14:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038617945090461886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038617945090461886",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038613794478588099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 包的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf/爱看od圈/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 650,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 302
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T11:20:03.000Z",
+        "description": "+86 137 3719 8964 | cosplayer | ﮩ٨ـﮩﮩ٨ـ♡ﮩﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ﮩ෴ﮩ_____ | 地雷系女孩 ‼️⚠️自傷⚠️‼️ ┊︎工口❌‼️备战中考‼️| 注意：本人不卖图包不援交不卖原味也不约 | 下体男滚开",
+        "id": "1920438493647368192",
+        "name": "法友百科",
+        "pinned_tweet_id": "2036728295350587636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036779484662423552/lyLmmGPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 105,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 62
+        },
+        "username": "fayoubaike003",
+        "verified": false
+      }
+    ]
+  }
+}

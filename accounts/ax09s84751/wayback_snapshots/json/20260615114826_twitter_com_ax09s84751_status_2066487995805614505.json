@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2066424718388019218",
+    "created_at": "2026-06-15T11:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T12:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066487995805614505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1291704894211186689",
+          "start": 0,
+          "username": "AZLXY1"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2066487995805614505",
+    "in_reply_to_user_id": "1291704894211186689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066481234981884333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AZLXY1 精品神药🤔😨😋"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2066424718388019218",
+        "created_at": "2026-06-15T11:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066487995805614505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1291704894211186689",
+              "start": 0,
+              "username": "AZLXY1"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2066487995805614505",
+        "in_reply_to_user_id": "1291704894211186689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066481234981884333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AZLXY1 精品神药🤔😨😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291704894211186689",
+        "conversation_id": "2066424718388019218",
+        "created_at": "2026-06-15T11:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066481234981884333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066481234981884333",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066424718388019218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 提醒我了我也得跑广济拿精品神药了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echo42es"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2062097916781797730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065816996605005824/yyrl8vBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 1824,
+          "like_count": 2880,
+          "listed_count": 1,
+          "media_count": 323,
+          "tweet_count": 2560
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-07T11:57:12.000Z",
+        "description": "Chinese,like playing video games and watching Japanese animeゲームとアニメが好きです、よろしく\n想要积极生活但发现自己是烂人，总之尽力在积极生活了\n自伤od药物滥用存在，无性恋倾向（有浪漫倾向）可以的话请fo我喵 ฅ^•ω•^ฅ\n总之会发很多碎碎念和药物",
+        "id": "1291704894211186689",
+        "name": "Arin 是一条咸鱼(ฅ˘꒳˘ฅ)",
+        "pinned_tweet_id": "2025236333711818830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 580,
+          "like_count": 1126,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1538
+        },
+        "username": "AZLXY1",
+        "verified": false
+      }
+    ]
+  }
+}

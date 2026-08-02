@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2052829330456388054",
+    "created_at": "2026-05-09T07:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053020193656611013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2053020193656611013",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052829330456388054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup bluesky 太小了 本来中推就够小了。"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2052829330456388054",
+        "created_at": "2026-05-09T07:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053020193656611013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2053020193656611013",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052829330456388054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup bluesky 太小了 本来中推就够小了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2052829330456388054",
+        "created_at": "2026-05-08T19:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T20:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052829330456388054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/keso03111314sx…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/keso03111314sxh/status/2052814595509964926",
+              "start": 33,
+              "url": "https://t.co/oYEOAXZXaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052829330456388054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2783,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052814595509964926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想发雪图的老师们可以去bluesky，和推特很相似，可以发雪图！ https://t.co/oYEOAXZXaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 1525,
+          "like_count": 1306,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1529
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2053012579740696617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 3687,
+          "like_count": 34012,
+          "listed_count": 4,
+          "media_count": 368,
+          "tweet_count": 9098
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

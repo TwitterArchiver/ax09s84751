@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024761284101885954"
+      ],
+      "media_source_tweet_id": [
+        "2024761292280779019"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2024853657918071261",
+    "created_at": "2026-02-20T14:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T15:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024853657918071261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014799643159494658",
+          "start": 3,
+          "username": "qiqin239298"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fwoCr7lzWm",
+          "end": 60,
+          "expanded_url": "https://x.com/qiqin239298/status/2024761292280779019/photo/1",
+          "media_key": "3_2024761284101885954",
+          "start": 37,
+          "url": "https://t.co/fwoCr7lzWm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024853657918071261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024761292280779019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiqin239298: 之前拿这四个联用，然后抱着马桶吐了一天 https://t.co/fwoCr7lzWm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024853657918071261].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024853657918071261",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024853657918071261"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2024761284101885954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBllqQXbUAIanBN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024761284101885954"
+          ]
+        },
+        "author_id": "2014799643159494658",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024761292280779019",
+        "created_at": "2026-02-20T08:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024761292280779019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwoCr7lzWm",
+              "end": 43,
+              "expanded_url": "https://x.com/qiqin239298/status/2024761292280779019/photo/1",
+              "media_key": "3_2024761284101885954",
+              "start": 20,
+              "url": "https://t.co/fwoCr7lzWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024761292280779019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前拿这四个联用，然后抱着马桶吐了一天 https://t.co/fwoCr7lzWm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 161,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 100
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T20:37:34.000Z",
+        "description": "08| Ftx 精神病|hsp 单机life 无害无需清洗可即食 od|sh|ed ht160 cw39 gw36 自毁倾向 社交障碍 休学 除非被吞了看不到基本都会回",
+        "id": "2014799643159494658",
+        "location": "可口美味的小衍",
+        "name": "反流性食管炎",
+        "pinned_tweet_id": "2020003072748216343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017542698757197824/Y9J32OS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 171,
+          "like_count": 4811,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 517
+        },
+        "username": "qiqin239298",
+        "verified": false
+      }
+    ]
+  }
+}

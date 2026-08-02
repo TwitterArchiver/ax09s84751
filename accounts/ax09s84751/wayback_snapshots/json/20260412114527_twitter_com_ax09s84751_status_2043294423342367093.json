@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2043294423342367093",
+    "created_at": "2026-04-12T11:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043294423342367093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CyberKanjousen…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/CyberKanjousen/status/2043236790329643063",
+          "start": 5,
+          "url": "https://t.co/cG4tSTJU3g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043294423342367093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043236790329643063",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这集神了 https://t.co/cG4tSTJU3g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2043294423342367093",
+        "created_at": "2026-04-12T11:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043294423342367093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2043236790329643063",
+              "start": 5,
+              "url": "https://t.co/cG4tSTJU3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043294423342367093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043236790329643063",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这集神了 https://t.co/cG4tSTJU3g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2043236790329643063",
+        "created_at": "2026-04-12T07:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043236790329643063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043236790329643063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 22938,
+          "like_count": 600,
+          "quote_count": 7,
+          "reply_count": 34,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢做人格测试题的有福了，今年6月有个测试你适合哪个大学的测试题，想做的可以去试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 691,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2043213232698196203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 414,
+          "like_count": 12365,
+          "listed_count": 4,
+          "media_count": 819,
+          "tweet_count": 4299
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

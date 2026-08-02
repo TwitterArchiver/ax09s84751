@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061289402886991872"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2061291568376717562",
+    "created_at": "2026-06-01T03:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061291568376717562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3z3QhlQj27",
+          "end": 173,
+          "expanded_url": "https://x.com/ax09s84751/status/2061291568376717562/photo/1",
+          "media_key": "3_2061289402886991872",
+          "start": 150,
+          "url": "https://t.co/3z3QhlQj27"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2061291568376717562",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {},
+      "text": "期待なんてされてない\n并没有没被期待\nできない\n没法被期待\nいらない\n也不需要期待\n\n見ないフリして損じゃないかい？装作没看见的样子 就不是一种损失吗？\n『そんなことは思ってもないクセに！！！』\n「你心里明明根本就不是这么想的！！！」\n“キライ”なんて限りない\n“讨厌”这种心情 永无止尽\n言えない\n没法言说\n\nin the night\n痛い痛いが飛んでいかない\n那痛痛的感觉 怎么也飞不走\nもう許してよ\n求求你 饶了我吧！\nPlease don't tell me a lie!\nお嫌い？\n讨厌吗？\n知らない！\n谁知道啊！\nSo I deny.\nいないいないばあっ\n躲起来 不见了！\n\nキライな色の服で着飾って\n身穿讨厌颜色的衣服 盛装打扮\n泥みたいな頭で笑っては泣いて\n大脑如烂泥般笑着又哭着\n姿見の前で中指立てる\n站在全身镜前 笔起中指\n愛おしくたまらないアナタへ\n送给那位 让我爱到无法自拔的“你”....."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "期待なんてされてない\n并没有没被期待\nできない\n没法被期待\nいらない\n也不需要期待\n\n見ないフリして損じゃないかい？装作没看见的样子 就不是一种损失吗？\n『そんなことは思ってもないクセに！！！』\n「你心里明明根本就不是这么想的！！！」\n“キライ”なんて限りない\n“讨厌”这种心情 永无止尽\n言えない https://t.co/3z3QhlQj27"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2061289402886991872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsrym5bMAAiI-S.jpg",
+        "width": 1175
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061289402886991872"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2061291568376717562",
+        "created_at": "2026-06-01T03:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061291568376717562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3z3QhlQj27",
+              "end": 173,
+              "expanded_url": "https://x.com/ax09s84751/status/2061291568376717562/photo/1",
+              "media_key": "3_2061289402886991872",
+              "start": 150,
+              "url": "https://t.co/3z3QhlQj27"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2061291568376717562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "期待なんてされてない\n并没有没被期待\nできない\n没法被期待\nいらない\n也不需要期待\n\n見ないフリして損じゃないかい？装作没看见的样子 就不是一种损失吗？\n『そんなことは思ってもないクセに！！！』\n「你心里明明根本就不是这么想的！！！」\n“キライ”なんて限りない\n“讨厌”这种心情 永无止尽\n言えない\n没法言说\n\nin the night\n痛い痛いが飛んでいかない\n那痛痛的感觉 怎么也飞不走\nもう許してよ\n求求你 饶了我吧！\nPlease don't tell me a lie!\nお嫌い？\n讨厌吗？\n知らない！\n谁知道啊！\nSo I deny.\nいないいないばあっ\n躲起来 不见了！\n\nキライな色の服で着飾って\n身穿讨厌颜色的衣服 盛装打扮\n泥みたいな頭で笑っては泣いて\n大脑如烂泥般笑着又哭着\n姿見の前で中指立てる\n站在全身镜前 笔起中指\n愛おしくたまらないアナタへ\n送给那位 让我爱到无法自拔的“你”....."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "期待なんてされてない\n并没有没被期待\nできない\n没法被期待\nいらない\n也不需要期待\n\n見ないフリして損じゃないかい？装作没看见的样子 就不是一种损失吗？\n『そんなことは思ってもないクセに！！！』\n「你心里明明根本就不是这么想的！！！」\n“キライ”なんて限りない\n“讨厌”这种心情 永无止尽\n言えない https://t.co/3z3QhlQj27"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 1832,
+          "like_count": 2684,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 2439
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

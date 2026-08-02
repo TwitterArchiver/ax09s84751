@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024651394536657163",
+    "created_at": "2026-02-20T01:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T02:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024651394536657163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022153081031733252",
+          "start": 3,
+          "username": "ax09s84751"
+        },
+        {
+          "end": 24,
+          "id": "1389520784",
+          "start": 16,
+          "username": "xiaotgo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024651394536657163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024651380456378423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax09s84751: @xiaotgo 你这就没意思了，拿慰安妇开玩笑，你自己不觉得恶心吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024651394536657163",
+        "created_at": "2026-02-20T01:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T02:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024651394536657163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022153081031733252",
+              "start": 3,
+              "username": "ax09s84751"
+            },
+            {
+              "end": 24,
+              "id": "1389520784",
+              "start": 16,
+              "username": "xiaotgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024651394536657163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024651380456378423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax09s84751: @xiaotgo 你这就没意思了，拿慰安妇开玩笑，你自己不觉得恶心吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024542122800480614",
+        "created_at": "2026-02-20T01:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T02:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024651380456378423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1389520784",
+              "start": 0,
+              "username": "xiaotgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024651380456378423",
+        "in_reply_to_user_id": "1389520784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024542122800480614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotgo 你这就没意思了，拿慰安妇开玩笑，你自己不觉得恶心吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵/看od精神科圈/坚持跟随党的领导/偶尔骂骂殖人",
+        "id": "2022153081031733252",
+        "location": "中华人民共和国",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 131,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 79
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-29T13:37:53.000Z",
+        "description": "",
+        "id": "1389520784",
+        "name": "Slade Wilson🇬🇧🇺🇸习近平赛博本体（原初体）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1204568399889612800/uSv80Esi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 161,
+          "like_count": 5785,
+          "listed_count": 3,
+          "media_count": 480,
+          "tweet_count": 2462
+        },
+        "username": "xiaotgo",
+        "verified": false
+      }
+    ]
+  }
+}

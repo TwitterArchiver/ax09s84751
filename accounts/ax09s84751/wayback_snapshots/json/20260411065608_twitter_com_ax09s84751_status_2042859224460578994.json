@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042859224460578994",
+    "created_at": "2026-04-11T06:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042859224460578994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/itsCatRoll/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/itsCatRoll/status/2042670426577670537",
+          "start": 9,
+          "url": "https://t.co/KZ5AIB5Grc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042859224460578994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042670426577670537",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "切了你也不存在了 https://t.co/KZ5AIB5Grc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 773,
+        "media_key": "3_2042670421368279041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFkF7PrakAEmHhN.jpg",
+        "width": 1089
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042859224460578994",
+        "created_at": "2026-04-11T06:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042859224460578994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itsCatRoll/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/itsCatRoll/status/2042670426577670537",
+              "start": 9,
+              "url": "https://t.co/KZ5AIB5Grc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042859224460578994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042670426577670537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "切了你也不存在了 https://t.co/KZ5AIB5Grc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042670421368279041"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042670426577670537",
+        "created_at": "2026-04-10T18:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042670426577670537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OI1YZZascd",
+              "end": 164,
+              "expanded_url": "https://x.com/itsCatRoll/status/2042670426577670537/photo/1",
+              "media_key": "3_2042670421368279041",
+              "start": 141,
+              "url": "https://t.co/OI1YZZascd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042670426577670537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 715,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在还有什么黑诊所能切前额叶吗 我现在真的想把前额叶切了 我每天都被各种情绪问题困扰很久 包括但不限于工作学习上的焦虑 人际关系情感问题 我想变成一个没情感的拟人的LLM这样就能像机器一样一直工作一直产出一直stay productive and efficient了 好他妈烦啊 https://t.co/OI1YZZascd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 680,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 529
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "🇯🇵🇹🇭🍥🍬请联系下方tg⬇️尽量用tg 私信有时候不推送\n@hobartr6 猫@_furryfur_ 笨蛋肥鸟姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "hobartr6"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/itscatroll",
+                "end": 23,
+                "expanded_url": "http://t.me/itscatroll",
+                "start": 0,
+                "url": "https://t.co/9vPU5sObId"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "猫卷",
+        "pinned_tweet_id": "2042287180408820024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040727260039352320/FmBMGIu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3585,
+          "following_count": 796,
+          "like_count": 3279,
+          "listed_count": 7,
+          "media_count": 83,
+          "tweet_count": 1127
+        },
+        "url": "https://t.co/9vPU5sObId",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

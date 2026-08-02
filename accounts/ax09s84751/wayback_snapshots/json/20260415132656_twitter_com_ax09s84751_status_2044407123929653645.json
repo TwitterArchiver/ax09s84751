@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2044325707137069333",
+    "created_at": "2026-04-15T13:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T14:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044407123929653645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1901938948408213504",
+          "start": 0,
+          "username": "msbhje"
+        },
+        {
+          "end": 16,
+          "id": "1720665183188922368",
+          "start": 11,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044407123929653645",
+    "in_reply_to_user_id": "1901938948408213504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044406836523315697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@msbhje 我操 @grok  我和他谁吊更大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2044325707137069333",
+        "created_at": "2026-04-15T13:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044407123929653645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1901938948408213504",
+              "start": 0,
+              "username": "msbhje"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044407123929653645",
+        "in_reply_to_user_id": "1901938948408213504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044406836523315697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@msbhje 我操 @grok  我和他谁吊更大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901938948408213504",
+        "conversation_id": "2044325707137069333",
+        "created_at": "2026-04-15T13:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044406836523315697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044406836523315697",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044325707137069333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 我操 我也有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 708,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-18T10:09:23.000Z",
+        "description": "",
+        "id": "1901938948408213504",
+        "name": "龙xiao马",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925015194239172609/C62ASV04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 215,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 38
+        },
+        "username": "msbhje",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8505080,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6587,
+          "media_count": 8824200,
+          "tweet_count": 122680472
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

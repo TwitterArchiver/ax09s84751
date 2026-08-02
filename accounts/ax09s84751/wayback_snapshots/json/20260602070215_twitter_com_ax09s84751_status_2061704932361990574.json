@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2061704932361990574",
+    "created_at": "2026-06-02T07:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061704932361990574"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TReverie/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/TReverie/status/2061364736609091731",
+          "start": 3,
+          "url": "https://t.co/TFsuaEt00l"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2061704932361990574",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061364736609091731",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "收到 https://t.co/TFsuaEt00l"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2061704932361990574",
+        "created_at": "2026-06-02T07:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061704932361990574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TReverie/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/TReverie/status/2061364736609091731",
+              "start": 3,
+              "url": "https://t.co/TFsuaEt00l"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2061704932361990574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061364736609091731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收到 https://t.co/TFsuaEt00l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975500696427581440",
+        "conversation_id": "2061364736609091731",
+        "created_at": "2026-06-01T08:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061364736609091731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061364736609091731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 34483,
+          "like_count": 1169,
+          "quote_count": 6,
+          "reply_count": 285,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "我是中国人\n我希望中国早点解体🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 1826,
+          "like_count": 2752,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 2470
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "Taiwan is an independent country",
+        "id": "1975500696427581440",
+        "location": "China",
+        "name": "Tiny Reverie🇺🇸✝️",
+        "pinned_tweet_id": "2048649828381626554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058842339347759104/3B_gYklj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11222,
+          "following_count": 1810,
+          "like_count": 23675,
+          "listed_count": 91,
+          "media_count": 1728,
+          "tweet_count": 5242
+        },
+        "username": "TReverie",
+        "verified": true
+      }
+    ]
+  }
+}

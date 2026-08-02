@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2056257496986333201",
+    "created_at": "2026-05-18T06:16:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056257496986333201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/bghtnya/status/2056216472108806646",
+          "start": 16,
+          "url": "https://t.co/BrEVue7FNI"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2056257496986333201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056216472108806646",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呕呕呕呕呕呕呕呕呕呕呕呕呕呕呕 https://t.co/BrEVue7FNI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_2056216427976445953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkl8mrb0AEIdmJ.jpg",
+        "width": 1117
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2056257496986333201",
+        "created_at": "2026-05-18T06:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056257496986333201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/bghtnya/status/2056216472108806646",
+              "start": 16,
+              "url": "https://t.co/BrEVue7FNI"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2056257496986333201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056216472108806646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呕呕呕呕呕呕呕呕呕呕呕呕呕呕呕 https://t.co/BrEVue7FNI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056216427976445953"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2056216472108806646",
+        "created_at": "2026-05-18T03:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056216472108806646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WT24aNPQEB",
+              "end": 30,
+              "expanded_url": "https://x.com/bghtnya/status/2056216472108806646/photo/1",
+              "media_key": "3_2056216427976445953",
+              "start": 7,
+              "url": "https://t.co/WT24aNPQEB"
+            },
+            {
+              "display_url": "x.com/RX_Xron28390/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/RX_Xron28390/status/2056091170652995597",
+              "start": 31,
+              "url": "https://t.co/DpHc0mv9su"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056216472108806646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2066,
+          "like_count": 52,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056091170652995597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "修复版 睾酮 https://t.co/WT24aNPQEB https://t.co/DpHc0mv9su"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 1676,
+          "like_count": 2153,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 1917
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9554,
+          "following_count": 2312,
+          "like_count": 178373,
+          "listed_count": 21,
+          "media_count": 3919,
+          "tweet_count": 47939
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

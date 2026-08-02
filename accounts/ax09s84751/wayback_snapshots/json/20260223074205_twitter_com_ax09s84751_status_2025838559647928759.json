@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2025838559647928759",
+    "created_at": "2026-02-23T07:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T08:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025838559647928759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824818634809806848",
+          "start": 3,
+          "username": "hsgmxz"
+        },
+        {
+          "end": 24,
+          "id": "1919963459279888384",
+          "start": 16,
+          "username": "sinhrkP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025838559647928759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024977755281260725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsgmxz: 讣告：\n@sinhrkP 于今日凌晨0:00—0:20期间吞服20t佐匹克隆 20t普瑞巴林及亚硝酸钠，被发现时已离世。\n\n祝愿在那个世界过的幸福🕯️\n万分沉痛，深切缅怀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2025838559647928759",
+        "created_at": "2026-02-23T07:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025838559647928759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824818634809806848",
+              "start": 3,
+              "username": "hsgmxz"
+            },
+            {
+              "end": 24,
+              "id": "1919963459279888384",
+              "start": 16,
+              "username": "sinhrkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025838559647928759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024977755281260725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsgmxz: 讣告：\n@sinhrkP 于今日凌晨0:00—0:20期间吞服20t佐匹克隆 20t普瑞巴林及亚硝酸钠，被发现时已离世。\n\n祝愿在那个世界过的幸福🕯️\n万分沉痛，深切缅怀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824818634809806848",
+        "conversation_id": "2024977755281260725",
+        "created_at": "2026-02-20T22:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T23:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024977755281260725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919963459279888384",
+              "start": 4,
+              "username": "sinhrkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024977755281260725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 105751,
+          "like_count": 426,
+          "quote_count": 26,
+          "reply_count": 150,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n@sinhrkP 于今日凌晨0:00—0:20期间吞服20t佐匹克隆 20t普瑞巴林及亚硝酸钠，被发现时已离世。\n\n祝愿在那个世界过的幸福🕯️\n万分沉痛，深切缅怀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直/不zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n理想：无证含糖mtf格式化💾 跨救助机构卸载❌\n允许跨人关/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSeL2"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 228,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/6aaNEtSeL2",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|永远14🏳️‍⚧️|🍥2025.7.26|初音ミク大好き。🥰|2011.1.24|同类互fo|极度社恐|重焦重郁|intp-t||匿名提问箱https://t.co/eJ9r7NqD38|老婆：@chao_ching_i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 133,
+                "username": "chao_ching_i"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hsgmxz1",
+                "end": 129,
+                "expanded_url": "http://ngl.link/hsgmxz1",
+                "start": 106,
+                "url": "https://t.co/eJ9r7NqD38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mx_honoka",
+                "end": 23,
+                "expanded_url": "http://t.me/mx_honoka",
+                "start": 0,
+                "url": "https://t.co/Xrx6CgHM4p"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2024977755281260725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010288262104088577/1zvRCsQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 1222,
+          "like_count": 9625,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 1564
+        },
+        "url": "https://t.co/Xrx6CgHM4p",
+        "username": "hsgmxz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T03:52:33.000Z",
+        "description": "燥然と輝く街の灯り 対照的な僕を見下ろす｜可以叫咱小遥｜病み垢｜hrt25.8.19｜https://t.co/inqv1Jz2ml｜#pjsk  #ADHD  #双極性障害｜最最最好的姐姐@AnSiYao520",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "pjsk"
+              },
+              {
+                "end": 79,
+                "start": 74,
+                "tag": "ADHD"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "双極性障害"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 95,
+                "username": "AnSiYao520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/sinhrk",
+                "end": 66,
+                "expanded_url": "http://t.me/sinhrk",
+                "start": 43,
+                "url": "https://t.co/inqv1Jz2ml"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sinhrk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sinhrk",
+                "start": 0,
+                "url": "https://t.co/cPqMPK9gDg"
+              }
+            ]
+          }
+        },
+        "id": "1919963459279888384",
+        "location": "长春",
+        "name": "🎀超绝最可爱小遥酱✟ 𓏵‧₊",
+        "pinned_tweet_id": "2020052304511345093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012033444151521280/g8iXZ5WS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 2023,
+          "like_count": 5835,
+          "listed_count": 6,
+          "media_count": 75,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/cPqMPK9gDg",
+        "username": "sinhrkP",
+        "verified": false
+      }
+    ]
+  }
+}

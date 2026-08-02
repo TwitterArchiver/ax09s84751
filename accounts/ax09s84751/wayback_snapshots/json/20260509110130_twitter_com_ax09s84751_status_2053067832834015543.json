@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2052854661372158317",
+    "created_at": "2026-05-09T11:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T12:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053067832834015543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1965393379224944645",
+          "start": 0,
+          "username": "hagishigure"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2053067832834015543",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052854661372158317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hagishigure 抓完人没了😇"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2052854661372158317",
+        "created_at": "2026-05-09T11:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053067832834015543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2053067832834015543",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052854661372158317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 抓完人没了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2052854661372158317",
+        "created_at": "2026-05-08T20:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T21:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052854661372158317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052854661372158317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1166,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我推荐中国跨子们一手抓板绘，一手抓小说文学，一手抓编剧，一手抓自媒体，一手抓代码，一手抓网安，一手抓视频剪辑，一手抓vtb整活直播，一手抓建筑设计，一手抓平面设计，一手抓婚纱摄影，一手抓游戏代练，因为这些都是纯因特网或艺术工作，没什么人在乎你真实性别。\n当然不想当千手观音可以选一个。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 1546,
+          "like_count": 1363,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1562
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 149,
+          "like_count": 28540,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 6802
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

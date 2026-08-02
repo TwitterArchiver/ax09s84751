@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055217661223874733",
+    "created_at": "2026-05-15T09:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T10:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055217661223874733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NyaMist5/statu…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/NyaMist5/status/2055098116500803641",
+          "start": 17,
+          "url": "https://t.co/hnSGRERHfB"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055217661223874733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055098116500803641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恶心人\n和tyw n55坐一桌吧 https://t.co/hnSGRERHfB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1328,
+        "media_key": "3_2055098109387235328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIUs15SaYAAyGyF.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2055098109374701568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIUs15PbIAA_ZaX.jpg",
+        "width": 1279
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055217661223874733",
+        "created_at": "2026-05-15T09:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055217661223874733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NyaMist5/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/NyaMist5/status/2055098116500803641",
+              "start": 17,
+              "url": "https://t.co/hnSGRERHfB"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055217661223874733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055098116500803641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恶心人\n和tyw n55坐一桌吧 https://t.co/hnSGRERHfB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055098109387235328",
+            "3_2055098109374701568"
+          ]
+        },
+        "author_id": "1642270015851474944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055098116500803641",
+        "created_at": "2026-05-15T01:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T02:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055098116500803641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rXXTqjobM",
+              "end": 154,
+              "expanded_url": "https://x.com/NyaMist5/status/2055098116500803641/photo/1",
+              "media_key": "3_2055098109387235328",
+              "start": 131,
+              "url": "https://t.co/6rXXTqjobM"
+            },
+            {
+              "display_url": "pic.x.com/6rXXTqjobM",
+              "end": 154,
+              "expanded_url": "https://x.com/NyaMist5/status/2055098116500803641/photo/1",
+              "media_key": "3_2055098109374701568",
+              "start": 131,
+              "url": "https://t.co/6rXXTqjobM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055098116500803641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 283,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "消息通报，里央疑似已跳楼死亡，在死前由于和父母的矛盾从而将自己钱全部转到鲨猫群里，其中被鲨猫（汪俊伟）拿走了996块钱，鲨猫（汪俊伟）不仅不劝解安慰，反而还让里央在死前去撸网贷。事件发生后还在群里提及所有人并打算将996元甩出去让自己脱险，后附赠一枚汪狗身份证 https://t.co/6rXXTqjobM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 1640,
+          "like_count": 2042,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 1758
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T20:57:49.000Z",
+        "description": "扩列：422174271(🍬💉)/生产日期：2007.11.26/逃生舱@HECIz6/里推@NyaMist6/江苏无锡/广州禁毒你把我拉黑解开🥺/老公sama:@YeziLoveChen/对生活保持热爱/07大龄yn🏳️‍⚧️/歡迎互fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "HECIz6"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "NyaMist6"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "YeziLoveChen"
+              }
+            ]
+          }
+        },
+        "id": "1642270015851474944",
+        "location": "无锡 中国",
+        "name": "霧會散🍥#参宿四",
+        "pinned_tweet_id": "1825746968699875352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484931238805504/5nHhKS9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 397,
+          "like_count": 921,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1601
+        },
+        "username": "NyaMist5",
+        "verified": true
+      }
+    ]
+  }
+}

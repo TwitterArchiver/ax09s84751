@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2059610629233664370",
+    "created_at": "2026-05-28T12:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059978825036112070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1398802992837578752",
+          "start": 0,
+          "username": "ObjetivoHincha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059978825036112070",
+    "in_reply_to_user_id": "1398802992837578752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059610629233664370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ObjetivoHincha 您的发言让我感到诡异"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2059610629233664370",
+        "created_at": "2026-05-28T12:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059978825036112070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1398802992837578752",
+              "start": 0,
+              "username": "ObjetivoHincha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059978825036112070",
+        "in_reply_to_user_id": "1398802992837578752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059610629233664370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ObjetivoHincha 您的发言让我感到诡异"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1398802992837578752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Vegetarian",
+              "id": "860147410856665088",
+              "name": "Vegetarianism"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1260985796053487616",
+              "name": "Organic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vegetarian",
+              "id": "860147410856665088",
+              "name": "Vegetarianism"
+            }
+          }
+        ],
+        "conversation_id": "2059610629233664370",
+        "created_at": "2026-05-27T12:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059610629233664370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/agostini____/s…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/agostini____/status/2059446850013249746",
+              "start": 113,
+              "url": "https://t.co/YzKLQbPTO3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059610629233664370",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9409,
+          "impression_count": 5658417,
+          "like_count": 143277,
+          "quote_count": 899,
+          "reply_count": 1000,
+          "retweet_count": 8635
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059446850013249746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Las mujeres son todas feministas hasta que les insertan el pene correcto y vuelven a la configuración de fábrica https://t.co/YzKLQbPTO3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 1835,
+          "like_count": 2651,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 2328
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-30T00:46:46.000Z",
+        "description": "Pragmático Libre Pensador || Los políticos uruguayos son mis enemigos, son los responsables de lo que sufren mis compatriotas.",
+        "id": "1398802992837578752",
+        "location": "República Oriental Del Uruguay",
+        "name": "Un Hincha Objetivo 🇺🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014530062482120704/bz2ei4_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9491,
+          "following_count": 721,
+          "like_count": 50344,
+          "listed_count": 14,
+          "media_count": 982,
+          "tweet_count": 22002
+        },
+        "username": "ObjetivoHincha",
+        "verified": false
+      }
+    ]
+  }
+}

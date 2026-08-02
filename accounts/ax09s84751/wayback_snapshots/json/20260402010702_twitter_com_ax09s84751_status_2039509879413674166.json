@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039509747037339648"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fragrances",
+          "id": "856559465000091648",
+          "name": "Perfumes & fragrances"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Perfumes",
+          "id": "855110667916918784",
+          "name": "Perfumes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Perfumes",
+          "id": "855110667916918784",
+          "name": "Perfumes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fragrances",
+          "id": "856559465000091648",
+          "name": "Perfumes & fragrances"
+        }
+      }
+    ],
+    "conversation_id": "2039509104910320113",
+    "created_at": "2026-04-02T01:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T02:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039509879413674166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HSqjZEBqYo",
+          "end": 62,
+          "expanded_url": "https://x.com/ax09s84751/status/2039509879413674166/photo/1",
+          "media_key": "3_2039509747037339648",
+          "start": 39,
+          "url": "https://t.co/HSqjZEBqYo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039509879413674166",
+    "in_reply_to_user_id": "2022153081031733252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039509104910320113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个讲的也是药物滥用。。\n当初还以为是香水呢，哈哈哈。。。。。😨😨😨😨😨😨😨 https://t.co/HSqjZEBqYo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1219,
+        "media_key": "3_2039509747037339648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3LTyQbgAA9QIN.jpg",
+        "width": 960
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2039508741541007360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3KZQfbEAA6fjN.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1219,
+        "media_key": "3_2039508741549408256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3KZQhbQAAB3xX.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039509747037339648"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "2039509104910320113",
+        "created_at": "2026-04-02T01:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T02:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039509879413674166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HSqjZEBqYo",
+              "end": 62,
+              "expanded_url": "https://x.com/ax09s84751/status/2039509879413674166/photo/1",
+              "media_key": "3_2039509747037339648",
+              "start": 39,
+              "url": "https://t.co/HSqjZEBqYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039509879413674166",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039509104910320113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个讲的也是药物滥用。。\n当初还以为是香水呢，哈哈哈。。。。。😨😨😨😨😨😨😨 https://t.co/HSqjZEBqYo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039508741541007360",
+            "3_2039508741549408256"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2039509104910320113",
+        "created_at": "2026-04-02T01:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T02:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039509104910320113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kINzaY6KZ0",
+              "end": 115,
+              "expanded_url": "https://x.com/ax09s84751/status/2039509104910320113/photo/1",
+              "media_key": "3_2039508741541007360",
+              "start": 92,
+              "url": "https://t.co/kINzaY6KZ0"
+            },
+            {
+              "display_url": "pic.x.com/kINzaY6KZ0",
+              "end": 115,
+              "expanded_url": "https://x.com/ax09s84751/status/2039509104910320113/photo/1",
+              "media_key": "3_2039508741549408256",
+              "start": 92,
+              "url": "https://t.co/kINzaY6KZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039509104910320113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些特征真的以前可以看出来的...🤔\n以前没开智的时候老喜欢听这歌了。\n只是单纯觉得可爱很好听。。\n根本不知道\n里面讲的是自残和药物滥用。。😨😨😨\n现在呢？。。。。。\n我嘞个。。。。 https://t.co/kINzaY6KZ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 662,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

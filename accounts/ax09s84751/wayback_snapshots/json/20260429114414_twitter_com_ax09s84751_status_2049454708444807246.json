@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2049177743057662248",
+    "created_at": "2026-04-29T11:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049454708444807246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1252463831185371136",
+          "start": 0,
+          "username": "Dadadajie01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049454708444807246",
+    "in_reply_to_user_id": "1252463831185371136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049177743057662248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dadadajie01 那就不要去好了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1303,
+        "media_key": "3_2049177734178545664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAkSs9aIAAVXiw.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2049177743057662248",
+        "created_at": "2026-04-29T11:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049454708444807246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1252463831185371136",
+              "start": 0,
+              "username": "Dadadajie01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049454708444807246",
+        "in_reply_to_user_id": "1252463831185371136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049177743057662248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dadadajie01 那就不要去好了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049177734178545664"
+          ]
+        },
+        "author_id": "1252463831185371136",
+        "conversation_id": "2049177743057662248",
+        "created_at": "2026-04-28T17:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049177743057662248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kCpFwKrga4",
+              "end": 160,
+              "expanded_url": "https://x.com/Dadadajie01/status/2049177743057662248/photo/1",
+              "media_key": "3_2049177734178545664",
+              "start": 137,
+              "url": "https://t.co/kCpFwKrga4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049177743057662248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1126,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，为啥我过生日，我爹要把我讨厌的亲戚还有他那讨厌的孩子们请到家里吃饭呢？很难过，明明是盼了好久的五一假期和20岁生日，不想被他们毁了\n好难受啊。。。。。\n10多天前好不容易踩点抢到回家的车票，就为了这吗，那我还不如不回去呢，退了车票自己在学校里过假期和生日吧\n好想妈妈啊 https://t.co/kCpFwKrga4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 1408,
+          "like_count": 924,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-21T05:07:10.000Z",
+        "description": "こんにちは。私はBG4JIE、10代后半の大学生で、N2合格証明書取った、今N1に向けて勉強中、趣味はACGNとアマチュア無線とairsoftと撮影で、面白いものが好き、よろしくお願いします😸",
+        "id": "1252463831185371136",
+        "location": "距您1.6km",
+        "name": "βGΨ丁|E🐀🐂🐅🐇🐉🐍🐎🐑🐒🐓🐕🐖",
+        "pinned_tweet_id": "1864231526059393330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809050334725353473/GTm1-qUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 2319,
+          "like_count": 42330,
+          "listed_count": 9,
+          "media_count": 1403,
+          "tweet_count": 8249
+        },
+        "username": "Dadadajie01",
+        "verified": false
+      }
+    ]
+  }
+}

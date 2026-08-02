@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070441902839824384"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070441932686569496",
+    "created_at": "2026-06-26T09:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:26:47.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070438617454137850",
+      "2070441932686569496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WfhDBiGP3o",
+          "end": 134,
+          "expanded_url": "https://x.com/ax09s84751/status/2070441932686569496/photo/1",
+          "media_key": "3_2070441902839824384",
+          "start": 111,
+          "url": "https://t.co/WfhDBiGP3o"
+        },
+        {
+          "display_url": "x.com/GptRainy/statu…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/GptRainy/status/2070416522867327429",
+          "start": 135,
+          "url": "https://t.co/Qmj08hCuD2"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070441932686569496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070416522867327429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天是国际禁毒日。 我在此郑重宣誓： 不因无知接近毒品， 不因压力纵容滥用， 不以侥幸挑战底线， 不把伤害包装成自由， 不把沉沦误认为清醒。 珍爱生命，远离滥用； 保持清醒，反对沉迷； 把人生的控制权，牢牢握在自己手里。 https://t.co/WfhDBiGP3o https://t.co/Qmj08hCuD2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_2070441902839824384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuv8OLaAAAv_Zy.jpg",
+        "width": 1405
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2070438617454137850",
+        "created_at": "2026-06-26T09:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:26:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070438617454137850",
+          "2070441932686569496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GptRainy/statu…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/GptRainy/status/2070416522867327429",
+              "start": 111,
+              "url": "https://t.co/Qmj08hCuD2"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070438617454137850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070416522867327429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天是国际禁毒日。 我在此郑重宣誓： 不因无知接近毒品， 不因压力纵容滥用， 不以侥幸挑战底线， 不把伤害包装成自由， 不把沉沦误认为清醒。 珍爱生命，远离滥用； 保持清醒，反对沉迷； 把人生的控制权，牢牢握在自己手里。 https://t.co/Qmj08hCuD2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070441902839824384"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070441932686569496",
+        "created_at": "2026-06-26T09:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:26:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070438617454137850",
+          "2070441932686569496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WfhDBiGP3o",
+              "end": 134,
+              "expanded_url": "https://x.com/ax09s84751/status/2070441932686569496/photo/1",
+              "media_key": "3_2070441902839824384",
+              "start": 111,
+              "url": "https://t.co/WfhDBiGP3o"
+            },
+            {
+              "display_url": "x.com/GptRainy/statu…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/GptRainy/status/2070416522867327429",
+              "start": 135,
+              "url": "https://t.co/Qmj08hCuD2"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070441932686569496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070416522867327429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天是国际禁毒日。 我在此郑重宣誓： 不因无知接近毒品， 不因压力纵容滥用， 不以侥幸挑战底线， 不把伤害包装成自由， 不把沉沦误认为清醒。 珍爱生命，远离滥用； 保持清醒，反对沉迷； 把人生的控制权，牢牢握在自己手里。 https://t.co/WfhDBiGP3o https://t.co/Qmj08hCuD2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2070416522867327429",
+        "created_at": "2026-06-26T07:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070416522867327429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RXdruglab/stat…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/RXdruglab/status/2070175184980484258",
+              "start": 111,
+              "url": "https://t.co/OFBlVph01F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070416522867327429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070175184980484258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天是国际禁毒日。 我在此郑重宣誓： 不因无知接近毒品， 不因压力纵容滥用， 不以侥幸挑战底线， 不把伤害包装成自由， 不把沉沦误认为清醒。 珍爱生命，远离滥用； 保持清醒，反对沉迷； 把人生的控制权，牢牢握在自己手里。 https://t.co/OFBlVph01F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echo42es"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2069963485296066978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065816996605005824/yyrl8vBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 1817,
+          "like_count": 2980,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 2629
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer communist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 413,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055249737482420685",
+    "created_at": "2026-05-15T11:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055249737482420685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022153081031733252",
+          "start": 3,
+          "username": "ax09s84751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055249737482420685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055175317313229004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax09s84751: 说实话我一直觉得，有些Mt f如果外形还不够Pass，身材偏胖、男性特征也比较明显的话，真没必要急着强行女装出门。不如先安安稳稳走中性风格，低调日常生活就好。\n我自己也算圈内人，但本身就偏爱中性感，也不想把自己打扮得特别极端女性化。… https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2055175307590852608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVzDbAbYAA96Xq.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055249737482420685",
+        "created_at": "2026-05-15T11:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055249737482420685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022153081031733252",
+              "start": 3,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055249737482420685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055175317313229004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax09s84751: 说实话我一直觉得，有些Mt f如果外形还不够Pass，身材偏胖、男性特征也比较明显的话，真没必要急着强行女装出门。不如先安安稳稳走中性风格，低调日常生活就好。\n我自己也算圈内人，但本身就偏爱中性感，也不想把自己打扮得特别极端女性化。… https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055175307590852608"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055175317313229004",
+        "created_at": "2026-05-15T06:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:34:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055174941918875688",
+          "2055175317313229004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/trX1XW57Ud",
+              "end": 140,
+              "expanded_url": "https://x.com/ax09s84751/status/2055175317313229004/photo/1",
+              "media_key": "3_2055175307590852608",
+              "start": 117,
+              "url": "https://t.co/trX1XW57Ud"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055175317313229004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说实话我一直觉得，有些Mt f如果外形还不够Pass，身材偏胖、男性特征也比较明显的话，真没必要急着强行女装出门。不如先安安稳稳走中性风格，低调日常生活就好。\n我自己也算圈内人，但本身就偏爱中性感，也不想把自己打扮得特别极端女性化。\n自我认同更偏向非二元那类，内核心里始终是女生，只是性格和穿搭上没那么极致。\n 我心里也打定主意了，一定要等身份证性别正式更正之后，才会安心以女生的身份，穿自己喜欢的漂亮衣服自在生活。结合国内当下的大环境，我觉得自己这种保守一点的选择其实挺合适的。而且我本身也没有那种非要极致女性化的强烈执念，顺其自然就好。\n国家不都是这种逻辑吗？维稳维稳（\n如果冒犯到别人了，请把我屏蔽（"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话我一直觉得，有些Mt f如果外形还不够Pass，身材偏胖、男性特征也比较明显的话，真没必要急着强行女装出门。不如先安安稳稳走中性风格，低调日常生活就好。\n我自己也算圈内人，但本身就偏爱中性感，也不想把自己打扮得特别极端女性化。 https://t.co/trX1XW57Ud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1650,
+          "like_count": 2062,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 1767
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

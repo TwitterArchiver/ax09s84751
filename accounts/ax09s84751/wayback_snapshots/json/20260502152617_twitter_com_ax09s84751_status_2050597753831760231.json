@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2050499570803871826",
+    "created_at": "2026-05-02T15:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050597753831760231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "ZX65535plus1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050597753831760231",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050499570803871826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZX65535plus1 已经很猎奇了.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 84,
+        "media_key": "16_2050499554332835840",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHTWewwbAAAFi69.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHTWewwbAAAFi69.mp4"
+          }
+        ],
+        "width": 170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2050499570803871826",
+        "created_at": "2026-05-02T15:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050597753831760231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "ZX65535plus1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050597753831760231",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050499570803871826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZX65535plus1 已经很猎奇了.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2050499554332835840"
+          ]
+        },
+        "author_id": "1844926832967286785",
+        "conversation_id": "2050499570803871826",
+        "created_at": "2026-05-02T08:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050499570803871826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CuVz2jmIC",
+              "end": 71,
+              "expanded_url": "https://x.com/ZX65535plus1/status/2050499570803871826/photo/1",
+              "media_key": "16_2050499554332835840",
+              "start": 48,
+              "url": "https://t.co/1CuVz2jmIC"
+            },
+            {
+              "display_url": "x.com/Natsumejuri/st…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/Natsumejuri/status/2050393101664145693",
+              "start": 72,
+              "url": "https://t.co/NwfU8JlXVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050499570803871826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 872,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050393101664145693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是一个测试，我好奇以x推送算法我的帖子会推送到谁的屏幕上。动图放一个死在上海的喝水眼镜老头。 https://t.co/1CuVz2jmIC https://t.co/NwfU8JlXVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 1447,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1336
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \n非计算机专业 | \n或许是双性恋，不过只对男生有动情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "pinned_tweet_id": "2050118283752620441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4285,
+          "following_count": 1461,
+          "like_count": 75803,
+          "listed_count": 6,
+          "media_count": 1083,
+          "tweet_count": 21769
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

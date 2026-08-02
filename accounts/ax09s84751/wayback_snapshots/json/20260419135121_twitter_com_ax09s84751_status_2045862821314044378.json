@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2045794461859397782",
+    "created_at": "2026-04-19T13:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045862821314044378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1270254879370440707",
+          "start": 0,
+          "username": "WaFFsdzAiNop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045862821314044378",
+    "in_reply_to_user_id": "1270254879370440707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045794461859397782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WaFFsdzAiNop 天下大乱 以达到 天下大治"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 835,
+        "media_key": "3_2045794451948183552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQfNwfWIAAi3uT.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2045794461859397782",
+        "created_at": "2026-04-19T13:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045862821314044378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1270254879370440707",
+              "start": 0,
+              "username": "WaFFsdzAiNop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045862821314044378",
+        "in_reply_to_user_id": "1270254879370440707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045794461859397782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WaFFsdzAiNop 天下大乱 以达到 天下大治"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045794451948183552"
+          ]
+        },
+        "author_id": "1270254879370440707",
+        "conversation_id": "2045794461859397782",
+        "created_at": "2026-04-19T09:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045794461859397782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZrKsvTXo25",
+              "end": 30,
+              "expanded_url": "https://x.com/WaFFsdzAiNop/status/2045794461859397782/photo/1",
+              "media_key": "3_2045794451948183552",
+              "start": 7,
+              "url": "https://t.co/ZrKsvTXo25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045794461859397782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2978,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "怎么翻译？🤔 https://t.co/ZrKsvTXo25"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 1038,
+          "like_count": 709,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 783
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-09T07:22:36.000Z",
+        "description": "",
+        "id": "1270254879370440707",
+        "name": "Kiki",
+        "pinned_tweet_id": "1903100872285925555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045459413855596544/4XQCAYO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14843,
+          "following_count": 561,
+          "like_count": 22452,
+          "listed_count": 46,
+          "media_count": 1057,
+          "tweet_count": 5471
+        },
+        "username": "WaFFsdzAiNop",
+        "verified": true
+      }
+    ]
+  }
+}

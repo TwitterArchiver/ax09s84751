@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2054069539088859324",
+    "created_at": "2026-05-12T10:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054144018066653475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1924212425332813824",
+          "start": 0,
+          "username": "Phoenixyin13"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2054144018066653475",
+    "in_reply_to_user_id": "1924212425332813824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054069539088859324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phoenixyin13 兑。很多都是长三角，京津冀粤港澳的孩子能上推"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2054069539088859324",
+        "created_at": "2026-05-12T10:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054144018066653475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924212425332813824",
+              "start": 0,
+              "username": "Phoenixyin13"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2054144018066653475",
+        "in_reply_to_user_id": "1924212425332813824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054069539088859324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phoenixyin13 兑。很多都是长三角，京津冀粤港澳的孩子能上推"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924212425332813824",
+        "conversation_id": "2054069539088859324",
+        "created_at": "2026-05-12T05:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T06:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054069539088859324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054069539088859324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "别在X问我普通家庭孩子怎么办。\n我不是圣人。能上推的中国孩子也不是普通的中国孩子，你就是在X看黄推也证明你的品味不在91、Jable这种垃圾网站而在这里。所以，你的taste很行。\n从这点，你已经具备了选择品位的能力。接下来你要想的，即使如何迭代你的信息存量，让它变成增量。\n我想告诉你的是，这是个伪命题。信息不在量，而在质，质在哪里？规律。\n你要去从你看到的所有信息中总结出规律，类似你高中做一千套题总结的做题通法，总结刷推的规律，总结你的喜欢档案。别傻傻地看完拉倒了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 4800,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "别在X问我普通家庭孩子怎么办。\n我不是圣人。能上推的中国孩子也不是普通的中国孩子，你就是在X看黄推也证明你的品味不在91、Jable这种垃圾网站而在这里。所以，你的taste很行。\n从这点，你已经具备了选择品位的能力。接下来你要想的，即使如何迭代你的信息存量，让它变成增量。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtf🏳️‍⚧️？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 1590,
+          "like_count": 1676,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 1638
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-18T21:16:21.000Z",
+        "description": "🇺🇸 04美本 | 计算机科学&认知科学\n⚙️AI, cognition, crypto, and the future of intelligence.\n✨相信好奇心驱动。相信人永远可塑。",
+        "id": "1924212425332813824",
+        "location": "Beverly Hills, CA",
+        "name": "Phoenix Yin",
+        "pinned_tweet_id": "2053622432699715691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028337523773038592/1kSOtKBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4146,
+          "following_count": 1297,
+          "like_count": 5137,
+          "listed_count": 15,
+          "media_count": 285,
+          "tweet_count": 3378
+        },
+        "username": "Phoenixyin13",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2038621868673114398",
+    "created_at": "2026-03-30T14:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038621868673114398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Olebe179131/st…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Olebe179131/status/2038616251787002254",
+          "start": 37,
+          "url": "https://t.co/c236tRdWVa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038621868673114398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038616251787002254",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要。\n吸烟伤大脑\n受体敏感度会上调的。。\n不利于恢复啊。。(；′⌒`) https://t.co/c236tRdWVa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 592,
+        "media_key": "3_2038616234032537600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqeqe7aoAA95nz.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2038621868673114398",
+        "created_at": "2026-03-30T14:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038621868673114398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Olebe179131/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Olebe179131/status/2038616251787002254",
+              "start": 37,
+              "url": "https://t.co/c236tRdWVa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038621868673114398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038616251787002254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要。\n吸烟伤大脑\n受体敏感度会上调的。。\n不利于恢复啊。。(；′⌒`) https://t.co/c236tRdWVa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038616234032537600"
+          ]
+        },
+        "author_id": "1687566770763071489",
+        "conversation_id": "2038616251787002254",
+        "created_at": "2026-03-30T13:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038616251787002254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxxou57dee",
+              "end": 39,
+              "expanded_url": "https://x.com/Olebe179131/status/2038616251787002254/photo/1",
+              "media_key": "3_2038616234032537600",
+              "start": 16,
+              "url": "https://t.co/mxxou57dee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038616251787002254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吸烟治鼻塞好有用！以依然感冒捏 https://t.co/mxxou57dee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf/爱看od圈/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 652,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 307
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "永远纪念全天下最好的女孩@rinii165892 @wu_si787878\nRIP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "rinii165892"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "wu_si787878"
+              }
+            ]
+          }
+        },
+        "id": "1687566770763071489",
+        "name": "多柔比星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038220330976919552/yFwQ_L6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 477,
+          "like_count": 19657,
+          "listed_count": 0,
+          "media_count": 740,
+          "tweet_count": 2472
+        },
+        "username": "Olebe179131",
+        "verified": false
+      }
+    ]
+  }
+}

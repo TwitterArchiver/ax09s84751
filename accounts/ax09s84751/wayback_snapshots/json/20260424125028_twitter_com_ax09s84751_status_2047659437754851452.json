@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047659437754851452",
+    "created_at": "2026-04-24T12:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047659437754851452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Numiouo1/statu…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Numiouo1/status/2047344339899322529",
+          "start": 17,
+          "url": "https://t.co/j7i4pFyUVP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047659437754851452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047344339899322529",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别搞 到时候这个也被你们搞禁售了 https://t.co/j7i4pFyUVP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047659437754851452",
+        "created_at": "2026-04-24T12:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047659437754851452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Numiouo1/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Numiouo1/status/2047344339899322529",
+              "start": 17,
+              "url": "https://t.co/j7i4pFyUVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047659437754851452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047344339899322529",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别搞 到时候这个也被你们搞禁售了 https://t.co/j7i4pFyUVP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891311621991219200",
+        "conversation_id": "2047344339899322529",
+        "created_at": "2026-04-23T15:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047344339899322529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047344339899322529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5959,
+          "like_count": 89,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我草美金刚是要崛起了吗，热度好高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 1261,
+          "like_count": 816,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 928
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-17T02:20:21.000Z",
+        "description": "@Numiouo大号\n大号的互关都会回 \n纯黄/红推会双取勿fo\n举报我不得好死不得好活",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "Numiouo"
+              }
+            ]
+          }
+        },
+        "id": "1891311621991219200",
+        "name": "糯米（备用号）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031380479656730624/btRtgWSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 238,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 88
+        },
+        "username": "Numiouo1",
+        "verified": false
+      }
+    ]
+  }
+}

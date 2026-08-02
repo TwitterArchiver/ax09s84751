@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024464237121126473",
+    "created_at": "2026-02-20T02:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T03:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024676085573861407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1953660584639004672",
+          "start": 0,
+          "username": "Yuecengliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024676085573861407",
+    "in_reply_to_user_id": "1953660584639004672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024674978306646034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuecengliu 你管这叫建制派？建制派是胡锡进那样支持体制、跟党走的，你张嘴就支那猪、派坦克，你建的是哪门子制？日本制是吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024464237121126473",
+        "created_at": "2026-02-20T02:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024676085573861407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953660584639004672",
+              "start": 0,
+              "username": "Yuecengliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024676085573861407",
+        "in_reply_to_user_id": "1953660584639004672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024674978306646034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuecengliu 你管这叫建制派？建制派是胡锡进那样支持体制、跟党走的，你张嘴就支那猪、派坦克，你建的是哪门子制？日本制是吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953660584639004672",
+        "conversation_id": "2024464237121126473",
+        "created_at": "2026-02-20T02:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024674978306646034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024674978306646034",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024650811176079654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 你爹我是建制派，你这废物对我党毫无贡献有资格说话吗，这就派辆邓碾平坦克把你家里哪两位支那猪给碾了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 144,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 83
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T03:33:03.000Z",
+        "description": "1937年，南京爆发大规模新型冠状狂犬病，阻断了正在进行中的南京大联欢，大日本皇军两位老英雄菩萨心肠，不得不使用雷霆手段联合江油老英雄邓碾平清理感染源，石井正丽空输部队大展神威，钟莲花在两位老英雄向井田毅达成211时研发出了疫苗，并配合远道而来的美国志愿军飞虎队李帕斯基同志驾驶P51野马空投汽油弹进行2000℃高温消毒",
+        "id": "1953660584639004672",
+        "location": "南京颈部核酸采集点",
+        "name": "习见雅🦊👻🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023030396334604288/6ljPpx15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 374,
+          "like_count": 1754,
+          "listed_count": 2,
+          "media_count": 1287,
+          "tweet_count": 3018
+        },
+        "username": "Yuecengliu",
+        "verified": false
+      }
+    ]
+  }
+}

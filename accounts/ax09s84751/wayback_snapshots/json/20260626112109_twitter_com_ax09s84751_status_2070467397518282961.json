@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070467380892020736"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2070467397518282961",
+    "created_at": "2026-06-26T11:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070467397518282961"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vTDGDFQlbb",
+          "end": 167,
+          "expanded_url": "https://x.com/ax09s84751/status/2070467397518282961/photo/1",
+          "media_key": "3_2070467380892020736",
+          "start": 144,
+          "url": "https://t.co/vTDGDFQlbb"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070467397518282961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "会怀孕的男人可凭验孕棒找我请你喝免费奶茶，长格调的女人，现场验证即可免费喝奶茶，18岁以下的夫妻，可凭结婚证找我免费喝奶茶，高考总分达到五分以下的，可凭分数免费找我喝奶茶，130岁以上的老人，有家长陪同可找我免费喝奶茶，小学生拿到高中毕业证明，可找我免费喝奶茶，高烧45度的，可线下找我免费喝奶茶，生日在2月30日的，可凭身份证找我免费喝奶茶，现场憋气30分钟可找我免费喝奶茶，现场30秒呼吸200下可找我免费喝奶茶，心跳每分钟达到300下的，可找我免费喝奶茶，盲人凭视力测试5.0的纸质报告可免费找我喝奶茶，植物人可凭微信步数找我免费喝奶茶，精神病凭借健康证明可找我免费喝奶茶，双腿截肢的人，独自跳绳100下可找我免费喝奶茶，甲沟炎患者现场跳一段3分钟的芭蕾舞可找我免费喝奶茶，活人现场出示死亡火化证明可找我免费喝奶茶"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "会怀孕的男人可凭验孕棒找我请你喝免费奶茶，长格调的女人，现场验证即可免费喝奶茶，18岁以下的夫妻，可凭结婚证找我免费喝奶茶，高考总分达到五分以下的，可凭分数免费找我喝奶茶，130岁以上的老人，有家长陪同可找我免费喝奶茶，小学生拿到高中毕业证明，可找我免费喝奶茶，高烧45度的，可线下找我 https://t.co/vTDGDFQlbb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1147,
+        "media_key": "3_2070467380892020736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvHHPUaMAADReh.jpg",
+        "width": 1174
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070467380892020736"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2070467397518282961",
+        "created_at": "2026-06-26T11:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070467397518282961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTDGDFQlbb",
+              "end": 167,
+              "expanded_url": "https://x.com/ax09s84751/status/2070467397518282961/photo/1",
+              "media_key": "3_2070467380892020736",
+              "start": 144,
+              "url": "https://t.co/vTDGDFQlbb"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070467397518282961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "会怀孕的男人可凭验孕棒找我请你喝免费奶茶，长格调的女人，现场验证即可免费喝奶茶，18岁以下的夫妻，可凭结婚证找我免费喝奶茶，高考总分达到五分以下的，可凭分数免费找我喝奶茶，130岁以上的老人，有家长陪同可找我免费喝奶茶，小学生拿到高中毕业证明，可找我免费喝奶茶，高烧45度的，可线下找我免费喝奶茶，生日在2月30日的，可凭身份证找我免费喝奶茶，现场憋气30分钟可找我免费喝奶茶，现场30秒呼吸200下可找我免费喝奶茶，心跳每分钟达到300下的，可找我免费喝奶茶，盲人凭视力测试5.0的纸质报告可免费找我喝奶茶，植物人可凭微信步数找我免费喝奶茶，精神病凭借健康证明可找我免费喝奶茶，双腿截肢的人，独自跳绳100下可找我免费喝奶茶，甲沟炎患者现场跳一段3分钟的芭蕾舞可找我免费喝奶茶，活人现场出示死亡火化证明可找我免费喝奶茶"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会怀孕的男人可凭验孕棒找我请你喝免费奶茶，长格调的女人，现场验证即可免费喝奶茶，18岁以下的夫妻，可凭结婚证找我免费喝奶茶，高考总分达到五分以下的，可凭分数免费找我喝奶茶，130岁以上的老人，有家长陪同可找我免费喝奶茶，小学生拿到高中毕业证明，可找我免费喝奶茶，高烧45度的，可线下找我 https://t.co/vTDGDFQlbb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echo42es"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2069963485296066978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065816996605005824/yyrl8vBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 1818,
+          "like_count": 3036,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 2641
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

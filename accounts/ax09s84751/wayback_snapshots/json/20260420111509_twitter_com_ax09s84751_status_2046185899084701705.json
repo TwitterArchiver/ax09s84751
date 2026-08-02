@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2045857848865787937",
+    "created_at": "2026-04-20T11:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046185899084701705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1612297441218555904",
+          "start": 0,
+          "username": "MenglinZhao3"
+        },
+        {
+          "end": 19,
+          "id": "1720665183188922368",
+          "start": 14,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046185899084701705",
+    "in_reply_to_user_id": "1612297441218555904",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045857848865787937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MenglinZhao3 @grok it is true ?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2045857848865787937",
+        "created_at": "2026-04-20T11:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046185899084701705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1612297441218555904",
+              "start": 0,
+              "username": "MenglinZhao3"
+            },
+            {
+              "end": 19,
+              "id": "1720665183188922368",
+              "start": 14,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046185899084701705",
+        "in_reply_to_user_id": "1612297441218555904",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045857848865787937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MenglinZhao3 @grok it is true ?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612297441218555904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2045857848865787937",
+        "created_at": "2026-04-19T13:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045857848865787937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045857848865787937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 21468,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "所有年轻人最重要的一笔投资：  \n\nClaude和Chat GPT。  \n\n一定要记住！！对最顶级的模型能力要有认知！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 1132,
+          "like_count": 738,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-09T03:57:37.000Z",
+        "description": "书中寻路，脑中构建，指尖输出\n📦 跨境电商8年牛马\n📈 也算有点小的业务成就\n🤖 现在就想搞点AI+跨境业务落地\n📝 分享普通人也可以落地的「AI提效 × 外贸增长」方法论\n利他｜长期主义｜永远保持一颗学徒的心",
+        "id": "1612297441218555904",
+        "name": "Lin.",
+        "pinned_tweet_id": "2031930213567709213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028550789258747904/68-s7taW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 346,
+          "like_count": 2361,
+          "listed_count": 6,
+          "media_count": 158,
+          "tweet_count": 2143
+        },
+        "username": "MenglinZhao3",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8556348,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6662,
+          "media_count": 8845582,
+          "tweet_count": 123249804
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

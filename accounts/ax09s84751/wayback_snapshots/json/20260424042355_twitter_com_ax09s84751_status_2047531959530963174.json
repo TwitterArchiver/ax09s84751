@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1884286926779191296",
+          "name": "DeepSeek"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2047531959530963174",
+    "created_at": "2026-04-24T04:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047531959530963174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1714580962569588736",
+          "start": 3,
+          "username": "deepseek_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047531959530963174",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1392
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047516922263285776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deepseek_ai: 🚀 DeepSeek-V4 Preview is officially live &amp; open-sourced! Welcome to the era of cost-effective 1M context length.\n\n🔹 DeepSe…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2047516800439767040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGo9ronbUAAKlRk.jpg",
+        "width": 2809
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2047531959530963174",
+        "created_at": "2026-04-24T04:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047531959530963174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1714580962569588736",
+              "start": 3,
+              "username": "deepseek_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047531959530963174",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1392
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047516922263285776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deepseek_ai: 🚀 DeepSeek-V4 Preview is officially live &amp; open-sourced! Welcome to the era of cost-effective 1M context length.\n\n🔹 DeepSe…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047516800439767040"
+          ]
+        },
+        "author_id": "1714580962569588736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2047516922263285776",
+        "created_at": "2026-04-24T03:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047516922263285776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1AgwMIymu",
+              "end": 304,
+              "expanded_url": "https://x.com/deepseek_ai/status/2047516922263285776/photo/1",
+              "media_key": "3_2047516800439767040",
+              "start": 281,
+              "url": "https://t.co/n1AgwMIymu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047516922263285776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "chat.deepseek.com",
+                "end": 360,
+                "expanded_url": "http://chat.deepseek.com",
+                "start": 337,
+                "url": "https://t.co/GCdiMzk1Dl"
+              },
+              {
+                "display_url": "huggingface.co/deepseek-ai/De…",
+                "end": 466,
+                "expanded_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf",
+                "start": 443,
+                "url": "https://t.co/drlDrxkYtp"
+              },
+              {
+                "display_url": "huggingface.co/collections/de…",
+                "end": 506,
+                "expanded_url": "https://huggingface.co/collections/deepseek-ai/deepseek-v4",
+                "start": 483,
+                "url": "https://t.co/T13Y8i7SDM"
+              }
+            ]
+          },
+          "text": "🚀 DeepSeek-V4 Preview is officially live & open-sourced! Welcome to the era of cost-effective 1M context length.\n\n🔹 DeepSeek-V4-Pro: 1.6T total / 49B active params. Performance rivaling the world's top closed-source models.\n🔹 DeepSeek-V4-Flash: 284B total / 13B active params. Your fast, efficient, and economical choice.\n\nTry it now at https://t.co/GCdiMzk1Dl via Expert Mode / Instant Mode. API is updated & available today!\n\n📄 Tech Report: https://t.co/drlDrxkYtp\n🤗 Open Weights: https://t.co/T13Y8i7SDM\n\n1/n"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1021,
+          "impression_count": 333525,
+          "like_count": 6482,
+          "quote_count": 575,
+          "reply_count": 353,
+          "retweet_count": 1392
+        },
+        "reply_settings": "everyone",
+        "text": "🚀 DeepSeek-V4 Preview is officially live &amp; open-sourced! Welcome to the era of cost-effective 1M context length.\n\n🔹 DeepSeek-V4-Pro: 1.6T total / 49B active params. Performance rivaling the world's top closed-source models.\n🔹 DeepSeek-V4-Flash: 284B total / 13B active params. https://t.co/n1AgwMIymu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 1233,
+          "like_count": 806,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-18T09:55:45.000Z",
+        "description": "Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deepseek.com",
+                "end": 23,
+                "expanded_url": "https://www.deepseek.com/",
+                "start": 0,
+                "url": "https://t.co/Un4k2rqn4o"
+              }
+            ]
+          }
+        },
+        "id": "1714580962569588736",
+        "name": "DeepSeek",
+        "pinned_tweet_id": "1990616182161068094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980626,
+          "following_count": 0,
+          "like_count": 32,
+          "listed_count": 4363,
+          "media_count": 102,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/Un4k2rqn4o",
+        "username": "deepseek_ai",
+        "verified": true
+      }
+    ]
+  }
+}

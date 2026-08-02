@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2049471113235988654",
+    "created_at": "2026-04-30T09:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T10:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049789401866399823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "950952657270681600",
+          "start": 0,
+          "username": "maxwell20000808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049789401866399823",
+    "in_reply_to_user_id": "950952657270681600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049471113235988654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maxwell20000808 拖鞋还分男女吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049471110929162240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEvHehboAA3Btd.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2049471113235988654",
+        "created_at": "2026-04-30T09:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049789401866399823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "950952657270681600",
+              "start": 0,
+              "username": "maxwell20000808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049789401866399823",
+        "in_reply_to_user_id": "950952657270681600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049471113235988654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maxwell20000808 拖鞋还分男女吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049471110929162240"
+          ]
+        },
+        "author_id": "950952657270681600",
+        "conversation_id": "2049471113235988654",
+        "created_at": "2026-04-29T12:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049471113235988654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmzqwe2XJd",
+              "end": 67,
+              "expanded_url": "https://x.com/maxwell20000808/status/2049471113235988654/photo/1",
+              "media_key": "3_2049471110929162240",
+              "start": 44,
+              "url": "https://t.co/bmzqwe2XJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049471113235988654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 262,
+          "impression_count": 143140,
+          "like_count": 1445,
+          "quote_count": 7,
+          "reply_count": 91,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "所有男娘都应该买这些女士拖鞋，而不是穿着黑白丝配城中村出租屋劣质黑色塑料男拖，恶心死了 https://t.co/bmzqwe2XJd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 1415,
+          "like_count": 930,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1236
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-10T04:49:16.000Z",
+        "description": "UCLA Mathematics | 东莞 | 爱好c服、花嫁婚纱、lolita、jk 、汉服 ｜重度恋物癖｜不卖号不卖视频不接推广｜男娘收集者",
+        "id": "950952657270681600",
+        "location": "广东省",
+        "name": "Maxwell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1103907190023188480/UWwObgir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80653,
+          "following_count": 396,
+          "like_count": 523,
+          "listed_count": 364,
+          "media_count": 125,
+          "tweet_count": 1872
+        },
+        "username": "maxwell20000808",
+        "verified": false
+      }
+    ]
+  }
+}

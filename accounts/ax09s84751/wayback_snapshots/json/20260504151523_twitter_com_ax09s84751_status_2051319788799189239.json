@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2051295611027435692",
+    "created_at": "2026-05-04T15:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T16:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051319788799189239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608637128132685825",
+          "start": 0,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2051319788799189239",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051295611027435692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaepheia /ping"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2051295611027435692",
+        "created_at": "2026-05-04T15:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051319788799189239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2051319788799189239",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051295611027435692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia /ping"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2051295611027435692",
+        "created_at": "2026-05-04T13:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051295611027435692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051295611027435692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "测试一下抽奖\n请注意：没有奖品，纯测试\n\n点赞即可参加\n\n明天或者后天开奖\n\n如果你在bluesky 看到这个帖子，请在X 参与抽奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 1481,
+          "like_count": 1055,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1414
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 777,
+          "like_count": 19293,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 3257
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

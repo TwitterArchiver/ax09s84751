@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2049610102882345103",
+    "created_at": "2026-04-30T11:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049811222552588628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049811222552588628",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049610102882345103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 是不是氟西丁啊？那个半衰期超强的玩意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2049610102882345103",
+        "created_at": "2026-04-30T11:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049811222552588628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049811222552588628",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049610102882345103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 是不是氟西丁啊？那个半衰期超强的玩意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2049610102882345103",
+        "created_at": "2026-04-29T22:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T23:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049610102882345103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049610102882345103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 751,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话我真怀疑我吃的这 SSRI 药是假药，连着三天忘吃了也没一点停药反应。吃的话也没感觉状态更好💧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 1417,
+          "like_count": 932,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1243
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | Tweets in EN/CN | 头像 @qyMinusk9 | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "qyMinusk9"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047873379445964800/1vP_LkU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 604,
+          "like_count": 13648,
+          "listed_count": 2,
+          "media_count": 361,
+          "tweet_count": 9635
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

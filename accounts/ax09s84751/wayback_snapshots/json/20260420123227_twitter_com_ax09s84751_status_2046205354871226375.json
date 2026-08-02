@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2046205354871226375",
+    "created_at": "2026-04-20T12:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046205354871226375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886385501130866688",
+          "start": 3,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046205354871226375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046180173792633235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lomyral: 牛逼了，普瑞和愚昧网络禁售了😸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2046205354871226375",
+        "created_at": "2026-04-20T12:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046205354871226375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886385501130866688",
+              "start": 3,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046205354871226375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046180173792633235",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lomyral: 牛逼了，普瑞和愚昧网络禁售了😸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2046180173792633235",
+        "created_at": "2026-04-20T10:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046180173792633235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046180173792633235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1378,
+          "like_count": 56,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼了，普瑞和愚昧网络禁售了😸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 1131,
+          "like_count": 739,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 814
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 591,
+          "like_count": 44931,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 5843
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

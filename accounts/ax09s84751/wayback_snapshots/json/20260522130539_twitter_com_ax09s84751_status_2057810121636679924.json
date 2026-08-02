@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2057810121636679924",
+    "created_at": "2026-05-22T13:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057810121636679924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993455710274043905",
+          "start": 3,
+          "username": "satireorcry1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/satireorcry1/s…",
+          "end": 41,
+          "expanded_url": "https://x.com/satireorcry1/status/2057533610593329571?s=20",
+          "start": 18,
+          "url": "https://t.co/RFZzyDi8DV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057810121636679924",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057534113951752334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satireorcry1: https://t.co/RFZzyDi8DV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2057810121636679924",
+        "created_at": "2026-05-22T13:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057810121636679924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993455710274043905",
+              "start": 3,
+              "username": "satireorcry1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 41,
+              "expanded_url": "https://x.com/satireorcry1/status/2057533610593329571?s=20",
+              "start": 18,
+              "url": "https://t.co/RFZzyDi8DV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057810121636679924",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057534113951752334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satireorcry1: https://t.co/RFZzyDi8DV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993455710274043905",
+        "conversation_id": "2057467710171152888",
+        "created_at": "2026-05-21T18:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057534113951752334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 23,
+              "expanded_url": "https://x.com/satireorcry1/status/2057533610593329571?s=20",
+              "start": 0,
+              "url": "https://t.co/RFZzyDi8DV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057534113951752334",
+        "in_reply_to_user_id": "1993455710274043905",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 59658,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057533610593329571",
+            "type": "quoted"
+          },
+          {
+            "id": "2057467710171152888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/RFZzyDi8DV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 1699,
+          "like_count": 2328,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 2098
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvog37z"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30922,
+          "following_count": 1611,
+          "like_count": 18686,
+          "listed_count": 68,
+          "media_count": 3999,
+          "tweet_count": 5624
+        },
+        "url": "https://t.co/EYxWvog37z",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

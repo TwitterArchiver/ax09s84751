@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039652766973632513"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039653635744043313",
+    "created_at": "2026-04-02T10:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T11:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039653635744043313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p1LkTPPTa6",
+          "end": 135,
+          "expanded_url": "https://x.com/ax09s84751/status/2039653635744043313/photo/1",
+          "media_key": "3_2039652766973632513",
+          "start": 112,
+          "url": "https://t.co/p1LkTPPTa6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039653635744043313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在的ai随便一问就可以搞超级难的指令。\n那我以前上b站 浏览器 疯狂学指令算什么？？？？？？？？？？？？？\n算我爱学吗？😅😅😅😅😅\n要看无数个网页和视频才能找到我想要的一个指令。。。。。\n想当年我也是指令大佬。。😭😭😭😭 https://t.co/p1LkTPPTa6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039652766973632513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5NYpCbIAEa1ob.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039652766973632513"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039653635744043313",
+        "created_at": "2026-04-02T10:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039653635744043313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p1LkTPPTa6",
+              "end": 135,
+              "expanded_url": "https://x.com/ax09s84751/status/2039653635744043313/photo/1",
+              "media_key": "3_2039652766973632513",
+              "start": 112,
+              "url": "https://t.co/p1LkTPPTa6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039653635744043313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的ai随便一问就可以搞超级难的指令。\n那我以前上b站 浏览器 疯狂学指令算什么？？？？？？？？？？？？？\n算我爱学吗？😅😅😅😅😅\n要看无数个网页和视频才能找到我想要的一个指令。。。。。\n想当年我也是指令大佬。。😭😭😭😭 https://t.co/p1LkTPPTa6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 663,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

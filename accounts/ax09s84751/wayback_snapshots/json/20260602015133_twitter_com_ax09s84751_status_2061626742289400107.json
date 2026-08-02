@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2061275447497724048",
+    "created_at": "2026-06-02T01:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T02:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061626742289400107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "305332545",
+          "start": 0,
+          "username": "Thelenhadoor"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2061626742289400107",
+    "in_reply_to_user_id": "305332545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061275447497724048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thelenhadoor 不信"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2061275447497724048",
+        "created_at": "2026-06-02T01:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061626742289400107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "305332545",
+              "start": 0,
+              "username": "Thelenhadoor"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2061626742289400107",
+        "in_reply_to_user_id": "305332545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061275447497724048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thelenhadoor 不信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "305332545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2061275447497724048",
+        "created_at": "2026-06-01T02:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061275447497724048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061275447497724048",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 400701,
+          "like_count": 15583,
+          "quote_count": 81,
+          "reply_count": 5448,
+          "retweet_count": 699
+        },
+        "reply_settings": "everyone",
+        "text": "Responder esse tweet cancela qualquer azar que estava reservado pra você esse ano."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 1826,
+          "like_count": 2732,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 2450
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-26T01:23:40.000Z",
+        "description": "ANGEL BY THE WINGS ⚡️ P ❤️💍",
+        "id": "305332545",
+        "location": "Los Angeles, CA",
+        "name": "Easy 🅰️",
+        "pinned_tweet_id": "2025248689363497205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046411547636072448/33Qr6eZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44486,
+          "following_count": 22136,
+          "like_count": 26155,
+          "listed_count": 17,
+          "media_count": 684,
+          "tweet_count": 67732
+        },
+        "username": "Thelenhadoor",
+        "verified": true
+      }
+    ]
+  }
+}

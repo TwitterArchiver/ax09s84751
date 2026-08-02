@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055453738022863123",
+    "created_at": "2026-05-16T01:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055453738022863123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Thymol_11/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Thymol_11/status/2055448814967025960",
+          "start": 6,
+          "url": "https://t.co/Uz6mnO1SIn"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055453738022863123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055448814967025960",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "生日快乐呀 https://t.co/Uz6mnO1SIn"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055453738022863123",
+        "created_at": "2026-05-16T01:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055453738022863123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Thymol_11/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Thymol_11/status/2055448814967025960",
+              "start": 6,
+              "url": "https://t.co/Uz6mnO1SIn"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055453738022863123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055448814967025960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生日快乐呀 https://t.co/Uz6mnO1SIn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2055448814967025960",
+        "created_at": "2026-05-16T00:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055448814967025960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055448814967025960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我17岁生日！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1657,
+          "like_count": 2068,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 1811
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜半健全边缘人｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "pinned_tweet_id": "2045358763578970285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 655,
+          "like_count": 5456,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      }
+    ]
+  }
+}

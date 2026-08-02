@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048038033774256633",
+    "created_at": "2026-04-26T13:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048386876911034685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1522857102888226816",
+          "start": 0,
+          "username": "hakai42038139"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048386876911034685",
+    "in_reply_to_user_id": "1522857102888226816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048038033774256633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hakai42038139 评论区刷怪了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2048038025738031104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwXu8KbkAA-50a.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048038033774256633",
+        "created_at": "2026-04-26T13:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048386876911034685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1522857102888226816",
+              "start": 0,
+              "username": "hakai42038139"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048386876911034685",
+        "in_reply_to_user_id": "1522857102888226816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048038033774256633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakai42038139 评论区刷怪了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048038025738031104"
+          ]
+        },
+        "author_id": "1522857102888226816",
+        "conversation_id": "2048038033774256633",
+        "created_at": "2026-04-25T13:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048038033774256633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r6ieX8UXsX",
+              "end": 44,
+              "expanded_url": "https://x.com/hakai42038139/status/2048038033774256633/photo/1",
+              "media_key": "3_2048038025738031104",
+              "start": 21,
+              "url": "https://t.co/r6ieX8UXsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048038033774256633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 36980,
+          "like_count": 716,
+          "quote_count": 5,
+          "reply_count": 193,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "这么清晰的伟人照片太难得了！怀念老人家！ https://t.co/r6ieX8UXsX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/视成分互关\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 1336,
+          "like_count": 863,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1050
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-07T08:33:39.000Z",
+        "description": "和平主义者。爱世界。爱宇宙。爱正义和真理。爱的未完待续。。。",
+        "id": "1522857102888226816",
+        "name": "二月花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619178080416985088/tI4sAeBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15512,
+          "following_count": 3165,
+          "like_count": 11003,
+          "listed_count": 73,
+          "media_count": 12479,
+          "tweet_count": 19008
+        },
+        "username": "hakai42038139",
+        "verified": false
+      }
+    ]
+  }
+}

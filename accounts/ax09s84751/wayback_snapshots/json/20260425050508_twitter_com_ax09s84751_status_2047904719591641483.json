@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047902106187891126",
+    "created_at": "2026-04-25T05:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T06:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047904719591641483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1689095384956633088",
+          "start": 0,
+          "username": "KfirC10SRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047904719591641483",
+    "in_reply_to_user_id": "1689095384956633088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047902106187891126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KfirC10SRC 你妈的你们这群o美金刚的别搞啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047902103751024640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGucHPTa4AAoldb.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047902106187891126",
+        "created_at": "2026-04-25T05:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047904719591641483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1689095384956633088",
+              "start": 0,
+              "username": "KfirC10SRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047904719591641483",
+        "in_reply_to_user_id": "1689095384956633088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047902106187891126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KfirC10SRC 你妈的你们这群o美金刚的别搞啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047902103751024640"
+          ]
+        },
+        "author_id": "1689095384956633088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047902106187891126",
+        "created_at": "2026-04-25T04:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047902106187891126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bQfj7T9SF",
+              "end": 48,
+              "expanded_url": "https://x.com/KfirC10SRC/status/2047902106187891126/photo/1",
+              "media_key": "3_2047902103751024640",
+              "start": 25,
+              "url": "https://t.co/7bQfj7T9SF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047902106187891126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拼多多出现2块一盒的美金刚，3盒5块，5盒9块！ https://t.co/7bQfj7T9SF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 1310,
+          "like_count": 828,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 990
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-09T02:05:07.000Z",
+        "description": "10年の小南梁喵，MTX/F？pr80重度依赖,家长不管党，双相/ADHD,   战雷空战大手子，不见证喵   🍥时间：2026.3.15  对象：@keplerD080311 备用号：@kfirc10block60 同类扩列免费喵，其他🚪25元",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "keplerD080311"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "kfirc10block60"
+              }
+            ]
+          }
+        },
+        "id": "1689095384956633088",
+        "location": "海 外",
+        "name": "KfirC10🍥",
+        "pinned_tweet_id": "2046586702760976406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008943119623188480/vmd2MtXn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 212,
+          "like_count": 316,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 383
+        },
+        "username": "KfirC10SRC",
+        "verified": false
+      }
+    ]
+  }
+}

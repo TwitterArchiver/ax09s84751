@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2080297905395773724",
+    "created_at": "2026-07-23T14:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080297905395773724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AirisTendouX2K…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/AirisTendouX2K/status/2079483148505924050",
+          "start": 82,
+          "url": "https://t.co/XTLBHmFiug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080297905395773724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079483148505924050",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "xyn不能自杀喔，不然每天抱抱的鲨鲨会没有家的。。然后被父母丢进阴冷潮湿臭臭的垃圾桶。鲨鲨会伤心的，会怀念主人的抱抱的。多抱抱鲨鲨，不要让可爱的鲨鲨无家可归呢。。 https://t.co/XTLBHmFiug"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079483108601241600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvO3qSaIAAHvvA.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2079483118621511680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvO4PnbUAAL6MH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2079483129421762560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvO432aEAA7t4l.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2079483139559403520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvO5dnaMAAHRsT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2080297905395773724",
+        "created_at": "2026-07-23T14:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080297905395773724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AirisTendouX2K…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/AirisTendouX2K/status/2079483148505924050",
+              "start": 82,
+              "url": "https://t.co/XTLBHmFiug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080297905395773724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079483148505924050",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xyn不能自杀喔，不然每天抱抱的鲨鲨会没有家的。。然后被父母丢进阴冷潮湿臭臭的垃圾桶。鲨鲨会伤心的，会怀念主人的抱抱的。多抱抱鲨鲨，不要让可爱的鲨鲨无家可归呢。。 https://t.co/XTLBHmFiug"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079483108601241600",
+            "3_2079483118621511680",
+            "3_2079483129421762560",
+            "3_2079483139559403520"
+          ]
+        },
+        "author_id": "2049825426441433090",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079483148505924050",
+        "created_at": "2026-07-21T08:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079483148505924050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/osetsjQzYn",
+              "end": 52,
+              "expanded_url": "https://x.com/AirisTendouX2K/status/2079483148505924050/photo/1",
+              "media_key": "3_2079483108601241600",
+              "start": 29,
+              "url": "https://t.co/osetsjQzYn"
+            },
+            {
+              "display_url": "pic.x.com/osetsjQzYn",
+              "end": 52,
+              "expanded_url": "https://x.com/AirisTendouX2K/status/2079483148505924050/photo/1",
+              "media_key": "3_2079483118621511680",
+              "start": 29,
+              "url": "https://t.co/osetsjQzYn"
+            },
+            {
+              "display_url": "pic.x.com/osetsjQzYn",
+              "end": 52,
+              "expanded_url": "https://x.com/AirisTendouX2K/status/2079483148505924050/photo/1",
+              "media_key": "3_2079483129421762560",
+              "start": 29,
+              "url": "https://t.co/osetsjQzYn"
+            },
+            {
+              "display_url": "pic.x.com/osetsjQzYn",
+              "end": 52,
+              "expanded_url": "https://x.com/AirisTendouX2K/status/2079483148505924050/photo/1",
+              "media_key": "3_2079483139559403520",
+              "start": 29,
+              "url": "https://t.co/osetsjQzYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079483148505924050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6265,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "吃不下了，太苦了氟西汀分散片，丙戊酸钠忘带来了。阳光真好 https://t.co/osetsjQzYn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2075833932537589993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 1794,
+          "like_count": 3232,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 2746
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-30T12:17:28.000Z",
+        "description": "不支持od（化掉），但尊重od。未成年人|编译日期2011.1.9|，无证含糖|2026.5.1|mtf🏳️‍⚧️（2026/5/31炸柜），以前是粉红，现在没力气力(疑似每个长大后的小粉红必经之路)。\n喜欢“蝙蝠”？\n🦇不!这是咱的文件名后缀。",
+        "id": "2049825426441433090",
+        "name": "airis_batN🍥",
+        "pinned_tweet_id": "2077500001455120500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049825544964046848/B2XUWWeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 188,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "AirisTendouX2K",
+        "verified": true
+      }
+    ]
+  }
+}

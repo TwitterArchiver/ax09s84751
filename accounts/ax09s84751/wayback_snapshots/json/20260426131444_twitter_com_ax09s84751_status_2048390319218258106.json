@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048388802314744086",
+    "created_at": "2026-04-26T13:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048390319218258106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1476546742577504265",
+          "start": 0,
+          "username": "luoshuyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048390319218258106",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048388802314744086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoshuyao 我家也很穷。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1485,
+        "media_key": "3_2048387399626244096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1VfLUbwAARPTZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1481,
+        "media_key": "3_2048387399617802240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1VfLSa8AAttBz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1583,
+        "media_key": "3_2048387399630360576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1VfLVakAAqhmN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1558,
+        "media_key": "3_2048387406433492992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1VfkraIAAeGZ9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048388802314744086",
+        "created_at": "2026-04-26T13:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048390319218258106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048390319218258106",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048388802314744086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 我家也很穷。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048387399626244096",
+            "3_2048387399617802240",
+            "3_2048387399630360576",
+            "3_2048387406433492992"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048388802314744086",
+        "created_at": "2026-04-26T13:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048388802314744086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9Y2TEG9uY",
+              "end": 125,
+              "expanded_url": "https://x.com/luoshuyao/status/2048388802314744086/photo/1",
+              "media_key": "3_2048387399626244096",
+              "start": 102,
+              "url": "https://t.co/q9Y2TEG9uY"
+            },
+            {
+              "display_url": "pic.x.com/q9Y2TEG9uY",
+              "end": 125,
+              "expanded_url": "https://x.com/luoshuyao/status/2048388802314744086/photo/1",
+              "media_key": "3_2048387399617802240",
+              "start": 102,
+              "url": "https://t.co/q9Y2TEG9uY"
+            },
+            {
+              "display_url": "pic.x.com/q9Y2TEG9uY",
+              "end": 125,
+              "expanded_url": "https://x.com/luoshuyao/status/2048388802314744086/photo/1",
+              "media_key": "3_2048387399630360576",
+              "start": 102,
+              "url": "https://t.co/q9Y2TEG9uY"
+            },
+            {
+              "display_url": "pic.x.com/q9Y2TEG9uY",
+              "end": 125,
+              "expanded_url": "https://x.com/luoshuyao/status/2048388802314744086/photo/1",
+              "media_key": "3_2048387406433492992",
+              "start": 102,
+              "url": "https://t.co/q9Y2TEG9uY"
+            },
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2048346411021054293",
+              "start": 126,
+              "url": "https://t.co/9kvg2p9vlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048388802314744086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048346411021054293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们怎么敢推这么贵的游戏😭\n我只是一个牛马打工人，家里很穷，甚至负债。只是我没有负债，给自己花钱很少而已。我自己玩都不敢买超一百块钱的，买的最贵的也就是荒野大镖客2，打折70块钱，犹豫了很久咬咬牙买的😭 https://t.co/q9Y2TEG9uY https://t.co/9kvg2p9vlL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/视成分互关\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 1336,
+          "like_count": 871,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1061
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2027433318661427368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 279,
+          "like_count": 11450,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 2545
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

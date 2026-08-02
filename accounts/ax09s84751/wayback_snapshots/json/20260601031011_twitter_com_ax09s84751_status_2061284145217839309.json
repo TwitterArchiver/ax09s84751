@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2061284145217839309",
+    "created_at": "2026-06-01T03:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061284145217839309"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xiaoyi_0324/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2061219297666724326",
+          "start": 10,
+          "url": "https://t.co/BUWqhtZ9Lz"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2061284145217839309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061219297666724326",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈的要羡慕死了 https://t.co/BUWqhtZ9Lz"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2061284145217839309",
+        "created_at": "2026-06-01T03:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061284145217839309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xiaoyi_0324/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2061219297666724326",
+              "start": 10,
+              "url": "https://t.co/BUWqhtZ9Lz"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2061284145217839309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061219297666724326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈的要羡慕死了 https://t.co/BUWqhtZ9Lz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2061219297666724326",
+        "created_at": "2026-05-31T22:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T23:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061219297666724326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061219297666724326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "先叠甲 没有乞讨的意思 单纯碎碎念 如果你觉得我仍在乞讨…那我无言以对\n\n 。怎么还有人可以免费收到Premium的\n我咋没这待遇 我还要被神人作息和躯体化折磨😂气笑了 也xm哭了 这样显得原本27块钱的Premium 我花了50块开的很蠢啊\n世界平常就这样虐待我😭\n我不想找代开了。。谁能帮帮我\n求你了 我不想要如此高昂的手续费了 好麻烦 好累\n✝️昇天✝️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 609,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "先叠甲 没有乞讨的意思 单纯碎碎念 如果你觉得我仍在乞讨…那我无言以对\n\n 。怎么还有人可以免费收到Premium的\n我咋没这待遇 我还要被神人作息和躯体化折磨😂气笑了 也xm哭了 这样显得原本27块钱的Premium 我花了50块开的很蠢啊\n世界平常就这样虐待我😭\n我不想找代开了。。谁能帮帮我\n求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 1832,
+          "like_count": 2680,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 2436
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 307,
+          "like_count": 1483,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 1936
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

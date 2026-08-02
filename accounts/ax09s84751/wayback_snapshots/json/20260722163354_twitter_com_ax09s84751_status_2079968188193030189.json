@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079968179808530432",
+        "3_2079968179816955904"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2079968188193030189",
+    "created_at": "2026-07-22T16:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:28:32.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079966835190182013",
+      "2079967824718839895",
+      "2079968188193030189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j8bYTNp2sV",
+          "end": 151,
+          "expanded_url": "https://x.com/ax09s84751/status/2079968188193030189/photo/1",
+          "media_key": "3_2079968179808530432",
+          "start": 128,
+          "url": "https://t.co/j8bYTNp2sV"
+        },
+        {
+          "display_url": "pic.x.com/j8bYTNp2sV",
+          "end": 151,
+          "expanded_url": "https://x.com/ax09s84751/status/2079968188193030189/photo/1",
+          "media_key": "3_2079968179816955904",
+          "start": 128,
+          "url": "https://t.co/j8bYTNp2sV"
+        },
+        {
+          "display_url": "x.com/ax09s84751/sta…",
+          "end": 175,
+          "expanded_url": "https://twitter.com/ax09s84751/status/2079965770524840071",
+          "start": 152,
+          "url": "https://t.co/pQtwzRGOqO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079968188193030189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079965770524840071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要吃亚硝酸钠 碳酸钡 做血液透析 \n血液全都是暗红色 还要打右美托咪定 氯化钾......\n昏迷了12h左右 ..............似乎没打亚甲蓝 因为太晚了.... 腿上插了了一个超级长的血透管............\n😢 第二次了.. 唉.. https://t.co/j8bYTNp2sV https://t.co/pQtwzRGOqO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079968179808530432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2IChWacAAwfqX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079968179816955904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2IChYbAAAlGMA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2079965657446395911",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2Fvs0asAc_odk.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2079965687821545472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2Fxd-asAAhY54.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3264,
+        "media_key": "3_2079965753852530688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2F1T9bkAAz1sX.jpg",
+        "width": 2448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079966408398778372",
+            "3_2079966408440762369"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2079966835190182013",
+        "created_at": "2026-07-22T16:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:28:32.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079966835190182013",
+          "2079967824718839895",
+          "2079968188193030189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvhJ7DdWbu",
+              "end": 94,
+              "expanded_url": "https://x.com/ax09s84751/status/2079966835190182013/photo/1",
+              "media_key": "3_2079966408398778372",
+              "start": 71,
+              "url": "https://t.co/XvhJ7DdWbu"
+            },
+            {
+              "display_url": "pic.x.com/XvhJ7DdWbu",
+              "end": 94,
+              "expanded_url": "https://x.com/ax09s84751/status/2079966835190182013/photo/1",
+              "media_key": "3_2079966408440762369",
+              "start": 71,
+              "url": "https://t.co/XvhJ7DdWbu"
+            },
+            {
+              "display_url": "x.com/ax09s84751/sta…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/ax09s84751/status/2079965770524840071",
+              "start": 95,
+              "url": "https://t.co/pQtwzRGOqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079966835190182013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079965770524840071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要吃亚硝酸钠 碳酸钡 做血液透析 \n血液全都是暗红色 还要打右美托咪定 氯化钾......\n昏迷了12h左右 .............. https://t.co/XvhJ7DdWbu https://t.co/pQtwzRGOqO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079967617671163904",
+            "3_2079967618828771328"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2079967824718839895",
+        "created_at": "2026-07-22T16:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:28:32.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079966835190182013",
+          "2079967824718839895",
+          "2079968188193030189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTuB3aMcQf",
+              "end": 140,
+              "expanded_url": "https://x.com/ax09s84751/status/2079967824718839895/photo/1",
+              "media_key": "3_2079967617671163904",
+              "start": 117,
+              "url": "https://t.co/JTuB3aMcQf"
+            },
+            {
+              "display_url": "pic.x.com/JTuB3aMcQf",
+              "end": 140,
+              "expanded_url": "https://x.com/ax09s84751/status/2079967824718839895/photo/1",
+              "media_key": "3_2079967618828771328",
+              "start": 117,
+              "url": "https://t.co/JTuB3aMcQf"
+            },
+            {
+              "display_url": "x.com/ax09s84751/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/ax09s84751/status/2079965770524840071",
+              "start": 141,
+              "url": "https://t.co/pQtwzRGOqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079967824718839895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079965770524840071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要吃亚硝酸钠 碳酸钡 做血液透析 \n血液全都是暗红色 还要打右美托咪定 氯化钾......\n昏迷了12h左右 ..............似乎没打亚甲蓝 因为太晚了.... 腿上插了了一个超级长的血透管............\n😢 https://t.co/JTuB3aMcQf https://t.co/pQtwzRGOqO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079968179808530432",
+            "3_2079968179816955904"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2079968188193030189",
+        "created_at": "2026-07-22T16:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:28:32.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079966835190182013",
+          "2079967824718839895",
+          "2079968188193030189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j8bYTNp2sV",
+              "end": 151,
+              "expanded_url": "https://x.com/ax09s84751/status/2079968188193030189/photo/1",
+              "media_key": "3_2079968179808530432",
+              "start": 128,
+              "url": "https://t.co/j8bYTNp2sV"
+            },
+            {
+              "display_url": "pic.x.com/j8bYTNp2sV",
+              "end": 151,
+              "expanded_url": "https://x.com/ax09s84751/status/2079968188193030189/photo/1",
+              "media_key": "3_2079968179816955904",
+              "start": 128,
+              "url": "https://t.co/j8bYTNp2sV"
+            },
+            {
+              "display_url": "x.com/ax09s84751/sta…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/ax09s84751/status/2079965770524840071",
+              "start": 152,
+              "url": "https://t.co/pQtwzRGOqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079968188193030189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079965770524840071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要吃亚硝酸钠 碳酸钡 做血液透析 \n血液全都是暗红色 还要打右美托咪定 氯化钾......\n昏迷了12h左右 ..............似乎没打亚甲蓝 因为太晚了.... 腿上插了了一个超级长的血透管............\n😢 第二次了.. 唉.. https://t.co/j8bYTNp2sV https://t.co/pQtwzRGOqO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079965657446395911",
+            "3_2079965687821545472",
+            "3_2079965753852530688"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079965770524840071",
+        "created_at": "2026-07-22T16:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:22:29.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079965314155208717",
+          "2079965770524840071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4J6pMKg5JW",
+              "end": 42,
+              "expanded_url": "https://x.com/ax09s84751/status/2079965770524840071/photo/1",
+              "media_key": "3_2079965657446395911",
+              "start": 19,
+              "url": "https://t.co/4J6pMKg5JW"
+            },
+            {
+              "display_url": "pic.x.com/4J6pMKg5JW",
+              "end": 42,
+              "expanded_url": "https://x.com/ax09s84751/status/2079965770524840071/photo/1",
+              "media_key": "3_2079965687821545472",
+              "start": 19,
+              "url": "https://t.co/4J6pMKg5JW"
+            },
+            {
+              "display_url": "pic.x.com/4J6pMKg5JW",
+              "end": 42,
+              "expanded_url": "https://x.com/ax09s84751/status/2079965770524840071/photo/1",
+              "media_key": "3_2079965753852530688",
+              "start": 19,
+              "url": "https://t.co/4J6pMKg5JW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079965770524840071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟大家说一下我最近去哪了...... https://t.co/4J6pMKg5JW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2075833932537589993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 1796,
+          "like_count": 3200,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 2746
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

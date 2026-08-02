@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2045336517338611954",
+    "created_at": "2026-04-18T04:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T05:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045362881299099857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1599598815098519552",
+          "start": 0,
+          "username": "Bitgold_Hold"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045362881299099857",
+    "in_reply_to_user_id": "1599598815098519552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045336517338611954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitgold_Hold 我这个小众梯子到现在就没出过事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2045336517338611954",
+        "created_at": "2026-04-18T04:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045362881299099857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1599598815098519552",
+              "start": 0,
+              "username": "Bitgold_Hold"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045362881299099857",
+        "in_reply_to_user_id": "1599598815098519552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045336517338611954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitgold_Hold 我这个小众梯子到现在就没出过事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599598815098519552",
+        "conversation_id": "2045336517338611954",
+        "created_at": "2026-04-18T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045336517338611954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045336517338611954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "谈一下最近大陆清理VPN这件事。\n\n首先可以明确的一个事实是，翻墙VPN是一项网络技术，而技术就存在不断更新的现实特点，除非完全拔网线，否则清理行为无法在技术层面被物理终结。\n\n我们已经现在看到，随着网络大神反屏蔽加密技术不断提高，“猫捉老鼠游戏”一直玩的不亦乐乎，现在技术已经可以将流量完全伪装成标准的网页浏览流量。所以，还是那句话，除非切断整条国际光缆，否则很难从海量的正常流量中精准剥离出翻墙流量。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 150,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谈一下最近大陆清理VPN这件事。\n\n首先可以明确的一个事实是，翻墙VPN是一项网络技术，而技术就存在不断更新的现实特点，除非完全拔网线，否则清理行为无法在技术层面被物理终结。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 948,
+          "like_count": 626,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 730
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-05T02:58:27.000Z",
+        "description": "用经济学视角解析现实世界｜比特币信仰者｜社会观察，感悟分享｜ 理性、客观、逻辑，人性立场",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Bitgold_Hold",
+                "end": 23,
+                "expanded_url": "https://x.com/Bitgold_Hold",
+                "start": 0,
+                "url": "https://t.co/0dITWLLPAT"
+              }
+            ]
+          }
+        },
+        "id": "1599598815098519552",
+        "name": "极简经济学",
+        "pinned_tweet_id": "2042593422113149190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012714503507509248/Vm7xAhZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5085,
+          "following_count": 3551,
+          "like_count": 7970,
+          "listed_count": 14,
+          "media_count": 869,
+          "tweet_count": 8039
+        },
+        "url": "https://t.co/0dITWLLPAT",
+        "username": "Bitgold_Hold",
+        "verified": true
+      }
+    ]
+  }
+}

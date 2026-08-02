@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2039971099799380196",
+    "created_at": "2026-04-03T07:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T08:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039971099799380196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fragrooooooo/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Fragrooooooo/status/2039610352175042668",
+          "start": 4,
+          "url": "https://t.co/UUVckohrd2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039971099799380196",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039610352175042668",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看刑 https://t.co/UUVckohrd2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2039971099799380196",
+        "created_at": "2026-04-03T07:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039971099799380196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fragrooooooo/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Fragrooooooo/status/2039610352175042668",
+              "start": 4,
+              "url": "https://t.co/UUVckohrd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039971099799380196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039610352175042668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看刑 https://t.co/UUVckohrd2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028417388321107969",
+        "conversation_id": "2039610352175042668",
+        "created_at": "2026-04-02T07:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039610352175042668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039610352175042668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 366,
+          "impression_count": 458688,
+          "like_count": 1319,
+          "quote_count": 24,
+          "reply_count": 170,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "多巴胺让人快乐，但多巴胺是水溶性的，你口服也好注射也罢，都突破不了血脑屏障，很难生效。那怎么办呢？给多巴胺去掉羟基，加一个甲基，就会让它从水溶性变脂溶性，血脑屏障就拦不住它了。但新产物容易被分解，效果不持久。再加一个甲基，代谢就非常慢了。这主意是不是很棒？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 666,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T10:29:39.000Z",
+        "description": "前前前前世@Muddledist破千fo被封｜tg：@Muddledist ｜211中文系抽象魔怔缺爱磕药地雷女｜流浪吟詩，爛泥打樁｜ 自由思考，獨立展望，用批判性思維看待這個復雜的世界。｜ 賽博發癲日記本｜ 赛博妓女实在处女｜ 欢迎互关｜🚪88/188/388/588/1888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Muddledist"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "Muddledist"
+              }
+            ]
+          }
+        },
+        "id": "2028417388321107969",
+        "location": "第五高原",
+        "name": "乙女椿",
+        "pinned_tweet_id": "2028425139323613641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033543866352361472/gIIZqjJ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 138,
+          "like_count": 118,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "username": "Fragrooooooo",
+        "verified": false
+      }
+    ]
+  }
+}

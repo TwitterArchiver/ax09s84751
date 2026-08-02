@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2053039330449301987",
+    "created_at": "2026-05-09T09:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053049886543904867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2053049886543904867",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053039330449301987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq 加油！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2064,
+        "media_key": "3_2053039313122713602",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3cYLiXYAI4DOU.jpg",
+        "width": 2752
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2053039330449301987",
+        "created_at": "2026-05-09T09:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053049886543904867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2053049886543904867",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053039330449301987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq 加油！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053039313122713602"
+          ]
+        },
+        "author_id": "2035668415231492096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053039330449301987",
+        "created_at": "2026-05-09T09:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053039330449301987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i9nsSbSUeD",
+              "end": 44,
+              "expanded_url": "https://x.com/4rulq/status/2053039330449301987/photo/1",
+              "media_key": "3_2053039313122713602",
+              "start": 21,
+              "url": "https://t.co/i9nsSbSUeD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053039330449301987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "HRT紀錄喵🍥🏳️‍⚧️～（第四天下午） https://t.co/i9nsSbSUeD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 1533,
+          "like_count": 1341,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1547
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "私はかくえいいです、いいちゃんと呼んでください\n重度焦慮/性別焦慮各方面渴望被愛\n重度の不安/性別不安の各方面（ではない）\nHRT：2026/5/6\n請先看這個內容喵～注意⚠️：若是大陸人請自覺用找我要國內聯絡資訊喵～感謝大家的配合喵～最愛大家喵～\n註明：1:自願不是強求喵～\n2:有🚪費的請遠離喵～（後續酌情補充喵～",
+        "id": "2035668415231492096",
+        "name": "かくえいい🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038145351832793088/iKz0bEI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 540,
+          "like_count": 1987,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1957
+        },
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049320266195734528",
+        "3_2049320265520398336",
+        "3_2049320265528889344"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2049320286022173124",
+    "created_at": "2026-04-29T02:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T03:47:48.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049319711293485532",
+      "2049320286022173124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EyLgBaFttV",
+          "end": 28,
+          "expanded_url": "https://x.com/ax09s84751/status/2049320286022173124/photo/1",
+          "media_key": "3_2049320266195734528",
+          "start": 5,
+          "url": "https://t.co/EyLgBaFttV"
+        },
+        {
+          "display_url": "pic.x.com/EyLgBaFttV",
+          "end": 28,
+          "expanded_url": "https://x.com/ax09s84751/status/2049320286022173124/photo/1",
+          "media_key": "3_2049320265520398336",
+          "start": 5,
+          "url": "https://t.co/EyLgBaFttV"
+        },
+        {
+          "display_url": "pic.x.com/EyLgBaFttV",
+          "end": 28,
+          "expanded_url": "https://x.com/ax09s84751/status/2049320286022173124/photo/1",
+          "media_key": "3_2049320265528889344",
+          "start": 5,
+          "url": "https://t.co/EyLgBaFttV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049320286022173124",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开始od https://t.co/EyLgBaFttV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049320266195734528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCl7KGbEAA6Ov1.jpg",
+        "width": 1417
+      },
+      {
+        "height": 1708,
+        "media_key": "3_2049320265520398336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCl7HlaQAAtzHy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049320265528889344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCl7Hnb0AAhJc_.jpg",
+        "width": 1417
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049319696131121152",
+            "3_2049319696156262400"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049319711293485532",
+        "created_at": "2026-04-29T02:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:47:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049319711293485532",
+          "2049320286022173124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDH30uyNWM",
+              "end": 28,
+              "expanded_url": "https://x.com/ax09s84751/status/2049319711293485532/photo/1",
+              "media_key": "3_2049319696131121152",
+              "start": 5,
+              "url": "https://t.co/mDH30uyNWM"
+            },
+            {
+              "display_url": "pic.x.com/mDH30uyNWM",
+              "end": 28,
+              "expanded_url": "https://x.com/ax09s84751/status/2049319711293485532/photo/1",
+              "media_key": "3_2049319696156262400",
+              "start": 5,
+              "url": "https://t.co/mDH30uyNWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049319711293485532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开始od https://t.co/mDH30uyNWM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049320266195734528",
+            "3_2049320265520398336",
+            "3_2049320265528889344"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049320286022173124",
+        "created_at": "2026-04-29T02:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:47:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049319711293485532",
+          "2049320286022173124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EyLgBaFttV",
+              "end": 28,
+              "expanded_url": "https://x.com/ax09s84751/status/2049320286022173124/photo/1",
+              "media_key": "3_2049320266195734528",
+              "start": 5,
+              "url": "https://t.co/EyLgBaFttV"
+            },
+            {
+              "display_url": "pic.x.com/EyLgBaFttV",
+              "end": 28,
+              "expanded_url": "https://x.com/ax09s84751/status/2049320286022173124/photo/1",
+              "media_key": "3_2049320265520398336",
+              "start": 5,
+              "url": "https://t.co/EyLgBaFttV"
+            },
+            {
+              "display_url": "pic.x.com/EyLgBaFttV",
+              "end": 28,
+              "expanded_url": "https://x.com/ax09s84751/status/2049320286022173124/photo/1",
+              "media_key": "3_2049320265528889344",
+              "start": 5,
+              "url": "https://t.co/EyLgBaFttV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049320286022173124",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开始od https://t.co/EyLgBaFttV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1393,
+          "like_count": 914,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1182
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

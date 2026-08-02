@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046610985365143552",
+        "3_2046610985340039170"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2046611167897083927",
+    "created_at": "2026-04-21T15:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046611167897083927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 46,
+          "id": "1720665183188922368",
+          "start": 41,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N35pQhdbre",
+          "end": 78,
+          "expanded_url": "https://x.com/ax09s84751/status/2046611167897083927/photo/1",
+          "media_key": "3_2046610985365143552",
+          "start": 55,
+          "url": "https://t.co/N35pQhdbre"
+        },
+        {
+          "display_url": "pic.x.com/N35pQhdbre",
+          "end": 78,
+          "expanded_url": "https://x.com/ax09s84751/status/2046611167897083927/photo/1",
+          "media_key": "3_2046610985340039170",
+          "start": 55,
+          "url": "https://t.co/N35pQhdbre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046611167897083927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Grok 都这么说了 你们天天不满意国家，不满意各种东西的 你们是吃的太饱了吧?\n@grok 我说的有道理不 https://t.co/N35pQhdbre"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046610985365143552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcF2QgaAAAn_dX.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046610985340039170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcF2Qaa8AIEm_0.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046610985365143552",
+            "3_2046610985340039170"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2046611167897083927",
+        "created_at": "2026-04-21T15:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046611167897083927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1720665183188922368",
+              "start": 41,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N35pQhdbre",
+              "end": 78,
+              "expanded_url": "https://x.com/ax09s84751/status/2046611167897083927/photo/1",
+              "media_key": "3_2046610985365143552",
+              "start": 55,
+              "url": "https://t.co/N35pQhdbre"
+            },
+            {
+              "display_url": "pic.x.com/N35pQhdbre",
+              "end": 78,
+              "expanded_url": "https://x.com/ax09s84751/status/2046611167897083927/photo/1",
+              "media_key": "3_2046610985340039170",
+              "start": 55,
+              "url": "https://t.co/N35pQhdbre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046611167897083927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Grok 都这么说了 你们天天不满意国家，不满意各种东西的 你们是吃的太饱了吧?\n@grok 我说的有道理不 https://t.co/N35pQhdbre"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 1198,
+          "like_count": 772,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 851
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8561505,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6669,
+          "media_count": 8850832,
+          "tweet_count": 123393971
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

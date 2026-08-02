@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2059577599177994280",
+    "created_at": "2026-05-27T10:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059577599177994280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1611246341728120835",
+          "start": 3,
+          "username": "Aureliax17QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059577599177994280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025035146173579275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aureliax17QwQ: 药娘圈实际上是肉质加工圈\n一半人有亚硝酸钠\n剩下的人在找亚硝酸钠\n大家都在吃糖提升肉质\n最后用盐腌掉自己去世\n我讨厌这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2059577599177994280",
+        "created_at": "2026-05-27T10:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059577599177994280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1611246341728120835",
+              "start": 3,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059577599177994280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025035146173579275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aureliax17QwQ: 药娘圈实际上是肉质加工圈\n一半人有亚硝酸钠\n剩下的人在找亚硝酸钠\n大家都在吃糖提升肉质\n最后用盐腌掉自己去世\n我讨厌这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2025035146173579275",
+        "created_at": "2026-02-21T02:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T03:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025035146173579275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025035146173579275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 44554,
+          "like_count": 285,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "药娘圈实际上是肉质加工圈\n一半人有亚硝酸钠\n剩下的人在找亚硝酸钠\n大家都在吃糖提升肉质\n最后用盐腌掉自己去世\n我讨厌这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1833,
+          "like_count": 2613,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 2279
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3022,
+          "following_count": 690,
+          "like_count": 6618,
+          "listed_count": 7,
+          "media_count": 418,
+          "tweet_count": 2196
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

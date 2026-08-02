@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052378897036242944",
+        "3_2052378896994308096"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2052378910453829799",
+    "created_at": "2026-05-07T13:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052378910453829799"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7XHJfLwIVC",
+          "end": 54,
+          "expanded_url": "https://x.com/ax09s84751/status/2052378910453829799/photo/1",
+          "media_key": "3_2052378897036242944",
+          "start": 31,
+          "url": "https://t.co/7XHJfLwIVC"
+        },
+        {
+          "display_url": "pic.x.com/7XHJfLwIVC",
+          "end": 54,
+          "expanded_url": "https://x.com/ax09s84751/status/2052378910453829799/photo/1",
+          "media_key": "3_2052378896994308096",
+          "start": 31,
+          "url": "https://t.co/7XHJfLwIVC"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2052378910453829799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然想起来我上学期磕阿普唑仑磕大了，在化学课上把药水给喝了（ https://t.co/7XHJfLwIVC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2052378897036242944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuDu55acAA2f9A.png",
+        "width": 534
+      },
+      {
+        "height": 633,
+        "media_key": "3_2052378896994308096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuDu5vakAASVeX.jpg",
+        "width": 1179
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052378897036242944",
+            "3_2052378896994308096"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2052378910453829799",
+        "created_at": "2026-05-07T13:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052378910453829799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XHJfLwIVC",
+              "end": 54,
+              "expanded_url": "https://x.com/ax09s84751/status/2052378910453829799/photo/1",
+              "media_key": "3_2052378897036242944",
+              "start": 31,
+              "url": "https://t.co/7XHJfLwIVC"
+            },
+            {
+              "display_url": "pic.x.com/7XHJfLwIVC",
+              "end": 54,
+              "expanded_url": "https://x.com/ax09s84751/status/2052378910453829799/photo/1",
+              "media_key": "3_2052378896994308096",
+              "start": 31,
+              "url": "https://t.co/7XHJfLwIVC"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2052378910453829799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起来我上学期磕阿普唑仑磕大了，在化学课上把药水给喝了（ https://t.co/7XHJfLwIVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 1500,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1494
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

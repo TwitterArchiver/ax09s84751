@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2038940180405768487",
+    "created_at": "2026-03-31T11:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038940180405768487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maoxian1527/st…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/maoxian1527/status/2038689080687665480",
+          "start": 78,
+          "url": "https://t.co/oBHWMuSjPo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038940180405768487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038689080687665480",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明天我苏州的踪迹\n欢迎来面我\n明天十一点在家刷B站\n下午一点在家刷X\n下午三点在刷B站\n下午六点在刷X\n晚上七点半在家刷B站\n九点走十四在家刷X\n然后睡觉 https://t.co/oBHWMuSjPo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2038940180405768487",
+        "created_at": "2026-03-31T11:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038940180405768487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoxian1527/st…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/maoxian1527/status/2038689080687665480",
+              "start": 78,
+              "url": "https://t.co/oBHWMuSjPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038940180405768487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038689080687665480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天我苏州的踪迹\n欢迎来面我\n明天十一点在家刷B站\n下午一点在家刷X\n下午三点在刷B站\n下午六点在刷X\n晚上七点半在家刷B站\n九点走十四在家刷X\n然后睡觉 https://t.co/oBHWMuSjPo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929416262989557760",
+        "conversation_id": "2038689080687665480",
+        "created_at": "2026-03-30T18:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038689080687665480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tangeorange/st…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/tangeorange/status/2038636946323595720",
+              "start": 76,
+              "url": "https://t.co/CUmBiz6CJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038689080687665480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038636946323595720",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天我苏州的踪迹\n欢迎来面我\n明天十一点在家睡觉\n下午一点在家睡觉\n下午三点打舞萌\n下午六点在家睡觉\n晚上七点半在家睡觉\n九点走十四在家睡觉\n然后睡觉 https://t.co/CUmBiz6CJl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 657,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍🍥2010.11.17🍥🤍 | kitty live system | 碎碎念 | 🏳️‍⚧️友好 | 简体 | 嘴毒 极讨厌私信 | 看成分互fo | 负能 | 防走丢小号@maoxiansql | 绘画@mao_xian1527 | 对象@meph4786 | 诡秘@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "maoxiansql"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "mao_xian1527"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "meph4786"
+              },
+              {
+                "end": 150,
+                "start": 136,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "中華民國🇹🇼",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2037784291233653212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036882885748326400/iaqvRiNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 270,
+          "like_count": 3606,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 1761
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": false
+      }
+    ]
+  }
+}

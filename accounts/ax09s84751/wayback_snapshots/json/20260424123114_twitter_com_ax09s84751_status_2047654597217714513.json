@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047576746413982184",
+    "created_at": "2026-04-24T12:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047654597217714513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        },
+        {
+          "end": 31,
+          "id": "2003468394604228608",
+          "start": 17,
+          "username": "pinxowosofure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047654597217714513",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047616658735522122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup @pinxowosofure ghb么 怎么搞到的  都成精一了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047576746413982184",
+        "created_at": "2026-04-24T12:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047654597217714513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 31,
+              "id": "2003468394604228608",
+              "start": 17,
+              "username": "pinxowosofure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047654597217714513",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047616658735522122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @pinxowosofure ghb么 怎么搞到的  都成精一了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047576746413982184",
+        "created_at": "2026-04-24T10:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047616658735522122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2003468394604228608",
+              "start": 0,
+              "username": "pinxowosofure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047616658735522122",
+        "in_reply_to_user_id": "2003468394604228608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1609,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047576746413982184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinxowosofure γ-羟基丁酸就是所谓的听话水，过量摄入会导致呼吸抑制。这四个傻逼肯定倒了一大堆，人还是个小姑娘耐受不足，直接死亡了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 1260,
+          "like_count": 815,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 925
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047588634040357233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 3213,
+          "like_count": 27370,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 7214
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T14:11:20.000Z",
+        "description": "首先 愿所有人有美好的一天\n本号有键政内容 言论蛮激进\n讨厌男权制 顺直正统主义 违背现实的“自然”二元性别论及刻板印象及其扩大化 资产阶级专政 语言文化帝国主义 民族沙文主义 文明-野蛮叙事 殖民 华夷秩序 东方主义 极端/低智民族主义 小激激女 三好非顺直\n我谙倒都晓得我是哪个了\n好事物绝缘体ver.\n无为以避有害",
+        "id": "2003468394604228608",
+        "name": "落猫儿散晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003709335646666754/F6wCyvYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 326,
+          "like_count": 14612,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 5167
+        },
+        "username": "pinxowosofure",
+        "verified": false
+      }
+    ]
+  }
+}

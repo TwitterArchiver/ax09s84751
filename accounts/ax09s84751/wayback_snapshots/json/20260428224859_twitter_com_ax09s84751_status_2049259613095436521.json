@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2049107419129876823",
+    "created_at": "2026-04-28T22:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T23:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049259613095436521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2045660446904954880",
+          "start": 0,
+          "username": "schuelke45087"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049259613095436521",
+    "in_reply_to_user_id": "2045660446904954880",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049107419129876823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@schuelke45087 ?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2049107419129876823",
+        "created_at": "2026-04-28T22:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T23:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049259613095436521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2045660446904954880",
+              "start": 0,
+              "username": "schuelke45087"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049259613095436521",
+        "in_reply_to_user_id": "2045660446904954880",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049107419129876823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@schuelke45087 ?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045660446904954880",
+        "conversation_id": "2049107419129876823",
+        "created_at": "2026-04-28T12:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049107419129876823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049107419129876823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 85,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "唐毓文又复活了。\n都不知道第几次了\n各位请关注 转发\n求互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 1392,
+          "like_count": 914,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-19T00:27:35.000Z",
+        "description": "MTF唐毓文是也｜hrt：2026.6.30｜过激言论预警！｜",
+        "id": "2045660446904954880",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2049107419129876823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049106457958973440/8rjMEdta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 7,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "schuelke45087",
+        "verified": false
+      }
+    ]
+  }
+}

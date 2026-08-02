@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048071411978420705",
+    "created_at": "2026-04-25T16:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T17:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048083719005863950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048083719005863950",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048071411978420705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six 这玩意儿正经用途是提升认知的，可以让你比较聪明吧，不是学东西的那种聪明是主要是锻炼前额叶那一块。当然这是不滥用的情况下，但其实这也属于超说明书用药了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2048071409809944576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGw2GJha8AAqvEz.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048071411978420705",
+        "created_at": "2026-04-25T16:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048083719005863950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048083719005863950",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048071411978420705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 这玩意儿正经用途是提升认知的，可以让你比较聪明吧，不是学东西的那种聪明是主要是锻炼前额叶那一块。当然这是不滥用的情况下，但其实这也属于超说明书用药了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048071409809944576"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "2048071411978420705",
+        "created_at": "2026-04-25T16:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048071411978420705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/np2SS1rkMH",
+              "end": 110,
+              "expanded_url": "https://x.com/overdose_six/status/2048071411978420705/photo/1",
+              "media_key": "3_2048071409809944576",
+              "start": 87,
+              "url": "https://t.co/np2SS1rkMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048071411978420705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚低剂量下副作用确实会减少许多 但由于个体差异较大 你能体验到的基本只有轻微的解离头晕恶心或是轻微的欣快 但由于半衰期较长不建议长期服用 任何的解离剂长期使用一定会降智 https://t.co/np2SS1rkMH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 1320,
+          "like_count": 836,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1019
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "提问箱：https://t.co/b5c8bbntR6 | 接受药物报告及相关投稿",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 27,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 4,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名Shiina",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2823,
+          "following_count": 99,
+          "like_count": 11535,
+          "listed_count": 8,
+          "media_count": 690,
+          "tweet_count": 4162
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

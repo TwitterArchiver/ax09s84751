@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2076884902935744946",
+    "created_at": "2026-07-14T04:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076884902935744946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiey57828/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/xiey57828/status/2076821512192250334",
+          "start": 2,
+          "url": "https://t.co/HZJFIb7aGn"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2076884902935744946",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076821512192250334",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "? https://t.co/HZJFIb7aGn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c00e5392b3fa46fb].",
+      "parameter": "geo.place_id",
+      "resource_id": "c00e5392b3fa46fb",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c00e5392b3fa46fb"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2076884902935744946",
+        "created_at": "2026-07-14T04:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076884902935744946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/xiey57828/status/2076821512192250334",
+              "start": 2,
+              "url": "https://t.co/HZJFIb7aGn"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2076884902935744946",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076821512192250334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "? https://t.co/HZJFIb7aGn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2076693988489515081",
+        "created_at": "2026-07-14T00:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076821512192250334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863319222765428736",
+              "start": 0,
+              "username": "Re_ZaoTon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076821512192250334",
+        "in_reply_to_user_id": "1863319222765428736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076820689563381874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re_ZaoTon 我的心理性别是男，生理性别是男，我吃药是为了吃药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2075833932537589993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 1796,
+          "like_count": 3145,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 2718
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑理工男，研0\n🤓gay&反跨\n❤️优秀青年不🚬不🍺不💊不🔪不🔞不键政不跨不女装but视力残疾\n🏥理想主义者&自负\n🥺ISFJ /INFJ\n🐱乐观开朗大男孩，好好生活每一天💪\n亲爱的@ABC13067637",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "ABC13067637"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2076649005967438161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 525,
+          "like_count": 11294,
+          "listed_count": 4,
+          "media_count": 239,
+          "tweet_count": 4426
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      }
+    ]
+  }
+}

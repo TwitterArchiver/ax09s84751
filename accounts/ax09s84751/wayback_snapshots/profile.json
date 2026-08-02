@@ -1,0 +1,25 @@
+{
+  "name": "KuroHikari.",
+  "username": "@ax09s84751",
+  "bio": "09苏州人；居无定所，随遇而安 BD-II（Dep, Mixed, RC） MTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳 生日10.05 | 2026.2相遇，岁月悠长，相伴始终 关联主号@Echo42es @Echog6xf 因共鸣而聚，为理想而行，共筑未来",
+  "location": "The People's Republic of China",
+  "link": "https://ngl.link/ax09s84751",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 121,
+        "start": 112,
+        "username": "Echo42es"
+      },
+      {
+        "end": 131,
+        "start": 122,
+        "username": "Echog6xf"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg"
+}

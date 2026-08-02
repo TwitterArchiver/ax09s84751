@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2038623100380795251",
+    "created_at": "2026-03-30T14:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038623100380795251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ge_qiang1582/s…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/ge_qiang1582/status/2038578623662493799",
+          "start": 47,
+          "url": "https://t.co/fR4rnjWKn8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038623100380795251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038578623662493799",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为春天是一个很温柔的姐姐。\n她见你这么痛苦。。\n她还不舍得。\n于是试着用生机勃勃来安慰你。 https://t.co/fR4rnjWKn8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038578617106735104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEp8c49aoAAY9kW.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2038623100380795251",
+        "created_at": "2026-03-30T14:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038623100380795251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ge_qiang1582/s…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/ge_qiang1582/status/2038578623662493799",
+              "start": 47,
+              "url": "https://t.co/fR4rnjWKn8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038623100380795251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038578623662493799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为春天是一个很温柔的姐姐。\n她见你这么痛苦。。\n她还不舍得。\n于是试着用生机勃勃来安慰你。 https://t.co/fR4rnjWKn8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038578617106735104"
+          ]
+        },
+        "author_id": "1691273370858401792",
+        "conversation_id": "2038578623662493799",
+        "created_at": "2026-03-30T11:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038578623662493799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/En58z05L87",
+              "end": 53,
+              "expanded_url": "https://x.com/ge_qiang1582/status/2038578623662493799/photo/1",
+              "media_key": "3_2038578617106735104",
+              "start": 30,
+              "url": "https://t.co/En58z05L87"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038578623662493799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "春日啊 你带来生机勃勃，\n但为什么不想带走死气沉沉的我呢。 https://t.co/En58z05L87"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf/爱看od圈/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 652,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 311
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T02:19:40.000Z",
+        "description": "我猜有个小可爱正在看鸽鸽的简介♡=•ㅅ＜=)欢迎光临鸽鸽的日记，本人应用心理学系在读，fo/dm我的宝宝我都会回，爱你们～❤️ 美好人格@gg45174157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "gg45174157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pigeon44697",
+                "end": 23,
+                "expanded_url": "http://ngl.link/pigeon44697",
+                "start": 0,
+                "url": "https://t.co/BTRO9KOYFi"
+              }
+            ]
+          }
+        },
+        "id": "1691273370858401792",
+        "location": "啊",
+        "name": "鸽鸽（小强邪恶版）",
+        "pinned_tweet_id": "2028130382369976413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028379780253646848/YFtLQRiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 138,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 320
+        },
+        "url": "https://t.co/BTRO9KOYFi",
+        "username": "ge_qiang1582",
+        "verified": false
+      }
+    ]
+  }
+}

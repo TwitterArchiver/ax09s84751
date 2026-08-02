@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2025075465237791053",
+    "created_at": "2026-02-21T12:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T13:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025185684114604042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799308675158605825",
+          "start": 0,
+          "username": "CPUP2024"
+        },
+        {
+          "end": 19,
+          "id": "869913640220086276",
+          "start": 10,
+          "username": "LeoMonty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025185684114604042",
+    "in_reply_to_user_id": "1799308675158605825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025075465237791053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPUP2024 @LeoMonty 汉武帝定太初历的时候你野爹还不知道在哪爬呢，跟grok扯什么犊子，自己祖宗的东西还要ai教你，芝黑狗就这点出息😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1814,
+        "media_key": "3_2025075414386049026",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqDXC3bgAIRqZO.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1829,
+        "media_key": "3_2025075414381805568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqDXC2awAAoIKp.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1898,
+        "media_key": "3_2025075414377607168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqDXC1asAAC0-9.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2025075465237791053",
+        "created_at": "2026-02-21T12:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025185684114604042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799308675158605825",
+              "start": 0,
+              "username": "CPUP2024"
+            },
+            {
+              "end": 19,
+              "id": "869913640220086276",
+              "start": 10,
+              "username": "LeoMonty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025185684114604042",
+        "in_reply_to_user_id": "1799308675158605825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025075465237791053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPUP2024 @LeoMonty 汉武帝定太初历的时候你野爹还不知道在哪爬呢，跟grok扯什么犊子，自己祖宗的东西还要ai教你，芝黑狗就这点出息😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025075414386049026",
+            "3_2025075414381805568",
+            "3_2025075414377607168"
+          ]
+        },
+        "author_id": "1799308675158605825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2025075465237791053",
+        "created_at": "2026-02-21T05:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025075465237791053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "869913640220086276",
+              "start": 43,
+              "username": "LeoMonty"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZDAO6gP8x",
+              "end": 88,
+              "expanded_url": "https://x.com/CPUP2024/status/2025075465237791053/photo/1",
+              "media_key": "3_2025075414386049026",
+              "start": 65,
+              "url": "https://t.co/IZDAO6gP8x"
+            },
+            {
+              "display_url": "pic.x.com/IZDAO6gP8x",
+              "end": 88,
+              "expanded_url": "https://x.com/CPUP2024/status/2025075465237791053/photo/1",
+              "media_key": "3_2025075414381805568",
+              "start": 65,
+              "url": "https://t.co/IZDAO6gP8x"
+            },
+            {
+              "display_url": "pic.x.com/IZDAO6gP8x",
+              "end": 88,
+              "expanded_url": "https://x.com/CPUP2024/status/2025075465237791053/photo/1",
+              "media_key": "3_2025075414377607168",
+              "start": 65,
+              "url": "https://t.co/IZDAO6gP8x"
+            },
+            {
+              "display_url": "x.com/leomonty/statu…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/leomonty/status/2024817115027644614",
+              "start": 89,
+              "url": "https://t.co/IjybKJkcvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025075465237791053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10566,
+          "like_count": 121,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024817115027644614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "芝黑狗贱民对着grok哈气，胡搅蛮缠，要求grok列举出千年来所有的大年初一日期🤣。\n@LeoMonty 低能芝黑区还能张嘴吗？ https://t.co/IZDAO6gP8x https://t.co/IjybKJkcvk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直/不zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n理想：无证含糖mtf格式化💾 跨救助机构卸载❌\n允许跨人关/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSeL2"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 173,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 130
+        },
+        "url": "https://t.co/6aaNEtSeL2",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "欢迎来到葱的页面！小号@mikulovermua 偏生活。一位自豪的汉人，左翼建制派，支持CPC&🇨🇳，已锁似粉红成分。仰慕☪️ ally&非二元性别🏳️‍🌈&同志骄傲 stand with🇵🇸🇷🇺🇻🇪and Islamic Republic of Iran 同情粉红 毛左 左翼民族主义 拒霍犹港台",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "mikulovermua"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "中华苏维埃共和国胜利后的中华人民共和国",
+        "name": "赛高の葱娘酱miku🇨🇳 ——我过我Chinese Year你过你Loser Year呗😸",
+        "pinned_tweet_id": "2023294364613812529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011306261418295298/faMkCRSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 1533,
+          "like_count": 40863,
+          "listed_count": 34,
+          "media_count": 866,
+          "tweet_count": 11036
+        },
+        "username": "CPUP2024",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-31T13:49:08.000Z",
+        "description": "Big heart. Fined mind.emotionally.",
+        "id": "869913640220086276",
+        "location": "Australia",
+        "name": "Monty Leo_pi network",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899030625111232512/JmdTEwd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 764,
+          "like_count": 100166,
+          "listed_count": 6,
+          "media_count": 14,
+          "tweet_count": 2392
+        },
+        "username": "LeoMonty",
+        "verified": false
+      }
+    ]
+  }
+}

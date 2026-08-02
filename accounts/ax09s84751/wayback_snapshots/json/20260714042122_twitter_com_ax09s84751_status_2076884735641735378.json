@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076651781900390400"
+      ],
+      "media_source_tweet_id": [
+        "2076651907507208383"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2076884735641735378",
+    "created_at": "2026-07-14T04:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076884735641735378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929798380240465921",
+          "start": 3,
+          "username": "AacerF59616"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M2NUWCj6p1",
+          "end": 67,
+          "expanded_url": "https://x.com/AacerF59616/status/2076651907507208383/photo/1",
+          "media_key": "3_2076651781900390400",
+          "start": 44,
+          "url": "https://t.co/M2NUWCj6p1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076884735641735378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076651907507208383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AacerF59616: B站也是神了，发个摇糖盒的视频说诱导未成年人不良行为 https://t.co/M2NUWCj6p1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076651781900390400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNG_ywZa0AAtntj.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076651781900390400"
+          ],
+          "media_source_tweet_id": [
+            "2076651907507208383"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2076884735641735378",
+        "created_at": "2026-07-14T04:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076884735641735378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929798380240465921",
+              "start": 3,
+              "username": "AacerF59616"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M2NUWCj6p1",
+              "end": 67,
+              "expanded_url": "https://x.com/AacerF59616/status/2076651907507208383/photo/1",
+              "media_key": "3_2076651781900390400",
+              "start": 44,
+              "url": "https://t.co/M2NUWCj6p1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076884735641735378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076651907507208383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AacerF59616: B站也是神了，发个摇糖盒的视频说诱导未成年人不良行为 https://t.co/M2NUWCj6p1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076651781900390400"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2076651907507208383",
+        "created_at": "2026-07-13T12:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076651907507208383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M2NUWCj6p1",
+              "end": 50,
+              "expanded_url": "https://x.com/AacerF59616/status/2076651907507208383/photo/1",
+              "media_key": "3_2076651781900390400",
+              "start": 27,
+              "url": "https://t.co/M2NUWCj6p1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076651907507208383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1287,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "B站也是神了，发个摇糖盒的视频说诱导未成年人不良行为 https://t.co/M2NUWCj6p1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2075833932537589993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 1796,
+          "like_count": 3143,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 2716
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 435,
+          "like_count": 2962,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 955
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

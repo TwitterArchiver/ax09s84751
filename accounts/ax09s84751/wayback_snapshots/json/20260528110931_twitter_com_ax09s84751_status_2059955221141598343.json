@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2059926197841379611",
+    "created_at": "2026-05-28T11:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059955221141598343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059955221141598343",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059926197841379611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moningmeng 这算是冷笑话么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2059926197841379611",
+        "created_at": "2026-05-28T11:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059955221141598343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059955221141598343",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059926197841379611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 这算是冷笑话么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2059926197841379611",
+        "created_at": "2026-05-28T09:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059926197841379611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059926197841379611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 621,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推特上的mtf是不是存在数量守恒，每天都源源不断的有新人加入，又源源不断的有人吃盐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1834,
+          "like_count": 2641,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 2306
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27651,
+          "following_count": 11075,
+          "like_count": 89051,
+          "listed_count": 102,
+          "media_count": 5157,
+          "tweet_count": 17419
+        },
+        "username": "Moningmeng",
+        "verified": true
+      }
+    ]
+  }
+}

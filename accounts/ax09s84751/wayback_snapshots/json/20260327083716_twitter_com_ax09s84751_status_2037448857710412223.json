@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2037436961783488690",
+    "created_at": "2026-03-27T08:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037448857710412223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2001670790669058048",
+          "start": 0,
+          "username": "Min1440r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037448857710412223",
+    "in_reply_to_user_id": "2001670790669058048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037436961783488690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Min1440r 老师苏州的？？😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_2037436955823378432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZuHdQbEAAt3I9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2037436961783488690",
+        "created_at": "2026-03-27T08:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037448857710412223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2001670790669058048",
+              "start": 0,
+              "username": "Min1440r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037448857710412223",
+        "in_reply_to_user_id": "2001670790669058048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037436961783488690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Min1440r 老师苏州的？？😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037436955823378432"
+          ]
+        },
+        "author_id": "2001670790669058048",
+        "conversation_id": "2037436961783488690",
+        "created_at": "2026-03-27T07:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037436961783488690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sq5D6qYIcK",
+              "end": 23,
+              "expanded_url": "https://x.com/Min1440r/status/2037436961783488690/photo/1",
+              "media_key": "3_2037436955823378432",
+              "start": 0,
+              "url": "https://t.co/Sq5D6qYIcK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037436961783488690",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Sq5D6qYIcK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 530,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:08:12.000Z",
+        "description": "想要和大家所有人一起玩游戏！想和你一起。 痛苦与欢乐让我们一起面对。 ip江苏苏州/江苏盐城来找我玩来找我玩！ 我爱你们。NGL提问：https://t.co/9e5mRIkpE5 负能里推：@Stressmaxp加我q好嘛可能会注销 💕@wlxlmjj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Stressmaxp"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "wlxlmjj"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/min1440r",
+                "end": 90,
+                "expanded_url": "https://ngl.link/min1440r",
+                "start": 67,
+                "url": "https://t.co/9e5mRIkpE5"
+              }
+            ]
+          }
+        },
+        "id": "2001670790669058048",
+        "location": "江苏省苏州市长江路55号",
+        "name": "1440r/min🏳️‍⚧️",
+        "pinned_tweet_id": "2024210469960253930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001671000900210688/tRq7Bkqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 60,
+          "like_count": 2228,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1404
+        },
+        "username": "Min1440r",
+        "verified": false
+      }
+    ]
+  }
+}

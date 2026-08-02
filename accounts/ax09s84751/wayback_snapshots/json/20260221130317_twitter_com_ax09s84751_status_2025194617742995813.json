@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025194615406759936"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2025194617742995813",
+    "created_at": "2026-02-21T13:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025194617742995813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KK0Jvtqqsc",
+          "end": 26,
+          "expanded_url": "https://x.com/ax09s84751/status/2025194617742995813/photo/1",
+          "media_key": "3_2025194615406759936",
+          "start": 3,
+          "url": "https://t.co/KK0Jvtqqsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025194617742995813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "诡异 https://t.co/KK0Jvtqqsc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 323,
+        "media_key": "3_2025194615406759936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrvxdRakAAtwM0.jpg",
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025194615406759936"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2025194617742995813",
+        "created_at": "2026-02-21T13:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025194617742995813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KK0Jvtqqsc",
+              "end": 26,
+              "expanded_url": "https://x.com/ax09s84751/status/2025194617742995813/photo/1",
+              "media_key": "3_2025194615406759936",
+              "start": 3,
+              "url": "https://t.co/KK0Jvtqqsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025194617742995813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诡异 https://t.co/KK0Jvtqqsc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直/不zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n理想：无证含糖mtf格式化💾 跨救助机构卸载❌\n允许跨人关/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSeL2"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 173,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/6aaNEtSeL2",
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

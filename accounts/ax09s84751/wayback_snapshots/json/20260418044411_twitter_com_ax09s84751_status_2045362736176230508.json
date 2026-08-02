@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2044995922845929769",
+    "created_at": "2026-04-18T04:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T05:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045362736176230508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4848269835",
+          "start": 0,
+          "username": "_FORAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045362736176230508",
+    "in_reply_to_user_id": "4848269835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044995922845929769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FORAB 不要当A.I.嘉豪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2044995922845929769",
+        "created_at": "2026-04-18T04:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045362736176230508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045362736176230508",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044995922845929769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB 不要当A.I.嘉豪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4848269835",
+        "conversation_id": "2044995922845929769",
+        "created_at": "2026-04-17T04:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044995922845929769"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "451617631d24d98c"
+        },
+        "id": "2044995922845929769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 468,
+          "impression_count": 214346,
+          "like_count": 2172,
+          "quote_count": 53,
+          "reply_count": 816,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "要记住，能上谷歌的已经是极少数人了，而这里面再日常用 X 刷推的则更少更少，而如果同时还做美股、加密币投资，就是凤毛麟角的人物。\n\n认知、眼界、思维能力，都远超同龄人和亲戚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 948,
+          "like_count": 620,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115178,
+          "following_count": 595,
+          "like_count": 10021,
+          "listed_count": 1891,
+          "media_count": 3125,
+          "tweet_count": 14035
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

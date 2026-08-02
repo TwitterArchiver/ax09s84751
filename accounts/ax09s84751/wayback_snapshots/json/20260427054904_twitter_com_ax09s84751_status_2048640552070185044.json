@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048572179059724326",
+    "created_at": "2026-04-27T05:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048640552070185044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1448206950903255040",
+          "start": 0,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048640552070185044",
+    "in_reply_to_user_id": "1448206950903255040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048572179059724326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Shikieiki 那也太远了\n现在肯定还是主流"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048572179059724326",
+        "created_at": "2026-04-27T05:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048640552070185044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048640552070185044",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048572179059724326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 那也太远了\n现在肯定还是主流"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2048572179059724326",
+        "created_at": "2026-04-27T01:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048572179059724326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048572179059724326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1746,
+          "like_count": 63,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我个人认为，所有SSRI都是要被淘汰掉的。\n未来的抗抑郁药大概率会以NMDAR拮抗剂和5-HT2A/B/CR激动剂为主。\n简单来说就是解离剂和血清素能致幻剂们是新一代的抗抑郁药🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 1344,
+          "like_count": 884,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1091
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 877,
+          "like_count": 26717,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 3595
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

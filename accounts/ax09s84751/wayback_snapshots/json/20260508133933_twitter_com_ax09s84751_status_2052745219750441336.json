@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2052745219750441336",
+    "created_at": "2026-05-08T13:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T14:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052745219750441336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022153081031733252",
+          "start": 3,
+          "username": "ax09s84751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052745219750441336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052743056504590729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax09s84751: 我好想吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃17-β雌二醇(口服/贴片/凝胶), 戊酸雌二醇(补佳乐,口服/注射), 醋酸环丙孕酮(色谱龙), 螺内酯, GnRH激动剂(亮丙瑞林/戈舍瑞林等), 比卡鲁胺, 微粒化黄体酮(孕激素), 非那雄胺…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2052743032769024000",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHzO6ZNbEAAbRee.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHzO6ZNbEAAbRee.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2052745219750441336",
+        "created_at": "2026-05-08T13:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052745219750441336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022153081031733252",
+              "start": 3,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052745219750441336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052743056504590729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax09s84751: 我好想吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃17-β雌二醇(口服/贴片/凝胶), 戊酸雌二醇(补佳乐,口服/注射), 醋酸环丙孕酮(色谱龙), 螺内酯, GnRH激动剂(亮丙瑞林/戈舍瑞林等), 比卡鲁胺, 微粒化黄体酮(孕激素), 非那雄胺…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2052743032769024000"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2052743056504590729",
+        "created_at": "2026-05-08T13:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:27:07.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052742092938752489",
+          "2052742361579692091",
+          "2052743056504590729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fnVmHspIZb",
+              "end": 154,
+              "expanded_url": "https://x.com/ax09s84751/status/2052743056504590729/photo/1",
+              "media_key": "16_2052743032769024000",
+              "start": 131,
+              "url": "https://t.co/fnVmHspIZb"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2052743056504590729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好想吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃17-β雌二醇(口服/贴片/凝胶), 戊酸雌二醇(补佳乐,口服/注射), 醋酸环丙孕酮(色谱龙), 螺内酯, GnRH激动剂(亮丙瑞林/戈舍瑞林等), 比卡鲁胺, 微粒化黄体酮(孕激素), 非那雄胺, 度他雄胺😋 https://t.co/fnVmHspIZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 1511,
+          "like_count": 1282,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1515
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

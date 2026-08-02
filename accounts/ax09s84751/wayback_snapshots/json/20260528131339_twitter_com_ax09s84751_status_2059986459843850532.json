@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+          "id": "1011352563667558400",
+          "name": "Economic Issues in Japan"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2059986459843850532",
+    "created_at": "2026-05-28T13:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059986459843850532"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Konekoutena/st…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/Konekoutena/status/2059985064407228531",
+          "start": 61,
+          "url": "https://t.co/cDCEPmRRmG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059986459843850532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059985064407228531",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "円安になればなるほどいいです。私のツイッターアカウントは日本区のものです。このように会員になるともっと安くなります😌😌😌 https://t.co/cDCEPmRRmG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 577,
+        "media_key": "3_2059985052377980928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaJfamaoAAt9du.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059986459843850532",
+        "created_at": "2026-05-28T13:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059986459843850532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Konekoutena/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Konekoutena/status/2059985064407228531",
+              "start": 61,
+              "url": "https://t.co/cDCEPmRRmG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059986459843850532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059985064407228531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "円安になればなるほどいいです。私のツイッターアカウントは日本区のものです。このように会員になるともっと安くなります😌😌😌 https://t.co/cDCEPmRRmG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059985052377980928"
+          ]
+        },
+        "author_id": "1844025283676094464",
+        "conversation_id": "2059985064407228531",
+        "created_at": "2026-05-28T13:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059985064407228531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wf5N8ymMbR",
+              "end": 164,
+              "expanded_url": "https://x.com/Konekoutena/status/2059985064407228531/photo/1",
+              "media_key": "3_2059985052377980928",
+              "start": 141,
+              "url": "https://t.co/Wf5N8ymMbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059985064407228531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "日本的货币正在狂跌，贬值程度堪称东方小土耳其，随着日币的疯狂贬值，日本的物价也在狂飙。因为收入没有增长，日本的生活水平实际已经跌成了途上国。这波货币贬值根本的原因一方面来自于自民党恶劣的财政纪律，挥霍无度欠下天量国债。更重要的是日本制造业技术落后，日本的产品已经不再被世界所需要。当然日本右翼可以精神胜利说日元贬值以后日本产品的竞争力会提升，经济会回暖。然而现实却狠狠打脸，这些右翼显然是搞错了因果。是日本产品没有竞争力，不再被世界需要，所以日币才贬值，比如将来世界全开EV电车了，丰田破产了。那日元肯定跌成废纸，而这个贬值，并不会为日本带来产业竞争力，日本只会越来越穷"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "日本的货币正在狂跌，贬值程度堪称东方小土耳其，随着日币的疯狂贬值，日本的物价也在狂飙。因为收入没有增长，日本的生活水平实际已经跌成了途上国。这波货币贬值根本的原因一方面来自于自民党恶劣的财政纪律，挥霍无度欠下天量国债。更重要的是日本制造业技术落后，日本的产品已经不再被世界所需要。 https://t.co/Wf5N8ymMbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 1836,
+          "like_count": 2651,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 2349
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "独立社会研究员，一个理想主义的小说家，喜欢AI绘图的乐子人，头像为OC角色，防失联小号@yexinstory YouTube频道同名，搜索“枫糖小猫”，分享我的独立观点和观察到的社会百态https://t.co/obHINacrGO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "yexinstory"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena",
+                "end": 116,
+                "expanded_url": "https://youtube.com/@konekoutena",
+                "start": 93,
+                "url": "https://t.co/obHINacrGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/yexinstory",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/yexinstory",
+                "start": 0,
+                "url": "https://t.co/5bxIkdvbun"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "2054950564195422309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021092251036942337/Y-kSi9A8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16431,
+          "following_count": 2356,
+          "like_count": 13543,
+          "listed_count": 107,
+          "media_count": 6847,
+          "tweet_count": 25849
+        },
+        "url": "https://t.co/5bxIkdvbun",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

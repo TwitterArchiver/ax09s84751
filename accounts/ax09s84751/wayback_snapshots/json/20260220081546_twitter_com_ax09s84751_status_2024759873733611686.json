@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024759873733611686",
+    "created_at": "2026-02-20T08:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T09:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024759873733611686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022153081031733252",
+          "start": 3,
+          "username": "ax09s84751"
+        },
+        {
+          "end": 32,
+          "id": "1961108186255298562",
+          "start": 16,
+          "username": "libngzhnxn27581"
+        },
+        {
+          "end": 44,
+          "id": "1953660584639004672",
+          "start": 33,
+          "username": "Yuecengliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024759873733611686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024759863285588251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax09s84751: @libngzhnxn27581 @Yuecengliu 你眼瞎啊 他前面一口一个支那猪你是看不见还是装看不见 人家骂你同类你就急了是吧 选择性失明练得挺溜啊 你俩赶紧凑一对吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024759873733611686",
+        "created_at": "2026-02-20T08:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024759873733611686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022153081031733252",
+              "start": 3,
+              "username": "ax09s84751"
+            },
+            {
+              "end": 32,
+              "id": "1961108186255298562",
+              "start": 16,
+              "username": "libngzhnxn27581"
+            },
+            {
+              "end": 44,
+              "id": "1953660584639004672",
+              "start": 33,
+              "username": "Yuecengliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024759873733611686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024759863285588251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax09s84751: @libngzhnxn27581 @Yuecengliu 你眼瞎啊 他前面一口一个支那猪你是看不见还是装看不见 人家骂你同类你就急了是吧 选择性失明练得挺溜啊 你俩赶紧凑一对吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024464237121126473",
+        "created_at": "2026-02-20T08:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024759863285588251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1961108186255298562",
+              "start": 0,
+              "username": "libngzhnxn27581"
+            },
+            {
+              "end": 28,
+              "id": "1953660584639004672",
+              "start": 17,
+              "username": "Yuecengliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024759863285588251",
+        "in_reply_to_user_id": "1961108186255298562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024696412466987096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libngzhnxn27581 @Yuecengliu 你眼瞎啊 他前面一口一个支那猪你是看不见还是装看不见 人家骂你同类你就急了是吧 选择性失明练得挺溜啊 你俩赶紧凑一对吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 147,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 92
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T16:46:50.000Z",
+        "description": "伟大牢a杀人论告诉我们反共集团是年日剧增的\n厅级以下按30%开屠如果听话那就做成肥皂不听话全部做放绞肉机做成猪饲料\n因为我们政党的名字就叫做中国特色杀人主义是官僚主义的一种\n官僚主义就是除了厅级以下的人其他低级直立人都是都是需要被清除掉的其他贱民均为二等贱民在其他国家同样存在比如朝鲜，这样中国人才能俯瞰世界才能只支不殖",
+        "id": "1961108186255298562",
+        "location": "文明真理传教士",
+        "name": "真左真寻official",
+        "pinned_tweet_id": "2017704313171415077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961108294459904000/e2Iox8CZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 1131,
+          "like_count": 3228,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1413
+        },
+        "username": "libngzhnxn27581",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T03:33:03.000Z",
+        "description": "1937年，南京爆发大规模新型冠状狂犬病，阻断了正在进行中的南京大联欢，大日本皇军两位老英雄菩萨心肠，不得不使用雷霆手段联合江油老英雄邓碾平清理感染源，石井正丽空输部队大展神威，钟莲花在两位老英雄向井田毅达成211时研发出了疫苗，并配合远道而来的美国志愿军飞虎队李帕斯基同志驾驶P51野马空投汽油弹进行2000℃高温消毒",
+        "id": "1953660584639004672",
+        "location": "南京颈部核酸采集点",
+        "name": "习见雅🦊👻🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023030396334604288/6ljPpx15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 379,
+          "like_count": 1775,
+          "listed_count": 2,
+          "media_count": 1294,
+          "tweet_count": 3049
+        },
+        "username": "Yuecengliu",
+        "verified": false
+      }
+    ]
+  }
+}

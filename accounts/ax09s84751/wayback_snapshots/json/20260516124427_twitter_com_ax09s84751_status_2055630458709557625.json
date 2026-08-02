@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055630458709557625",
+    "created_at": "2026-05-16T12:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055630458709557625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Asahi167503/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Asahi167503/status/2055588557998506463",
+          "start": 9,
+          "url": "https://t.co/FXTH1T66ol"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055630458709557625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055588557998506463",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "兑。\n我们就这样 https://t.co/FXTH1T66ol"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2055588544312451072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbq49wbIAAGoWa.jpg",
+        "width": 1242
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055630458709557625",
+        "created_at": "2026-05-16T12:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055630458709557625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Asahi167503/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Asahi167503/status/2055588557998506463",
+              "start": 9,
+              "url": "https://t.co/FXTH1T66ol"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055630458709557625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055588557998506463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兑。\n我们就这样 https://t.co/FXTH1T66ol"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055588544312451072"
+          ]
+        },
+        "author_id": "1805486587666644992",
+        "conversation_id": "2055588557998506463",
+        "created_at": "2026-05-16T09:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055588557998506463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xinEY71SJ8",
+              "end": 23,
+              "expanded_url": "https://x.com/Asahi167503/status/2055588557998506463/photo/1",
+              "media_key": "3_2055588544312451072",
+              "start": 0,
+              "url": "https://t.co/xinEY71SJ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055588557998506463",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xinEY71SJ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 1663,
+          "like_count": 2137,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1877
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T06:22:20.000Z",
+        "description": "又做了，相同的梦。\n避难舱：@Akebono6sqrt249",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Akebono6sqrt249"
+              }
+            ]
+          }
+        },
+        "id": "1805486587666644992",
+        "location": "元山，北朝鮮",
+        "name": "◚ 霞居 ❃",
+        "pinned_tweet_id": "2055603197247627503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051288236585275393/2nDEjBgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 3131,
+          "like_count": 17030,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 2900
+        },
+        "username": "Asahi167503",
+        "verified": false
+      }
+    ]
+  }
+}

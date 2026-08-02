@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048310681737601025"
+      ],
+      "media_source_tweet_id": [
+        "2048310688280678515"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048386570064134319",
+    "created_at": "2026-04-26T12:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T13:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048386570064134319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1857802986837172224",
+          "start": 3,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/06VzyN1Orp",
+          "end": 48,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2048310688280678515/photo/1",
+          "media_key": "3_2048310681737601025",
+          "start": 25,
+          "url": "https://t.co/06VzyN1Orp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048386570064134319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048310688280678515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LingJiaXin233: 王牌对王牌 https://t.co/06VzyN1Orp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048310681737601025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0Ptm6boAEwwkH.jpg",
+        "width": 1188
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048310681737601025"
+          ],
+          "media_source_tweet_id": [
+            "2048310688280678515"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048386570064134319",
+        "created_at": "2026-04-26T12:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048386570064134319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1857802986837172224",
+              "start": 3,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/06VzyN1Orp",
+              "end": 48,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2048310688280678515/photo/1",
+              "media_key": "3_2048310681737601025",
+              "start": 25,
+              "url": "https://t.co/06VzyN1Orp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048386570064134319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048310688280678515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LingJiaXin233: 王牌对王牌 https://t.co/06VzyN1Orp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048310681737601025"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048310688280678515",
+        "created_at": "2026-04-26T07:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048310688280678515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/06VzyN1Orp",
+              "end": 29,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2048310688280678515/photo/1",
+              "media_key": "3_2048310681737601025",
+              "start": 6,
+              "url": "https://t.co/06VzyN1Orp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048310688280678515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6260,
+          "like_count": 59,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "王牌对王牌 https://t.co/06VzyN1Orp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/视成分互关\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 1336,
+          "like_count": 861,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1048
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3317,
+          "following_count": 622,
+          "like_count": 15106,
+          "listed_count": 9,
+          "media_count": 953,
+          "tweet_count": 3883
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055191748805304462",
+    "created_at": "2026-05-15T07:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055195712267456794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780369819310981120",
+          "start": 0,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055195712267456794",
+    "in_reply_to_user_id": "1780369819310981120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055191748805304462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520illusion 呃呃呃呃\n您这是何异味啊。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2055191418336153600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWBtMNbkAANT6e.jpg",
+        "width": 3072
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055191748805304462",
+        "created_at": "2026-05-15T07:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055195712267456794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055195712267456794",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055191748805304462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 呃呃呃呃\n您这是何异味啊。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055191418336153600"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "conversation_id": "2055191748805304462",
+        "created_at": "2026-05-15T07:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055191748805304462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GiCqfin4ri",
+              "end": 74,
+              "expanded_url": "https://x.com/520illusion/status/2055191748805304462/photo/1",
+              "media_key": "3_2055191418336153600",
+              "start": 51,
+              "url": "https://t.co/GiCqfin4ri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055191748805304462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分别是 泰国产补佳乐 国产补佳乐 土耳其色普龙 的说明书大小  \n\n看得出来不同医疗体系对患者的态度 https://t.co/GiCqfin4ri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtf🏳️‍⚧️？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 1637,
+          "like_count": 2034,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 1751
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "All in crypto | 08 | 杭州南京合肥随机刷新 想和可爱的人面面 | illusion | 抑郁幻想向 | 坠落星空 | 梦幻主义 | 蓝 | 终将成为你 | 我向神明祈祷 许你岁岁平安  | 故里蓝鸢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市轨道交通3号线中兴大桥南站A出口",
+        "name": "ill",
+        "pinned_tweet_id": "1879295666419286059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4642,
+          "following_count": 193,
+          "like_count": 10252,
+          "listed_count": 6,
+          "media_count": 917,
+          "tweet_count": 5979
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047364376240509235",
+    "created_at": "2026-04-24T13:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047669392163639743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014989014286454784",
+          "start": 0,
+          "username": "laozhaizhai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047669392163639743",
+    "in_reply_to_user_id": "2014989014286454784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047364376240509235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laozhaizhai 人类可塑性这么强吗？?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2047364348000301056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmzBvBbcAAehQ8.jpg",
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2047364362235760641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmzCkDbUAEddGj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047364376240509235",
+        "created_at": "2026-04-24T13:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047669392163639743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014989014286454784",
+              "start": 0,
+              "username": "laozhaizhai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047669392163639743",
+        "in_reply_to_user_id": "2014989014286454784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047364376240509235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laozhaizhai 人类可塑性这么强吗？?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047364348000301056",
+            "3_2047364362235760641"
+          ]
+        },
+        "author_id": "2014989014286454784",
+        "conversation_id": "2047364376240509235",
+        "created_at": "2026-04-23T17:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047364376240509235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yi7O8gDF7m",
+              "end": 142,
+              "expanded_url": "https://x.com/laozhaizhai/status/2047364376240509235/photo/1",
+              "media_key": "3_2047364348000301056",
+              "start": 119,
+              "url": "https://t.co/Yi7O8gDF7m"
+            },
+            {
+              "display_url": "pic.x.com/Yi7O8gDF7m",
+              "end": 142,
+              "expanded_url": "https://x.com/laozhaizhai/status/2047364376240509235/photo/1",
+              "media_key": "3_2047364362235760641",
+              "start": 119,
+              "url": "https://t.co/Yi7O8gDF7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047364376240509235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "112kg——77kg\n今天我想来分享一下我的减肥和增肌经历。\n\n主播从小就很胖，一个原因是因为有着过敏性鼻炎经常在吃有激素的过敏药，还有一个原因是因为小时候太爱吃了（其实这个才是是主要原因嘿嘿），每次和家里人出去吃饭都会吃到吐才停下。\n\n到了初中之后体重更是一发不可收拾，刚入学一个月就胖了十斤，后面整个初中体重直接就飚到了200多斤。上了高一之后更是完蛋，因为刚开始我们高中的食堂伙食太好了，开学之后我又猛猛吃，最后体重已经到了224斤（可能还要再重点但是当时我没有称了）。\n\n其实再减肥之前我一直认为就这样胖着也挺好的，但是这样也确实不健康，初中的时候也想过几次减肥也没能坚持下来（导致我后面真下定决心减肥的时候我妈都觉得我还是嘴上说说）。\n\n真正让我下定决心减肥的事是在我第一次去过漫展之后，因为初中的学业实在繁重导致我初中的时候想去漫展也没法去，所以在上了高中后我就超级想去漫展。当时在漫展上看到了很多好看的coser老师，我感觉特别特别开心，一开始我都不敢上去集邮，后面慢慢的也就胆子大起来了。就这么把漫展上的所有活动都参加了一遍也是直接待到展子结束了。\n\n当时在展子结束之后戒断反应还是挺严重的，而且这次之后我也有了想玩cosplay的念头了，于是从这之后我就开始了自己的减肥计划。\n\n其实一开始减肥也没做太多特别科学的攻略，每天的饮食就是鸡胸肉加青菜还有米饭，然后是每周一顿的放纵餐（大家不要学我现在看来我是因为是大基数加上脂包肌代谢比较高所以才能保证一周一次放纵餐不会胖的），运动方面其实没有什么运动，因为当时还是懒得动，但是我还是每天坚持多走路加上爬楼梯增加运动量。\n\n就这样坚持了大概半年多的时间，我的体重也是终于降到了148斤左右，这个时候其实肌肉掉了很多了，力气也变小了很多，然后又躺了一个暑假加上刚减完肥处于一个低食欲的状态下，我在暑假结束时来到了我的最低体重144斤。\n\n这个时候我看着我的身材感觉很难看，更像是一个瘦胖子，手臂很细躯干很粗，所以我开始下定决心要运动了，一开始我选择了每天跑步有氧再加上俯卧撑和卷腹等练力量的动作，因为每天的坚持跑步也让我爱上了跑步，再加上俯卧撑这种徒手健身的进步太慢了，我就慢慢转向了用哑铃去锻炼。\n\n再到后来，我虽然有在健身，但是因为当时太喜欢跑步了，所以一天的大部分时间都放在跑步上了，到现在也是前后跑了两场马拉松了。\n\n就这么自己瞎练了一年后，也是被我同学带去了健身房进行更加系统的训练了，慢慢的也把跑步搁置了。总之一直到现在我已经增肌加减脂到154斤了，对自己现在的身材还是比较满意的，但是我会继续向自己所认为更完美的身材迈进的。\n\n好了大概就讲到这吧，反正就是有我这个成功例子在前，各位想减肥的朋友们也可以加油动起来了，一定要管住嘴，坚持下去，我相信大家只要肯坚持一定会成功的✊，希望大家都能变成更好的自己😊。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 31078,
+          "like_count": 378,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "112kg——77kg\n今天我想来分享一下我的减肥和增肌经历。\n\n主播从小就很胖，一个原因是因为有着过敏性鼻炎经常在吃有激素的过敏药，还有一个原因是因为小时候太爱吃了（其实这个才是是主要原因嘿嘿），每次和家里人出去吃饭都会吃到吐才停下。 https://t.co/Yi7O8gDF7m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 1272,
+          "like_count": 817,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 945
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-24T09:10:07.000Z",
+        "description": "烤p、舞萌吃一枚，喜欢的角色是pjsk里面的宵崎奏还有《BanG Dream》里面的要乐奈，喜欢玩cosplay，平时也会经常健身和跑步",
+        "id": "2014989014286454784",
+        "location": "浙江",
+        "name": "牢宅宅宅宅宅",
+        "pinned_tweet_id": "2046627330580521396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046263562843324417/MxHOH5n9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 200,
+          "like_count": 692,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 232
+        },
+        "username": "laozhaizhai",
+        "verified": true
+      }
+    ]
+  }
+}

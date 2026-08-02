@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2038879566346035451",
+    "created_at": "2026-03-31T07:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T08:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038879566346035451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fayoubaike003/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/fayoubaike003/status/2038847160410874240",
+          "start": 13,
+          "url": "https://t.co/qQ8D39FQJq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038879566346035451",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038847160410874240",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "安非他酮可以戒烟哦。。。 https://t.co/qQ8D39FQJq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2038879566346035451",
+        "created_at": "2026-03-31T07:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038879566346035451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fayoubaike003/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/fayoubaike003/status/2038847160410874240",
+              "start": 13,
+              "url": "https://t.co/qQ8D39FQJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038879566346035451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038847160410874240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "安非他酮可以戒烟哦。。。 https://t.co/qQ8D39FQJq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920438493647368192",
+        "conversation_id": "2038847160410874240",
+        "created_at": "2026-03-31T05:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038847160410874240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038847160410874240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "150mg普瑞+3只香烟戒烟第一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 651,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T11:20:03.000Z",
+        "description": "+86 137 3719 8964 | cosplayer | ﮩ٨ـﮩﮩ٨ـ♡ﮩﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ﮩ෴ﮩ_____ | 地雷系女孩 ‼️⚠️自傷⚠️‼️ ┊︎工口❌‼️备战中考‼️| 注意：本人不卖图包不援交不卖原味也不约 | 下体男滚开",
+        "id": "1920438493647368192",
+        "name": "法友百科",
+        "pinned_tweet_id": "2036728295350587636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036779484662423552/lyLmmGPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 81
+        },
+        "username": "fayoubaike003",
+        "verified": false
+      }
+    ]
+  }
+}

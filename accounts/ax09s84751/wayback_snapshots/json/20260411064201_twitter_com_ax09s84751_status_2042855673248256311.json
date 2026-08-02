@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042855673248256311",
+    "created_at": "2026-04-11T06:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042855673248256311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jituiroubaogu/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/jituiroubaogu/status/2042840458918007022",
+          "start": 19,
+          "url": "https://t.co/3HStl53AGf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042855673248256311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042840458918007022",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但但虽然这么说，嗯，还是不要od了。 https://t.co/3HStl53AGf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042855673248256311",
+        "created_at": "2026-04-11T06:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042855673248256311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jituiroubaogu/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/jituiroubaogu/status/2042840458918007022",
+              "start": 19,
+              "url": "https://t.co/3HStl53AGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042855673248256311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042840458918007022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但但虽然这么说，嗯，还是不要od了。 https://t.co/3HStl53AGf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2042840458918007022",
+        "created_at": "2026-04-11T05:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042840458918007022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042840458918007022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广州禁毒我恨你，成天滥用等于吸毒。到头来不仅加重了健全人对od的歧视而且还一点吊用没有。滚吧傻逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 680,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 523
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "我素叽菇。\n希望每个人都能获得自己的幸福。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2038600816073076855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 238,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jituiroubaogu",
+        "verified": false
+      }
+    ]
+  }
+}

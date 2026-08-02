@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2038489749963645129",
+    "created_at": "2026-04-03T11:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T12:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040027129753313760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955980103688790017",
+          "start": 0,
+          "username": "aaarjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040027129753313760",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038489749963645129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkk 超超我😋😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2053,
+        "media_key": "3_2038489746406871040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEorn7zbkAAg_m7.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2038489749963645129",
+        "created_at": "2026-04-03T11:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040027129753313760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040027129753313760",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038489749963645129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 超超我😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038489746406871040"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2038489749963645129",
+        "created_at": "2026-03-30T05:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038489749963645129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDUKUcxJdQ",
+              "end": 64,
+              "expanded_url": "https://x.com/aaarjkk/status/2038489749963645129/photo/1",
+              "media_key": "3_2038489746406871040",
+              "start": 41,
+              "url": "https://t.co/zDUKUcxJdQ"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2038482341035909501",
+              "start": 65,
+              "url": "https://t.co/ka5gue4PXx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038489749963645129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1766,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038482341035909501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知不觉已经抄了6页144位粉丝了呢\n中途停更了很久都怪𝕏 𝑔ℎ𝑜𝑠𝑡𝐵𝑎𝑛 我 https://t.co/zDUKUcxJdQ https://t.co/ka5gue4PXx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 678,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║MTF?MTX ？(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小⃢号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 73,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(解⃢除ghostBan开⃢心版)aaa1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 485,
+          "like_count": 7390,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

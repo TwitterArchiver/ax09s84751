@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2038257253959319633",
+    "created_at": "2026-03-29T14:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T15:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038257253959319633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2038219619589067225",
+          "start": 15,
+          "url": "https://t.co/MhZghf9Tiq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038257253959319633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038219619589067225",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跳楼太疼了呀。。。。ಠ︵ಠ凸 https://t.co/MhZghf9Tiq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23200,
+        "height": 848,
+        "media_key": "13_2038212491826630656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038212491826630656/img/O0McVSAFqBddPaai.jpg",
+        "public_metrics": {
+          "view_count": 167492
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038212491826630656/vid/avc1/320x584/91qPe_mf68BJs0MI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038212491826630656/vid/avc1/464x848/PuqqJNPOzubb7hrJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038212491826630656/pl/q0V3_aKdMW7LSadX.m3u8?v=cfc"
+          }
+        ],
+        "width": 464
+      },
+      {
+        "height": 477,
+        "media_key": "3_2038212497006837760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkvd5TawAAO5Zt.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2038257253959319633",
+        "created_at": "2026-03-29T14:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038257253959319633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2038219619589067225",
+              "start": 15,
+              "url": "https://t.co/MhZghf9Tiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038257253959319633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038219619589067225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跳楼太疼了呀。。。。ಠ︵ಠ凸 https://t.co/MhZghf9Tiq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038212491826630656",
+            "3_2038212497006837760"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038219619589067225",
+        "created_at": "2026-03-29T11:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038219619589067225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NJmiIEgLy",
+              "end": 58,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2038219619589067225/video/1",
+              "media_key": "13_2038212491826630656",
+              "start": 35,
+              "url": "https://t.co/7NJmiIEgLy"
+            },
+            {
+              "display_url": "pic.x.com/7NJmiIEgLy",
+              "end": 58,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2038219619589067225/video/1",
+              "media_key": "3_2038212497006837760",
+              "start": 35,
+              "url": "https://t.co/7NJmiIEgLy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038219619589067225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 340,
+          "impression_count": 411469,
+          "like_count": 1303,
+          "quote_count": 27,
+          "reply_count": 178,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：安徽省泾县稼祥中学，三个女孩子相约着跳楼，最终均不幸身亡。 https://t.co/7NJmiIEgLy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf/爱看od圈/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 605,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2034624681609933025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196583,
+          "following_count": 1028,
+          "like_count": 9353,
+          "listed_count": 8634,
+          "media_count": 44332,
+          "tweet_count": 51397
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

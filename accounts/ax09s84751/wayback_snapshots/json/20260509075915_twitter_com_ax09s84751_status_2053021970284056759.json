@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2052773599275262435",
+    "created_at": "2026-05-09T07:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053021970284056759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741871837464694784",
+          "start": 0,
+          "username": "Raintnear_asl"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2053021970284056759",
+    "in_reply_to_user_id": "1741871837464694784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052773599275262435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raintnear_asl 可以问一下去年的自己。"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2052773599275262435",
+        "created_at": "2026-05-09T07:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053021970284056759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2053021970284056759",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052773599275262435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 可以问一下去年的自己。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2052773599275262435",
+        "created_at": "2026-05-08T15:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052773599275262435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052773599275262435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2478,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我感觉我的16岁这么幼稚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 1526,
+          "like_count": 1321,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1537
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 407,
+          "like_count": 15282,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1322
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}

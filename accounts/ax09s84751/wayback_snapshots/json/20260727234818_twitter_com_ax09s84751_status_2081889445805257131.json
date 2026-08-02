@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2081889445805257131",
+    "created_at": "2026-07-27T23:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T00:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081889445805257131"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081889445805257131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "从奶奶那里听到的苏式笑话：\n中国记者将要采访苏联幼儿园里的小朋友，老师对小朋友说，记者会问两个问题。第1个问题是你们国家的领导人是谁？你们就说是勃列日涅夫；第2个问题是你们爱吃什么？你们就说牛奶和面包\n接着，记者采访小朋友们：你们爱吃什么？\n小朋友们：勃列日涅夫\n记者：你们国家的领导人是谁？\n小朋友们：牛奶和面包"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从奶奶那里听到的苏式笑话：\n中国记者将要采访苏联幼儿园里的小朋友，老师对小朋友说，记者会问两个问题。第1个问题是你们国家的领导人是谁？你们就说是勃列日涅夫；第2个问题是你们爱吃什么？你们就说牛奶和面包\n接着，记者采访小朋友们：你们爱吃什么？\n小朋友们：勃列日涅夫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2081889445805257131",
+        "created_at": "2026-07-27T23:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T00:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081889445805257131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081889445805257131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从奶奶那里听到的苏式笑话：\n中国记者将要采访苏联幼儿园里的小朋友，老师对小朋友说，记者会问两个问题。第1个问题是你们国家的领导人是谁？你们就说是勃列日涅夫；第2个问题是你们爱吃什么？你们就说牛奶和面包\n接着，记者采访小朋友们：你们爱吃什么？\n小朋友们：勃列日涅夫\n记者：你们国家的领导人是谁？\n小朋友们：牛奶和面包"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从奶奶那里听到的苏式笑话：\n中国记者将要采访苏联幼儿园里的小朋友，老师对小朋友说，记者会问两个问题。第1个问题是你们国家的领导人是谁？你们就说是勃列日涅夫；第2个问题是你们爱吃什么？你们就说牛奶和面包\n接着，记者采访小朋友们：你们爱吃什么？\n小朋友们：勃列日涅夫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "KuroHikari.",
+        "pinned_tweet_id": "2081573482882895956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1787,
+          "like_count": 3257,
+          "listed_count": 1,
+          "media_count": 433,
+          "tweet_count": 2763
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

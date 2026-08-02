@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055303128245760001"
+      ],
+      "media_source_tweet_id": [
+        "2055303138123403562"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055449233814401303",
+    "created_at": "2026-05-16T00:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T01:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055449233814401303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936489345869127680",
+          "start": 3,
+          "username": "a162087108"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EdxLcw9GPp",
+          "end": 46,
+          "expanded_url": "https://x.com/a162087108/status/2055303138123403562/photo/1",
+          "media_key": "3_2055303128245760001",
+          "start": 23,
+          "url": "https://t.co/EdxLcw9GPp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055449233814401303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055303138123403562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a162087108: 这药师是懂的 https://t.co/EdxLcw9GPp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 621,
+        "media_key": "3_2055303128245760001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXnTkDWcAETTEy.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055303128245760001"
+          ],
+          "media_source_tweet_id": [
+            "2055303138123403562"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055449233814401303",
+        "created_at": "2026-05-16T00:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055449233814401303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936489345869127680",
+              "start": 3,
+              "username": "a162087108"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EdxLcw9GPp",
+              "end": 46,
+              "expanded_url": "https://x.com/a162087108/status/2055303138123403562/photo/1",
+              "media_key": "3_2055303128245760001",
+              "start": 23,
+              "url": "https://t.co/EdxLcw9GPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055449233814401303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055303138123403562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a162087108: 这药师是懂的 https://t.co/EdxLcw9GPp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055303128245760001"
+          ]
+        },
+        "author_id": "1936489345869127680",
+        "conversation_id": "2055303138123403562",
+        "created_at": "2026-05-15T15:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055303138123403562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EdxLcw9GPp",
+              "end": 30,
+              "expanded_url": "https://x.com/a162087108/status/2055303138123403562/photo/1",
+              "media_key": "3_2055303128245760001",
+              "start": 7,
+              "url": "https://t.co/EdxLcw9GPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055303138123403562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1000,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这药师是懂的 https://t.co/EdxLcw9GPp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1654,
+          "like_count": 2065,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T18:20:40.000Z",
+        "description": "🏳️‍⚧️🍥｜infp🦋｜AuDHD🤕｜07｜172cm/48kg｜临床大一退学创业日记｜垃圾佬💻｜努力变pass｜想和你们交朋友！🥺🥺",
+        "id": "1936489345869127680",
+        "name": "点点是只小黑喵🍥🐈‍⬛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952113292354146304/Poay0LH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 281,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 318
+        },
+        "username": "a162087108",
+        "verified": false
+      }
+    ]
+  }
+}

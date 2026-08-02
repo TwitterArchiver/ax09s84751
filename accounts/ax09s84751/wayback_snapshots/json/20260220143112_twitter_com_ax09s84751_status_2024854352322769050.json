@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002078721348702208"
+      ],
+      "media_source_tweet_id": [
+        "2002078728265044199"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024854352322769050",
+    "created_at": "2026-02-20T14:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T15:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024854352322769050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1712747627610316800",
+          "start": 3,
+          "username": "Shiho_1802"
+        },
+        {
+          "end": 29,
+          "id": "1967832635201478656",
+          "start": 16,
+          "username": "geng_ju55326"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PaIpDnkC2H",
+          "end": 103,
+          "expanded_url": "https://x.com/Shiho_1802/status/2002078728265044199/photo/1",
+          "media_key": "3_2002078721348702208",
+          "start": 80,
+          "url": "https://t.co/PaIpDnkC2H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024854352322769050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002078728265044199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shiho_1802: @geng_ju55326 您好，考虑到用药安全，开具【普瑞巴林胶囊】请您上传姓名、诊断、用药明确的实体医疗机构的复诊凭证。😄 https://t.co/PaIpDnkC2H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2002078721348702208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8jP_VZbkAAxydc.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002078721348702208"
+          ],
+          "media_source_tweet_id": [
+            "2002078728265044199"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024854352322769050",
+        "created_at": "2026-02-20T14:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024854352322769050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1712747627610316800",
+              "start": 3,
+              "username": "Shiho_1802"
+            },
+            {
+              "end": 29,
+              "id": "1967832635201478656",
+              "start": 16,
+              "username": "geng_ju55326"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PaIpDnkC2H",
+              "end": 103,
+              "expanded_url": "https://x.com/Shiho_1802/status/2002078728265044199/photo/1",
+              "media_key": "3_2002078721348702208",
+              "start": 80,
+              "url": "https://t.co/PaIpDnkC2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024854352322769050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002078728265044199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shiho_1802: @geng_ju55326 您好，考虑到用药安全，开具【普瑞巴林胶囊】请您上传姓名、诊断、用药明确的实体医疗机构的复诊凭证。😄 https://t.co/PaIpDnkC2H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002078721348702208"
+          ]
+        },
+        "author_id": "1712747627610316800",
+        "conversation_id": "2002047817444106441",
+        "created_at": "2025-12-19T18:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T19:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002078728265044199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1967832635201478656",
+              "start": 0,
+              "username": "geng_ju55326"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PaIpDnkC2H",
+              "end": 87,
+              "expanded_url": "https://x.com/Shiho_1802/status/2002078728265044199/photo/1",
+              "media_key": "3_2002078721348702208",
+              "start": 64,
+              "url": "https://t.co/PaIpDnkC2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002078728265044199",
+        "in_reply_to_user_id": "1967832635201478656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 434,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002047817444106441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geng_ju55326 您好，考虑到用药安全，开具【普瑞巴林胶囊】请您上传姓名、诊断、用药明确的实体医疗机构的复诊凭证。😄 https://t.co/PaIpDnkC2H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 164,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 101
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T08:30:37.000Z",
+        "description": "ISFP/正在戒od-普瑞上瘾戒个吊/不常发推/欢迎互fo",
+        "id": "1712747627610316800",
+        "name": "詩虹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754361140132589568/k3PPG55w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 87,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 61
+        },
+        "username": "Shiho_1802",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T06:07:24.000Z",
+        "description": "@yukobaobao2 @yizizi35 @august100707",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "yukobaobao2"
+              },
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yizizi35"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "august100707"
+              }
+            ]
+          }
+        },
+        "id": "1967832635201478656",
+        "name": "荔枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016848152184442884/CT2mrl5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 21,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 120
+        },
+        "username": "geng_ju55326",
+        "verified": false
+      }
+    ]
+  }
+}

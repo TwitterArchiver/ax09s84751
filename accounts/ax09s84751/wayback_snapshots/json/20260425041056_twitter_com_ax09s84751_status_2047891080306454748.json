@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047888939848225134",
+    "created_at": "2026-04-25T04:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047891080306454748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047273781098639360",
+          "start": 0,
+          "username": "Yamamotokoroshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047891080306454748",
+    "in_reply_to_user_id": "2047273781098639360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047888939848225134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamamotokoroshi 我喉咙大吧，可能是\n我能一次性吞完 我都是一次性梭哈的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047888930062929921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuQIbfbEAESWk9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047888939848225134",
+        "created_at": "2026-04-25T04:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047891080306454748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047273781098639360",
+              "start": 0,
+              "username": "Yamamotokoroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047891080306454748",
+        "in_reply_to_user_id": "2047273781098639360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047888939848225134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamamotokoroshi 我喉咙大吧，可能是\n我能一次性吞完 我都是一次性梭哈的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047888930062929921"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "conversation_id": "2047888939848225134",
+        "created_at": "2026-04-25T04:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047888939848225134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sxVTL372pK",
+              "end": 95,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2047888939848225134/photo/1",
+              "media_key": "3_2047888930062929921",
+              "start": 72,
+              "url": "https://t.co/sxVTL372pK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047888939848225134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3tpr+1t巴氯芬+1t度洛西汀\n其他治疗慢性病的已经需要到其他瓶盖了吗...\n脑雾好严重，更令人难过的是吞咽药品需要至少分开6次进行... https://t.co/sxVTL372pK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 1305,
+          "like_count": 826,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 984
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "@cVPrL20wIa42392二世）白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中🥰/随缘互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "cVPrL20wIa42392"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土三",
+        "pinned_tweet_id": "2047533747290210413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 211,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      }
+    ]
+  }
+}

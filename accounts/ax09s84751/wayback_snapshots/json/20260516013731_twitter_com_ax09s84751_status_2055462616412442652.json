@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055462616412442652",
+    "created_at": "2026-05-16T01:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055462616412442652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "YongQuan"
+        },
+        {
+          "end": 24,
+          "id": "1368897611672018953",
+          "start": 14,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 30,
+          "id": "1720665183188922368",
+          "start": 25,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055462616412442652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055281893260566739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YongQuan: @XUEQIUxka @Grok 这对吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055462616412442652",
+        "created_at": "2026-05-16T01:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055462616412442652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "YongQuan"
+            },
+            {
+              "end": 24,
+              "id": "1368897611672018953",
+              "start": 14,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 30,
+              "id": "1720665183188922368",
+              "start": 25,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055462616412442652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055281893260566739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YongQuan: @XUEQIUxka @Grok 这对吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2055280911412023383",
+        "created_at": "2026-05-15T13:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055281893260566739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055281893260566739",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055280911412023383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @Grok 这对吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 1660,
+          "like_count": 2084,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1849
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\nAny（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 45,
+                "username": "yqua_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9811,
+          "following_count": 4257,
+          "like_count": 45582,
+          "listed_count": 30,
+          "media_count": 3421,
+          "tweet_count": 12308
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8449,
+          "following_count": 2207,
+          "like_count": 29735,
+          "listed_count": 26,
+          "media_count": 1417,
+          "tweet_count": 5158
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052556247870865408/oGdJ7sXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8742345,
+          "following_count": 4,
+          "like_count": 95,
+          "listed_count": 6841,
+          "media_count": 8932974,
+          "tweet_count": 125907179
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

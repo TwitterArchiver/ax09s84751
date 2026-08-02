@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2049738672220917920",
+    "created_at": "2026-05-01T02:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T03:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050036108306833506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1762456822571823104",
+          "start": 0,
+          "username": "MaoRicch15988"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050036108306833506",
+    "in_reply_to_user_id": "1762456822571823104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049738672220917920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoRicch15988 赔我眼睛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54900,
+        "height": 640,
+        "media_key": "13_2049738448144330753",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049738448144330753/img/AoLIRBYpwdRO9w4B.jpg",
+        "public_metrics": {
+          "view_count": 152073
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049738448144330753/vid/avc1/320x568/Qiob3E8cXuoMoblp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049738448144330753/vid/avc1/360x640/HwbO04ICYqoTpfG7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049738448144330753/pl/eVN9uG8OxLiLmWng.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2049738672220917920",
+        "created_at": "2026-05-01T02:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T03:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050036108306833506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1762456822571823104",
+              "start": 0,
+              "username": "MaoRicch15988"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050036108306833506",
+        "in_reply_to_user_id": "1762456822571823104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049738672220917920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoRicch15988 赔我眼睛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049738448144330753"
+          ]
+        },
+        "author_id": "1762456822571823104",
+        "conversation_id": "2049738672220917920",
+        "created_at": "2026-04-30T06:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049738672220917920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZV2pOwony",
+              "end": 43,
+              "expanded_url": "https://x.com/MaoRicch15988/status/2049738672220917920/video/1",
+              "media_key": "13_2049738448144330753",
+              "start": 20,
+              "url": "https://t.co/BZV2pOwony"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049738672220917920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 872,
+          "impression_count": 110483,
+          "like_count": 3421,
+          "quote_count": 13,
+          "reply_count": 377,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "范小勤打街机视频流出\n小马云你要笑死谁 https://t.co/BZV2pOwony"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 1423,
+          "like_count": 939,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1283
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-27T12:37:21.000Z",
+        "description": "交易心得&行情分析 会讲西语的雅思老师   分享polymarket 里那些“捡钱”盘 ⚽&🎵&web3",
+        "id": "1762456822571823104",
+        "name": "叶子维",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020375119991123968/lojTVD8r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 41,
+          "like_count": 42,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 192
+        },
+        "username": "MaoRicch15988",
+        "verified": true
+      }
+    ]
+  }
+}

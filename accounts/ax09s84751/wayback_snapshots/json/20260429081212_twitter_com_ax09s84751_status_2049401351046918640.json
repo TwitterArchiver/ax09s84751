@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2049048385689423996",
+    "created_at": "2026-04-29T08:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049401351046918640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813561571941183488",
+          "start": 0,
+          "username": "careforme123"
+        },
+        {
+          "end": 19,
+          "id": "1720665183188922368",
+          "start": 14,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049401351046918640",
+    "in_reply_to_user_id": "1813561571941183488",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049048385689423996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@careforme123 @grok it is true?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2049048385689423996",
+        "created_at": "2026-04-29T08:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049401351046918640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            },
+            {
+              "end": 19,
+              "id": "1720665183188922368",
+              "start": 14,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049401351046918640",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049048385689423996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 @grok it is true?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2049048385689423996",
+        "created_at": "2026-04-28T08:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:45:04.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049047235141280233",
+          "2049047539152998646",
+          "2049048385689423996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049048385689423996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "右美沙芬为什么比普瑞巴林好一百倍\n\n​1.更爽，这个是毋庸置疑的，而且你想怎么爽都可以，低剂量昏昏欣快，高剂量梦幻疯狂，和其他药配合也好，不多赘述\n\n​2.更安全，右美沙芬的安全性极好，你的圣体能轻松分解他，不用担心伤肝伤肾，吃一百片？\n昏两天就没事了，有人说他是傻子药，我吃了几百盒依然轻松高考，其实是吃右美沙芬的傻子占比高🤤，普瑞巴林过量会对肾脏造成损伤（比如n55这个傻*）\n\n​3.成瘾性，右美沙芬不成瘾，我说的，它只会让你有心瘾，但由于普瑞巴林的抗焦虑机制，长期大量用必然上瘾，并且你还会耐药，会吃的越来越多然后损伤你的身体\n\n​那些绝望的日子，都是右美沙芬陪我一起走过，仅以此文纪念她"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1610,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右美沙芬为什么比普瑞巴林好一百倍\n\n​1.更爽，这个是毋庸置疑的，而且你想怎么爽都可以，低剂量昏昏欣快，高剂量梦幻疯狂，和其他药配合也好，不多赘述\n\n​2.更安全，右美沙芬的安全性极好，你的圣体能轻松分解他，不用担心伤肝伤肾，吃一百片？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 1399,
+          "like_count": 919,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1191
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2049335145208193267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 338,
+          "like_count": 4433,
+          "listed_count": 3,
+          "media_count": 504,
+          "tweet_count": 1814
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8672797,
+          "following_count": 4,
+          "like_count": 89,
+          "listed_count": 6743,
+          "media_count": 8872934,
+          "tweet_count": 124142830
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

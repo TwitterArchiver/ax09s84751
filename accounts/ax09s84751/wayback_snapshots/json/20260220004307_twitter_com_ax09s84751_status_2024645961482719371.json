@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024645961482719371",
+    "created_at": "2026-02-20T00:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T01:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024645961482719371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022153081031733252",
+          "start": 3,
+          "username": "ax09s84751"
+        },
+        {
+          "end": 30,
+          "id": "1997013141268705280",
+          "start": 16,
+          "username": "minowagin2952"
+        },
+        {
+          "end": 45,
+          "id": "1790448736629301248",
+          "start": 31,
+          "username": "xijinping_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024645961482719371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024645887960703423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax09s84751: @minowagin2952 @xijinping_bot 嘻嘻 我就知道有人要说这句 等你半天了 还有别的词吗 没有我走了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024645961482719371",
+        "created_at": "2026-02-20T00:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T01:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024645961482719371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022153081031733252",
+              "start": 3,
+              "username": "ax09s84751"
+            },
+            {
+              "end": 30,
+              "id": "1997013141268705280",
+              "start": 16,
+              "username": "minowagin2952"
+            },
+            {
+              "end": 45,
+              "id": "1790448736629301248",
+              "start": 31,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024645961482719371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024645887960703423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax09s84751: @minowagin2952 @xijinping_bot 嘻嘻 我就知道有人要说这句 等你半天了 还有别的词吗 没有我走了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2023370179196170535",
+        "created_at": "2026-02-20T00:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T01:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024645887960703423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997013141268705280",
+              "start": 0,
+              "username": "minowagin2952"
+            },
+            {
+              "end": 29,
+              "id": "1790448736629301248",
+              "start": 15,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024645887960703423",
+        "in_reply_to_user_id": "1997013141268705280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024498774760890721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minowagin2952 @xijinping_bot 嘻嘻 我就知道有人要说这句 等你半天了 还有别的词吗 没有我走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵/看od精神科圈/坚持跟随党的领导/偶尔骂骂殖人",
+        "id": "2022153081031733252",
+        "location": "中华人民共和国",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 129,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 69
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T18:40:29.000Z",
+        "description": "本人是：黄左，左逼，👊🇺🇸🔥， 本人是：殖人/殖畜/大殖子/反贼/支黑",
+        "id": "1997013141268705280",
+        "name": "美樹さやか🇺🇦",
+        "pinned_tweet_id": "1997503209620058521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024507724025700353/hsIXV17F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 932,
+          "like_count": 5850,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 2243
+        },
+        "username": "minowagin2952",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "朝闻道，夕死可矣/@mizuki_bot/恶狗@Pomb0ring /尊重人权/大年初一，理科区菊花爆炸/本账所有负面言论由葱娘酱和猫在雷指使、发布，本人毫不知情/激化矛盾全面加速/预制论/顶峰伦/血海论/无产阶级入关论/反马原反苏系，保卫毛主席/已辞职在家学习延安炕日精神",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "mizuki_bot"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Pomb0ring"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ccpAV.com",
+                "end": 23,
+                "expanded_url": "http://ccpAV.com",
+                "start": 0,
+                "url": "https://t.co/tKIiEMftEe"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "古拉格大学夹边沟分学院梁家河校区",
+        "name": "羽泽东——苏系基本盘 我过我Lunar Year你过你未经认证的Zhina Year呗🤡",
+        "pinned_tweet_id": "2023370179196170535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015813151938187264/abAUkSW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 1287,
+          "like_count": 12243,
+          "listed_count": 6,
+          "media_count": 550,
+          "tweet_count": 11191
+        },
+        "url": "https://t.co/tKIiEMftEe",
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

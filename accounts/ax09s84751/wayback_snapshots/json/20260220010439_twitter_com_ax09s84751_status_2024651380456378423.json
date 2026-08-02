@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024542122800480614",
+    "created_at": "2026-02-20T01:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T02:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024651380456378423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1389520784",
+          "start": 0,
+          "username": "xiaotgo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024651380456378423",
+    "in_reply_to_user_id": "1389520784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024542122800480614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaotgo 你这就没意思了，拿慰安妇开玩笑，你自己不觉得恶心吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 444,
+        "media_key": "3_2024542115242409984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBieU8vXgAA6XW2.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024542122800480614",
+        "created_at": "2026-02-20T01:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T02:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024651380456378423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1389520784",
+              "start": 0,
+              "username": "xiaotgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024651380456378423",
+        "in_reply_to_user_id": "1389520784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024542122800480614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotgo 你这就没意思了，拿慰安妇开玩笑，你自己不觉得恶心吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024542115242409984"
+          ]
+        },
+        "author_id": "1389520784",
+        "conversation_id": "2024542122800480614",
+        "created_at": "2026-02-19T17:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024542122800480614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vDzCFpA5kv",
+              "end": 37,
+              "expanded_url": "https://x.com/xiaotgo/status/2024542122800480614/photo/1",
+              "media_key": "3_2024542115242409984",
+              "start": 14,
+              "url": "https://t.co/vDzCFpA5kv"
+            },
+            {
+              "display_url": "x.com/ni1hannah/stat…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/ni1hannah/status/2024274461617254867",
+              "start": 38,
+              "url": "https://t.co/Op4Vm9VSgO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024542122800480614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024274461617254867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用这个图就可以回击这种说法 https://t.co/vDzCFpA5kv https://t.co/Op4Vm9VSgO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵/看od精神科圈/坚持跟随党的领导/偶尔骂骂殖人",
+        "id": "2022153081031733252",
+        "location": "中华人民共和国",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 131,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 79
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-29T13:37:53.000Z",
+        "description": "",
+        "id": "1389520784",
+        "name": "Slade Wilson🇬🇧🇺🇸习近平赛博本体（原初体）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1204568399889612800/uSv80Esi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 161,
+          "like_count": 5785,
+          "listed_count": 3,
+          "media_count": 480,
+          "tweet_count": 2462
+        },
+        "username": "xiaotgo",
+        "verified": false
+      }
+    ]
+  }
+}

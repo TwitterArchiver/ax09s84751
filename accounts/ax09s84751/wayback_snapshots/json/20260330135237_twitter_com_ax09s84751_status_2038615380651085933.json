@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2038615380651085933",
+    "created_at": "2026-03-30T13:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038615380651085933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Alistai3395529…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Alistai33955292/status/2038614396512223294",
+          "start": 49,
+          "url": "https://t.co/NFE4yfFjKK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038615380651085933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038614396512223294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都说了霖 看到这样会难过的。（︶︿︶）\n你们一个个都好好的。\n什么下辈子？？\n善意的谎言罢了。！ https://t.co/NFE4yfFjKK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038614379890094081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqc-jtaMAE8ASh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2038615380651085933",
+        "created_at": "2026-03-30T13:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038615380651085933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Alistai3395529…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Alistai33955292/status/2038614396512223294",
+              "start": 49,
+              "url": "https://t.co/NFE4yfFjKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038615380651085933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038614396512223294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都说了霖 看到这样会难过的。（︶︿︶）\n你们一个个都好好的。\n什么下辈子？？\n善意的谎言罢了。！ https://t.co/NFE4yfFjKK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038614379890094081"
+          ]
+        },
+        "author_id": "1505767450385690625",
+        "conversation_id": "2038614396512223294",
+        "created_at": "2026-03-30T13:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038614396512223294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFDcRiMScl",
+              "end": 31,
+              "expanded_url": "https://x.com/Alistai33955292/status/2038614396512223294/photo/1",
+              "media_key": "3_2038614379890094081",
+              "start": 8,
+              "url": "https://t.co/wFDcRiMScl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038614396512223294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下辈子请幸福吧 https://t.co/wFDcRiMScl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf/爱看od圈/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 650,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 294
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T04:45:18.000Z",
+        "description": "06丨重焦重抑丨全性别友好丨社交极度恐惧……欢迎互fo！",
+        "id": "1505767450385690625",
+        "location": "0.1km",
+        "name": "🌰",
+        "pinned_tweet_id": "2038240720558186875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038590475792510976/EraPdm2o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 180,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 94
+        },
+        "username": "Alistai33955292",
+        "verified": false
+      }
+    ]
+  }
+}

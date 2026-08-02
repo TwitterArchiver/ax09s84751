@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055463762287853814",
+    "created_at": "2026-05-16T10:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T11:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055599255801479533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1809754445162639361",
+          "start": 0,
+          "username": "sakuraiharunana"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055599255801479533",
+    "in_reply_to_user_id": "1809754445162639361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055463762287853814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakuraiharunana 气死我了家长党气死我了气死我了家长党"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055463762287853814",
+        "created_at": "2026-05-16T10:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055599255801479533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1809754445162639361",
+              "start": 0,
+              "username": "sakuraiharunana"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055599255801479533",
+        "in_reply_to_user_id": "1809754445162639361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055463762287853814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakuraiharunana 气死我了家长党气死我了气死我了家长党"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809754445162639361",
+        "conversation_id": "2055463762287853814",
+        "created_at": "2026-05-16T01:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055463762287853814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055463762287853814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 390,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自介v3.0.0 Release\n是🏳️‍⚧️，MtF\n持证含糖，家长党，\n没有什么不良嗜好，\n有对象。\n\n其他的我不知道写啥好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 1663,
+          "like_count": 2131,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1870
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T01:01:15.000Z",
+        "description": "Our existence is resistance",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kizumi.site",
+                "end": 23,
+                "expanded_url": "http://kizumi.site",
+                "start": 0,
+                "url": "https://t.co/gbSTeAWfnO"
+              }
+            ]
+          }
+        },
+        "id": "1809754445162639361",
+        "location": "127.0.0.1🏳️‍⚧️",
+        "name": "希澈希澈希澈澈澈澈澈",
+        "pinned_tweet_id": "2055463762287853814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052513874608640000/LuwF-vXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 554,
+          "like_count": 227,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 446
+        },
+        "url": "https://t.co/gbSTeAWfnO",
+        "username": "sakuraiharunana",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055876408841502898",
+    "created_at": "2026-05-17T05:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055888839915544866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054877291633909760",
+          "start": 0,
+          "username": "TransYuwen"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055888839915544866",
+    "in_reply_to_user_id": "2054877291633909760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055876408841502898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TransYuwen 炒作狗一个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2055876380722950144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfwrP8bcAASxC0.jpg",
+        "width": 1080
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055876408841502898",
+        "created_at": "2026-05-17T05:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055888839915544866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054877291633909760",
+              "start": 0,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055888839915544866",
+        "in_reply_to_user_id": "2054877291633909760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055876408841502898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TransYuwen 炒作狗一个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055876380722950144"
+          ]
+        },
+        "author_id": "2054877291633909760",
+        "conversation_id": "2055876408841502898",
+        "created_at": "2026-05-17T05:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055876408841502898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2wk2Clu4q",
+              "end": 157,
+              "expanded_url": "https://x.com/TransYuwen/status/2055876408841502898/photo/1",
+              "media_key": "3_2055876380722950144",
+              "start": 134,
+              "url": "https://t.co/o2wk2Clu4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055876408841502898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 887,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "本人此前在网络平台发表了侮辱国家领导人的不当言论，造成了不良影响，也给天津市东丽区公安机关带来了麻烦。经过教育与反思，我已深刻认识到自己的错误。\n\n网络不是法外之地，今后我会严格规范自身言行，遵守法律法规，不再发布任何违法不当内容。在此向相关工作人员及公众郑重道歉。 https://t.co/o2wk2Clu4q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 1675,
+          "like_count": 2137,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | 174厘米 | 75公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍|",
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2055211584138736084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 18,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 172
+        },
+        "username": "TransYuwen",
+        "verified": false
+      }
+    ]
+  }
+}

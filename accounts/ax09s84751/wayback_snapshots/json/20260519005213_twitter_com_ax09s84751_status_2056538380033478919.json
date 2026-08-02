@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2056538380033478919",
+    "created_at": "2026-05-19T00:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T01:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056538380033478919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811265295849598976",
+          "start": 3,
+          "username": "KiraMyao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2056…",
+          "end": 37,
+          "expanded_url": "http://x.com/i/article/2056116690640080896",
+          "start": 14,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2056116690640080896",
+          "url": "https://t.co/fkthD4Xw3V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056538380033478919",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056374347380695276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraMyao: https://t.co/fkthD4Xw3V"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2056538380033478919",
+        "created_at": "2026-05-19T00:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056538380033478919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811265295849598976",
+              "start": 3,
+              "username": "KiraMyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2056…",
+              "end": 37,
+              "expanded_url": "http://x.com/i/article/2056116690640080896",
+              "start": 14,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2056116690640080896",
+              "url": "https://t.co/fkthD4Xw3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056538380033478919",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056374347380695276",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiraMyao: https://t.co/fkthD4Xw3V"
+      },
+      {
+        "article": {
+          "title": " 中国MTF生存指南：喵呜，一起在当下活下去"
+        },
+        "attachments": {},
+        "author_id": "1811265295849598976",
+        "conversation_id": "2056374347380695276",
+        "created_at": "2026-05-18T14:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056374347380695276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2056…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2056116690640080896",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2056116690640080896",
+              "url": "https://t.co/fkthD4Xw3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056374347380695276",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 7091,
+          "like_count": 145,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fkthD4Xw3V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1681,
+          "like_count": 2191,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 1971
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 361,
+          "like_count": 9737,
+          "listed_count": 3,
+          "media_count": 392,
+          "tweet_count": 1624
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

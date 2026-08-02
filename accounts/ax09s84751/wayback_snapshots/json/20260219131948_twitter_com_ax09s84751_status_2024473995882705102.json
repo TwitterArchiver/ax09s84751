@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024468605740736982",
+    "created_at": "2026-02-19T13:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024473995882705102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790448736629301248",
+          "start": 0,
+          "username": "xijinping_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024473995882705102",
+    "in_reply_to_user_id": "1790448736629301248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024468605740736982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping_bot 你野爹屠印第安人你夸他屠得好，你亲爹饿着肚子援外你骂他是狗？双标玩得这么溜，你祖上是跪着舔铁路枕木、跪着求洋大人收留练出来的吧？还 害的不是自己人？北美奴隶主匪帮把你当人过？记住你爹一句话：你野爹再好也把你当狗，闹钟再不好也把你当人。可惜你，跪太久，膝盖焊地上了，真tm站不起来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 264,
+        "media_key": "3_2024468594462187520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhbdefaYAAYnTN.jpg",
+        "width": 1244
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024468605740736982",
+        "created_at": "2026-02-19T13:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024473995882705102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024473995882705102",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024468605740736982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot 你野爹屠印第安人你夸他屠得好，你亲爹饿着肚子援外你骂他是狗？双标玩得这么溜，你祖上是跪着舔铁路枕木、跪着求洋大人收留练出来的吧？还 害的不是自己人？北美奴隶主匪帮把你当人过？记住你爹一句话：你野爹再好也把你当狗，闹钟再不好也把你当人。可惜你，跪太久，膝盖焊地上了，真tm站不起来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024468594462187520"
+          ]
+        },
+        "author_id": "1790448736629301248",
+        "conversation_id": "2024468605740736982",
+        "created_at": "2026-02-19T12:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T13:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024468605740736982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJ3b3TYHf1",
+              "end": 101,
+              "expanded_url": "https://x.com/xijinping_bot/status/2024468605740736982/photo/1",
+              "media_key": "3_2024468594462187520",
+              "start": 78,
+              "url": "https://t.co/zJ3b3TYHf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024468605740736982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不懂闹钟为什么总是喜欢说美日如何如何，他们的确有邪恶的时候，但他们害的可不是自己人。不像闹钟，一边饿似人，一边往越南阿尔巴尼亚运粮，为了面子给老大哥还债 https://t.co/zJ3b3TYHf1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 109,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 45
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "朝闻道，夕死可矣/@mizuki_bot/恶狗@Pomb0ring /尊重人权/大年初一，理科区菊花爆炸/本账所有负面言论由葱娘酱和猫在雷指使、发布，本人毫不知情/激化矛盾全面加速/预制论/顶峰伦/血海论/无产阶级入关论/反马原反苏系，保卫毛主席/已辞职在家学习延安炕日精神",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "mizuki_bot"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Pomb0ring"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ccpAV.com",
+                "end": 23,
+                "expanded_url": "http://ccpAV.com",
+                "start": 0,
+                "url": "https://t.co/tKIiEMftEe"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "古拉格大学夹边沟分学院梁家河校区",
+        "name": "羽泽东——苏系基本盘 我过我Lunar Year你过你未经认证的Zhina Year呗🤡",
+        "pinned_tweet_id": "2023370179196170535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015813151938187264/abAUkSW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 1280,
+          "like_count": 12194,
+          "listed_count": 4,
+          "media_count": 549,
+          "tweet_count": 11229
+        },
+        "url": "https://t.co/tKIiEMftEe",
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

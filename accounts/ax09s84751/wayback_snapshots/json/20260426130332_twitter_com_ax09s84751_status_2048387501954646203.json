@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048285504333119904",
+    "created_at": "2026-04-26T13:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048387501954646203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1856229785955172352",
+          "start": 0,
+          "username": "xmeaomao57837"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048387501954646203",
+    "in_reply_to_user_id": "1856229785955172352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048285504333119904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmeaomao57837 你牛大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048285504333119904",
+        "created_at": "2026-04-26T13:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048387501954646203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1856229785955172352",
+              "start": 0,
+              "username": "xmeaomao57837"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048387501954646203",
+        "in_reply_to_user_id": "1856229785955172352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048285504333119904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmeaomao57837 你牛大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856229785955172352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2048285504333119904",
+        "created_at": "2026-04-26T06:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048285504333119904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048285504333119904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 272573,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 500,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "给翻墙的朋友一句忠告，买一部华为手机，他会改变你的一生的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/视成分互关\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 1336,
+          "like_count": 866,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1054
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-12T06:57:59.000Z",
+        "description": "关注猫小小，定居沪，一只爱玩的Jin盆",
+        "id": "1856229785955172352",
+        "name": "猫小小",
+        "pinned_tweet_id": "2048252992718270491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913975297957048320/R6BOuweK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40859,
+          "following_count": 12,
+          "like_count": 4262,
+          "listed_count": 55,
+          "media_count": 245,
+          "tweet_count": 2603
+        },
+        "username": "xmeaomao57837",
+        "verified": false
+      }
+    ]
+  }
+}

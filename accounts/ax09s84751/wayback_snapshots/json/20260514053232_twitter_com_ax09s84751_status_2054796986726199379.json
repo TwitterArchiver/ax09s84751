@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2054537172263563655",
+    "created_at": "2026-05-14T05:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054796986726199379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2054796986726199379",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054537172263563655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 仙品。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054537160263696384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMuqW9bgAAjWAy.jpg",
+        "width": 1365
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2054537172263563655",
+        "created_at": "2026-05-14T05:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054796986726199379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2054796986726199379",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054537172263563655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 仙品。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054537160263696384"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054537172263563655",
+        "created_at": "2026-05-13T12:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054537172263563655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFNp8PLcMf",
+              "end": 48,
+              "expanded_url": "https://x.com/RainEngine2024/status/2054537172263563655/photo/1",
+              "media_key": "3_2054537160263696384",
+              "start": 25,
+              "url": "https://t.co/GFNp8PLcMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054537172263563655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1045,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的，这什么东西，怎么感觉那么恐怖，这叫我怎么吃 https://t.co/GFNp8PLcMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtf🏳️‍⚧️？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 1622,
+          "like_count": 1890,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 1681
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052221080052674560/erKoHu5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10099,
+          "following_count": 951,
+          "like_count": 87363,
+          "listed_count": 24,
+          "media_count": 1719,
+          "tweet_count": 12122
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

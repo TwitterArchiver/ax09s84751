@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2063150378309607560",
+    "created_at": "2026-06-06T06:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063150378309607560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YukinonCC/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/YukinonCC/status/2062927048142918052",
+          "start": 3,
+          "url": "https://t.co/C3Vv7x7H2Z"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2063150378309607560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062927048142918052",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "猎奇 https://t.co/C3Vv7x7H2Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 475,
+        "media_key": "3_2062927038588366848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKD9NjSbsAA6MO1.jpg",
+        "width": 1024
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2063150378309607560",
+        "created_at": "2026-06-06T06:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063150378309607560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YukinonCC/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/YukinonCC/status/2062927048142918052",
+              "start": 3,
+              "url": "https://t.co/C3Vv7x7H2Z"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2063150378309607560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062927048142918052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猎奇 https://t.co/C3Vv7x7H2Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062927038588366848"
+          ]
+        },
+        "author_id": "1306129238827778048",
+        "conversation_id": "2062927048142918052",
+        "created_at": "2026-06-05T15:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062927048142918052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xdxk7bSdv9",
+              "end": 61,
+              "expanded_url": "https://x.com/YukinonCC/status/2062927048142918052/photo/1",
+              "media_key": "3_2062927038588366848",
+              "start": 38,
+              "url": "https://t.co/Xdxk7bSdv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062927048142918052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人磕 【唐毓文 X Amber】 的\n英联邦CP（🇦🇺x🇨🇦）太甜了 https://t.co/Xdxk7bSdv9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2062097916781797730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 1825,
+          "like_count": 2788,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 2506
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-16T07:14:21.000Z",
+        "description": "🐧人間になりたいですわ | 💫ℙ𝕖𝕣 𝕒𝕤𝕡𝕖𝕣𝕒 𝕒𝕕 𝕒𝕤𝕥𝕣𝕒 🌠|🚪：𝟭𝘽𝙏𝘾｜Ask me anonymously : https://t.co/jmSdkECPE6｜Personal site : https://t.co/tKjbdA0r6m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukinoncc",
+                "end": 88,
+                "expanded_url": "https://ngl.link/yukinoncc",
+                "start": 65,
+                "url": "https://t.co/jmSdkECPE6"
+              },
+              {
+                "display_url": "superchat.moe",
+                "end": 128,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 105,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "superchat.moe",
+                "end": 23,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 0,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          }
+        },
+        "id": "1306129238827778048",
+        "location": "ワンピンナンルー600号より脱走中",
+        "name": "ユキ🎀",
+        "pinned_tweet_id": "2044849985766948894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036544477750534144/nGFWjjWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 685,
+          "like_count": 15425,
+          "listed_count": 2,
+          "media_count": 580,
+          "tweet_count": 3913
+        },
+        "url": "https://t.co/tKjbdA0r6m",
+        "username": "YukinonCC",
+        "verified": true
+      }
+    ]
+  }
+}

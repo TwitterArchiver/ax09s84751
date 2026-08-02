@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055913018626818157",
+    "created_at": "2026-05-17T08:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055926217535291807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055926217535291807",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055913018626818157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CyberKanjousen 我tmd开不了了，蓝v了现在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055913018626818157",
+        "created_at": "2026-05-17T08:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055926217535291807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055926217535291807",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055913018626818157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 我tmd开不了了，蓝v了现在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2055913018626818157",
+        "created_at": "2026-05-17T07:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055913018626818157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rkmonochrome_c…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/rkmonochrome_cn/status/2055885931606061250",
+              "start": 172,
+              "url": "https://t.co/WPWtQg2oEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055913018626818157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "環状線双手赞成这一更改👍\n\n一是可以遏制 spam bot 回复。spam bot 的生命周期一般最长只有 1 天（从发出第一条 spam 回复算起），这一限制使得 bot 总共只能发出 200 条 spam 回复（以前可能是上千条）\n\n二是对绝大多数正常用户，包括非 Premium 用户，几乎都没有影响。50 条推文、200 条回复已经非 常多了，環状線一天最多也只能发 23 条推文和 77 条回复，平时的发推量和回复量绝大多数在 20 条和 60 条以下。也就是说，即使環状線不是 Premium 用户，对環状線也毫无影响。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 541,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055885931606061250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "環状線双手赞成这一更改👍\n\n一是可以遏制 spam bot 回复。spam bot 的生命周期一般最长只有 1 天（从发出第一条 spam 回复算起），这一限制使得 bot 总共只能发出 200 条 spam 回复（以前可能是上千条）\n\n二是对绝大多数正常用户，包括非 Premium 用户，几乎都没有影响。50 条推文、200 条回复已经非 https://t.co/WPWtQg2oEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 1677,
+          "like_count": 2142,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1900
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3514,
+          "following_count": 834,
+          "like_count": 20309,
+          "listed_count": 8,
+          "media_count": 1079,
+          "tweet_count": 6040
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

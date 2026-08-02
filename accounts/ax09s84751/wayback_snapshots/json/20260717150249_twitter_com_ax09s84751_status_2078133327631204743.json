@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2078133327631204743",
+    "created_at": "2026-07-17T15:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078133327631204743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/9apNaPY",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/9apNaPY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078133327631204743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077614200151851217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: “一国两制”\n近日，有网友对比滴滴简体版与繁体版客户端发现：\n\n繁体版页面简洁；\n\n简体版则充斥着广告，显示“借钱、返现、广告、跑腿、租车”等入口，“我的”页面还直接显示“预估可借4.54万元”。 https://t.co/9apNaPY…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2077427375038410752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSBMN_WMAA-AfZ.jpg",
+        "width": 399
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2077427375118127104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSBMOSWkAAueTa.jpg",
+        "width": 468
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2078133327631204743",
+        "created_at": "2026-07-17T15:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078133327631204743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/9apNaPY",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/9apNaPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078133327631204743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077614200151851217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: “一国两制”\n近日，有网友对比滴滴简体版与繁体版客户端发现：\n\n繁体版页面简洁；\n\n简体版则充斥着广告，显示“借钱、返现、广告、跑腿、租车”等入口，“我的”页面还直接显示“预估可借4.54万元”。 https://t.co/9apNaPY…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077427375038410752",
+            "3_2077427375118127104"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077614200151851217",
+        "created_at": "2026-07-16T04:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077614200151851217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9apNaPYrw1",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2077614200151851217/photo/1",
+              "media_key": "3_2077427375038410752",
+              "start": 99,
+              "url": "https://t.co/9apNaPYrw1"
+            },
+            {
+              "display_url": "pic.x.com/9apNaPYrw1",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2077614200151851217/photo/1",
+              "media_key": "3_2077427375118127104",
+              "start": 99,
+              "url": "https://t.co/9apNaPYrw1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077614200151851217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 472282,
+          "like_count": 1733,
+          "quote_count": 3,
+          "reply_count": 355,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "“一国两制”\n近日，有网友对比滴滴简体版与繁体版客户端发现：\n\n繁体版页面简洁；\n\n简体版则充斥着广告，显示“借钱、返现、广告、跑腿、租车”等入口，“我的”页面还直接显示“预估可借4.54万元”。 https://t.co/9apNaPYrw1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2075833932537589993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 1797,
+          "like_count": 3197,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 2739
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242368,
+          "following_count": 1078,
+          "like_count": 9798,
+          "listed_count": 8826,
+          "media_count": 50566,
+          "tweet_count": 57783
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2045045278559080562",
+    "created_at": "2026-04-17T07:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T08:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045045278559080562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031270533359349761",
+          "start": 3,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045045278559080562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044804034922746114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @senzhiwu: 我妈发现我女装了，把衣服抢过来说她也要穿😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2045045278559080562",
+        "created_at": "2026-04-17T07:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045045278559080562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031270533359349761",
+              "start": 3,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045045278559080562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044804034922746114",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @senzhiwu: 我妈发现我女装了，把衣服抢过来说她也要穿😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031270533359349761",
+        "conversation_id": "2044804034922746114",
+        "created_at": "2026-04-16T15:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044804034922746114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044804034922746114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10577,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我妈发现我女装了，把衣服抢过来说她也要穿😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 872,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 701
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "生产日期2008 | mtx🏳️‍⚧️| ENTP-T | 轻度双相 | 家长党 | hrt 3.29 | 究极大m😋|🇲🇾留学生/常驻南京 欢迎来吉隆坡和南京找我玩喵 | 补药攻击窝 窝外貌就是个阴暗臭顺男😭| 最最好的大姐姐@SakurakuiGekka | 最最好的天使宝宝@Rain_Antar1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 114,
+                "username": "SakurakuiGekka"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "Rain_Antar1121"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039755166614958080/PTyVGD3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 143,
+          "like_count": 943,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 668
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

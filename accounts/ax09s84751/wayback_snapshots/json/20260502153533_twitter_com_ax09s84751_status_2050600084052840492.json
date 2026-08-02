@@ -1,0 +1,566 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050600029015179264"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+          "id": "894606843783270401",
+          "name": "BLACKPINK"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+          "id": "894606843783270401",
+          "name": "BLACKPINK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+          "id": "894606843783270401",
+          "name": "BLACKPINK"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2050600084052840492",
+    "created_at": "2026-05-02T15:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050600084052840492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Aq4va9LVoK",
+          "end": 39,
+          "expanded_url": "https://x.com/ax09s84751/status/2050600084052840492/photo/1",
+          "media_key": "3_2050600029015179264",
+          "start": 16,
+          "url": "https://t.co/Aq4va9LVoK"
+        },
+        {
+          "display_url": "x.com/youy1qwq/statu…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/youy1qwq/status/2050379748262457611",
+          "start": 40,
+          "url": "https://t.co/DY8ZVow3UU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050600084052840492",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050379748262457611",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的想法NVIDIA FUCK https://t.co/Aq4va9LVoK https://t.co/DY8ZVow3UU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 339,
+        "media_key": "3_2050600029015179264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUx3KHbAAAar7I.jpg",
+        "width": 600
+      },
+      {
+        "height": 1498,
+        "media_key": "3_2050340534103797760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHRF2kPXcAAKYQu.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050600029015179264"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+              "id": "894606843783270401",
+              "name": "BLACKPINK"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+              "id": "894606843783270401",
+              "name": "BLACKPINK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+              "id": "894606843783270401",
+              "name": "BLACKPINK"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2050600084052840492",
+        "created_at": "2026-05-02T15:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050600084052840492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aq4va9LVoK",
+              "end": 39,
+              "expanded_url": "https://x.com/ax09s84751/status/2050600084052840492/photo/1",
+              "media_key": "3_2050600029015179264",
+              "start": 16,
+              "url": "https://t.co/Aq4va9LVoK"
+            },
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2050379748262457611",
+              "start": 40,
+              "url": "https://t.co/DY8ZVow3UU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050600084052840492",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050379748262457611",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的想法NVIDIA FUCK https://t.co/Aq4va9LVoK https://t.co/DY8ZVow3UU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050340534103797760"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+              "id": "894606843783270401",
+              "name": "BLACKPINK"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+              "id": "894606843783270401",
+              "name": "BLACKPINK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BLACKPINK (블랙핑크) - Jisoo (지수),\nJennie (제니),\nRose (로제),\nLisa (리사)",
+              "id": "894606843783270401",
+              "name": "BLACKPINK"
+            }
+          }
+        ],
+        "conversation_id": "2050379748262457611",
+        "created_at": "2026-05-02T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050379748262457611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dGuT2scFib",
+              "end": 38,
+              "expanded_url": "https://x.com/youy1qwq/status/2050379748262457611/photo/1",
+              "media_key": "3_2050340534103797760",
+              "start": 15,
+              "url": "https://t.co/dGuT2scFib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050379748262457611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 22026,
+          "like_count": 303,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我的智商blackpink： https://t.co/dGuT2scFib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 1447,
+          "like_count": 957,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1338
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11918,
+          "following_count": 1716,
+          "like_count": 3974,
+          "listed_count": 20,
+          "media_count": 1603,
+          "tweet_count": 2107
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

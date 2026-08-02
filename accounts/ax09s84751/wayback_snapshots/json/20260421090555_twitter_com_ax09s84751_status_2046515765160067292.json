@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2046513156156166465",
+    "created_at": "2026-04-21T09:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046515765160067292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1949348575378644992",
+          "start": 0,
+          "username": "Ace_Purin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046515765160067292",
+    "in_reply_to_user_id": "1949348575378644992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046515557697253699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ace_Purin 没o过，不知道😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2046513156156166465",
+        "created_at": "2026-04-21T09:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046515765160067292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046515765160067292",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046515557697253699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 没o过，不知道😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2046513156156166465",
+        "created_at": "2026-04-21T09:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046515557697253699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046515557697253699",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046513156156166465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 这个o不了啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 1195,
+          "like_count": 766,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 160,
+          "like_count": 1701,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1174
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

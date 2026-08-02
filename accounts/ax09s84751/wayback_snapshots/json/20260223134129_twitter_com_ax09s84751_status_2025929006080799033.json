@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2025929006080799033",
+    "created_at": "2026-02-23T13:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T14:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025929006080799033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1521553831775158273",
+          "start": 3,
+          "username": "ww123qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025929006080799033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025893776640868514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ww123qwq: n55总书记发表重要讲话精神:\n我办了精神残疾证警察就不能送我去监狱，送我去精卫就和回家一样，宾至如归了属于是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2025929006080799033",
+        "created_at": "2026-02-23T13:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025929006080799033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1521553831775158273",
+              "start": 3,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025929006080799033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025893776640868514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ww123qwq: n55总书记发表重要讲话精神:\n我办了精神残疾证警察就不能送我去监狱，送我去精卫就和回家一样，宾至如归了属于是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2025893776640868514",
+        "created_at": "2026-02-23T11:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025893776640868514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/bghtnya/status/2025861432126976397",
+              "start": 56,
+              "url": "https://t.co/6du0ZY1iuV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025893776640868514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 851,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025861432126976397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "n55总书记发表重要讲话精神:\n我办了精神残疾证警察就不能送我去监狱，送我去精卫就和回家一样，宾至如归了属于是 https://t.co/6du0ZY1iuV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直/不zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n理想：无证含糖mtf格式化💾 跨救助机构卸载❌\n允许跨人关/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSeL2"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 234,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/6aaNEtSeL2",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本，纸烟代购/电子烟代购",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 261,
+          "like_count": 41763,
+          "listed_count": 6,
+          "media_count": 625,
+          "tweet_count": 12415
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

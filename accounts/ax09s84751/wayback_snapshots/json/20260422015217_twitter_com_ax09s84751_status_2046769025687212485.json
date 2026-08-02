@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2046769025687212485",
+    "created_at": "2026-04-22T01:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T02:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046769025687212485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ashasw114514/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/ashasw114514/status/2046440129938727374",
+          "start": 7,
+          "url": "https://t.co/7RSvqLZu1D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046769025687212485",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046440129938727374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是好女孩嘛？ https://t.co/7RSvqLZu1D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2046440118547042304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZqcgAa0AAt26y.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2046769025687212485",
+        "created_at": "2026-04-22T01:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046769025687212485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2046440129938727374",
+              "start": 7,
+              "url": "https://t.co/7RSvqLZu1D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046769025687212485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046440129938727374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是好女孩嘛？ https://t.co/7RSvqLZu1D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046440118547042304"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2046440129938727374",
+        "created_at": "2026-04-21T04:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046440129938727374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OJkuw5gFqP",
+              "end": 29,
+              "expanded_url": "https://x.com/ashasw114514/status/2046440129938727374/photo/1",
+              "media_key": "3_2046440118547042304",
+              "start": 6,
+              "url": "https://t.co/OJkuw5gFqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046440129938727374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 18648,
+          "like_count": 245,
+          "quote_count": 2,
+          "reply_count": 43,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是在干嘛 https://t.co/OJkuw5gFqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 1198,
+          "like_count": 777,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 858
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "性少数友好  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  查成分互fo🚪52",
+        "id": "1981638054688501760",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2033963961281085452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 1856,
+          "like_count": 5389,
+          "listed_count": 5,
+          "media_count": 327,
+          "tweet_count": 3131
+        },
+        "username": "ashasw114514",
+        "verified": false
+      }
+    ]
+  }
+}

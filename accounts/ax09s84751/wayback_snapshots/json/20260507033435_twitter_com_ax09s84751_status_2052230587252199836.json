@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2051999297223446711",
+    "created_at": "2026-05-07T03:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T04:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052230587252199836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955980103688790017",
+          "start": 0,
+          "username": "aaarjkk"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2052230587252199836",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051999297223446711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkk 竟然有我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051999292127322112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoqe_aaIAA19EL.jpg",
+        "width": 2048
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2051999297223446711",
+        "created_at": "2026-05-07T03:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052230587252199836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2052230587252199836",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051999297223446711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 竟然有我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051999292127322112"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2051999297223446711",
+        "created_at": "2026-05-06T12:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051999297223446711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXri5k0wlp",
+              "end": 45,
+              "expanded_url": "https://x.com/aaarjkk/status/2051999297223446711/photo/1",
+              "media_key": "3_2051999292127322112",
+              "start": 22,
+              "url": "https://t.co/NXri5k0wlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051999297223446711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1160,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特圈喵！\n(&gt;^🩷^&lt;) https://t.co/NXri5k0wlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 1484,
+          "like_count": 1137,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1441
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaarjkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaarjkk",
+                "start": 0,
+                "url": "https://t.co/aQZ5iJRNF1"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "万达广场",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 701,
+          "like_count": 12516,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 1664
+        },
+        "url": "https://t.co/aQZ5iJRNF1",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

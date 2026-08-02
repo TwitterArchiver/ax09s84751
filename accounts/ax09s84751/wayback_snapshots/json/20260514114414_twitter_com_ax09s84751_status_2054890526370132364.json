@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2054855422339854379",
+    "created_at": "2026-05-14T11:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T12:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054890526370132364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2033549131797733376",
+          "start": 0,
+          "username": "nini_incrypto_"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2054890526370132364",
+    "in_reply_to_user_id": "2033549131797733376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054855422339854379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nini_incrypto_ 荒版还是军用科技？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2054855413758382080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRQHJnbUAAmeYq.jpg",
+        "width": 720
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2054855422339854379",
+        "created_at": "2026-05-14T11:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054890526370132364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2033549131797733376",
+              "start": 0,
+              "username": "nini_incrypto_"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2054890526370132364",
+        "in_reply_to_user_id": "2033549131797733376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054855422339854379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nini_incrypto_ 荒版还是军用科技？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054855413758382080"
+          ]
+        },
+        "author_id": "2033549131797733376",
+        "conversation_id": "2054855422339854379",
+        "created_at": "2026-05-14T09:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054855422339854379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FypQXbp8yd",
+              "end": 62,
+              "expanded_url": "https://x.com/nini_incrypto_/status/2054855422339854379/photo/1",
+              "media_key": "3_2054855413758382080",
+              "start": 39,
+              "url": "https://t.co/FypQXbp8yd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054855422339854379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7284,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "英伟达市值已超过除美国🇺🇸和中国🇨🇳之外的任何一个国家的 GDP 总量😱😱😱 https://t.co/FypQXbp8yd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtf🏳️‍⚧️？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1633,
+          "like_count": 1949,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 1697
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-16T14:26:02.000Z",
+        "description": "07大二在读｜crypto➕ai\nWeb3 创作者｜@CHAINISLE_ZH 生态成员\n网红孵化机构/商务合作\nvx+ninio2o（付费社群/付费增长咨询）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "CHAINISLE_ZH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nini.onchain",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nini.onchain",
+                "start": 0,
+                "url": "https://t.co/8nWRHsGEY6"
+              }
+            ]
+          }
+        },
+        "id": "2033549131797733376",
+        "name": "nini",
+        "pinned_tweet_id": "2052968848752775373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035875407359262720/qVUpg1XW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3754,
+          "following_count": 986,
+          "like_count": 12181,
+          "listed_count": 12,
+          "media_count": 91,
+          "tweet_count": 3356
+        },
+        "url": "https://t.co/8nWRHsGEY6",
+        "username": "nini_incrypto_",
+        "verified": true
+      }
+    ]
+  }
+}

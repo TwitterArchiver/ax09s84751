@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048405415944393163",
+    "created_at": "2026-04-26T14:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048406878825369993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048406878825369993",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048405415944393163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 我觉得环状线是一个温柔的姐姐\n喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048405415944393163",
+        "created_at": "2026-04-26T14:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048406878825369993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048406878825369993",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048405415944393163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 我觉得环状线是一个温柔的姐姐\n喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2048405415944393163",
+        "created_at": "2026-04-26T14:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048405415944393163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/l17407/status/…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/l17407/status/2048394151176417570",
+              "start": 130,
+              "url": "https://t.co/U3hSVBcrCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048405415944393163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "问：「環状線是什么性别？提前说明一下，我不是二次元爱好者，也不是什么圈内人，只在网上偶尔刷到过几个梗，具体背景完全不清楚。\n我问这个问题，真的没有故意冒犯或者强行融入二次元圈子的意思，感觉很有趣，就随手一问。我平时几乎不看动画、不刷相关社区，也不追任何角色， 对二次元的了解仅限于偶尔刷到热梗时的那点皮毛。\n所以如果我的问题显得很外行、很唐突，或者用词不对、踩到什么雷，请不要介意。如果这个问题问得不对，或者在圈子里属于很基础/很奇怪的问题，也麻烦哪位好心人简单指点一下，我纯属好奇，不会继续纠缠或者假装自己是老二次元。谢谢！」\n\n答：「環状線的性别是環状線，请多关照谢谢喵！」"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048394151176417570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "问：「環状線是什么性别？提前说明一下，我不是二次元爱好者，也不是什么圈内人，只在网上偶尔刷到过几个梗，具体背景完全不清楚。\n我问这个问题，真的没有故意冒犯或者强行融入二次元圈子的意思，感觉很有趣，就随手一问。我平时几乎不看动画、不刷相关社区，也不追任何角色， https://t.co/U3hSVBcrCG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 1340,
+          "like_count": 876,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 92,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 69,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 593,
+          "like_count": 15428,
+          "listed_count": 5,
+          "media_count": 917,
+          "tweet_count": 4871
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

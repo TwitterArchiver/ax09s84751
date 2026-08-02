@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2044428586850132250",
+    "created_at": "2026-04-15T14:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T15:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044428586850132250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sorsacerba/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Sorsacerba/status/2044299803769856302",
+          "start": 7,
+          "url": "https://t.co/n4kPvQDihq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044428586850132250",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044299803769856302",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神他妈新生代 https://t.co/n4kPvQDihq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2044428586850132250",
+        "created_at": "2026-04-15T14:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044428586850132250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sorsacerba/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Sorsacerba/status/2044299803769856302",
+              "start": 7,
+              "url": "https://t.co/n4kPvQDihq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044428586850132250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044299803769856302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神他妈新生代 https://t.co/n4kPvQDihq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597945043251187712",
+        "conversation_id": "2044299803769856302",
+        "created_at": "2026-04-15T06:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044299803769856302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044299803769856302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3568,
+          "like_count": 135,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "中国至少有50%新生代傻逼是做题做出来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 742,
+          "like_count": 534,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 628
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "恋人 @HacchiTheMaid                                          \n///\n农友：@ceciliahyve",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "HacchiTheMaid"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "ceciliahyve"
+              }
+            ]
+          }
+        },
+        "id": "1597945043251187712",
+        "location": "我家",
+        "name": "芋小妹",
+        "pinned_tweet_id": "2042267079391502416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005238125216534528/kDTOQwsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 692,
+          "like_count": 68071,
+          "listed_count": 6,
+          "media_count": 1550,
+          "tweet_count": 19780
+        },
+        "username": "Sorsacerba",
+        "verified": false
+      }
+    ]
+  }
+}

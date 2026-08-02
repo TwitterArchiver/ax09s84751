@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2038613227345748426",
+    "created_at": "2026-03-30T13:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038613794478588099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920438493647368192",
+          "start": 0,
+          "username": "fayoubaike003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038613794478588099",
+    "in_reply_to_user_id": "1920438493647368192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038613227345748426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fayoubaike003 ？？主播这么好看吗？😋😋😋😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7833,
+        "height": 854,
+        "media_key": "7_2038613206579789824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038613206579789824/pu/img/Ub9jsaTtH9N6aFB4.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038613206579789824/pu/vid/avc1/320x568/pHzCLiVzhnpeiLnK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038613206579789824/pu/vid/avc1/480x854/Hr3SFEQNwXQGQXxY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038613206579789824/pu/pl/hiyre6zJ7SV_C6c3.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2038613227345748426",
+        "created_at": "2026-03-30T13:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038613794478588099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920438493647368192",
+              "start": 0,
+              "username": "fayoubaike003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038613794478588099",
+        "in_reply_to_user_id": "1920438493647368192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038613227345748426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike003 ？？主播这么好看吗？😋😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038613206579789824"
+          ]
+        },
+        "author_id": "1920438493647368192",
+        "conversation_id": "2038613227345748426",
+        "created_at": "2026-03-30T13:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038613227345748426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VP0lR4mk8o",
+              "end": 23,
+              "expanded_url": "https://x.com/fayoubaike003/status/2038613227345748426/video/1",
+              "media_key": "7_2038613206579789824",
+              "start": 0,
+              "url": "https://t.co/VP0lR4mk8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038613227345748426",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VP0lR4mk8o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf/爱看od圈/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 650,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T11:20:03.000Z",
+        "description": "+86 137 3719 8964 | cosplayer | ﮩ٨ـﮩﮩ٨ـ♡ﮩﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ﮩ෴ﮩ_____ | 地雷系女孩 ‼️⚠️自傷⚠️‼️ ┊︎工口❌‼️备战中考‼️| 注意：本人不卖图包不援交不卖原味也不约 | 下体男滚开",
+        "id": "1920438493647368192",
+        "name": "法友百科",
+        "pinned_tweet_id": "2036728295350587636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036779484662423552/lyLmmGPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 105,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 61
+        },
+        "username": "fayoubaike003",
+        "verified": false
+      }
+    ]
+  }
+}

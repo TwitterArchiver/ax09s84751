@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047539307825758513",
+    "created_at": "2026-04-24T04:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047539307825758513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1730159888402395136",
+          "start": 3,
+          "username": "UnslothAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047539307825758513",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047523977548189868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UnslothAI: DeepSeek releases DeepSeek-V4. 🐋\n\n- DeepSeek-V4-Pro: 1.6T params\n- DeepSeek-V4-Flash: 284B params\n\nDeepSeek-V4-Pro rivals Cl…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3516,
+        "media_key": "3_2047523758332899328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpEAoya8AAWLhu.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047539307825758513",
+        "created_at": "2026-04-24T04:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047539307825758513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730159888402395136",
+              "start": 3,
+              "username": "UnslothAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047539307825758513",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047523977548189868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UnslothAI: DeepSeek releases DeepSeek-V4. 🐋\n\n- DeepSeek-V4-Pro: 1.6T params\n- DeepSeek-V4-Flash: 284B params\n\nDeepSeek-V4-Pro rivals Cl…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047523758332899328"
+          ]
+        },
+        "author_id": "1730159888402395136",
+        "conversation_id": "2047523977548189868",
+        "created_at": "2026-04-24T03:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047523977548189868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xtf6SC9SVD",
+              "end": 283,
+              "expanded_url": "https://x.com/UnslothAI/status/2047523977548189868/photo/1",
+              "media_key": "3_2047523758332899328",
+              "start": 260,
+              "url": "https://t.co/Xtf6SC9SVD"
+            },
+            {
+              "display_url": "x.com/deepseek_ai/st…",
+              "end": 307,
+              "expanded_url": "https://twitter.com/deepseek_ai/status/2047516922263285776",
+              "start": 284,
+              "url": "https://t.co/tINR8tDWrF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047523977548189868",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 12212,
+          "like_count": 262,
+          "quote_count": 7,
+          "reply_count": 11,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047516922263285776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "DeepSeek releases DeepSeek-V4. 🐋\n\n- DeepSeek-V4-Pro: 1.6T params\n- DeepSeek-V4-Flash: 284B params\n\nDeepSeek-V4-Pro rivals Claude-Opus-4.6-Max, GPT-5.4-xHigh and Gemini-3.1-Pro-High.\n\nThey support 1M context length, thinking and set new records for Codeforces. https://t.co/Xtf6SC9SVD https://t.co/tINR8tDWrF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 1237,
+          "like_count": 809,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 917
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-30T09:40:46.000Z",
+        "description": "Train and run models locally! 🦥 https://t.co/2kXqhhvLsb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/unslothai/unsl…",
+                "end": 55,
+                "expanded_url": "https://github.com/unslothai/unsloth",
+                "start": 32,
+                "url": "https://t.co/2kXqhhvLsb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unsloth.ai",
+                "end": 23,
+                "expanded_url": "http://unsloth.ai",
+                "start": 0,
+                "url": "https://t.co/xxBDOI9ApK"
+              }
+            ]
+          }
+        },
+        "id": "1730159888402395136",
+        "location": "San Francisco, CA",
+        "name": "Unsloth AI",
+        "pinned_tweet_id": "2033926272481718523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036313340616777728/OLALWB2__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62104,
+          "following_count": 477,
+          "like_count": 8999,
+          "listed_count": 755,
+          "media_count": 212,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/xxBDOI9ApK",
+        "username": "UnslothAI",
+        "verified": true
+      }
+    ]
+  }
+}

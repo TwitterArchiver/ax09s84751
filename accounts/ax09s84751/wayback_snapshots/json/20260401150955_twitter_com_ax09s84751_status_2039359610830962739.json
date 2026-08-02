@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2039359610830962739",
+    "created_at": "2026-04-01T15:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T16:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039359610830962739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Thymol_11/stat…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Thymol_11/status/2038961508378657175",
+          "start": 36,
+          "url": "https://t.co/fPu8Bg46Mb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039359610830962739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038961508378657175",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本质上都是追求NAc的多巴胺\n但系度更爽（）\n额。。。😋😋😨😨😨😨😨😨 https://t.co/fPu8Bg46Mb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2039359610830962739",
+        "created_at": "2026-04-01T15:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039359610830962739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Thymol_11/stat…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Thymol_11/status/2038961508378657175",
+              "start": 36,
+              "url": "https://t.co/fPu8Bg46Mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039359610830962739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038961508378657175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本质上都是追求NAc的多巴胺\n但系度更爽（）\n额。。。😋😋😨😨😨😨😨😨 https://t.co/fPu8Bg46Mb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2038961508378657175",
+        "created_at": "2026-03-31T12:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038961508378657175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038961508378657175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2411,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直很反感磕点小药片子就被说成系度这种，虽然od是系度的开端，但是od和系度就是不一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 661,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 398
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜边缘人｜LGBTQ+全友好｜｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 447,
+          "like_count": 4165,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      }
+    ]
+  }
+}

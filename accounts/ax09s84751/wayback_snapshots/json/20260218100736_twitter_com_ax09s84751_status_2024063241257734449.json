@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024063232487686144"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024063241257734449",
+    "created_at": "2026-02-18T10:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024063241257734449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gnC6ZCTO4y",
+          "end": 86,
+          "expanded_url": "https://x.com/ax09s84751/status/2024063241257734449/photo/1",
+          "media_key": "3_2024063232487686144",
+          "start": 63,
+          "url": "https://t.co/gnC6ZCTO4y"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2024063241257734449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "oder们 希望你们能听进去 我不od 我只是一个有中度抑郁中度焦虑并且正在康复的人罢了 但真看到你们自残 我是真... 唉 https://t.co/gnC6ZCTO4y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024063232487686144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbqyTdbgAAtpfS.jpg",
+        "width": 937
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024063232487686144"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024063241257734449",
+        "created_at": "2026-02-18T10:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024063241257734449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnC6ZCTO4y",
+              "end": 86,
+              "expanded_url": "https://x.com/ax09s84751/status/2024063241257734449/photo/1",
+              "media_key": "3_2024063232487686144",
+              "start": 63,
+              "url": "https://t.co/gnC6ZCTO4y"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2024063241257734449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "oder们 希望你们能听进去 我不od 我只是一个有中度抑郁中度焦虑并且正在康复的人罢了 但真看到你们自残 我是真... 唉 https://t.co/gnC6ZCTO4y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 76,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 29
+        },
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

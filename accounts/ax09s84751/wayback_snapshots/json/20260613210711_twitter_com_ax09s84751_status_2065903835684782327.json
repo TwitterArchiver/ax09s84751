@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2065903835684782327",
+    "created_at": "2026-06-13T21:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T22:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065903835684782327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2037909112055300096",
+          "start": 3,
+          "username": "QueerLawWatchCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065903835684782327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063720738645819407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QueerLawWatchCN: 俄罗斯以\"极端主义\"之名系统清洗LGBTQ支持网络，2026年已禁九个团体 🇷🇺🏳️‍🌈 \n——民间支持体系面临彻底瓦解\n\n2026年5月28日，人权观察（Human Rights Watch）发布报告，记录了2026年3月至5月间俄罗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2065903835684782327",
+        "created_at": "2026-06-13T21:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T22:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065903835684782327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2037909112055300096",
+              "start": 3,
+              "username": "QueerLawWatchCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065903835684782327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063720738645819407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QueerLawWatchCN: 俄罗斯以\"极端主义\"之名系统清洗LGBTQ支持网络，2026年已禁九个团体 🇷🇺🏳️‍🌈 \n——民间支持体系面临彻底瓦解\n\n2026年5月28日，人权观察（Human Rights Watch）发布报告，记录了2026年3月至5月间俄罗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037909112055300096",
+        "conversation_id": "2063720738645819407",
+        "created_at": "2026-06-07T20:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T21:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063720738645819407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063720738645819407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "washingtonblade.com/2026/05/29/nin…",
+                "end": 1377,
+                "expanded_url": "https://www.washingtonblade.com/2026/05/29/nine-russian-lgbtq-groups-deemed-extremist-banned/",
+                "start": 1354,
+                "url": "https://t.co/jsk7xScbhR"
+              },
+              {
+                "display_url": "amnesty.org/en/latest/news…",
+                "end": 1401,
+                "expanded_url": "https://www.amnesty.org/en/latest/news/2026/04/russia-russian-lgbt-network-is-labelled-extremist-in-escalating-crackdown-on-lgbti-rights/",
+                "start": 1378,
+                "url": "https://t.co/8LCl5XXlk1"
+              },
+              {
+                "display_url": "hrw.org/news/2026/05/2…",
+                "end": 1425,
+                "expanded_url": "https://www.hrw.org/news/2026/05/28/russia-lgbt-rights-groups-further-criminalized",
+                "start": 1402,
+                "url": "https://t.co/ffKPExJVOp"
+              }
+            ]
+          },
+          "text": "俄罗斯以\"极端主义\"之名系统清洗LGBTQ支持网络，2026年已禁九个团体 🇷🇺🏳️‍🌈 \n——民间支持体系面临彻底瓦解\n\n2026年5月28日，人权观察（Human Rights Watch）发布报告，记录了2026年3月至5月间俄罗斯以\"极端主义\"为由禁止九个LGBTQ组织的完整过程。被禁团体分布于七个俄罗斯地区，分别是：Coming Out（圣彼得堡）、LGBT资源中心（LGBT Resource Centre）、Parni Plus、莫斯科LGBT社区中心（Moscow Community Center for LGBT+ Initiatives）、Irida、俄罗斯LGBT网络（Russian LGBT Network）、Kallisto运动、T9 NSK，以及Centre T。这九个组织此前长期为俄罗斯LGBTQ群体提供法律援助、医疗支持与庇护转介服务，现已实质上被迫停止在境内的公开运营。\n\n此轮清洗的法律依据，源自2023年11月俄罗斯最高法院将所谓\"国际LGBT运动\"认定为\"极端主义组织\"的裁定。该裁定将一个分散、多元的全球人权运动人为虚构为一个可被取缔的组织，使任何与这一社群相关的人员都面临被检控和监禁的风险。裁定作出后数日，莫斯科、圣彼得堡等城市即发生针对同志酒吧、夜店及扮装表演场地的警方突击搜查。 \n\n俄罗斯律师Maks Olenichev解释，极端主义法律下的定罪分为两类：展示\"极端主义标志\"（如彩虹旗）属行政违法，初犯面临罚款或短期拘留，累犯可判最高四年有期徒刑；\"参与国际LGBT运动\"则构成刑事罪行，最高可判12年有期徒刑，且任何与LGBTQ相关的公开活动均可被认定为\"参与\"。人权观察截至2025年6月的统计显示，已有101人依\"LGBT极端主义\"罪名被定罪，刑罚从罚款到12年有期徒刑不等，此后新增案例仍在持续。 \n\n具体案例显示，2025年12月，性教育工作者兼LGBTQ活动人士Sasha Kazantseva被缺席判处九年有期徒刑；2026年3月，西伯利亚城市赤塔一名23岁女性企业主Tatiana Zorina，因联合经营一家曾举办LGBTQ活动的夜店而被判四年殖民地监禁，罪名为\"组织极端主义组织活动\"。国际LGBTQ联合会ILGA World（ILGA-Europe的全球母组织）也于2026年1月被俄当局列为\"不受欢迎组织\"，俄罗斯境内任何人与之接触最高面临六年监禁。 \n\n此次人权观察报告的发布时间，正值今年六月骄傲月开始、联合国人权理事会第62届会议举行前夕。人权观察欧洲与中亚部主任Hugh Williamson在声明中指出，俄罗斯当局正在加剧对那些为其系统性迫害的LGBTQ群体提供关键支持的人的刑事追究，并呼吁当局撤销所有基于这些\"捏造的极端主义指控\"作出的法院裁决和刑事定罪。 \n\n评论：自2023年最高法院裁定以来，俄罗斯的\"极端主义\"认定机制已从针对个人，升级为系统性清除整个公民社会的支持基础设施。各被禁组织目前多在境外流亡中继续运作，但对于无法出境的俄罗斯境内LGBTQ群体而言，其所能获得的法律援助和紧急庇护渠道正急剧收窄。国际倡导网络的持续记录和境外运营支持，将在可预见的未来成为唯一可能的保护路径。\n\n参考来源： https://t.co/jsk7xScbhR\nhttps://t.co/8LCl5XXlk1\nhttps://t.co/ffKPExJVOp"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4353,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "俄罗斯以\"极端主义\"之名系统清洗LGBTQ支持网络，2026年已禁九个团体 🇷🇺🏳️‍🌈 \n——民间支持体系面临彻底瓦解\n\n2026年5月28日，人权观察（Human Rights Watch）发布报告，记录了2026年3月至5月间俄罗斯以\"极端主义\"为由禁止九个LGBTQ组织的完整过程。被禁团体分布于七个俄罗斯地区，分别是：Coming"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echo42es"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2062097916781797730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065816996605005824/yyrl8vBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 1825,
+          "like_count": 2877,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 2556
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-28T15:08:39.000Z",
+        "description": "阿冬的环球酷儿法律观察\n关注全球LGBTQ运动经验和法律实践🏳️‍🌈🏳️‍⚧️，为中国的LGBTQ运动提供他山之玉。\ntracking queer law & policy globally | personal, not institutional",
+        "id": "2037909112055300096",
+        "name": "阿冬的酷儿法律观察",
+        "pinned_tweet_id": "2056409627969876339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360437906182144/TuWas3GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 972,
+          "like_count": 728,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 231
+        },
+        "username": "QueerLawWatchCN",
+        "verified": true
+      }
+    ]
+  }
+}

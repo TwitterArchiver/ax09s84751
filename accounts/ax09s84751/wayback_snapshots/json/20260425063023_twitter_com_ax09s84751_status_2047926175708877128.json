@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047915909428494731",
+    "created_at": "2026-04-25T06:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047926175708877128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751497892001685504",
+          "start": 0,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047926175708877128",
+    "in_reply_to_user_id": "1751497892001685504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047915909428494731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@45_206MHz 格林兰岛的红色转移到我脸上了，没错，是我红温了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 490,
+        "media_key": "3_2047915903703191552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuoqgIaEAA6xXf.jpg",
+        "width": 1025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047915909428494731",
+        "created_at": "2026-04-25T06:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047926175708877128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751497892001685504",
+              "start": 0,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047926175708877128",
+        "in_reply_to_user_id": "1751497892001685504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047915909428494731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@45_206MHz 格林兰岛的红色转移到我脸上了，没错，是我红温了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047915903703191552"
+          ]
+        },
+        "author_id": "1751497892001685504",
+        "conversation_id": "2047915909428494731",
+        "created_at": "2026-04-25T05:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047915909428494731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ki1yricwRV",
+              "end": 37,
+              "expanded_url": "https://x.com/45_206MHz/status/2047915909428494731/photo/1",
+              "media_key": "3_2047915903703191552",
+              "start": 14,
+              "url": "https://t.co/Ki1yricwRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047915909428494731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pov: 你正在玩瘟疫公司 https://t.co/Ki1yricwRV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 1310,
+          "like_count": 829,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 997
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun\n叫我 45 就好啦\nAMAB | gender apathetic\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "45_206io"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 116,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 93,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232,
+          "following_count": 499,
+          "like_count": 33648,
+          "listed_count": 1,
+          "media_count": 655,
+          "tweet_count": 3927
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

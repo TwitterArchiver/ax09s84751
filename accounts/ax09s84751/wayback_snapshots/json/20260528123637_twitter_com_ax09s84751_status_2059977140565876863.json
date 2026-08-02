@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2059977140565876863",
+    "created_at": "2026-05-28T12:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059977140565876863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jefersonnasa_/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Jefersonnasa_/status/2059696139876909315",
+          "start": 13,
+          "url": "https://t.co/f7FvmfUSla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059977140565876863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059696139876909315",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们这群xyn 不都是？ https://t.co/f7FvmfUSla"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2059977140565876863",
+        "created_at": "2026-05-28T12:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059977140565876863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jefersonnasa_/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Jefersonnasa_/status/2059696139876909315",
+              "start": 13,
+              "url": "https://t.co/f7FvmfUSla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059977140565876863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059696139876909315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们这群xyn 不都是？ https://t.co/f7FvmfUSla"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401745817602568195",
+        "conversation_id": "2059696139876909315",
+        "created_at": "2026-05-27T18:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059696139876909315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059696139876909315",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 16737,
+          "like_count": 230,
+          "quote_count": 16,
+          "reply_count": 151,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Pregunta seria: ¿Existe realmente gente que disfruta genuinamente de quedarse en casa todo el día, completamente sola, sin ver a nadie?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1834,
+          "like_count": 2649,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 2325
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-07T03:40:45.000Z",
+        "description": "Te ayudo en tu Desarrollo Personal\na traves del Estoicismo, la Reflexion, Bienestar y una Mentalidad adecuada.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/jefersonnasa",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/jefersonnasa",
+                "start": 0,
+                "url": "https://t.co/BIUSHm6L1U"
+              }
+            ]
+          }
+        },
+        "id": "1401745817602568195",
+        "location": "Colaboraciones/Publicidad. DM✉",
+        "name": "Jeferson Nasa",
+        "pinned_tweet_id": "2052783508209238339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615943687803994112/NktgfNps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204099,
+          "following_count": 169,
+          "like_count": 39989,
+          "listed_count": 682,
+          "media_count": 17126,
+          "tweet_count": 45825
+        },
+        "url": "https://t.co/BIUSHm6L1U",
+        "username": "Jefersonnasa_",
+        "verified": true
+      }
+    ]
+  }
+}

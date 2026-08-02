@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2056629292810097046",
+    "created_at": "2026-05-19T06:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T07:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056629292810097046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1960902268317999104",
+          "start": 3,
+          "username": "flyfishing05067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056629292810097046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056018848722403723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @flyfishing05067: 小雪的死对我的打击很大，因此淡推了一段时间\n讣告：莹雪（真名：孙铨鸿）于4.17吞亚硝酸钠，抢救后神志不清，直到5.6去世"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2056629292810097046",
+        "created_at": "2026-05-19T06:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056629292810097046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1960902268317999104",
+              "start": 3,
+              "username": "flyfishing05067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056629292810097046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056018848722403723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @flyfishing05067: 小雪的死对我的打击很大，因此淡推了一段时间\n讣告：莹雪（真名：孙铨鸿）于4.17吞亚硝酸钠，抢救后神志不清，直到5.6去世"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960902268317999104",
+        "conversation_id": "2056018848722403723",
+        "created_at": "2026-05-17T14:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056018848722403723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056018848722403723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小雪的死对我的打击很大，因此淡推了一段时间\n讣告：莹雪（真名：孙铨鸿）于4.17吞亚硝酸钠，抢救后神志不清，直到5.6去世"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1693,
+          "like_count": 2214,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 1996
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T03:08:48.000Z",
+        "description": "170cm/生产日期：2011.5.6/年龄党/坐标陕西/家长不管党/hrt2025.10.6/重度抑郁/梦想成为职业路亚钓手",
+        "id": "1960902268317999104",
+        "name": "困猫睡不醒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056016792099930112/7fzHfoJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 27,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 19
+        },
+        "username": "flyfishing05067",
+        "verified": false
+      }
+    ]
+  }
+}

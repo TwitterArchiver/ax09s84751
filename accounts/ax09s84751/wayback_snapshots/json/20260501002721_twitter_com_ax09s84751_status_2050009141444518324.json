@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2050009141444518324",
+    "created_at": "2026-05-01T00:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T01:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050009141444518324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1927618351733657600",
+          "start": 3,
+          "username": "BaiChuan202505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050009141444518324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049841485345165466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BaiChuan202505: 欢迎来到中推！\n迎接你的有：\n1.门槛女 \n2.药娘 \n3.福瑞 \n4.看黄楠 \n5.地雷女\n 6.od妹\n 7.福利姬 \n8.粉红\n 9.反贼\n 10.无脑批 \n11.负能批\n 12.海外成功人士\n 13.润哥 \n14.自杀者 \n15.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2050009141444518324",
+        "created_at": "2026-05-01T00:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T01:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050009141444518324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1927618351733657600",
+              "start": 3,
+              "username": "BaiChuan202505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050009141444518324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049841485345165466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BaiChuan202505: 欢迎来到中推！\n迎接你的有：\n1.门槛女 \n2.药娘 \n3.福瑞 \n4.看黄楠 \n5.地雷女\n 6.od妹\n 7.福利姬 \n8.粉红\n 9.反贼\n 10.无脑批 \n11.负能批\n 12.海外成功人士\n 13.润哥 \n14.自杀者 \n15.…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927618351733657600",
+        "conversation_id": "2049841485345165466",
+        "created_at": "2026-04-30T13:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049841485345165466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049841485345165466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 29760,
+          "like_count": 724,
+          "quote_count": 9,
+          "reply_count": 120,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来到中推！\n迎接你的有：\n1.门槛女 \n2.药娘 \n3.福瑞 \n4.看黄楠 \n5.地雷女\n 6.od妹\n 7.福利姬 \n8.粉红\n 9.反贼\n 10.无脑批 \n11.负能批\n 12.海外成功人士\n 13.润哥 \n14.自杀者 \n15.董学代师 \n16.ADHD者\n 17.药商 \n18.烟代\n 19.梗图bot \n20.往左\n 21.毛左\n ............ \n欢迎补充"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 1421,
+          "like_count": 939,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1281
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-28T06:50:22.000Z",
+        "description": "长的凶，说话刻薄，xp奇怪",
+        "id": "1927618351733657600",
+        "name": "不善言辞",
+        "pinned_tweet_id": "2021877312044900630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927665929279967232/LYNDsqkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 2620,
+          "like_count": 425,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 355
+        },
+        "username": "BaiChuan202505",
+        "verified": false
+      }
+    ]
+  }
+}

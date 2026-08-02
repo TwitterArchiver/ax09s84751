@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048047515388535200",
+    "created_at": "2026-04-25T15:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048062249173168345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048062249173168345",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048047515388535200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 ?"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6153,
+        "height": 960,
+        "media_key": "7_2048047498548379648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048047498548379648/pu/img/H1c299Q04keyf_v0.jpg",
+        "public_metrics": {
+          "view_count": 111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048047498548379648/pu/vid/avc1/320x564/orDL_eukJvyTrNLz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048047498548379648/pu/vid/avc1/480x846/l7we683BmcKpV8Hr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048047498548379648/pu/vid/avc1/544x960/WpDPAEy9lnyuAwyH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048047498548379648/pu/pl/CSo-ETo_3ReYiMjF.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048047515388535200",
+        "created_at": "2026-04-25T15:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048062249173168345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048062249173168345",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048047515388535200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 ?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048047498548379648"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2048047515388535200",
+        "created_at": "2026-04-25T14:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048047515388535200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wpU2XoqyD0",
+              "end": 23,
+              "expanded_url": "https://x.com/ashasw114514/status/2048047515388535200/video/1",
+              "media_key": "7_2048047498548379648",
+              "start": 0,
+              "url": "https://t.co/wpU2XoqyD0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048047515388535200",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wpU2XoqyD0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 1320,
+          "like_count": 837,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1015
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "性少数友好  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52 妈妈 @maopao_hfqy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "maopao_hfqy"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 2072,
+          "like_count": 5647,
+          "listed_count": 6,
+          "media_count": 353,
+          "tweet_count": 3306
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

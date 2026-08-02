@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2037399535270744304",
+    "created_at": "2026-03-27T05:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T06:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037399535270744304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qikai0904/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/qikai0904/status/1768327568347009055",
+          "start": 33,
+          "url": "https://t.co/f8NuWwMf1Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037399535270744304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1768327568347009055",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🙃 你妈的，到底谁说男生必须要坚强的？ 你妈的 确诊了，满意了吧 https://t.co/f8NuWwMf1Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1768327565343916034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GIpcjTrbAAICa-0.jpg",
+        "width": 737
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2037399535270744304",
+        "created_at": "2026-03-27T05:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037399535270744304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qikai0904/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/qikai0904/status/1768327568347009055",
+              "start": 33,
+              "url": "https://t.co/f8NuWwMf1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037399535270744304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1768327568347009055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🙃 你妈的，到底谁说男生必须要坚强的？ 你妈的 确诊了，满意了吧 https://t.co/f8NuWwMf1Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1768327565343916034"
+          ]
+        },
+        "author_id": "1767581608138399744",
+        "conversation_id": "1768327568347009055",
+        "created_at": "2024-03-14T17:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-14T18:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1768327568347009055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h7JqaP7vcb",
+              "end": 31,
+              "expanded_url": "https://x.com/qikai0904/status/1768327568347009055/photo/1",
+              "media_key": "3_1768327565343916034",
+              "start": 8,
+              "url": "https://t.co/h7JqaP7vcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1768327568347009055",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 820,
+          "impression_count": 222918,
+          "like_count": 3963,
+          "quote_count": 98,
+          "reply_count": 60,
+          "retweet_count": 705
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "gender. https://t.co/h7JqaP7vcb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 526,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T16:01:20.000Z",
+        "description": "I draw || fanart/NSFW/doodles account: (@moonoyster0904) ||  #dqiiys",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 61,
+                "tag": "dqiiys"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 40,
+                "username": "moonoyster0904"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/qikai",
+                "end": 23,
+                "expanded_url": "https://potofu.me/qikai",
+                "start": 0,
+                "url": "https://t.co/D7QWjxka3w"
+              }
+            ]
+          }
+        },
+        "id": "1767581608138399744",
+        "location": "moon (death day:6/22)",
+        "name": "月球牡蠣🥑",
+        "pinned_tweet_id": "2026289858222915789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976726031806693376/jGYc9hPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5255,
+          "following_count": 250,
+          "like_count": 13684,
+          "listed_count": 29,
+          "media_count": 265,
+          "tweet_count": 5763
+        },
+        "url": "https://t.co/D7QWjxka3w",
+        "username": "qikai0904",
+        "verified": false
+      }
+    ]
+  }
+}

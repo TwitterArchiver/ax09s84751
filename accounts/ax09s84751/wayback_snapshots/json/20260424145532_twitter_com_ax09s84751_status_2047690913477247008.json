@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047619962538545288",
+    "created_at": "2026-04-24T14:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047690913477247008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeikuhakushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047690913477247008",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047619962538545288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeikuhakushi 可以说是另一种悲哀吧 反正嗯，都有难处"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_2047619959946391552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqbgTuasAAERn-.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047619962538545288",
+        "created_at": "2026-04-24T14:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047690913477247008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047690913477247008",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047619962538545288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 可以说是另一种悲哀吧 反正嗯，都有难处"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047619959946391552"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2047619962538545288",
+        "created_at": "2026-04-24T10:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047619962538545288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nYeYbFgDP",
+              "end": 42,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2047619962538545288/photo/1",
+              "media_key": "3_2047619959946391552",
+              "start": 19,
+              "url": "https://t.co/4nYeYbFgDP"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2047619962538545288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "當你覺得壓力好大時 不妨看看它的家長 https://t.co/4nYeYbFgDP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 1291,
+          "like_count": 822,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2025",
+                "start": 0,
+                "url": "https://t.co/88dwT7z2iF"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 370,
+          "like_count": 11281,
+          "listed_count": 4,
+          "media_count": 655,
+          "tweet_count": 3271
+        },
+        "url": "https://t.co/88dwT7z2iF",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

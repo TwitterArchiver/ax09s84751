@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2054383111040114958",
+    "created_at": "2026-05-13T02:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054383111040114958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1671372665402060801",
+          "start": 3,
+          "username": "HomerArcinoma"
+        },
+        {
+          "end": 30,
+          "id": "1491630608832876547",
+          "start": 19,
+          "username": "hakanopesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054383111040114958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054258285298209004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HomerArcinoma: @hakanopesu 是睾酮，是打针，是涂胶，是睾酮浓度，是红细胞压积，是多毛，是痤疮，是易性症，是父母知情同意，是“我来给你开个九宫格”。是没喉结，是没体毛，是肩窄，是脂肪，是脚太小买不到男鞋，是假胡子，是女声，是“美女你好”，是男厕门…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2054383111040114958",
+        "created_at": "2026-05-13T02:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054383111040114958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1671372665402060801",
+              "start": 3,
+              "username": "HomerArcinoma"
+            },
+            {
+              "end": 30,
+              "id": "1491630608832876547",
+              "start": 19,
+              "username": "hakanopesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054383111040114958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054258285298209004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HomerArcinoma: @hakanopesu 是睾酮，是打针，是涂胶，是睾酮浓度，是红细胞压积，是多毛，是痤疮，是易性症，是父母知情同意，是“我来给你开个九宫格”。是没喉结，是没体毛，是肩窄，是脂肪，是脚太小买不到男鞋，是假胡子，是女声，是“美女你好”，是男厕门…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671372665402060801",
+        "conversation_id": "2054206543428735427",
+        "created_at": "2026-05-12T17:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T18:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054258285298209004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1491630608832876547",
+              "start": 0,
+              "username": "hakanopesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054258285298209004",
+        "in_reply_to_user_id": "1491630608832876547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "是睾酮，是打针，是涂胶，是睾酮浓度，是红细胞压积，是多毛，是痤疮，是易性症，是父母知情同意，是“我来给你开个九宫格”。是没喉结，是没体毛，是肩窄，是脂肪，是脚太小买不到男鞋，是假胡子，是女声，是“美女你好”，是男厕门口，是女厕隔间，是商场镜子，是“羡慕 pass”。是C杯绑胸，是胸闷，是痛经，是想缝上，是后悔，是没钱手术，是没人陪护，是没有退路，是卫生巾，是炸柜，是药被扔，是客厅审判，是“相亲相爱一家人”，是“丢人现眼”，是身份证被收走，是生活费被断，是报警没用，是县中，是二本宿舍，是床帘，是查寝，是辅导员，是女生宿舍，是体检，是政审，是档案，是三千工资，是合租，是流水线，是夜班，是花呗，是借呗，是房租押一付三，是医保断缴，是SRS，是购物车里的西装，是术后图，是推特FTM，是群友晒T浓度，是晒腹肌，是退群，是晚安，是月经压不住，是“你没救了”，是“先切胸了再说”。是青春期错过，是如果早点知道，是如果家里有钱，是如果不是中国女孩，是如果不是我，是抑郁症，是焦虑症，是舍曲林，是文拉法辛，是劳拉西泮，是右美沙芬，是普瑞巴林，是金刚烷胺，是讣告，是晚安，是 RIP，是想被爱，是不敢被爱，是妇道，是嫁人，是“网上把你带坏了”，是“激素吃坏脑子”，是母亲哭，是父亲骂，是护照梦，是外网兄弟，是国外诊所，是别人改证，是别人医保，是别人青春期阻断，是别人上学穿男装，是别人父母支持，是别人街上牵手，是别人活得像人。是身份证，是猪肝红，是不敢回家，是不敢出门，是不敢恋爱，是不敢体检，是不敢停药，是不敢继续，是活不成男人，是死不成女人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 629,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054206543428735427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakanopesu 是睾酮，是打针，是涂胶，是睾酮浓度，是红细胞压积，是多毛，是痤疮，是易性症，是父母知情同意，是“我来给你开个九宫格”。是没喉结，是没体毛，是肩窄，是脂肪，是脚太小买不到男鞋，是假胡子，是女声，是“美女你好”，是男厕门口，是女厕隔间，是商场镜子，是“羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtf🏳️‍⚧️？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 1599,
+          "like_count": 1740,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 1656
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-21T04:21:34.000Z",
+        "description": "I'm Homer, a Homo sapiens who is obsessed with BIOLOGY, paleontology, philosophy, psychology and psychoactive substance EXPERIMENT.\nLong Live FREEDOM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/homerarcinoma",
+                "end": 23,
+                "expanded_url": "https://t.me/homerarcinoma",
+                "start": 0,
+                "url": "https://t.co/XbJ5nuJV6A"
+              }
+            ]
+          }
+        },
+        "id": "1671372665402060801",
+        "location": "Earth",
+        "name": "Homer Arcinoma",
+        "pinned_tweet_id": "2038192962186944535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004355049632284672/Aopr2_bC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 148,
+          "like_count": 11346,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1206
+        },
+        "url": "https://t.co/XbJ5nuJV6A",
+        "username": "HomerArcinoma",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-10T04:30:46.000Z",
+        "description": "想成为男娘 | 不学无术 | 并非Developer | 实则 Engineer | HRT since 24.02.23 | 含糖顺男 | 如果你想 block 我的话请记住道不同不相为谋 | 星乃一歌&宵崎奏 推し！",
+        "id": "1491630608832876547",
+        "name": "Haskina🍥",
+        "pinned_tweet_id": "1790356918353158650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770327321951793152/et0NXeqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 440,
+          "like_count": 2839,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1286
+        },
+        "username": "hakanopesu",
+        "verified": true
+      }
+    ]
+  }
+}

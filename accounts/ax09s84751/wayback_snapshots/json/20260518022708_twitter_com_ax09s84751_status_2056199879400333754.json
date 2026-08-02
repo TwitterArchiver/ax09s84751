@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2056199879400333754",
+    "created_at": "2026-05-18T02:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T03:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056199879400333754"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/bghtnya/status/2056024715836424364",
+          "start": 7,
+          "url": "https://t.co/khsqSfrI18"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2056199879400333754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056024715836424364",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎呀我趣😋😋 https://t.co/khsqSfrI18"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_2056024694751698944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIh3kQwbIAAsJ7n.jpg",
+        "width": 1117
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2056199879400333754",
+        "created_at": "2026-05-18T02:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056199879400333754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/bghtnya/status/2056024715836424364",
+              "start": 7,
+              "url": "https://t.co/khsqSfrI18"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2056199879400333754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056024715836424364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呀我趣😋😋 https://t.co/khsqSfrI18"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056024694751698944"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2056024715836424364",
+        "created_at": "2026-05-17T14:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056024715836424364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UqFxYeAtVZ",
+              "end": 30,
+              "expanded_url": "https://x.com/bghtnya/status/2056024715836424364/photo/1",
+              "media_key": "3_2056024694751698944",
+              "start": 7,
+              "url": "https://t.co/UqFxYeAtVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056024715836424364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 408,
+          "impression_count": 30310,
+          "like_count": 2212,
+          "quote_count": 9,
+          "reply_count": 11,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "戊酸雌二醇娘 https://t.co/UqFxYeAtVZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1678,
+          "like_count": 2154,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 1913
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2053034864085971095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9439,
+          "following_count": 2294,
+          "like_count": 178221,
+          "listed_count": 21,
+          "media_count": 3914,
+          "tweet_count": 47890
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

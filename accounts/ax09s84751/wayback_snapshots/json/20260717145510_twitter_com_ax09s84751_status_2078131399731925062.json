@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2078131399731925062",
+    "created_at": "2026-07-17T14:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078131399731925062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wlxlmjj/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/wlxlmjj/status/2077818551579361550",
+          "start": 9,
+          "url": "https://t.co/vVXObc8eaW"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2078131399731925062",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077818551579361550",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不管了，321睡 https://t.co/vVXObc8eaW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c00e5392b3fa46fb].",
+      "parameter": "geo.place_id",
+      "resource_id": "c00e5392b3fa46fb",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c00e5392b3fa46fb"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2078131399731925062",
+        "created_at": "2026-07-17T14:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078131399731925062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wlxlmjj/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/wlxlmjj/status/2077818551579361550",
+              "start": 9,
+              "url": "https://t.co/vVXObc8eaW"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2078131399731925062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077818551579361550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不管了，321睡 https://t.co/vVXObc8eaW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894997343088656384",
+        "conversation_id": "2077818551579361550",
+        "created_at": "2026-07-16T18:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077818551579361550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077818551579361550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 282,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一天净给我整幺蛾子，不管了321睡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2075833932537589993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 1797,
+          "like_count": 3184,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 2732
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-27T06:26:05.000Z",
+        "description": "自由每一天|生产日期05.8.22|我磕我割我抽|DID多重人格ASD解离抑郁焦虑C-PTSD患者|喜欢互fo刷推|休学中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wlxlmjj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wlxlmjj",
+                "start": 0,
+                "url": "https://t.co/7yxUybcz7c"
+              }
+            ]
+          }
+        },
+        "id": "1894997343088656384",
+        "location": "互联网",
+        "name": "木当歹水",
+        "pinned_tweet_id": "2076705960786305412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017286837015064576/Hj-jP5iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 307,
+          "like_count": 9169,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 926
+        },
+        "url": "https://t.co/7yxUybcz7c",
+        "username": "wlxlmjj",
+        "verified": true
+      }
+    ]
+  }
+}

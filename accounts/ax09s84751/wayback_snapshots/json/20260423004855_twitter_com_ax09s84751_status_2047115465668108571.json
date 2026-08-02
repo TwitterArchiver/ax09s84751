@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2046870989565469054",
+    "created_at": "2026-04-23T00:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T01:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047115465668108571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047115465668108571",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046870989565469054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2046870989565469054",
+        "created_at": "2026-04-23T00:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047115465668108571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047115465668108571",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046870989565469054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472219833261772801",
+        "conversation_id": "2046870989565469054",
+        "created_at": "2026-04-22T08:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046870989565469054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046870989565469054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3961,
+          "like_count": 103,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "把感冒止咳药搞成处方药 搞成精二再搞成网络禁售 魔幻的2026"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 1222,
+          "like_count": 799,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 894
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "🚪",
+        "name": "旖旎",
+        "pinned_tweet_id": "2045469984315658626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 446,
+          "like_count": 11190,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1687
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

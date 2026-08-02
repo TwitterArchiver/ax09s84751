@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023569720092549120"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2023569729403974024",
+    "created_at": "2026-02-17T01:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T02:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023569729403974024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TkMnzuasFf",
+          "end": 166,
+          "expanded_url": "https://x.com/ax09s84751/status/2023569729403974024/photo/1",
+          "media_key": "3_2023569720092549120",
+          "start": 143,
+          "url": "https://t.co/TkMnzuasFf"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2023569729403974024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "㊗您全家幸福快乐喵，身体健康喵，必须发财💰喵\n初一㊗您头发变长喵\n初二㊗您性格变受喵\n初三㊗您耳朵变软喵\n初四㊗您身高变矮喵\n初五㊗您性情大变喵\n初六㊗您身型变小喵\n初七㊗您脚丫变小喵\n初八㊗您肤色变白喵\n初九㊗您脸型可爱喵\n初十㊗您变雌小鬼喵\n十一㊗您瞳孔变色喵\n十二㊗您头发变白喵 https://t.co/TkMnzuasFf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1259,
+        "media_key": "3_2023569720092549120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBUp8GhaYAAi9NB.jpg",
+        "width": 1259
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023569720092549120"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2023569729403974024",
+        "created_at": "2026-02-17T01:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T02:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023569729403974024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TkMnzuasFf",
+              "end": 166,
+              "expanded_url": "https://x.com/ax09s84751/status/2023569729403974024/photo/1",
+              "media_key": "3_2023569720092549120",
+              "start": 143,
+              "url": "https://t.co/TkMnzuasFf"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2023569729403974024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "㊗您全家幸福快乐喵，身体健康喵，必须发财💰喵\n初一㊗您头发变长喵\n初二㊗您性格变受喵\n初三㊗您耳朵变软喵\n初四㊗您身高变矮喵\n初五㊗您性情大变喵\n初六㊗您身型变小喵\n初七㊗您脚丫变小喵\n初八㊗您肤色变白喵\n初九㊗您脸型可爱喵\n初十㊗您变雌小鬼喵\n十一㊗您瞳孔变色喵\n十二㊗您头发变白喵 https://t.co/TkMnzuasFf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 68,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 23
+        },
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

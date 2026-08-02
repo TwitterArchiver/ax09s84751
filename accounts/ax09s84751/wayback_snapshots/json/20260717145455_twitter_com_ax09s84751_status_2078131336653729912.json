@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2078131336653729912",
+    "created_at": "2026-07-17T14:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078131336653729912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929798380240465921",
+          "start": 3,
+          "username": "AacerF59616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078131336653729912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077826949339394328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AacerF59616: 话说既然mtf里有雌爆的，那ftm里有雄爆的吗，有点好奇喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2078131336653729912",
+        "created_at": "2026-07-17T14:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078131336653729912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929798380240465921",
+              "start": 3,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078131336653729912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077826949339394328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AacerF59616: 话说既然mtf里有雌爆的，那ftm里有雄爆的吗，有点好奇喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2077826949339394328",
+        "created_at": "2026-07-16T18:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077826949339394328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077826949339394328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8863,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "话说既然mtf里有雌爆的，那ftm里有雄爆的吗，有点好奇喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2075833932537589993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 1797,
+          "like_count": 3184,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 2731
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 492,
+          "like_count": 3269,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1005
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

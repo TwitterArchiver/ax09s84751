@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025114533786968064"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2025114546973933840",
+    "created_at": "2026-02-21T07:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025114546973933840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rkUlNdT4QU",
+          "end": 162,
+          "expanded_url": "https://x.com/ax09s84751/status/2025114546973933840/photo/1",
+          "media_key": "3_2025114533786968064",
+          "start": 139,
+          "url": "https://t.co/rkUlNdT4QU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025114546973933840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "舍曲林就是左洛复，文拉法辛就是怡诺思，氟西汀就是百优解，米氮平就是瑞美隆，曲唑酮就是曲特恪，度洛西汀就是欣百达，艾司西酞普兰就是来士普，伏硫西汀就是心达悦，美利曲辛就是黛力新，坦度螺酮就是希德，富马酸喹硫平就是思瑞康，阿戈美拉汀就是维度新，阿立哌唑就是安律凡，唑吡坦就是思诺思 https://t.co/rkUlNdT4QU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2025114533786968064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqm8F_aYAAVq85.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025114533786968064"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2025114546973933840",
+        "created_at": "2026-02-21T07:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025114546973933840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rkUlNdT4QU",
+              "end": 162,
+              "expanded_url": "https://x.com/ax09s84751/status/2025114546973933840/photo/1",
+              "media_key": "3_2025114533786968064",
+              "start": 139,
+              "url": "https://t.co/rkUlNdT4QU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025114546973933840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舍曲林就是左洛复，文拉法辛就是怡诺思，氟西汀就是百优解，米氮平就是瑞美隆，曲唑酮就是曲特恪，度洛西汀就是欣百达，艾司西酞普兰就是来士普，伏硫西汀就是心达悦，美利曲辛就是黛力新，坦度螺酮就是希德，富马酸喹硫平就是思瑞康，阿戈美拉汀就是维度新，阿立哌唑就是安律凡，唑吡坦就是思诺思 https://t.co/rkUlNdT4QU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 172,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 112
+        },
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

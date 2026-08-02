@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042851756997214283",
+    "created_at": "2026-04-11T06:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042851756997214283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MianXue525/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/MianXue525/status/2042601764541862208",
+          "start": 6,
+          "url": "https://t.co/0SqxwMrfEy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042851756997214283",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042601764541862208",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神人群体。 https://t.co/0SqxwMrfEy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1397,
+        "media_key": "3_2042601754966265856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjHeVZakAAn0VV.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042851756997214283",
+        "created_at": "2026-04-11T06:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042851756997214283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MianXue525/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/MianXue525/status/2042601764541862208",
+              "start": 6,
+              "url": "https://t.co/0SqxwMrfEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042851756997214283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042601764541862208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神人群体。 https://t.co/0SqxwMrfEy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042601754966265856"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2042601764541862208",
+        "created_at": "2026-04-10T13:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042601764541862208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Enn8l8hU11",
+              "end": 35,
+              "expanded_url": "https://x.com/MianXue525/status/2042601764541862208/photo/1",
+              "media_key": "3_2042601754966265856",
+              "start": 12,
+              "url": "https://t.co/Enn8l8hU11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042601764541862208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1217,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这到底是个什么恐怖群体 https://t.co/Enn8l8hU11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 680,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡ ❄️眠雪 09休学（回fo餐劵.od.跨妹.女孩子）❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 342,
+          "like_count": 601,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 805
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077700834071080960",
+        "3_2077700846897250305"
+      ],
+      "media_source_tweet_id": [
+        "2077750096070909999",
+        "2077750096070909999"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2078133443536511141",
+    "created_at": "2026-07-17T15:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078133443536511141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3svKxyEVRd",
+          "end": 138,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2077750096070909999/photo/1",
+          "media_key": "3_2077700834071080960",
+          "start": 115,
+          "url": "https://t.co/3svKxyEVRd"
+        },
+        {
+          "display_url": "pic.x.com/3svKxyEVRd",
+          "end": 138,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2077750096070909999/photo/1",
+          "media_key": "3_2077700846897250305",
+          "start": 115,
+          "url": "https://t.co/3svKxyEVRd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078133443536511141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077750096070909999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: “习近平连一把剪刀都怕？”\n近日，一位网友下单一把厨房剪刀后，却被客服申请退款。\n\n客服发来一张极兔速递内部通知，因2026年世界人工智能大会召开，上海各区停发刀具、剪刀、各类钳子等快递。 https://t.co/3svKxyEVRd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 345,
+        "media_key": "3_2077700834071080960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNV55oRW8AAyaxW.jpg",
+        "width": 491
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2077700846897250305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNV56YDWwAE8qSE.jpg",
+        "width": 727
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077700834071080960",
+            "3_2077700846897250305"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2077750096070909999",
+        "created_at": "2026-07-16T13:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077750096070909999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3svKxyEVRd",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2077750096070909999/photo/1",
+              "media_key": "3_2077700834071080960",
+              "start": 95,
+              "url": "https://t.co/3svKxyEVRd"
+            },
+            {
+              "display_url": "pic.x.com/3svKxyEVRd",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2077750096070909999/photo/1",
+              "media_key": "3_2077700846897250305",
+              "start": 95,
+              "url": "https://t.co/3svKxyEVRd"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2076652869030457699",
+              "start": 119,
+              "url": "https://t.co/qaSM0byx6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077750096070909999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 474647,
+          "like_count": 1623,
+          "quote_count": 5,
+          "reply_count": 303,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076652869030457699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“习近平连一把剪刀都怕？”\n近日，一位网友下单一把厨房剪刀后，却被客服申请退款。\n\n客服发来一张极兔速递内部通知，因2026年世界人工智能大会召开，上海各区停发刀具、剪刀、各类钳子等快递。 https://t.co/3svKxyEVRd https://t.co/qaSM0byx6Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077700834071080960",
+            "3_2077700846897250305"
+          ],
+          "media_source_tweet_id": [
+            "2077750096070909999",
+            "2077750096070909999"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2078133443536511141",
+        "created_at": "2026-07-17T15:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078133443536511141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3svKxyEVRd",
+              "end": 138,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2077750096070909999/photo/1",
+              "media_key": "3_2077700834071080960",
+              "start": 115,
+              "url": "https://t.co/3svKxyEVRd"
+            },
+            {
+              "display_url": "pic.x.com/3svKxyEVRd",
+              "end": 138,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2077750096070909999/photo/1",
+              "media_key": "3_2077700846897250305",
+              "start": 115,
+              "url": "https://t.co/3svKxyEVRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078133443536511141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077750096070909999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: “习近平连一把剪刀都怕？”\n近日，一位网友下单一把厨房剪刀后，却被客服申请退款。\n\n客服发来一张极兔速递内部通知，因2026年世界人工智能大会召开，上海各区停发刀具、剪刀、各类钳子等快递。 https://t.co/3svKxyEVRd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2075833932537589993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 1797,
+          "like_count": 3198,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 2740
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242368,
+          "following_count": 1078,
+          "like_count": 9798,
+          "listed_count": 8826,
+          "media_count": 50566,
+          "tweet_count": 57783
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

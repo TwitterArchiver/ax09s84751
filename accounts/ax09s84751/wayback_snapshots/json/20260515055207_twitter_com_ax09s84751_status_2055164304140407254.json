@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055157366619001185",
+    "created_at": "2026-05-15T05:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055164304140407254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944397601354465280",
+          "start": 0,
+          "username": "AzusaBA0713"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055164304140407254",
+    "in_reply_to_user_id": "1944397601354465280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055157366619001185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzusaBA0713 情报到底是啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_2055157362437341184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIViu4GbQAAv_dh.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055157363850760192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIViu9XaUAA9349.jpg",
+        "width": 1536
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055157366619001185",
+        "created_at": "2026-05-15T05:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055164304140407254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944397601354465280",
+              "start": 0,
+              "username": "AzusaBA0713"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055164304140407254",
+        "in_reply_to_user_id": "1944397601354465280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055157366619001185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzusaBA0713 情报到底是啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055157362437341184",
+            "3_2055157363850760192"
+          ]
+        },
+        "author_id": "1944397601354465280",
+        "conversation_id": "2055157366619001185",
+        "created_at": "2026-05-15T05:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055157366619001185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5x2zyhmXwm",
+              "end": 64,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2055157366619001185/photo/1",
+              "media_key": "3_2055157362437341184",
+              "start": 41,
+              "url": "https://t.co/5x2zyhmXwm"
+            },
+            {
+              "display_url": "pic.x.com/5x2zyhmXwm",
+              "end": 64,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2055157366619001185/photo/1",
+              "media_key": "3_2055157363850760192",
+              "start": 41,
+              "url": "https://t.co/5x2zyhmXwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055157366619001185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以正常发货，但淘宝上已经全部下架了，之后可能就是各个平台下架了，以后靠泰补了~ https://t.co/5x2zyhmXwm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtf🏳️‍⚧️？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 1637,
+          "like_count": 2010,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 1714
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-13T14:05:32.000Z",
+        "description": "一只喜欢吃糖🍥の小孩纸˃ ˄ ˂̥/已炸柜/家长不管/INFP-T/生产日期2010/7/13/1.65m/mtf/hrt2025.5.1/中度抑郁/需陪伴/是只小烧0喵~/同类交友/纯馋人不卖💦\n最爱の笨宝宝:@XueFu13456\n供🍬の猫猫:@AksharJethwa\n呆呆瓜星羽:@seiuki070327",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 106,
+                "username": "XueFu13456"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "AksharJethwa"
+              },
+              {
+                "end": 157,
+                "start": 144,
+                "username": "seiuki070327"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AzusaBA0713",
+                "end": 23,
+                "expanded_url": "http://t.me/AzusaBA0713",
+                "start": 0,
+                "url": "https://t.co/bbrOTQXtfz"
+              }
+            ]
+          }
+        },
+        "id": "1944397601354465280",
+        "location": "坐在守月的大金金上~",
+        "name": "木辛伊(梓星星)🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2001140478084001950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077580628578305/QarbvODq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 1455,
+          "like_count": 2104,
+          "listed_count": 5,
+          "media_count": 207,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/bbrOTQXtfz",
+        "username": "AzusaBA0713",
+        "verified": false
+      }
+    ]
+  }
+}

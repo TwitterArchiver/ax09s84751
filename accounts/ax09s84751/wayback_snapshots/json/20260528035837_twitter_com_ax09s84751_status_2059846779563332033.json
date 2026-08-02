@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2059846779563332033",
+    "created_at": "2026-05-28T03:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059846779563332033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022153081031733252",
+          "start": 3,
+          "username": "ax09s84751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059846779563332033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025395782967525455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax09s84751: 木桶饭这圈子烂透了，自杀 od 亚硝酸钠 碳酸钡 自残 援交 黄推成了流行文化，一群小孩往里跳还以为挺酷，你他妈有病就吃药，ssri是救命的不是摆设，非要去碰那些杀人配方把自己搞死才爽是吧，越来越低龄化十四五岁就学着买化学品，你们是想集体团灭吗，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2025395760410546176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBumtozaUAARgKb.jpg",
+        "width": 719
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2025395758879703042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBumtjGbgAI6WBl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2025395759156531200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBumtkIbkAATU_g.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1074,
+        "media_key": "3_2025395759991128064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBumtnPagAAv2ZJ.jpg",
+        "width": 1614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2059846779563332033",
+        "created_at": "2026-05-28T03:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059846779563332033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022153081031733252",
+              "start": 3,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059846779563332033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025395782967525455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax09s84751: 木桶饭这圈子烂透了，自杀 od 亚硝酸钠 碳酸钡 自残 援交 黄推成了流行文化，一群小孩往里跳还以为挺酷，你他妈有病就吃药，ssri是救命的不是摆设，非要去碰那些杀人配方把自己搞死才爽是吧，越来越低龄化十四五岁就学着买化学品，你们是想集体团灭吗，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025395760410546176",
+            "3_2025395758879703042",
+            "3_2025395759156531200",
+            "3_2025395759991128064"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025395782967525455",
+        "created_at": "2026-02-22T02:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025395782967525455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQTYNYjzMZ",
+              "end": 151,
+              "expanded_url": "https://x.com/ax09s84751/status/2025395782967525455/photo/1",
+              "media_key": "3_2025395760410546176",
+              "start": 128,
+              "url": "https://t.co/NQTYNYjzMZ"
+            },
+            {
+              "display_url": "pic.x.com/NQTYNYjzMZ",
+              "end": 151,
+              "expanded_url": "https://x.com/ax09s84751/status/2025395782967525455/photo/1",
+              "media_key": "3_2025395758879703042",
+              "start": 128,
+              "url": "https://t.co/NQTYNYjzMZ"
+            },
+            {
+              "display_url": "pic.x.com/NQTYNYjzMZ",
+              "end": 151,
+              "expanded_url": "https://x.com/ax09s84751/status/2025395782967525455/photo/1",
+              "media_key": "3_2025395759156531200",
+              "start": 128,
+              "url": "https://t.co/NQTYNYjzMZ"
+            },
+            {
+              "display_url": "pic.x.com/NQTYNYjzMZ",
+              "end": 151,
+              "expanded_url": "https://x.com/ax09s84751/status/2025395782967525455/photo/1",
+              "media_key": "3_2025395759991128064",
+              "start": 128,
+              "url": "https://t.co/NQTYNYjzMZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025395782967525455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1442,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "木桶饭这圈子烂透了，自杀 od 亚硝酸钠 碳酸钡 自残 援交 黄推成了流行文化，一群小孩往里跳还以为挺酷，你他妈有病就吃药，ssri是救命的不是摆设，非要去碰那些杀人配方把自己搞死才爽是吧，越来越低龄化十四五岁就学着买化学品，你们是想集体团灭吗，恶心透了 https://t.co/NQTYNYjzMZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 1833,
+          "like_count": 2620,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 2280
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

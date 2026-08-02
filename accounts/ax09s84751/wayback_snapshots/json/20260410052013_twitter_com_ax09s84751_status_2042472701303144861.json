@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042472701303144861",
+    "created_at": "2026-04-10T05:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T06:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042472701303144861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tankche8964/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/tankche8964/status/2042365720768758261",
+          "start": 15,
+          "url": "https://t.co/8oy5jNfN9G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042472701303144861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042365720768758261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只有我觉得很神圣吗？😨😨😨😨 https://t.co/8oy5jNfN9G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1891,
+        "media_key": "3_2042365717430091778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFfwzJDbQAIqdxS.jpg",
+        "width": 1077
+      },
+      {
+        "height": 1972,
+        "media_key": "3_2042365718310895621",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFfwzMVbQAUtfTU.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042472701303144861",
+        "created_at": "2026-04-10T05:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042472701303144861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tankche8964/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/tankche8964/status/2042365720768758261",
+              "start": 15,
+              "url": "https://t.co/8oy5jNfN9G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042472701303144861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042365720768758261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有我觉得很神圣吗？😨😨😨😨 https://t.co/8oy5jNfN9G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042365717430091778",
+            "3_2042365718310895621"
+          ]
+        },
+        "author_id": "1690886728608083968",
+        "conversation_id": "2042365720768758261",
+        "created_at": "2026-04-09T22:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T23:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042365720768758261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "图片 440105197101300039 在 Zhina 的图片 相册",
+              "display_url": "imgchr.com/i/peduy7R",
+              "end": 43,
+              "expanded_url": "https://imgchr.com/i/peduy7R",
+              "images": [
+                {
+                  "height": 3369,
+                  "url": "https://pbs.twimg.com/news_img/2042365751642955776/dVde2UC2?format=jpg&name=orig",
+                  "width": 2382
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042365751642955776/dVde2UC2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 20,
+              "status": 200,
+              "title": "440105197101300039",
+              "unwound_url": "https://imgchr.com/i/peduy7R",
+              "url": "https://t.co/wljYf5NbXC"
+            },
+            {
+              "description": "图片 650102198608220729 在 Zhina 的图片 相册",
+              "display_url": "imgchr.com/i/pedudpT",
+              "end": 86,
+              "expanded_url": "https://imgchr.com/i/pedudpT",
+              "images": [
+                {
+                  "height": 3369,
+                  "url": "https://pbs.twimg.com/news_img/2042365769359753216/BNC1_7i9?format=jpg&name=orig",
+                  "width": 2382
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042365769359753216/BNC1_7i9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "650102198608220729",
+              "unwound_url": "https://imgchr.com/i/pedudpT",
+              "url": "https://t.co/7zZIJHlSUQ"
+            },
+            {
+              "display_url": "pic.x.com/dItPBLn51r",
+              "end": 110,
+              "expanded_url": "https://x.com/tankche8964/status/2042365720768758261/photo/1",
+              "media_key": "3_2042365717430091778",
+              "start": 87,
+              "url": "https://t.co/dItPBLn51r"
+            },
+            {
+              "display_url": "pic.x.com/dItPBLn51r",
+              "end": 110,
+              "expanded_url": "https://x.com/tankche8964/status/2042365720768758261/photo/1",
+              "media_key": "3_2042365718310895621",
+              "start": 87,
+              "url": "https://t.co/dItPBLn51r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042365720768758261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 5292,
+          "like_count": 103,
+          "quote_count": 6,
+          "reply_count": 24,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林处方\n广州市禁毒办副主任\n张胜春https://t.co/wljYf5NbXC\n广州市禁毒支队一级警员\n娜迪拉·阿里根https://t.co/7zZIJHlSUQ https://t.co/dItPBLn51r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 673,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 494
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T00:43:14.000Z",
+        "description": "幽暗的、深邃的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+NGZgHLdad28xZ…",
+                "end": 23,
+                "expanded_url": "http://t.me/+NGZgHLdad28xZWJl",
+                "start": 0,
+                "url": "https://t.co/jbnm0MwyIN"
+              }
+            ]
+          }
+        },
+        "id": "1690886728608083968",
+        "location": "广州市公安局",
+        "name": "坦克姬🎗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040947920967753728/65O8YdJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 751,
+          "like_count": 2085,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/jbnm0MwyIN",
+        "username": "tankche8964",
+        "verified": false
+      }
+    ]
+  }
+}

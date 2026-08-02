@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2039360103556809107",
+    "created_at": "2026-04-01T15:11:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T16:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039360103556809107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/2039329966060695638",
+          "start": 13,
+          "url": "https://t.co/4XREM5jMKp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039360103556809107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039329966060695638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么时候流行这种了（😨） https://t.co/4XREM5jMKp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2039360103556809107",
+        "created_at": "2026-04-01T15:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039360103556809107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2039329966060695638",
+              "start": 13,
+              "url": "https://t.co/4XREM5jMKp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039360103556809107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039329966060695638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么时候流行这种了（😨） https://t.co/4XREM5jMKp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2039329966060695638",
+        "created_at": "2026-04-01T13:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039329966060695638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1816148552764252169",
+              "start": 56,
+              "username": "w0sh1Asak1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039329966060695638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 576,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n\nWinit420因饮用大量伏特加，在2026年3月32日当晚发癫，没有人发现，时年17岁\n\n该帐号将交由@w0sh1Asak1 继续运营。\n我们怀着悲痛的心情，为其默哀七分钟。\n\n特此通告"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 661,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 400
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "四二磷",
+        "pinned_tweet_id": "2039322185937166439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038575262062014465/r89x5P5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 1464,
+          "like_count": 38608,
+          "listed_count": 7,
+          "media_count": 1604,
+          "tweet_count": 11295
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

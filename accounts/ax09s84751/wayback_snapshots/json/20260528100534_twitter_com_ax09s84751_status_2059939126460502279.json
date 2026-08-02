@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2059939126460502279",
+    "created_at": "2026-05-28T10:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059939126460502279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xynMTFxyn/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/xynMTFxyn/status/2059931547529248949",
+          "start": 11,
+          "url": "https://t.co/hlW7ck64Td"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059939126460502279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059931547529248949",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爱你妈\nsb tyw https://t.co/hlW7ck64Td"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059931545121726464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZY04iaIAAGbyy.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2059939126460502279",
+        "created_at": "2026-05-28T10:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059939126460502279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xynMTFxyn/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/xynMTFxyn/status/2059931547529248949",
+              "start": 11,
+              "url": "https://t.co/hlW7ck64Td"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059939126460502279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059931547529248949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爱你妈\nsb tyw https://t.co/hlW7ck64Td"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059931545121726464"
+          ]
+        },
+        "author_id": "2028321716049743872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059931547529248949",
+        "created_at": "2026-05-28T09:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059931547529248949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wz1yfEN4Kv",
+              "end": 36,
+              "expanded_url": "https://x.com/xynMTFxyn/status/2059931547529248949/photo/1",
+              "media_key": "3_2059931545121726464",
+              "start": 13,
+              "url": "https://t.co/wz1yfEN4Kv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059931547529248949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1314fo！\n爱大家！ https://t.co/wz1yfEN4Kv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1834,
+          "like_count": 2639,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 2295
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-02T04:14:51.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/30|药娘小资历| ENTP| 生产日期2010/10/19 | 174厘米 | 75公斤| 摄影📹| LGBT 🏳️‍🌈 | 私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 | 非常helpful的南盺 | 小南 | 舍友@TransYuwen｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 141,
+                "username": "TransYuwen"
+              }
+            ]
+          }
+        },
+        "id": "2028321716049743872",
+        "name": "南盺酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055214856807313698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028373556783153152/usYeYRCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 109,
+          "like_count": 162,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 768
+        },
+        "username": "xynMTFxyn",
+        "verified": false
+      }
+    ]
+  }
+}

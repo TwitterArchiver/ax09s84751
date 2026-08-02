@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048397609275138304",
+    "created_at": "2026-04-26T14:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048406268952678759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1448206950903255040",
+          "start": 0,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048406268952678759",
+    "in_reply_to_user_id": "1448206950903255040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048397609275138304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Shikieiki 我说了不要o我的美金刚\n🫪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048397603302469632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1exG-a8AAS8Jw.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048397609275138304",
+        "created_at": "2026-04-26T14:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048406268952678759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048406268952678759",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048397609275138304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 我说了不要o我的美金刚\n🫪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048397603302469632"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2048397609275138304",
+        "created_at": "2026-04-26T13:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048397609275138304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWxyIkw2bA",
+              "end": 60,
+              "expanded_url": "https://x.com/_Shikieiki/status/2048397609275138304/photo/1",
+              "media_key": "3_2048397603302469632",
+              "start": 37,
+              "url": "https://t.co/RWxyIkw2bA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048397609275138304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "直接吃就好?!\n最好还是陪一杯水送服\n美金刚没有像西柚汁那样的增效剂哦😣 https://t.co/RWxyIkw2bA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/视成分互关\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 1340,
+          "like_count": 876,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 869,
+          "like_count": 26578,
+          "listed_count": 1,
+          "media_count": 421,
+          "tweet_count": 3568
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

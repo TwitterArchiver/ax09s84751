@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042952310746419439",
+    "created_at": "2026-04-11T13:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T14:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042952310746419439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2027318824568320000",
+          "start": 3,
+          "username": "FreeXOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042952310746419439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042862540687061503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FreeXOvO: 其实我当初注册X就是为了看黄片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042952310746419439",
+        "created_at": "2026-04-11T13:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042952310746419439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027318824568320000",
+              "start": 3,
+              "username": "FreeXOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042952310746419439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042862540687061503",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FreeXOvO: 其实我当初注册X就是为了看黄片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027318824568320000",
+        "conversation_id": "2042862540687061503",
+        "created_at": "2026-04-11T07:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042862540687061503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042862540687061503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 40186,
+          "like_count": 185,
+          "quote_count": 0,
+          "reply_count": 193,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "其实我当初注册X就是为了看黄片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 684,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 557
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T09:45:20.000Z",
+        "description": "Izumi新一\nbrat |脾气好|09年高二在读\n偶尔萌萌偶尔发骚 我很可爱^ω^",
+        "id": "2027318824568320000",
+        "location": "Tianjin",
+        "name": "FreeX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042021861224280064/gTa0SAjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6454,
+          "following_count": 54,
+          "like_count": 1108,
+          "listed_count": 7,
+          "media_count": 28,
+          "tweet_count": 208
+        },
+        "username": "FreeXOvO",
+        "verified": false
+      }
+    ]
+  }
+}

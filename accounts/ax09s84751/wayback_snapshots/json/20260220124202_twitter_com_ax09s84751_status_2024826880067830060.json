@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024274461617254867",
+    "created_at": "2026-02-20T12:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024826880067830060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "96453272",
+          "start": 0,
+          "username": "oakvale5"
+        },
+        {
+          "end": 20,
+          "id": "53074745",
+          "start": 10,
+          "username": "ni1hannah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024826880067830060",
+    "in_reply_to_user_id": "96453272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024288304099971347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oakvale5 @ni1hannah 按你这逻辑孔子学院就是中国最大的反党基地，毕竟天天教老外说中文，建议先举报自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024274461617254867",
+        "created_at": "2026-02-20T12:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024826880067830060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "96453272",
+              "start": 0,
+              "username": "oakvale5"
+            },
+            {
+              "end": 20,
+              "id": "53074745",
+              "start": 10,
+              "username": "ni1hannah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024826880067830060",
+        "in_reply_to_user_id": "96453272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024288304099971347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oakvale5 @ni1hannah 按你这逻辑孔子学院就是中国最大的反党基地，毕竟天天教老外说中文，建议先举报自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "96453272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2024274461617254867",
+        "created_at": "2026-02-19T01:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024288304099971347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "53074745",
+              "start": 0,
+              "username": "ni1hannah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024288304099971347",
+        "in_reply_to_user_id": "53074745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4023,
+          "like_count": 209,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024274461617254867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ni1hannah 讲好中国故事，传播好中国声音。是习近平亲自提出的口号。\n反对其他人讲中文，就是反对习近平，反党，反中国，站在党和国家，还有人民的对立面。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 154,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 84
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-13T00:51:58.000Z",
+        "description": "Rest at the edge of chaos. \n .... . .-.. .--. -....- -- .\nGod plays dice. Maybe that's a feature, not a bug.\n一切都会好起来。",
+        "id": "96453272",
+        "location": "崩溃边缘 Edge of Chaos",
+        "name": "阿橡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420050931660443649/YbZuFX0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15965,
+          "following_count": 2990,
+          "like_count": 5162,
+          "listed_count": 122,
+          "media_count": 3218,
+          "tweet_count": 91956
+        },
+        "username": "oakvale5",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-02T14:19:51.000Z",
+        "description": "Math teacher. Former college professor from China. Ph.D, Blog writer. Bilingual tweets （English & Chinese) about education & culture. 英语学习， 美国生活、教育、文化资讯。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Hannahni7716?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@Hannahni7716?feature=shared",
+                "start": 0,
+                "url": "https://t.co/XGliNjlrU9"
+              }
+            ]
+          }
+        },
+        "id": "53074745",
+        "name": "Hannah倪妮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686183910365929472/HDQuIwNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16695,
+          "following_count": 2183,
+          "like_count": 3125,
+          "listed_count": 128,
+          "media_count": 461,
+          "tweet_count": 3230
+        },
+        "url": "https://t.co/XGliNjlrU9",
+        "username": "ni1hannah",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2061421856872378656",
+    "created_at": "2026-06-01T12:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T13:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061421856872378656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2060050991370891265",
+          "start": 3,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061421856872378656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060223149778817434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shioochicqwq: 互fo寻回！（求转帖喵🥺）\n大号的换绑有48小时的冷却。现在事情还在风头上，先躲躲\n以后只发屎和日常和碎碎念。这个号就懒得搬屎了，所以不会因为fo了就tl有屎哦🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2061421856872378656",
+        "created_at": "2026-06-01T12:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061421856872378656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060050991370891265",
+              "start": 3,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061421856872378656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060223149778817434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shioochicqwq: 互fo寻回！（求转帖喵🥺）\n大号的换绑有48小时的冷却。现在事情还在风头上，先躲躲\n以后只发屎和日常和碎碎念。这个号就懒得搬屎了，所以不会因为fo了就tl有屎哦🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060050991370891265",
+        "conversation_id": "2060223149778817434",
+        "created_at": "2026-05-29T04:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060223149778817434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060223149778817434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4753,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "互fo寻回！（求转帖喵🥺）\n大号的换绑有48小时的冷却。现在事情还在风头上，先躲躲\n以后只发屎和日常和碎碎念。这个号就懒得搬屎了，所以不会因为fo了就tl有屎哦🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 1832,
+          "like_count": 2714,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 2443
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "09｜小证含糖半家长党｜小证260117｜hrt250720🍥｜你们觉得我这次能活吗",
+        "id": "2060050991370891265",
+        "name": "汐落",
+        "pinned_tweet_id": "2060223149778817434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 237,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 184
+        },
+        "username": "Shioochicqwq",
+        "verified": false
+      }
+    ]
+  }
+}

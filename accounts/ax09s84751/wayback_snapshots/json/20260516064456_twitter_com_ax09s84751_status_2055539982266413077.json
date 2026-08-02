@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055502596421689444",
+    "created_at": "2026-05-16T06:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T07:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055539982266413077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942368986051796992",
+          "start": 0,
+          "username": "CunZai1069"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055539982266413077",
+    "in_reply_to_user_id": "1942368986051796992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055502596421689444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CunZai1069 呃啊。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2055502592076386304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIact4ubkAAIet0.jpg",
+        "width": 1000
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055502596421689444",
+        "created_at": "2026-05-16T06:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055539982266413077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055539982266413077",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055502596421689444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 呃啊。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055502592076386304"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2055502596421689444",
+        "created_at": "2026-05-16T04:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055502596421689444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2053662146425499648/TLmx9VjK?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2053662146425499648/TLmx9VjK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/K3b8uTBlRq"
+            },
+            {
+              "display_url": "pic.x.com/Oi0CrXHR5m",
+              "end": 64,
+              "expanded_url": "https://x.com/CunZai1069/status/2055502596421689444/photo/1",
+              "media_key": "3_2055502592076386304",
+              "start": 41,
+              "url": "https://t.co/Oi0CrXHR5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055502596421689444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 555,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/K3b8uTBlRq https://t.co/Oi0CrXHR5m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 1662,
+          "like_count": 2116,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2054936300940304617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 819,
+          "like_count": 1700,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

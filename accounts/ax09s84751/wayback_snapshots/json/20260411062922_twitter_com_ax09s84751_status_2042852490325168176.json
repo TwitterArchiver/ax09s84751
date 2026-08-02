@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042852490325168176",
+    "created_at": "2026-04-11T06:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042852490325168176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xijinping_bot/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/xijinping_bot/status/2042599864379621793",
+          "start": 10,
+          "url": "https://t.co/XN54JinJEl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042852490325168176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042599864379621793",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有万达广场附近的吗 https://t.co/XN54JinJEl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 248,
+        "media_key": "3_2042599817059405826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjFtiIakAItlld.jpg",
+        "width": 452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042852490325168176",
+        "created_at": "2026-04-11T06:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042852490325168176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xijinping_bot/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/xijinping_bot/status/2042599864379621793",
+              "start": 10,
+              "url": "https://t.co/XN54JinJEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042852490325168176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042599864379621793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有万达广场附近的吗 https://t.co/XN54JinJEl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042599817059405826"
+          ]
+        },
+        "author_id": "1790448736629301248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042599864379621793",
+        "created_at": "2026-04-10T13:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042599864379621793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5duejp091m",
+              "end": 33,
+              "expanded_url": "https://x.com/xijinping_bot/status/2042599864379621793/photo/1",
+              "media_key": "3_2042599817059405826",
+              "start": 10,
+              "url": "https://t.co/5duejp091m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042599864379621793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10431,
+          "like_count": 239,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "有万达广场附近的吗 https://t.co/5duejp091m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 680,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "朝闻道，夕死可矣/六国史观/1644史观/异端毛派/📕🔪/本账所有言论由葱娘酱和猫在雷指使、发布，本人毫不知情/激化矛盾，全面加速/冷知识：我不是习近平本人/#我的史观 #神左合流/我是中国人，我支持台湾独立",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 79,
+                "tag": "我的史观"
+              },
+              {
+                "end": 90,
+                "start": 85,
+                "tag": "神左合流"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deerjisiquanjia.com",
+                "end": 23,
+                "expanded_url": "http://deerjisiquanjia.com",
+                "start": 0,
+                "url": "https://t.co/ZQF7vW5ZMa"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "毛主席纪念堂｜愿文明的春风吹走西伯利亚的严寒",
+        "name": "羽泽东🚩🇮🇷——苏式基本盘 老佛爷剿灭义和匪 葱娘酱私人医生回忆录",
+        "pinned_tweet_id": "2041847246057304536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037836202720776192/Eh7ojqK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 1519,
+          "like_count": 21641,
+          "listed_count": 12,
+          "media_count": 847,
+          "tweet_count": 17337
+        },
+        "url": "https://t.co/ZQF7vW5ZMa",
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

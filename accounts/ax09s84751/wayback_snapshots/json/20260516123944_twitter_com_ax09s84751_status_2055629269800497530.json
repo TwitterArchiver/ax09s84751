@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055527012887126219",
+    "created_at": "2026-05-16T12:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055629269800497530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055629269800497530",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055527012887126219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq 假的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055526999922454528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIay6nCaMAAxnKe.jpg",
+        "width": 1186
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055527012887126219",
+        "created_at": "2026-05-16T12:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055629269800497530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055629269800497530",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055527012887126219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq 假的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055526999922454528"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2055527012887126219",
+        "created_at": "2026-05-16T05:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055527012887126219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e2MmZprSNe",
+              "end": 32,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2055527012887126219/photo/1",
+              "media_key": "3_2055526999922454528",
+              "start": 9,
+              "url": "https://t.co/e2MmZprSNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055527012887126219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 15268,
+          "like_count": 126,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "😧这是真的假的😨 https://t.co/e2MmZprSNe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 1663,
+          "like_count": 2136,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1874
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友跨顺男@whatasiger｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "whatasiger"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 143,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 120,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2683,
+          "following_count": 1659,
+          "like_count": 5361,
+          "listed_count": 3,
+          "media_count": 509,
+          "tweet_count": 3760
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

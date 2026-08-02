@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050091116737806336"
+      ],
+      "media_source_tweet_id": [
+        "2050091128293073351"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050413282599838145",
+    "created_at": "2026-05-02T03:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T04:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050413282599838145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1851962067236065281",
+          "start": 3,
+          "username": "dzzzzz467732"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u9ND3Wr291",
+          "end": 47,
+          "expanded_url": "https://x.com/dzzzzz467732/status/2050091128293073351/photo/1",
+          "media_key": "3_2050091116737806336",
+          "start": 24,
+          "url": "https://t.co/u9ND3Wr291"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050413282599838145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050091128293073351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dzzzzz467732: 经血拌精液 https://t.co/u9ND3Wr291"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050091116737806336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHNjAkJXQAAeVwJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050091116737806336"
+          ],
+          "media_source_tweet_id": [
+            "2050091128293073351"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050413282599838145",
+        "created_at": "2026-05-02T03:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050413282599838145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1851962067236065281",
+              "start": 3,
+              "username": "dzzzzz467732"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u9ND3Wr291",
+              "end": 47,
+              "expanded_url": "https://x.com/dzzzzz467732/status/2050091128293073351/photo/1",
+              "media_key": "3_2050091116737806336",
+              "start": 24,
+              "url": "https://t.co/u9ND3Wr291"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050413282599838145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050091128293073351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dzzzzz467732: 经血拌精液 https://t.co/u9ND3Wr291"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050091116737806336"
+          ]
+        },
+        "author_id": "1851962067236065281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050091128293073351",
+        "created_at": "2026-05-01T05:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050091128293073351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u9ND3Wr291",
+              "end": 29,
+              "expanded_url": "https://x.com/dzzzzz467732/status/2050091128293073351/photo/1",
+              "media_key": "3_2050091116737806336",
+              "start": 6,
+              "url": "https://t.co/u9ND3Wr291"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050091128293073351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6243,
+          "like_count": 91,
+          "quote_count": 2,
+          "reply_count": 67,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "经血拌精液 https://t.co/u9ND3Wr291"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1426,
+          "like_count": 945,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1301
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-31T12:19:07.000Z",
+        "description": "s",
+        "id": "1851962067236065281",
+        "name": "炸玉ちゃん，梦想笑了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989917042187931651/KRczj1M-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 218,
+          "like_count": 1783,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 787
+        },
+        "username": "dzzzzz467732",
+        "verified": false
+      }
+    ]
+  }
+}

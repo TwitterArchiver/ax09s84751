@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2056628105805271237",
+    "created_at": "2026-05-19T06:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T07:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056628105805271237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2013100592202194945",
+          "start": 3,
+          "username": "Viki211027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056628105805271237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046957247058890825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Viki211027: 讣告【号主好友】\n郭首冬（16岁，跨性别者），已于2026.4.21因抑双向情感障碍发作，选择从高处坠落结束生命。尊重逝者遗愿，丧事从简，不举行公开悼念。愿天堂没有偏见与痛苦，愿她下辈子可以做一个真正的女孩，只有她真正想成为的自己🕯🕯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2056628105805271237",
+        "created_at": "2026-05-19T06:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056628105805271237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2013100592202194945",
+              "start": 3,
+              "username": "Viki211027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056628105805271237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046957247058890825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Viki211027: 讣告【号主好友】\n郭首冬（16岁，跨性别者），已于2026.4.21因抑双向情感障碍发作，选择从高处坠落结束生命。尊重逝者遗愿，丧事从简，不举行公开悼念。愿天堂没有偏见与痛苦，愿她下辈子可以做一个真正的女孩，只有她真正想成为的自己🕯🕯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013100592202194945",
+        "conversation_id": "2046957247058890825",
+        "created_at": "2026-04-22T14:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046957247058890825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046957247058890825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 11363,
+          "like_count": 153,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "讣告【号主好友】\n郭首冬（16岁，跨性别者），已于2026.4.21因抑双向情感障碍发作，选择从高处坠落结束生命。尊重逝者遗愿，丧事从简，不举行公开悼念。愿天堂没有偏见与痛苦，愿她下辈子可以做一个真正的女孩，只有她真正想成为的自己🕯🕯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1689,
+          "like_count": 2213,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 1989
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T04:06:07.000Z",
+        "description": "mtf/ENTP/10年1月/想雌爆/想和对象永远在一起/长相拟人/想srs/想进女厕所/想扎日雌/家长党/双向情感障碍/小证2026.1.16/老婆@xieerfan\n天上给我掉下个妹妹多好啊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "xieerfan"
+              }
+            ]
+          }
+        },
+        "id": "2013100592202194945",
+        "name": "🍥Dr土豆尼🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023723831308021761/dqlJKqFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 19,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 137
+        },
+        "username": "Viki211027",
+        "verified": false
+      }
+    ]
+  }
+}

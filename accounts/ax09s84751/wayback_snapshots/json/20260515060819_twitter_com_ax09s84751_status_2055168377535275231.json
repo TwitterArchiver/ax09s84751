@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055168377535275231",
+    "created_at": "2026-05-15T06:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T07:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055168377535275231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satireorcry1/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/satireorcry1/status/2054918018317132178",
+          "start": 6,
+          "url": "https://t.co/G753XxDNvI"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055168377535275231",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054918018317132178",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神人羟基案 https://t.co/G753XxDNvI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1894,
+        "media_key": "3_2054917606381887488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISIrPMWoAA-PG0.jpg",
+        "width": 1206
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055168377535275231",
+        "created_at": "2026-05-15T06:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055168377535275231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/satireorcry1/status/2054918018317132178",
+              "start": 6,
+              "url": "https://t.co/G753XxDNvI"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055168377535275231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054918018317132178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神人羟基案 https://t.co/G753XxDNvI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054917606381887488"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2054918018317132178",
+        "created_at": "2026-05-14T13:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054918018317132178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kY4Y1PsbPR",
+              "end": 63,
+              "expanded_url": "https://x.com/satireorcry1/status/2054918018317132178/photo/1",
+              "media_key": "3_2054917606381887488",
+              "start": 40,
+              "url": "https://t.co/kY4Y1PsbPR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054918018317132178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8473,
+          "like_count": 95,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "中国人见到川普本人后，描述川普的头很小，这就是每次都能在枪击案中活下来的原因。 https://t.co/kY4Y1PsbPR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtf🏳️‍⚧️？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 1637,
+          "like_count": 2014,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 1719
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvog37z"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29536,
+          "following_count": 1600,
+          "like_count": 17340,
+          "listed_count": 66,
+          "media_count": 3641,
+          "tweet_count": 5203
+        },
+        "url": "https://t.co/EYxWvog37z",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

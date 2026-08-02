@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2037835827859149196",
+    "created_at": "2026-03-28T10:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T11:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037835827859149196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1707911374377213952",
+          "start": 3,
+          "username": "Rainyufanf"
+        },
+        {
+          "end": 28,
+          "id": "1731704955721932800",
+          "start": 16,
+          "username": "ling1639040"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037835827859149196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037701936347251061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainyufanf: @ling1639040 之前我喝盐自杀你一直打电话联系朋友试图救我你很着急。你自杀了也是喝盐，我明明在9：48就已经报警了。对不起，警察叫你爸过去就走了，说当事人还好。我明明让警察收你的盐了，他们好不负责。我还是没能救了你。你也和你爱人团聚了，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2037835827859149196",
+        "created_at": "2026-03-28T10:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037835827859149196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707911374377213952",
+              "start": 3,
+              "username": "Rainyufanf"
+            },
+            {
+              "end": 28,
+              "id": "1731704955721932800",
+              "start": 16,
+              "username": "ling1639040"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037835827859149196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037701936347251061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rainyufanf: @ling1639040 之前我喝盐自杀你一直打电话联系朋友试图救我你很着急。你自杀了也是喝盐，我明明在9：48就已经报警了。对不起，警察叫你爸过去就走了，说当事人还好。我明明让警察收你的盐了，他们好不负责。我还是没能救了你。你也和你爱人团聚了，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707911374377213952",
+        "conversation_id": "2037701936347251061",
+        "created_at": "2026-03-28T01:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037701936347251061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1731704955721932800",
+              "start": 0,
+              "username": "ling1639040"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Rainyufanf/sta…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/Rainyufanf/status/2037700747211813195",
+              "start": 127,
+              "url": "https://t.co/14S8heIsBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037701936347251061",
+        "in_reply_to_user_id": "1731704955721932800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2211,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037700747211813195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ling1639040 之前我喝盐自杀你一直打电话联系朋友试图救我你很着急。你自杀了也是喝盐，我明明在9：48就已经报警了。对不起，警察叫你爸过去就走了，说当事人还好。我明明让警察收你的盐了，他们好不负责。我还是没能救了你。你也和你爱人团聚了，恭喜啊 https://t.co/14S8heIsBc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 574,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T00:13:26.000Z",
+        "description": "雪下的那么深~下的那么认真~",
+        "id": "1707911374377213952",
+        "location": "你心里",
+        "name": "雪下的那么深~下的那么认真~",
+        "pinned_tweet_id": "2016913911451439480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848327034537394176/2ld1xMwW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 283,
+          "like_count": 6364,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1368
+        },
+        "username": "Rainyufanf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T16:00:20.000Z",
+        "description": "07//\nling会带来不幸，不要太靠近我\n                                 ❤ 老婆@LCG_Akiball /lingの猫猫@nanami_mua/🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "nanami_mua"
+              }
+            ]
+          }
+        },
+        "id": "1731704955721932800",
+        "location": "一个疯子？",
+        "name": "ling",
+        "pinned_tweet_id": "1938940959611592945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005944188467306496/Nc0fJRQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 987,
+          "like_count": 9412,
+          "listed_count": 7,
+          "media_count": 52,
+          "tweet_count": 541
+        },
+        "username": "ling1639040",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2039228245242171579",
+    "created_at": "2026-04-01T06:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039228245242171579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/baixixi0712/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/baixixi0712/status/2039220871253065967",
+          "start": 10,
+          "url": "https://t.co/YEX87v2L0o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039228245242171579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039220871253065967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "霖吗\n她不是没跳嘛 https://t.co/YEX87v2L0o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2039228245242171579",
+        "created_at": "2026-04-01T06:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039228245242171579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baixixi0712/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/baixixi0712/status/2039220871253065967",
+              "start": 10,
+              "url": "https://t.co/YEX87v2L0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039228245242171579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039220871253065967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "霖吗\n她不是没跳嘛 https://t.co/YEX87v2L0o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803048962133483520",
+        "conversation_id": "2039220871253065967",
+        "created_at": "2026-04-01T05:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039220871253065967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039220871253065967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要是你能回来就好了，我在你最喜欢的游戏里被欺负的很不开心，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 659,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T12:55:53.000Z",
+        "description": "07，双相，同类互fo会补赞👀，想要有好多好朋友，想要o到天昏地暗😋，割手爽😋，想只活在互联网上，想永远爱你们\n不参与任何争论和键政，不惹我我也不会惹你，我发我的看我不爽直接屏蔽就好\n还有就是求求你们不要再给我发几把照了😭",
+        "id": "1803048962133483520",
+        "location": "天堂",
+        "name": "白汐🩸💊",
+        "pinned_tweet_id": "2023514108625383462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902841317132255232/kHWEIPI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 195,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 681
+        },
+        "username": "baixixi0712",
+        "verified": false
+      }
+    ]
+  }
+}

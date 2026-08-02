@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2070448073084690823",
+    "created_at": "2026-06-26T10:04:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070448073084690823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1837114188046684161",
+          "start": 3,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070448073084690823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070220162016702824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @winterfruit_1: 宁做一日阿片鬼，不当百年精神病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2070448073084690823",
+        "created_at": "2026-06-26T10:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070448073084690823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1837114188046684161",
+              "start": 3,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070448073084690823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070220162016702824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @winterfruit_1: 宁做一日阿片鬼，不当百年精神病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2070220162016702824",
+        "created_at": "2026-06-25T18:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070220162016702824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070220162016702824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1451,
+          "like_count": 48,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "宁做一日阿片鬼，不当百年精神病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echo42es"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2069963485296066978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065816996605005824/yyrl8vBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 1817,
+          "like_count": 3007,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 2637
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2643,
+          "following_count": 1481,
+          "like_count": 43299,
+          "listed_count": 6,
+          "media_count": 1870,
+          "tweet_count": 12913
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2060228932809695287",
+    "created_at": "2026-05-29T08:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060273938878640293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865995824775462912",
+          "start": 0,
+          "username": "king1818888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060273938878640293",
+    "in_reply_to_user_id": "1865995824775462912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060228932809695287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@king1818888 你牛大了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2060228932809695287",
+        "created_at": "2026-05-29T08:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060273938878640293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865995824775462912",
+              "start": 0,
+              "username": "king1818888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060273938878640293",
+        "in_reply_to_user_id": "1865995824775462912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060228932809695287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@king1818888 你牛大了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865995824775462912",
+        "conversation_id": "2060228932809695287",
+        "created_at": "2026-05-29T05:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060228932809695287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060228932809695287",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是一条中文的帖子，看到这条推的别跑！\n世界各国朋友看到回复一下：\n\n中国人打 0（我到！）\n日本人打 1（こんにちは～）\n韩国人打 2（안녕하세요～）\n北美人打 3（What’s up！）\n欧洲人打 4（Hola / Bonjour）\n澳洲人打 5（G’day mate！袋鼠党集合）\n其他星球的朋友打 6（外星人别装了）\n\n快报个到！我想看看这推文到底漂到哪去了🤣"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4587,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条中文的帖子，看到这条推的别跑！\n世界各国朋友看到回复一下：\n\n中国人打 0（我到！）\n日本人打 1（こんにちは～）\n韩国人打 2（안녕하세요～）\n北美人打 3（What’s up！）\n欧洲人打 4（Hola / Bonjour）\n澳洲人打 5（G’day mate！袋鼠党集合）\n其他星球的朋友打 6（外星人别装了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 1837,
+          "like_count": 2663,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 2372
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-09T05:44:17.000Z",
+        "description": "💡 热爱分享｜热爱科技｜热爱生活\n\n🎓 墨尔本著名野鸡大学Data水硕失业率重要贡献者\n💰 金融小白幻想翻身成数据驱动投资者的半码农\n🌟 实测硬核AI工具 + 疯狂踩坑记录 + 追星解压日常分享",
+        "id": "1865995824775462912",
+        "location": "Melbourne, Victoria",
+        "name": "Kimberly",
+        "pinned_tweet_id": "2059217991628394795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050829855701487616/cMQeXTZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 424,
+          "like_count": 16130,
+          "listed_count": 12,
+          "media_count": 248,
+          "tweet_count": 7844
+        },
+        "username": "king1818888",
+        "verified": true
+      }
+    ]
+  }
+}

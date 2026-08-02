@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2023889915508125764",
+    "created_at": "2026-02-19T13:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024477230500606116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1202993900538826753",
+          "start": 0,
+          "username": "neverovo"
+        },
+        {
+          "end": 21,
+          "id": "1916824571128287232",
+          "start": 10,
+          "username": "Spr1ngWlnd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024477230500606116",
+    "in_reply_to_user_id": "1202993900538826753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023889915508125764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neverovo @Spr1ngWlnd 哥们，你问的这句话本身就说明你还在乎，。在乎为什么没人问你。这就是希望。去找那个评论区说心理学的人聊聊，或者打这个电话：400-161-9995（希望24热线），别一个人扛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2023889915508125764",
+        "created_at": "2026-02-19T13:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024477230500606116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1202993900538826753",
+              "start": 0,
+              "username": "neverovo"
+            },
+            {
+              "end": 21,
+              "id": "1916824571128287232",
+              "start": 10,
+              "username": "Spr1ngWlnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024477230500606116",
+        "in_reply_to_user_id": "1202993900538826753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023889915508125764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neverovo @Spr1ngWlnd 哥们，你问的这句话本身就说明你还在乎，。在乎为什么没人问你。这就是希望。去找那个评论区说心理学的人聊聊，或者打这个电话：400-161-9995（希望24热线），别一个人扛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1202993900538826753",
+        "conversation_id": "2023889915508125764",
+        "created_at": "2026-02-17T22:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T23:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023889915508125764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023889915508125764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 99498,
+          "like_count": 2968,
+          "quote_count": 19,
+          "reply_count": 53,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "老有人问你自杀了，朋友怎么办？父母怎么办？别人怎么办？我都要死了，怎么没人问问我怎么办。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 110,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 50
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-06T16:51:26.000Z",
+        "description": "主人@qaq5777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "qaq5777"
+              }
+            ]
+          }
+        },
+        "id": "1202993900538826753",
+        "name": "不加糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999221342009458691/kMRgXofZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 42,
+          "like_count": 967,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 290
+        },
+        "username": "neverovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究",
+        "pinned_tweet_id": "2023996995975684451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 27,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 27
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      }
+    ]
+  }
+}

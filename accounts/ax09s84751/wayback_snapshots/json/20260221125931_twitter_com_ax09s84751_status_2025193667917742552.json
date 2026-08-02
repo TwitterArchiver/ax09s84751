@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2025177182600134848",
+    "created_at": "2026-02-21T12:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T13:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025193667917742552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989254812572196864",
+          "start": 0,
+          "username": "hzh1450627"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025193667917742552",
+    "in_reply_to_user_id": "1989254812572196864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025192954303054233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzh1450627 不要😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025192942923816960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBruQGyaIAAAMVd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2025177182600134848",
+        "created_at": "2026-02-21T12:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025193667917742552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989254812572196864",
+              "start": 0,
+              "username": "hzh1450627"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025193667917742552",
+        "in_reply_to_user_id": "1989254812572196864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025192954303054233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzh1450627 不要😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025192942923816960"
+          ]
+        },
+        "author_id": "1989254812572196864",
+        "conversation_id": "2025177182600134848",
+        "created_at": "2026-02-21T12:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025192954303054233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSPcmkYP2C",
+              "end": 50,
+              "expanded_url": "https://x.com/hzh1450627/status/2025192954303054233/photo/1",
+              "media_key": "3_2025192942923816960",
+              "start": 27,
+              "url": "https://t.co/nSPcmkYP2C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025192954303054233",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025177182600134848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 没事，都不知道经历多少次了😋 https://t.co/nSPcmkYP2C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直/不zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n理想：无证含糖mtf格式化💾 跨救助机构卸载❌\n允许跨人关/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSeL2"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 173,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 136
+        },
+        "url": "https://t.co/6aaNEtSeL2",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T08:51:31.000Z",
+        "description": "cn沥雨 I 可以叫我沥雨或者鲤鱼噢 I 是一个双相障碍患者 I 超级想和与od/精神疾病/割腕/负面/二次元和一些有趣的朋友互fo交朋友聊天！此号为日常号互动负能量较多，属性持续发掘中，我≈废物，鲤鱼是躁狂，沥雨是抑郁，长期处于快速循环中，不再鉴证键政",
+        "id": "1989254812572196864",
+        "location": "年龄小，很多观念没有成熟和理解透彻，没必要当刻板印象",
+        "name": "人",
+        "pinned_tweet_id": "2025141076638793882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023450577460752385/ebYeUguF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 84,
+          "like_count": 1141,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 859
+        },
+        "username": "hzh1450627",
+        "verified": false
+      }
+    ]
+  }
+}

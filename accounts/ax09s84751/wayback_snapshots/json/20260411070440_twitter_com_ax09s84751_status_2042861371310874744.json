@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042861371310874744",
+    "created_at": "2026-04-11T07:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042861371310874744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amecandy_x/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/amecandy_x/status/2042860573374009685",
+          "start": 5,
+          "url": "https://t.co/h682HFBFIc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042861371310874744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042860573374009685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "沈阳牛逼 https://t.co/h682HFBFIc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2042860567510290435",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmy3NQakAMi-Vo.jpg",
+        "width": 1029
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042861371310874744",
+        "created_at": "2026-04-11T07:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042861371310874744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2042860573374009685",
+              "start": 5,
+              "url": "https://t.co/h682HFBFIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042861371310874744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042860573374009685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沈阳牛逼 https://t.co/h682HFBFIc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042860567510290435"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2042860573374009685",
+        "created_at": "2026-04-11T07:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042860573374009685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7t5IBQVy3L",
+              "end": 154,
+              "expanded_url": "https://x.com/amecandy_x/status/2042860573374009685/photo/1",
+              "media_key": "3_2042860567510290435",
+              "start": 131,
+              "url": "https://t.co/7t5IBQVy3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042860573374009685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沈阳：关于加强含右美沙芬复方制剂和普瑞巴林管控的通知\n含右美沙芬复方制剂、普瑞巴林不得进行网络零售，不得拆零销售，不得向未成年人销售；普瑞巴林不得使用远程电子处方；含右美沙芬复方制剂一次销售不得超过2个最小包装。\n\n五更鼓角声悲壮，三峡星河影动摇。\n大的要来了 https://t.co/7t5IBQVy3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 679,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "Radical Leftist🚩/ LLM Engineer /  恋人 @whitecloud_ybw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 2055,
+          "like_count": 26841,
+          "listed_count": 15,
+          "media_count": 1397,
+          "tweet_count": 9944
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

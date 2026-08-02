@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024480770249937192",
+    "created_at": "2026-02-19T13:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024480770249937192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962554097120485377",
+          "start": 3,
+          "username": "Owo_zhou3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "2.微博",
+          "end": 69,
+          "expanded_url": "http://2.xn--9krt00a",
+          "start": 46,
+          "unwound_url": "http://2.xn--9krt00a",
+          "url": "https://t.co/0QTnDHhFyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024480770249937192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024321141276598484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Owo_zhou3: 玩推特的好处\n1.抖音都是现实的朋友很局限但是推特可以随便发\nhttps://t.co/0QTnDHhFyc可以随便发但是根本没人理我但是推特至少有几个人愿意给我点赞\n3.微信朋友圈共友很多每个人都有人设有损形象但是推特每个人都一样猎奇\n4.可以见…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024480770249937192",
+        "created_at": "2026-02-19T13:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024480770249937192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962554097120485377",
+              "start": 3,
+              "username": "Owo_zhou3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "2.微博",
+              "end": 69,
+              "expanded_url": "http://2.xn--9krt00a",
+              "start": 46,
+              "unwound_url": "http://2.xn--9krt00a",
+              "url": "https://t.co/0QTnDHhFyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024480770249937192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024321141276598484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Owo_zhou3: 玩推特的好处\n1.抖音都是现实的朋友很局限但是推特可以随便发\nhttps://t.co/0QTnDHhFyc可以随便发但是根本没人理我但是推特至少有几个人愿意给我点赞\n3.微信朋友圈共友很多每个人都有人设有损形象但是推特每个人都一样猎奇\n4.可以见…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962554097120485377",
+        "conversation_id": "2024321141276598484",
+        "created_at": "2026-02-19T03:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024321141276598484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "2.微博",
+              "end": 54,
+              "expanded_url": "http://2.xn--9krt00a",
+              "start": 31,
+              "unwound_url": "http://2.xn--9krt00a",
+              "url": "https://t.co/0QTnDHhFyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024321141276598484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15780,
+          "like_count": 388,
+          "quote_count": 7,
+          "reply_count": 33,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "玩推特的好处\n1.抖音都是现实的朋友很局限但是推特可以随便发\nhttps://t.co/0QTnDHhFyc可以随便发但是根本没人理我但是推特至少有几个人愿意给我点赞\n3.微信朋友圈共友很多每个人都有人设有损形象但是推特每个人都一样猎奇\n4.可以见识物种的多样性\n5.国内的一些智障翻不了墙\n6.可以看到很多好看的片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 113,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 59
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T16:32:22.000Z",
+        "description": "我是粥粥｜只回正经提问和口令^ω^｜谢谢宝宝们喜欢｜🚪私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A2%A8%E5%88%AB",
+                "start": 0,
+                "url": "https://t.co/rPNhEwChH4"
+              }
+            ]
+          }
+        },
+        "id": "1962554097120485377",
+        "location": "童言无忌",
+        "name": "小梨别",
+        "pinned_tweet_id": "1991897343642530168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179039783477248/DvfjIHlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4421,
+          "following_count": 99,
+          "like_count": 898,
+          "listed_count": 4,
+          "media_count": 301,
+          "tweet_count": 2731
+        },
+        "url": "https://t.co/rPNhEwChH4",
+        "username": "Owo_zhou3",
+        "verified": false
+      }
+    ]
+  }
+}

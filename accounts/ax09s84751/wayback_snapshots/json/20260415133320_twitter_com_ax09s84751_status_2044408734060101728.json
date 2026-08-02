@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2044408734060101728",
+    "created_at": "2026-04-15T13:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T14:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044408734060101728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/eweisi32/statu…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/eweisi32/status/2044104538496610540",
+          "start": 26,
+          "url": "https://t.co/x8One9WPvm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044408734060101728",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044104538496610540",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 为什么有些人能理解自杀却不能理解自残呢 https://t.co/x8One9WPvm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2044408734060101728",
+        "created_at": "2026-04-15T13:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044408734060101728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/eweisi32/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/eweisi32/status/2044104538496610540",
+              "start": 26,
+              "url": "https://t.co/x8One9WPvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044408734060101728",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044104538496610540",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 为什么有些人能理解自杀却不能理解自残呢 https://t.co/x8One9WPvm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933114395854610432",
+        "conversation_id": "2044104538496610540",
+        "created_at": "2026-04-14T17:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044104538496610540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044104538496610540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 14832,
+          "like_count": 807,
+          "quote_count": 12,
+          "reply_count": 21,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有些人能理解自杀却不能理解自残呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 708,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8505106,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6587,
+          "media_count": 8824228,
+          "tweet_count": 122681024
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "叫我蚀蚀就好 我有精神疾病别骂我 | 🔮占卜可以找我 | 餐劵od | 互fo私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mvrtin98341",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mvrtin98341",
+                "start": 0,
+                "url": "https://t.co/tYaSleRHaZ"
+              }
+            ]
+          }
+        },
+        "id": "1933114395854610432",
+        "name": "蚀蛊",
+        "pinned_tweet_id": "2043435688889315415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 458,
+          "like_count": 1395,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/tYaSleRHaZ",
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

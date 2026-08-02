@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2025404585842807107",
+    "created_at": "2026-02-22T02:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T03:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025404585842807107"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025404585842807107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "让别人吸二手烟的你妈肺癌晚期是吧，自己抽死没人管你，非拉着别人一起陪葬，地铁口电梯里抱着孩子站着都能被你熏一跟头，你他妈肺烂了也要拽几个垫背的，等你躺 icu 那天记得让医生给你开个单间慢慢抽，别出来祸害活人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2025404585842807107",
+        "created_at": "2026-02-22T02:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025404585842807107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025404585842807107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让别人吸二手烟的你妈肺癌晚期是吧，自己抽死没人管你，非拉着别人一起陪葬，地铁口电梯里抱着孩子站着都能被你熏一跟头，你他妈肺烂了也要拽几个垫背的，等你躺 icu 那天记得让医生给你开个单间慢慢抽，别出来祸害活人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直/不zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n理想：无证含糖mtf格式化💾 跨救助机构卸载❌\n允许跨人关/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSeL2"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 160,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/6aaNEtSeL2",
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

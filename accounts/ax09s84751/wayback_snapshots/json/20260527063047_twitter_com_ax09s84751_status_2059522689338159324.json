@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2059508703267877033",
+    "created_at": "2026-05-27T06:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059522689338159324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059522689338159324",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059508703267877033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama Doubao"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 569,
+        "media_key": "3_2059508691645374464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTYPklaIAA_ng4.jpg",
+        "width": 973
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2059508703267877033",
+        "created_at": "2026-05-27T06:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059522689338159324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059522689338159324",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059508703267877033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama Doubao"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059508691645374464"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2059508703267877033",
+        "created_at": "2026-05-27T05:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059508703267877033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hTabs1OKHH",
+              "end": 29,
+              "expanded_url": "https://x.com/smiroyama/status/2059508703267877033/photo/1",
+              "media_key": "3_2059508691645374464",
+              "start": 6,
+              "url": "https://t.co/hTabs1OKHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059508703267877033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁家 AI https://t.co/hTabs1OKHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1826,
+          "like_count": 2603,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 2275
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nbestie: @qianxunchan\nfriends🥰: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5781,
+          "following_count": 2314,
+          "like_count": 12066,
+          "listed_count": 19,
+          "media_count": 1826,
+          "tweet_count": 7064
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

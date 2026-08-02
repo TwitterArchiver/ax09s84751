@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024448704862642514",
+    "created_at": "2026-02-20T12:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024818720791843293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1397279487973339138",
+          "start": 0,
+          "username": "domyself18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024818720791843293",
+    "in_reply_to_user_id": "1397279487973339138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024448704862642514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@domyself18 你把这破图搬出来是想恶心谁呢，汉服招你惹你了被你当猎奇素材发，自己没文化还觉得挺幽默是吧，人家脏的是床单你脏的是脑子，别搁这传播恶心了滚吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 382,
+        "media_key": "3_2024448658263916544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhJVCXWQAA0vy7.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024448704862642514",
+        "created_at": "2026-02-20T12:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024818720791843293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1397279487973339138",
+              "start": 0,
+              "username": "domyself18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024818720791843293",
+        "in_reply_to_user_id": "1397279487973339138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024448704862642514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@domyself18 你把这破图搬出来是想恶心谁呢，汉服招你惹你了被你当猎奇素材发，自己没文化还觉得挺幽默是吧，人家脏的是床单你脏的是脑子，别搁这传播恶心了滚吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024448658263916544"
+          ]
+        },
+        "author_id": "1397279487973339138",
+        "conversation_id": "2024448704862642514",
+        "created_at": "2026-02-19T11:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024448704862642514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7HmqN7fkoM",
+              "end": 32,
+              "expanded_url": "https://x.com/domyself18/status/2024448704862642514/photo/1",
+              "media_key": "3_2024448658263916544",
+              "start": 9,
+              "url": "https://t.co/7HmqN7fkoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024448704862642514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 258,
+          "impression_count": 473735,
+          "like_count": 1489,
+          "quote_count": 11,
+          "reply_count": 152,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "汉服唯一的作用。 https://t.co/7HmqN7fkoM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 154,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 79
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-25T19:52:55.000Z",
+        "description": "天才地才，专制之下，俱为奴才。",
+        "id": "1397279487973339138",
+        "name": "domyself",
+        "pinned_tweet_id": "1892988571453202787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1397280102749294597/6WQwy3jo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 1273,
+          "like_count": 35,
+          "listed_count": 9,
+          "media_count": 210,
+          "tweet_count": 2178
+        },
+        "username": "domyself18",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2022884542357598399",
+    "created_at": "2026-02-15T04:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022884542357598399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899468510079909888",
+          "start": 3,
+          "username": "tslFlying"
+        },
+        {
+          "end": 31,
+          "id": "2008943608695840768",
+          "start": 15,
+          "username": "electronic_dirt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022884542357598399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022338770826305692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tslFlying: @electronic_dirt 把伤口弄大了一下我当杯子用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2022884542357598399",
+        "created_at": "2026-02-15T04:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022884542357598399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899468510079909888",
+              "start": 3,
+              "username": "tslFlying"
+            },
+            {
+              "end": 31,
+              "id": "2008943608695840768",
+              "start": 15,
+              "username": "electronic_dirt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022884542357598399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022338770826305692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tslFlying: @electronic_dirt 把伤口弄大了一下我当杯子用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899468510079909888",
+        "conversation_id": "2022176886173110503",
+        "created_at": "2026-02-13T15:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022338770826305692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2008943608695840768",
+              "start": 0,
+              "username": "electronic_dirt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022338770826305692",
+        "in_reply_to_user_id": "2008943608695840768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022176886173110503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@electronic_dirt 把伤口弄大了一下我当杯子用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 59,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T14:32:45.000Z",
+        "description": "",
+        "id": "1899468510079909888",
+        "name": "无",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018289819215138816/qqyYqrUT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 4,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "username": "tslFlying",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T16:47:44.000Z",
+        "description": "💉𓂋 我是电子垢/通缉喵                  可以找我互fo捏( ^ω^ ) 09休学中 内含画画｜废话｜od｜自伤｜果",
+        "id": "2008943608695840768",
+        "name": "通缉电子垢💡",
+        "pinned_tweet_id": "2019978992556908806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018785279499497472/GMU_7D_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 157,
+          "like_count": 739,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 569
+        },
+        "username": "electronic_dirt",
+        "verified": false
+      }
+    ]
+  }
+}

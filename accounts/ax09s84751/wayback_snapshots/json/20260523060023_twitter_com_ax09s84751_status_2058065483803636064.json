@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2058065483803636064",
+    "created_at": "2026-05-23T06:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058065483803636064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1511436799000088577",
+          "start": 3,
+          "username": "GriseoQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058065483803636064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057909910114075043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GriseoQAQ: 在学校被老师鉴跨了.....\n老师讲讲完我们宿舍手机问题之后，留我下来说“有女生跟她反馈说你像女生”（动作像）\n然后其他的男生也有一些反馈\n她就用很意味深长的语气看着我\n“你想要完成你的梦想，你就考个好成绩去更能包容你的地方”\n然后对我家长说“有什…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2058065483803636064",
+        "created_at": "2026-05-23T06:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058065483803636064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1511436799000088577",
+              "start": 3,
+              "username": "GriseoQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058065483803636064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057909910114075043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GriseoQAQ: 在学校被老师鉴跨了.....\n老师讲讲完我们宿舍手机问题之后，留我下来说“有女生跟她反馈说你像女生”（动作像）\n然后其他的男生也有一些反馈\n她就用很意味深长的语气看着我\n“你想要完成你的梦想，你就考个好成绩去更能包容你的地方”\n然后对我家长说“有什…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511436799000088577",
+        "conversation_id": "2057909910114075043",
+        "created_at": "2026-05-22T19:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T20:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057909910114075043"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057909910114075043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 12497,
+          "like_count": 245,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在学校被老师鉴跨了.....\n老师讲讲完我们宿舍手机问题之后，留我下来说“有女生跟她反馈说你像女生”（动作像）\n然后其他的男生也有一些反馈\n她就用很意味深长的语气看着我\n“你想要完成你的梦想，你就考个好成绩去更能包容你的地方”\n然后对我家长说“有什么事一起沟通好了就行”\n呜呜呜老师呜呜呜呜......."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 1702,
+          "like_count": 2348,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 2113
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T20:13:22.000Z",
+        "description": "呜呜喵呜，无论何时何地～♪ 格蕾修都会回应你的期待♪坐标广西…无证含糖，在上高中/mtf/x?/喜欢的人@reallyshow_imp 永远喜欢宝宝诶嘿嘿ww♡/半家长党/hrt since2025.2.22 -       /想变得更可爱！/ 问答小房间w https://t.co/JOHSowzAko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "reallyshow_imp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/griseo5201314",
+                "end": 153,
+                "expanded_url": "https://ngl.link/griseo5201314",
+                "start": 130,
+                "url": "https://t.co/JOHSowzAko"
+              }
+            ]
+          }
+        },
+        "id": "1511436799000088577",
+        "location": "格蕾修的小画室",
+        "name": "格蕾格蕾修？/夏目安安安～☆🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1979265992271499564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917257330665873409/FclANjkY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 702,
+          "like_count": 6045,
+          "listed_count": 5,
+          "media_count": 674,
+          "tweet_count": 3282
+        },
+        "username": "GriseoQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

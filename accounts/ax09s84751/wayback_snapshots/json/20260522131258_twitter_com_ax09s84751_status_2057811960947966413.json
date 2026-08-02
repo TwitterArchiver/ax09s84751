@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2057811960947966413",
+    "created_at": "2026-05-22T13:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057811960947966413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xixizzzi/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/xixizzzi/status/2057662496585154674",
+          "start": 12,
+          "url": "https://t.co/hgcP5Ahuj7"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2057811960947966413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057662496585154674",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你妈的，这是月经贴吗？ https://t.co/hgcP5Ahuj7"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2057811960947966413",
+        "created_at": "2026-05-22T13:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057811960947966413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xixizzzi/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/xixizzzi/status/2057662496585154674",
+              "start": 12,
+              "url": "https://t.co/hgcP5Ahuj7"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2057811960947966413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057662496585154674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈的，这是月经贴吗？ https://t.co/hgcP5Ahuj7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4801504037",
+        "conversation_id": "2057662496585154674",
+        "created_at": "2026-05-22T03:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057662496585154674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057662496585154674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 573154,
+          "like_count": 471,
+          "quote_count": 3,
+          "reply_count": 346,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "听说六月份全面封锁vpn了，这是真的？？有没有人知道吗？？？🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 1699,
+          "like_count": 2332,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 2102
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-14T06:19:57.000Z",
+        "description": "本公主的朋友圈，分享日常生活（没关注的别私信我）",
+        "id": "4801504037",
+        "location": "9.11km",
+        "name": "西西",
+        "pinned_tweet_id": "2057730683565752339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057088255741640704/gNfS4JUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 28,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 64
+        },
+        "username": "xixizzzi",
+        "verified": false
+      }
+    ]
+  }
+}

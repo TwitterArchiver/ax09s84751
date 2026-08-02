@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025395760410546176",
+        "3_2025395758879703042",
+        "3_2025395759156531200",
+        "3_2025395759991128064"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025395782967525455",
+    "created_at": "2026-02-22T02:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T03:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025395782967525455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NQTYNYjzMZ",
+          "end": 151,
+          "expanded_url": "https://x.com/ax09s84751/status/2025395782967525455/photo/1",
+          "media_key": "3_2025395760410546176",
+          "start": 128,
+          "url": "https://t.co/NQTYNYjzMZ"
+        },
+        {
+          "display_url": "pic.x.com/NQTYNYjzMZ",
+          "end": 151,
+          "expanded_url": "https://x.com/ax09s84751/status/2025395782967525455/photo/1",
+          "media_key": "3_2025395758879703042",
+          "start": 128,
+          "url": "https://t.co/NQTYNYjzMZ"
+        },
+        {
+          "display_url": "pic.x.com/NQTYNYjzMZ",
+          "end": 151,
+          "expanded_url": "https://x.com/ax09s84751/status/2025395782967525455/photo/1",
+          "media_key": "3_2025395759156531200",
+          "start": 128,
+          "url": "https://t.co/NQTYNYjzMZ"
+        },
+        {
+          "display_url": "pic.x.com/NQTYNYjzMZ",
+          "end": 151,
+          "expanded_url": "https://x.com/ax09s84751/status/2025395782967525455/photo/1",
+          "media_key": "3_2025395759991128064",
+          "start": 128,
+          "url": "https://t.co/NQTYNYjzMZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025395782967525455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "木桶饭这圈子烂透了，自杀 od 亚硝酸钠 碳酸钡 自残 援交 黄推成了流行文化，一群小孩往里跳还以为挺酷，你他妈有病就吃药，ssri是救命的不是摆设，非要去碰那些杀人配方把自己搞死才爽是吧，越来越低龄化十四五岁就学着买化学品，你们是想集体团灭吗，恶心透了 https://t.co/NQTYNYjzMZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2025395760410546176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBumtozaUAARgKb.jpg",
+        "width": 719
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2025395758879703042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBumtjGbgAI6WBl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2025395759156531200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBumtkIbkAATU_g.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1074,
+        "media_key": "3_2025395759991128064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBumtnPagAAv2ZJ.jpg",
+        "width": 1614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025395760410546176",
+            "3_2025395758879703042",
+            "3_2025395759156531200",
+            "3_2025395759991128064"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025395782967525455",
+        "created_at": "2026-02-22T02:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025395782967525455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQTYNYjzMZ",
+              "end": 151,
+              "expanded_url": "https://x.com/ax09s84751/status/2025395782967525455/photo/1",
+              "media_key": "3_2025395760410546176",
+              "start": 128,
+              "url": "https://t.co/NQTYNYjzMZ"
+            },
+            {
+              "display_url": "pic.x.com/NQTYNYjzMZ",
+              "end": 151,
+              "expanded_url": "https://x.com/ax09s84751/status/2025395782967525455/photo/1",
+              "media_key": "3_2025395758879703042",
+              "start": 128,
+              "url": "https://t.co/NQTYNYjzMZ"
+            },
+            {
+              "display_url": "pic.x.com/NQTYNYjzMZ",
+              "end": 151,
+              "expanded_url": "https://x.com/ax09s84751/status/2025395782967525455/photo/1",
+              "media_key": "3_2025395759156531200",
+              "start": 128,
+              "url": "https://t.co/NQTYNYjzMZ"
+            },
+            {
+              "display_url": "pic.x.com/NQTYNYjzMZ",
+              "end": 151,
+              "expanded_url": "https://x.com/ax09s84751/status/2025395782967525455/photo/1",
+              "media_key": "3_2025395759991128064",
+              "start": 128,
+              "url": "https://t.co/NQTYNYjzMZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025395782967525455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "木桶饭这圈子烂透了，自杀 od 亚硝酸钠 碳酸钡 自残 援交 黄推成了流行文化，一群小孩往里跳还以为挺酷，你他妈有病就吃药，ssri是救命的不是摆设，非要去碰那些杀人配方把自己搞死才爽是吧，越来越低龄化十四五岁就学着买化学品，你们是想集体团灭吗，恶心透了 https://t.co/NQTYNYjzMZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直/不zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n理想：无证含糖mtf格式化💾 跨救助机构卸载❌\n允许跨人关/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSeL2"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 165,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 144
+        },
+        "url": "https://t.co/6aaNEtSeL2",
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

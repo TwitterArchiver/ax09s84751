@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2044427245868273886",
+    "created_at": "2026-04-15T14:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T15:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044427245868273886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bbcchinese/sta…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/bbcchinese/status/2043910930619109523",
+          "start": 27,
+          "url": "https://t.co/V0d9GDmUtq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044427245868273886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043910930619109523",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？我这是进入后室了吗\n现在是2019年吗😨😨😨😨😨😨 https://t.co/V0d9GDmUtq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2044427245868273886",
+        "created_at": "2026-04-15T14:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044427245868273886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/bbcchinese/status/2043910930619109523",
+              "start": 27,
+              "url": "https://t.co/V0d9GDmUtq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044427245868273886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043910930619109523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？我这是进入后室了吗\n现在是2019年吗😨😨😨😨😨😨 https://t.co/V0d9GDmUtq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "2043910930619109523",
+        "created_at": "2026-04-14T04:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043910930619109523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一种高度变异的新冠病毒变种目前已在23个国家被发现，世界卫生组织正在密切监测。",
+              "display_url": "bbc.in/4vuvdON",
+              "end": 62,
+              "expanded_url": "https://bbc.in/4vuvdON",
+              "images": [
+                {
+                  "height": 576,
+                  "url": "https://pbs.twimg.com/news_img/2043910943902502912/4uwXuMPS?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043910943902502912/4uwXuMPS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "新冠病毒新变种“蝉”有多令人担忧？儿童是否更容易感染？ - BBC News 中文",
+              "unwound_url": "https://www.bbc.com/zhongwen/articles/cqxlljgq0z8o/simp?at_format=link&at_medium=social&at_link_id=53A9CADE-37BB-11F1-88F0-B9AD0289FA5E&at_campaign_type=owned&at_bbc_team=editorial&at_link_origin=bbcchinese&at_campaign=Social_Flow&at_ptr_name=twitter&at_link_type=web_link",
+              "url": "https://t.co/dfH44Hp143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043910930619109523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 491241,
+          "like_count": 607,
+          "quote_count": 69,
+          "reply_count": 85,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "一种高度变异的新冠病毒变种目前已在23个国家被发现，世界卫生组织正在密切监测。https://t.co/dfH44Hp143"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 738,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5222370,
+          "following_count": 73,
+          "like_count": 61,
+          "listed_count": 12060,
+          "media_count": 24623,
+          "tweet_count": 155527
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024440745097298099",
+    "created_at": "2026-02-19T13:28:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024476262111334517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790448736629301248",
+          "start": 0,
+          "username": "xijinping_bot"
+        },
+        {
+          "end": 24,
+          "id": "1799308675158605825",
+          "start": 15,
+          "username": "CPUP2024"
+        },
+        {
+          "end": 37,
+          "id": "1752258355379499008",
+          "start": 25,
+          "username": "Chessingfly"
+        },
+        {
+          "end": 48,
+          "id": "823713101291761664",
+          "start": 38,
+          "username": "WKAble_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024476262111334517",
+    "in_reply_to_user_id": "1790448736629301248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024468189472862416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping_bot @CPUP2024 @Chessingfly @WKAble_CN 闹钟分大爱？你野爹分你啥了？分你《排华法案》还是分你黑奴摘棉花？你亲爹饿肚子援外你骂，你野爹屠印第安你舔，双标玩得溜，膝盖焊地上了是吧？紫砂你关心过几个？键盘一敲就成忧国忧民了？滚回你野爹那领狗粮去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024440745097298099",
+        "created_at": "2026-02-19T13:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024476262111334517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            },
+            {
+              "end": 24,
+              "id": "1799308675158605825",
+              "start": 15,
+              "username": "CPUP2024"
+            },
+            {
+              "end": 37,
+              "id": "1752258355379499008",
+              "start": 25,
+              "username": "Chessingfly"
+            },
+            {
+              "end": 48,
+              "id": "823713101291761664",
+              "start": 38,
+              "username": "WKAble_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024476262111334517",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024468189472862416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot @CPUP2024 @Chessingfly @WKAble_CN 闹钟分大爱？你野爹分你啥了？分你《排华法案》还是分你黑奴摘棉花？你亲爹饿肚子援外你骂，你野爹屠印第安你舔，双标玩得溜，膝盖焊地上了是吧？紫砂你关心过几个？键盘一敲就成忧国忧民了？滚回你野爹那领狗粮去。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790448736629301248",
+        "conversation_id": "2024440745097298099",
+        "created_at": "2026-02-19T12:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T13:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024468189472862416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799308675158605825",
+              "start": 0,
+              "username": "CPUP2024"
+            },
+            {
+              "end": 22,
+              "id": "1752258355379499008",
+              "start": 10,
+              "username": "Chessingfly"
+            },
+            {
+              "end": 33,
+              "id": "823713101291761664",
+              "start": 23,
+              "username": "WKAble_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024468189472862416",
+        "in_reply_to_user_id": "1799308675158605825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024467150501740770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPUP2024 @Chessingfly @WKAble_CN 闹钟但凡能把大爱分一半给自己的国民，也不至于紫砂的人数这么多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 109,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 49
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "朝闻道，夕死可矣/@mizuki_bot/恶狗@Pomb0ring /尊重人权/大年初一，理科区菊花爆炸/本账所有负面言论由葱娘酱和猫在雷指使、发布，本人毫不知情/激化矛盾全面加速/预制论/顶峰伦/血海论/无产阶级入关论/反马原反苏系，保卫毛主席/已辞职在家学习延安炕日精神",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "mizuki_bot"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Pomb0ring"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ccpAV.com",
+                "end": 23,
+                "expanded_url": "http://ccpAV.com",
+                "start": 0,
+                "url": "https://t.co/tKIiEMftEe"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "古拉格大学夹边沟分学院梁家河校区",
+        "name": "羽泽东——苏系基本盘 我过我Lunar Year你过你未经认证的Zhina Year呗🤡",
+        "pinned_tweet_id": "2023370179196170535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015813151938187264/abAUkSW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 1280,
+          "like_count": 12194,
+          "listed_count": 4,
+          "media_count": 549,
+          "tweet_count": 11229
+        },
+        "url": "https://t.co/tKIiEMftEe",
+        "username": "xijinping_bot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "欢迎来到葱的页面！小号@mikulovermua 偏生活。一位自豪的汉人，左翼建制派，支持CPC&🇨🇳，已锁似粉红成分。仰慕☪️ ally&非二元性别🏳️‍🌈&同志骄傲 stand with🇵🇸🇷🇺🇻🇪and Islamic Republic of Iran 同情粉红 毛左 左翼民族主义 拒霍犹港台",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "mikulovermua"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "中华苏维埃共和国胜利后的中华人民共和国",
+        "name": "赛高の葱娘酱miku🇨🇳 ——我过我Chinese Year你过你Loser Year呗😸",
+        "pinned_tweet_id": "2023294364613812529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011306261418295298/faMkCRSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 1501,
+          "like_count": 40387,
+          "listed_count": 34,
+          "media_count": 858,
+          "tweet_count": 10863
+        },
+        "username": "CPUP2024",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T09:12:11.000Z",
+        "description": "English Majr. Chessplayer (improving) 👊🇺🇸🔥\nPlanning to become a CM in 2 years",
+        "id": "1752258355379499008",
+        "location": "London' ",
+        "name": "POLARIS",
+        "pinned_tweet_id": "1965108575430475944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965118527557566465/6khY3WLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 1059,
+          "like_count": 14513,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 12876
+        },
+        "username": "Chessingfly",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-24T02:04:42.000Z",
+        "description": "堂堂正正中国人 🇨🇳🇨🇳🇨🇳🇨🇳\n炎黄子孙，龙的传人！\n拳打殖人，\n脚踹团结人！",
+        "id": "823713101291761664",
+        "name": "WkAble",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884562376160378880/BkK9TmtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 8,
+          "like_count": 1129,
+          "listed_count": 5,
+          "media_count": 102,
+          "tweet_count": 1941
+        },
+        "username": "WKAble_CN",
+        "verified": false
+      }
+    ]
+  }
+}

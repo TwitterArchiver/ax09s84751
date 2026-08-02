@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038462597889232896"
+      ],
+      "media_source_tweet_id": [
+        "2038462639123431666"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2038482193794933152",
+    "created_at": "2026-03-30T05:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T06:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038482193794933152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1472111867036594179",
+          "start": 3,
+          "username": "SeimoDev"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mvqmw9sVPL",
+          "end": 50,
+          "expanded_url": "https://x.com/SeimoDev/status/2038462639123431666/photo/1",
+          "media_key": "3_2038462597889232896",
+          "start": 27,
+          "url": "https://t.co/Mvqmw9sVPL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038482193794933152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038462639123431666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SeimoDev: 今天是世界双相情感障碍日 https://t.co/Mvqmw9sVPL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2038462597889232896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoS7rsbkAAx92z.jpg",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038462597889232896"
+          ],
+          "media_source_tweet_id": [
+            "2038462639123431666"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2038482193794933152",
+        "created_at": "2026-03-30T05:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038482193794933152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1472111867036594179",
+              "start": 3,
+              "username": "SeimoDev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mvqmw9sVPL",
+              "end": 50,
+              "expanded_url": "https://x.com/SeimoDev/status/2038462639123431666/photo/1",
+              "media_key": "3_2038462597889232896",
+              "start": 27,
+              "url": "https://t.co/Mvqmw9sVPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038482193794933152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038462639123431666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SeimoDev: 今天是世界双相情感障碍日 https://t.co/Mvqmw9sVPL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038462597889232896"
+          ]
+        },
+        "author_id": "1472111867036594179",
+        "conversation_id": "2038462639123431666",
+        "created_at": "2026-03-30T03:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038462639123431666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mvqmw9sVPL",
+              "end": 36,
+              "expanded_url": "https://x.com/SeimoDev/status/2038462639123431666/photo/1",
+              "media_key": "3_2038462597889232896",
+              "start": 13,
+              "url": "https://t.co/Mvqmw9sVPL"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2038462639123431666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 484,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "今天是世界双相情感障碍日 https://t.co/Mvqmw9sVPL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf/爱看od圈/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 637,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 272
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T07:50:10.000Z",
+        "description": "BI6PCR丨音游壬丨Web3丨Co-Founder of HNUBA丨Cooking @workworkorg丨SparkLab丨EnvX丨 Android Dev丨简中丨繁中丨English丨21歲丨大三丨https://t.co/Pikc5r4ELF丨友跨顺男丨面基Bot丨本人言论不构成任何投资建议",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "workworkorg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/seimoSFW",
+                "end": 128,
+                "expanded_url": "https://t.me/seimoSFW",
+                "start": 105,
+                "url": "https://t.co/Pikc5r4ELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seimo.cn",
+                "end": 23,
+                "expanded_url": "https://seimo.cn",
+                "start": 0,
+                "url": "https://t.co/aegqvv8Y3G"
+              }
+            ]
+          }
+        },
+        "id": "1472111867036594179",
+        "location": "Earth",
+        "name": "Seimo（全🌏🉑✈️）",
+        "pinned_tweet_id": "1675708739998056449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020150811016466433/xhLLotxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 691,
+          "like_count": 8475,
+          "listed_count": 4,
+          "media_count": 1236,
+          "tweet_count": 5205
+        },
+        "url": "https://t.co/aegqvv8Y3G",
+        "username": "SeimoDev",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2051934811196108997",
+    "created_at": "2026-05-06T11:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051994769463943310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2051682020347326464",
+          "start": 0,
+          "username": "PhonyR22701"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2051994769463943310",
+    "in_reply_to_user_id": "2051682020347326464",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051934811196108997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PhonyR22701 111"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2051934811196108997",
+        "created_at": "2026-05-06T11:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051994769463943310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051682020347326464",
+              "start": 0,
+              "username": "PhonyR22701"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2051994769463943310",
+        "in_reply_to_user_id": "2051682020347326464",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051934811196108997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhonyR22701 111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051682020347326464",
+        "conversation_id": "2051934811196108997",
+        "created_at": "2026-05-06T07:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051934811196108997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051934811196108997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1261,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "重新发一下抽奖，msk把我的帖子删了，大家都知道是啥了吧，依然fo转发点赞评论就ok，不知道抽的是啥的私信问我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 1480,
+          "like_count": 1121,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1434
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-05T15:14:54.000Z",
+        "description": "※只是旅行者罢了，把我说过的一切都当做梦呓吧※\n※无性别者※\n※对象@sunset__3000※\n※美工很好有需要可以找她※\n※#odtwt※\n※#shtwt※\n※TG:HsHnFR※",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "odtwt"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "sunset__3000"
+              }
+            ]
+          }
+        },
+        "id": "2051682020347326464",
+        "name": "异世界优泠#六周目",
+        "pinned_tweet_id": "2051934811196108997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051981693402402817/J-hd4s9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 12,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 47
+        },
+        "username": "PhonyR22701",
+        "verified": false
+      }
+    ]
+  }
+}

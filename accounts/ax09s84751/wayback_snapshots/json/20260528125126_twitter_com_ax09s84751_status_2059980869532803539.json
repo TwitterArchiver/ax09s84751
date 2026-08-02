@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2059980869532803539",
+    "created_at": "2026-05-28T12:51:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:51:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059980869532803539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Neneisonline/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Neneisonline/status/2059762019021033865",
+          "start": 9,
+          "url": "https://t.co/InPmzKJkHm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059980869532803539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059762019021033865",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我跟你反着来哎🤔 https://t.co/InPmzKJkHm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2059980869532803539",
+        "created_at": "2026-05-28T12:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059980869532803539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Neneisonline/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Neneisonline/status/2059762019021033865",
+              "start": 9,
+              "url": "https://t.co/InPmzKJkHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059980869532803539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059762019021033865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我跟你反着来哎🤔 https://t.co/InPmzKJkHm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767005920687468544",
+        "conversation_id": "2059762019021033865",
+        "created_at": "2026-05-27T22:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T23:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059762019021033865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059762019021033865",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 650,
+          "impression_count": 325697,
+          "like_count": 7774,
+          "quote_count": 60,
+          "reply_count": 172,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "Cuando tenía 13-14 entre a internet y en vez de decir que soy mujer, preferí decir que era hombre y un montón de chicas me ponían atención y me hablaban. Y pensé “wow, es mejor ser hombre que mujer, porque te dan un montón de atención solo por ser hombre”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 1835,
+          "like_count": 2651,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 2330
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-11T01:53:52.000Z",
+        "description": "yoho! i'm Nene the vampire 🧛‍♀️ #NechiArt \nTwitch Partner | Asmr en mi YouTube!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 32,
+                "tag": "NechiArt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/neneisonline",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/neneisonline",
+                "start": 0,
+                "url": "https://t.co/jiQDL6GLuL"
+              }
+            ]
+          }
+        },
+        "id": "1767005920687468544",
+        "location": "💀🔪",
+        "name": "𝑵𝒆𝒏𝒆 ✖️💚",
+        "pinned_tweet_id": "2043384164968239153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057129379939905538/MwLFj37c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14490,
+          "following_count": 247,
+          "like_count": 3451,
+          "listed_count": 17,
+          "media_count": 1448,
+          "tweet_count": 4242
+        },
+        "url": "https://t.co/jiQDL6GLuL",
+        "username": "Neneisonline",
+        "verified": false
+      }
+    ]
+  }
+}

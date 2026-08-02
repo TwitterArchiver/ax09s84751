@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047635368657518819",
+    "created_at": "2026-04-27T11:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048720404945228107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013100592202194945",
+          "start": 0,
+          "username": "Viki211027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048720404945228107",
+    "in_reply_to_user_id": "2013100592202194945",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047635368657518819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Viki211027 ?hyw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17293,
+        "height": 1280,
+        "media_key": "7_2047635318233526272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2047635318233526272/pu/img/Xf8aUumFM1wy3He_.jpg",
+        "public_metrics": {
+          "view_count": 247
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047635318233526272/pu/vid/avc1/320x568/ZVbnlAnUIXUoWqH2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047635318233526272/pu/vid/avc1/480x852/gw4tes6rwoMmcvSX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047635318233526272/pu/vid/avc1/720x1280/n3N2bjh1jTCv9aqj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2047635318233526272/pu/pl/WfJM8RVfEiJiH76r.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047635368657518819",
+        "created_at": "2026-04-27T11:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048720404945228107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013100592202194945",
+              "start": 0,
+              "username": "Viki211027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048720404945228107",
+        "in_reply_to_user_id": "2013100592202194945",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047635368657518819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Viki211027 ?hyw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047635318233526272"
+          ]
+        },
+        "author_id": "2013100592202194945",
+        "conversation_id": "2047635368657518819",
+        "created_at": "2026-04-24T11:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047635368657518819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i29zYC4bbd",
+              "end": 27,
+              "expanded_url": "https://x.com/Viki211027/status/2047635368657518819/video/1",
+              "media_key": "7_2047635318233526272",
+              "start": 4,
+              "url": "https://t.co/i29zYC4bbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047635368657518819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 553,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵 https://t.co/i29zYC4bbd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 1354,
+          "like_count": 893,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-19T04:06:07.000Z",
+        "description": "mtf/ENTP/10年1月/想雌爆/想和对象永远在一起/长相拟人/想srs/想进女厕所/想扎日雌/家长党/双向情感障碍/小证2026.1.16/老婆@xieerfan\n天上给我掉下个妹妹多好啊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "xieerfan"
+              }
+            ]
+          }
+        },
+        "id": "2013100592202194945",
+        "name": "🍥Dr土豆尼🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023723831308021761/dqlJKqFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 19,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 132
+        },
+        "username": "Viki211027",
+        "verified": false
+      }
+    ]
+  }
+}

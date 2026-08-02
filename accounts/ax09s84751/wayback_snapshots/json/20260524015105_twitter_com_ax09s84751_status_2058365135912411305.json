@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2058365135912411305",
+    "created_at": "2026-05-24T01:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T02:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058365135912411305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kuromi_ooooo/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Kuromi_ooooo/status/2058252502253056004",
+          "start": 7,
+          "url": "https://t.co/ItSwCcw0fV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058365135912411305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058252502253056004",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个得问豆包 https://t.co/ItSwCcw0fV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2058365135912411305",
+        "created_at": "2026-05-24T01:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058365135912411305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kuromi_ooooo/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Kuromi_ooooo/status/2058252502253056004",
+              "start": 7,
+              "url": "https://t.co/ItSwCcw0fV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058365135912411305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058252502253056004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个得问豆包 https://t.co/ItSwCcw0fV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053726229984075776",
+        "conversation_id": "2058252502253056004",
+        "created_at": "2026-05-23T18:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058252502253056004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058252502253056004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2143,
+          "like_count": 53,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你们到底是怎么交到朋友的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 1730,
+          "like_count": 2390,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2156
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:37:56.000Z",
+        "description": "寻回互关\n我只是想要我的生活過得好一點\n共号：@Melody_0v0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Melody_0v0_"
+              }
+            ]
+          }
+        },
+        "id": "2053726229984075776",
+        "location": "你看看你身后",
+        "name": "中2病娇6.霖",
+        "pinned_tweet_id": "2057741023271621089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057778913133416448/4hjfJxt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 342,
+          "like_count": 650,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 330
+        },
+        "username": "Kuromi_ooooo",
+        "verified": false
+      }
+    ]
+  }
+}

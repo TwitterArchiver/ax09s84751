@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048643555401642164",
+    "created_at": "2026-04-28T03:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T04:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048964420110533082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1789599446881513472",
+          "start": 0,
+          "username": "xchase173294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048964420110533082",
+    "in_reply_to_user_id": "1789599446881513472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048643555401642164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xchase173294 这个真有道理吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048643555401642164",
+        "created_at": "2026-04-28T03:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048964420110533082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1789599446881513472",
+              "start": 0,
+              "username": "xchase173294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048964420110533082",
+        "in_reply_to_user_id": "1789599446881513472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048643555401642164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xchase173294 这个真有道理吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789599446881513472",
+        "conversation_id": "2048643555401642164",
+        "created_at": "2026-04-27T06:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048643555401642164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048643555401642164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10005,
+          "like_count": 106,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大学生如何避免被流量收割？ \n\n 1. 卸载抖音\n\n2.卸载小红书"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 1372,
+          "like_count": 902,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-12T10:12:25.000Z",
+        "description": "🚀985经济学本科在读\n🇸🇬非传统NUS留子\n👀现象思考、经济分析",
+        "id": "1789599446881513472",
+        "name": "Xu",
+        "pinned_tweet_id": "2042954888179781717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044695956634157056/gXVFkotO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 283,
+          "like_count": 2699,
+          "listed_count": 6,
+          "media_count": 281,
+          "tweet_count": 2331
+        },
+        "username": "xchase173294",
+        "verified": true
+      }
+    ]
+  }
+}

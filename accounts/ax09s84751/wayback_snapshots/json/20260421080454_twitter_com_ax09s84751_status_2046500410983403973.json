@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046495331328946176"
+      ],
+      "media_source_tweet_id": [
+        "2046495333702946816"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2046500410983403973",
+    "created_at": "2026-04-21T08:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046500410983403973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022181719835914242",
+          "start": 3,
+          "username": "QY404XYN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wk9aSlmljN",
+          "end": 61,
+          "expanded_url": "https://x.com/QY404XYN/status/2046495333702946816/photo/1",
+          "media_key": "3_2046495331328946176",
+          "start": 38,
+          "url": "https://t.co/Wk9aSlmljN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046500410983403973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046495333702946816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QY404XYN: 悲报，普瑞巴林在拼多多已被全面下架，搜都搜不到 https://t.co/Wk9aSlmljN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046495331328946176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGacqTpbcAAMaAE.jpg",
+        "width": 993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046495331328946176"
+          ],
+          "media_source_tweet_id": [
+            "2046495333702946816"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2046500410983403973",
+        "created_at": "2026-04-21T08:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046500410983403973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022181719835914242",
+              "start": 3,
+              "username": "QY404XYN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wk9aSlmljN",
+              "end": 61,
+              "expanded_url": "https://x.com/QY404XYN/status/2046495333702946816/photo/1",
+              "media_key": "3_2046495331328946176",
+              "start": 38,
+              "url": "https://t.co/Wk9aSlmljN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046500410983403973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046495333702946816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QY404XYN: 悲报，普瑞巴林在拼多多已被全面下架，搜都搜不到 https://t.co/Wk9aSlmljN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046495331328946176"
+          ]
+        },
+        "author_id": "2022181719835914242",
+        "conversation_id": "2046495333702946816",
+        "created_at": "2026-04-21T07:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046495333702946816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wk9aSlmljN",
+              "end": 47,
+              "expanded_url": "https://x.com/QY404XYN/status/2046495333702946816/photo/1",
+              "media_key": "3_2046495331328946176",
+              "start": 24,
+              "url": "https://t.co/Wk9aSlmljN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046495333702946816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "悲报，普瑞巴林在拼多多已被全面下架，搜都搜不到 https://t.co/Wk9aSlmljN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 1182,
+          "like_count": 757,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 830
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜狂躁易怒｜od｜自残｜中度强迫症｜重度抑郁焦虑 精神分裂 多重人格｜精神不稳定｜闺蜜 @QWQ73416 ｜长春の药娘王｜如果有事找我请加主页Q群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "QWQ73416"
+              }
+            ]
+          }
+        },
+        "id": "2022181719835914242",
+        "name": "千夜404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046442592406237184/awwpWmfp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4221,
+          "following_count": 201,
+          "like_count": 166,
+          "listed_count": 6,
+          "media_count": 51,
+          "tweet_count": 312
+        },
+        "username": "QY404XYN",
+        "verified": true
+      }
+    ]
+  }
+}

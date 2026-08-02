@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2045293509935296946",
+    "created_at": "2026-04-18T07:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045405639531532766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1461275257428340743",
+          "start": 0,
+          "username": "maxweb00"
+        },
+        {
+          "end": 20,
+          "id": "1708378737572757504",
+          "start": 10,
+          "username": "ceramanna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045405639531532766",
+    "in_reply_to_user_id": "1461275257428340743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045389056142614900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maxweb00 @ceramanna 了解历史，我觉得不错\n谷歌搜索还是可以的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2045293509935296946",
+        "created_at": "2026-04-18T07:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045405639531532766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1461275257428340743",
+              "start": 0,
+              "username": "maxweb00"
+            },
+            {
+              "end": 20,
+              "id": "1708378737572757504",
+              "start": 10,
+              "username": "ceramanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045405639531532766",
+        "in_reply_to_user_id": "1461275257428340743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045389056142614900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maxweb00 @ceramanna 了解历史，我觉得不错\n谷歌搜索还是可以的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1461275257428340743",
+        "conversation_id": "2045293509935296946",
+        "created_at": "2026-04-18T06:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045389056142614900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1708378737572757504",
+              "start": 0,
+              "username": "ceramanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045389056142614900",
+        "in_reply_to_user_id": "1708378737572757504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2297,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045293509935296946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceramanna 谷歌拒绝中国大陆用户，但我们拼命的使用……。感觉自己有点贱啊，哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 952,
+          "like_count": 669,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-18T10:09:15.000Z",
+        "description": "市场营销｜AI 视觉实验室｜奇怪知识爱好者｜闲聊专家｜不可接触者｜海量却不喜欢喝酒者（偶尔会在日本闲逛）",
+        "id": "1461275257428340743",
+        "name": "MAXZ Ai",
+        "pinned_tweet_id": "1483008259799797760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761748700605579264/YWcjJlAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 1334,
+          "like_count": 433,
+          "listed_count": 12,
+          "media_count": 1491,
+          "tweet_count": 13613
+        },
+        "username": "maxweb00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T07:24:43.000Z",
+        "description": "X平台自费蓝V打工人 | 薅马斯克羊毛 & 分享实用心得 | 日常吐槽 + 互关交流，一起玩~🎉🚀",
+        "id": "1708378737572757504",
+        "location": "Central & Western District",
+        "name": "lucky",
+        "pinned_tweet_id": "2042236971293270359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034476460002717696/oZW91izC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3354,
+          "following_count": 3077,
+          "like_count": 8347,
+          "listed_count": 5,
+          "media_count": 104,
+          "tweet_count": 7002
+        },
+        "username": "ceramanna",
+        "verified": true
+      }
+    ]
+  }
+}

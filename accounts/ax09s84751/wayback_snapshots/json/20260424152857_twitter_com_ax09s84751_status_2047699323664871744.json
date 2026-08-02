@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047465804829245809",
+    "created_at": "2026-04-24T15:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047699323664871744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1607023699877847040",
+          "start": 0,
+          "username": "Erber42620269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047699323664871744",
+    "in_reply_to_user_id": "1607023699877847040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047465804829245809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erber42620269 你情感好细腻哇\n我肯定写不出来这么长的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2047461190503383040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoLGtdaQAAtoHo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1033,
+        "media_key": "3_2047465791596191744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoPSh3a4AAKq2k.jpg",
+        "width": 1320
+      },
+      {
+        "height": 528,
+        "media_key": "3_2047465791600422912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoPSh4bcAAD2Oy.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047465804829245809",
+        "created_at": "2026-04-24T15:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047699323664871744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1607023699877847040",
+              "start": 0,
+              "username": "Erber42620269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047699323664871744",
+        "in_reply_to_user_id": "1607023699877847040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047465804829245809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erber42620269 你情感好细腻哇\n我肯定写不出来这么长的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047461190503383040",
+            "3_2047465791596191744",
+            "3_2047465791600422912"
+          ]
+        },
+        "author_id": "1607023699877847040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047465804829245809",
+        "created_at": "2026-04-24T00:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:42:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047461198678077738",
+          "2047465804829245809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xP7jwpUDC0",
+              "end": 97,
+              "expanded_url": "https://x.com/Erber42620269/status/2047465804829245809/photo/1",
+              "media_key": "3_2047461190503383040",
+              "start": 74,
+              "url": "https://t.co/xP7jwpUDC0"
+            },
+            {
+              "display_url": "pic.x.com/xP7jwpUDC0",
+              "end": 97,
+              "expanded_url": "https://x.com/Erber42620269/status/2047465804829245809/photo/1",
+              "media_key": "3_2047465791596191744",
+              "start": 74,
+              "url": "https://t.co/xP7jwpUDC0"
+            },
+            {
+              "display_url": "pic.x.com/xP7jwpUDC0",
+              "end": 97,
+              "expanded_url": "https://x.com/Erber42620269/status/2047465804829245809/photo/1",
+              "media_key": "3_2047465791600422912",
+              "start": 74,
+              "url": "https://t.co/xP7jwpUDC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047465804829245809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "写在179fo之时\n首先感谢大家fo我。感受到了好多人的善意，让我觉得这个世界远没有想象中那么糟。来自素不相识的人的温暖，是我以前从来不敢想象的。\n为什么要特意写179这个数字呢——因为这是我知乎的fo数，也是我之前所有社交媒体里最多的。现在X追上来了，后面肯定会超过。这意味着我被更多人\"看见\"了。而\"被看见\"是一个很真实的需求，它的内核是被关注和被爱。我在知乎上每天水文章，感觉上来说大家关注的并不是我这个人，而是技术本身来着，我似乎只是技术附带的一个什么东西。而X给了我一个不被平台和期望绑架的机会。\n另外，X给我的感觉是很有生命力。每个人都很鲜活，大家都在认真地发疯（笑），或者说展示真实的自己。有些博主喜欢把\"全网xx千万粉丝\"挂在嘴上（当然没有说他们不好的意思），那会给人一种人被异化为数据的抽离感。而在这里，我看到的是多了一个fo，然后又多了一个。每一个背后都是真实的人，有自己鲜明的个性。你能看到他们不加掩饰的个性。\n我看到了很多有趣的人找我聊天，分享他们的一些看法，这很有意思。有看到我的介绍想要安慰我的，有只是想找我倾诉的，有觉得我是nontrivial的（我们可爱的紫老师）。这对我来说非常重要！在此欢迎大家多来找我聊天。\n179可能不算多，但对我来说真的很多了。高中一个班四五十人，这差不多有四个班；又或者是一个电影院的厅坐满了人。我日常说话的人不超过3个，网上聊天不超过10个，这已经是我社交的极限了。但是这里有这么多人，让我觉得也没那么糟糕。\n这篇拖着写了挺久的，现在可能不止179了，不过就这样吧，还是发出来了🥺"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 349,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "写在179fo之时\n首先感谢大家fo我。感受到了好多人的善意，让我觉得这个世界远没有想象中那么糟。来自素不相识的人的温暖，是我以前从来不敢想象的。 https://t.co/xP7jwpUDC0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 1293,
+          "like_count": 822,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-25T14:41:29.000Z",
+        "description": "含糖mtf｜泛性恋｜百合が大好き｜hrt 2026.3.11｜infp｜我真的很软很乖不信你可以rua一下｜欢迎互fo｜欢迎私聊我或者加我tg｜小号@Lumos634587",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Lumos634587"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/justdrowren",
+                "end": 23,
+                "expanded_url": "http://t.me/justdrowren",
+                "start": 0,
+                "url": "https://t.co/1PvSFTNDj9"
+              }
+            ]
+          }
+        },
+        "id": "1607023699877847040",
+        "name": "Wren🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2044893853233401885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986475417218523138/8O9RN2Xr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 593,
+          "like_count": 470,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/1PvSFTNDj9",
+        "username": "Erber42620269",
+        "verified": true
+      }
+    ]
+  }
+}

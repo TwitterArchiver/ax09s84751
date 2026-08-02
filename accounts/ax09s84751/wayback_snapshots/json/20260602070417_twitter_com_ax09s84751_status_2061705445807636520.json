@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2061705445807636520",
+    "created_at": "2026-06-02T07:04:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061705445807636520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761282483834998784",
+          "start": 3,
+          "username": "qiancongxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061705445807636520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061319007073181865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiancongxyn: 我爸觉得这医院真有病，居然迎合孩子想当女生的变态想法，就急着要我出院...\n\n好吧，至少能快点出院了...虽然我的豪赌结果是抽出了反对党...唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2061705445807636520",
+        "created_at": "2026-06-02T07:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061705445807636520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761282483834998784",
+              "start": 3,
+              "username": "qiancongxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061705445807636520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061319007073181865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiancongxyn: 我爸觉得这医院真有病，居然迎合孩子想当女生的变态想法，就急着要我出院...\n\n好吧，至少能快点出院了...虽然我的豪赌结果是抽出了反对党...唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761282483834998784",
+        "conversation_id": "2061319007073181865",
+        "created_at": "2026-06-01T05:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061319007073181865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiancongxyn/st…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/qiancongxyn/status/2061289590259175680",
+              "start": 73,
+              "url": "https://t.co/YM7uGHdEAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061319007073181865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4011,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061289590259175680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爸觉得这医院真有病，居然迎合孩子想当女生的变态想法，就急着要我出院...\n\n好吧，至少能快点出院了...虽然我的豪赌结果是抽出了反对党...唉 https://t.co/YM7uGHdEAL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 1827,
+          "like_count": 2756,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 2474
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家暴党｜😭 断糖 26.5.26\n高二物化生｜成绩倒数｜考虑休学\n爱哭+发牢骚｜负面帖垃圾桶｜觉得我傻逼就ban我\n不阔爱不pass｜缺爱想交朋友\n\n私信互fo｜友好相处｜喜欢我就关注下呗🥺\n对象 @xiaoyimiaoaaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "xiaoyimiaoaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060573450616664245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 897,
+          "like_count": 1502,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1339
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2038619176005411183",
+    "created_at": "2026-03-30T14:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038619176005411183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seeyouinthe299…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/seeyouinthe2999/status/2038601429825519912",
+          "start": 67,
+          "url": "https://t.co/MoyIKq6E1K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038619176005411183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038601429825519912",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我知道因为她的死\n你现在会有厌世的感觉。\n但其实不是国家的错误。。。\n人在愤怒时总想找一个对象发泄。\n希望你能找到正确的。(ノДＴ) https://t.co/MoyIKq6E1K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2038619176005411183",
+        "created_at": "2026-03-30T14:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038619176005411183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seeyouinthe299…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/seeyouinthe2999/status/2038601429825519912",
+              "start": 67,
+              "url": "https://t.co/MoyIKq6E1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038619176005411183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038601429825519912",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道因为她的死\n你现在会有厌世的感觉。\n但其实不是国家的错误。。。\n人在愤怒时总想找一个对象发泄。\n希望你能找到正确的。(ノДＴ) https://t.co/MoyIKq6E1K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2038601429825519912",
+        "created_at": "2026-03-30T12:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038601429825519912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038601429825519912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "霖没了时至如今已经死了太多人，他们为什么会成为如今这样子他们因为什么？因为这该死的社会，我曾发过誓不会发见证帖但是现在我的怒火已经无法容忍了。可以坦率的说造成这一切的罪魁祸首就是国家，就是世界上所有的国家不管是威权国家，法西斯国家还是民主国家，见下一个帖子续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf/爱看od圈/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 652,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 304
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "高中生 想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n同类来互fo捏 不实现无政府共产主义我就去死",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊(黑化版)无限默哀中",
+        "pinned_tweet_id": "2038609254941335615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 198,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 646
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      }
+    ]
+  }
+}

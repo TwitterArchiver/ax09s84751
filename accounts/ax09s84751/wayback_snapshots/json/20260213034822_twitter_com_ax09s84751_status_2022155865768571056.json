@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022155863025496066"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2022155865768571056",
+    "created_at": "2026-02-13T03:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022155865768571056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jD0LkIgHvu",
+          "end": 28,
+          "expanded_url": "https://x.com/ax09s84751/status/2022155865768571056/photo/1",
+          "media_key": "3_2022155863025496066",
+          "start": 5,
+          "url": "https://t.co/jD0LkIgHvu"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2022155865768571056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊... https://t.co/jD0LkIgHvu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2022155863025496066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAkCygbsAIm3eQ.jpg",
+        "width": 1280
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022155863025496066"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2022155865768571056",
+        "created_at": "2026-02-13T03:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022155865768571056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jD0LkIgHvu",
+              "end": 28,
+              "expanded_url": "https://x.com/ax09s84751/status/2022155865768571056/photo/1",
+              "media_key": "3_2022155863025496066",
+              "start": 5,
+              "url": "https://t.co/jD0LkIgHvu"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2022155865768571056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊... https://t.co/jD0LkIgHvu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 35,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

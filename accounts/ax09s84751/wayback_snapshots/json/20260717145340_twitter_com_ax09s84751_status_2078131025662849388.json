@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078036775642214401"
+      ],
+      "media_source_tweet_id": [
+        "2078036809377046925"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2078131025662849388",
+    "created_at": "2026-07-17T14:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078131025662849388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2001675650994999296",
+          "start": 3,
+          "username": "Pluralitysubsys"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eI2oe6ly64",
+          "end": 44,
+          "expanded_url": "https://x.com/Pluralitysubsys/status/2078036809377046925/photo/1",
+          "media_key": "3_2078036775642214401",
+          "start": 21,
+          "url": "https://t.co/eI2oe6ly64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078131025662849388",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078036809377046925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pluralitysubsys: https://t.co/eI2oe6ly64"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2078036775642214401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNarcAJaMAE_0Ng.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078036775642214401"
+          ]
+        },
+        "author_id": "2001675650994999296",
+        "conversation_id": "2078036809377046925",
+        "created_at": "2026-07-17T08:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078036809377046925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eI2oe6ly64",
+              "end": 23,
+              "expanded_url": "https://x.com/Pluralitysubsys/status/2078036809377046925/photo/1",
+              "media_key": "3_2078036775642214401",
+              "start": 0,
+              "url": "https://t.co/eI2oe6ly64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078036809377046925",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eI2oe6ly64"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078036775642214401"
+          ],
+          "media_source_tweet_id": [
+            "2078036809377046925"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2078131025662849388",
+        "created_at": "2026-07-17T14:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078131025662849388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2001675650994999296",
+              "start": 3,
+              "username": "Pluralitysubsys"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eI2oe6ly64",
+              "end": 44,
+              "expanded_url": "https://x.com/Pluralitysubsys/status/2078036809377046925/photo/1",
+              "media_key": "3_2078036775642214401",
+              "start": 21,
+              "url": "https://t.co/eI2oe6ly64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078131025662849388",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078036809377046925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pluralitysubsys: https://t.co/eI2oe6ly64"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2075833932537589993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 1797,
+          "like_count": 3181,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 2729
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "喜爱生物化学 | 渴望成为全知者 | HK | They | audhd | 道德感极强 | nssi | od | 绝不自杀 | 法外狂徒 | 精神状态疯癫 | 正经版：＠HK_narcotics117",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "HK_narcotics117"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/plurality…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/pluralitysubsystem2025personal",
+                "start": 0,
+                "url": "https://t.co/Bv5TPNjkK9"
+              }
+            ]
+          }
+        },
+        "id": "2001675650994999296",
+        "location": "全球最大的化工厂 A区第8期11栋0318室",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2074450342092443992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920070571335680/QMy39m02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 143,
+          "like_count": 2030,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 3340
+        },
+        "url": "https://t.co/Bv5TPNjkK9",
+        "username": "Pluralitysubsys",
+        "verified": false
+      }
+    ]
+  }
+}

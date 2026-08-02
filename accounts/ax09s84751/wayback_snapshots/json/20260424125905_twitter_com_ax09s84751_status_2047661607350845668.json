@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047631053851074964",
+    "created_at": "2026-04-24T12:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047661607350845668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1668693781791784961",
+          "start": 0,
+          "username": "yifu0753"
+        },
+        {
+          "end": 15,
+          "id": "1720665183188922368",
+          "start": 10,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047661607350845668",
+    "in_reply_to_user_id": "1668693781791784961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047631053851074964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yifu0753 @grok 该咋办？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047631053851074964",
+        "created_at": "2026-04-24T12:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047661607350845668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            },
+            {
+              "end": 15,
+              "id": "1720665183188922368",
+              "start": 10,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047661607350845668",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047631053851074964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 @grok 该咋办？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2047631053851074964",
+        "created_at": "2026-04-24T10:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047631053851074964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047631053851074964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过几天自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 1263,
+          "like_count": 817,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 931
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪 麻痹 ICU 药物中毒 重度抑郁 呼吸堵塞 | 现已恢复?  抑郁状态 好好活着 二氧化碳好似喵 MtF🏳️‍⚧️",
+        "id": "1668693781791784961",
+        "location": "深圳",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 972,
+          "like_count": 5299,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1258
+        },
+        "username": "yifu0753",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8571714,
+          "following_count": 4,
+          "like_count": 88,
+          "listed_count": 6679,
+          "media_count": 8859161,
+          "tweet_count": 123669030
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

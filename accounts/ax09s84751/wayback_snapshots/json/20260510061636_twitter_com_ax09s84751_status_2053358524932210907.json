@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2053358524932210907",
+    "created_at": "2026-05-10T06:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053358524932210907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1453575590729162758",
+          "start": 3,
+          "username": "obe_ZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053358524932210907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053339813651034291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @obe_ZX: 跨性别向好友出柜\n跨女：其实…我是跨性别\n好友：啊？可是我觉得你各方面都像一个很普通的女生啊，你为什么会想变成男生呢？\n跨男：其实…我是跨性别\n好友：我相信你一定会成为一个美丽的女生的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2053358524932210907",
+        "created_at": "2026-05-10T06:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053358524932210907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1453575590729162758",
+              "start": 3,
+              "username": "obe_ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053358524932210907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053339813651034291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @obe_ZX: 跨性别向好友出柜\n跨女：其实…我是跨性别\n好友：啊？可是我觉得你各方面都像一个很普通的女生啊，你为什么会想变成男生呢？\n跨男：其实…我是跨性别\n好友：我相信你一定会成为一个美丽的女生的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1453575590729162758",
+        "conversation_id": "2053339813651034291",
+        "created_at": "2026-05-10T05:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053339813651034291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053339813651034291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别向好友出柜\n跨女：其实…我是跨性别\n好友：啊？可是我觉得你各方面都像一个很普通的女生啊，你为什么会想变成男生呢？\n跨男：其实…我是跨性别\n好友：我相信你一定会成为一个美丽的女生的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 1568,
+          "like_count": 1435,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 1571
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季Trans girl | 持证但是DIY HRTing | 175/57kg | 尝试增肥ing | 疑似INFP",
+        "id": "1453575590729162758",
+        "location": "小骨灰盒",
+        "name": "栀子MOCHI 🍡🏳️‍⚧️",
+        "pinned_tweet_id": "2007341646145638708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399355464818688/q56FkSGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 526,
+          "like_count": 24382,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 2614
+        },
+        "username": "obe_ZX",
+        "verified": false
+      }
+    ]
+  }
+}

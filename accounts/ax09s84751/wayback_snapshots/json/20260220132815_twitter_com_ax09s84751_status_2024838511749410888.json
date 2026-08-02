@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024778336959160714",
+    "created_at": "2026-02-20T13:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T14:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024838511749410888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1605217334641455104",
+          "start": 0,
+          "username": "ataitftai"
+        },
+        {
+          "end": 27,
+          "id": "1983755008777838592",
+          "start": 11,
+          "username": "Droplet_Express"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024838511749410888",
+    "in_reply_to_user_id": "1605217334641455104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024813311968346147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ataitftai @Droplet_Express 按你这逻辑外国人用指南针也算靠中国证明地球是圆的呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024778336959160714",
+        "created_at": "2026-02-20T13:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024838511749410888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1605217334641455104",
+              "start": 0,
+              "username": "ataitftai"
+            },
+            {
+              "end": 27,
+              "id": "1983755008777838592",
+              "start": 11,
+              "username": "Droplet_Express"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024838511749410888",
+        "in_reply_to_user_id": "1605217334641455104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024813311968346147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ataitftai @Droplet_Express 按你这逻辑外国人用指南针也算靠中国证明地球是圆的呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605217334641455104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2024778336959160714",
+        "created_at": "2026-02-20T11:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024813311968346147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1983755008777838592",
+              "start": 0,
+              "username": "Droplet_Express"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024813311968346147",
+        "in_reply_to_user_id": "1983755008777838592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2822,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024778336959160714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Droplet_Express 可怜了，中国需要靠Grok才能证明自己🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 155,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 91
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T15:04:25.000Z",
+        "description": "vegetarian • harmony • no soda •\n素 • 和諧 • 不喝汽水",
+        "id": "1605217334641455104",
+        "location": "Kuala Lumpur City",
+        "name": "狸花不是喵",
+        "pinned_tweet_id": "1670459559939571714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637458558181871616/imft8Qn3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 145,
+          "like_count": 92528,
+          "listed_count": 6,
+          "media_count": 670,
+          "tweet_count": 28329
+        },
+        "username": "ataitftai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T04:37:22.000Z",
+        "description": "我感觉我又行了\n不太行小号@WallfacerO41419",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "WallfacerO41419"
+              }
+            ]
+          }
+        },
+        "id": "1983755008777838592",
+        "location": "上海",
+        "name": "红咖喱🚗🚗🚗",
+        "pinned_tweet_id": "2024048085408657879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008874514739089409/ua45H7SZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 431,
+          "like_count": 11760,
+          "listed_count": 15,
+          "media_count": 106,
+          "tweet_count": 2157
+        },
+        "username": "Droplet_Express",
+        "verified": false
+      }
+    ]
+  }
+}

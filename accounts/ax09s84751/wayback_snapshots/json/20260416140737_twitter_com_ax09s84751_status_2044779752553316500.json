@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2044739556122255612",
+    "created_at": "2026-04-16T14:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044779752553316500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 18,
+          "id": "1687566770763071489",
+          "start": 6,
+          "username": "Olebe179131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044779752553316500",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044779597351289332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @Olebe179131 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2044739556122255612",
+        "created_at": "2026-04-16T14:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044779752553316500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 18,
+              "id": "1687566770763071489",
+              "start": 6,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044779752553316500",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044779597351289332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @Olebe179131 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2044739556122255612",
+        "created_at": "2026-04-16T14:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044779597351289332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            },
+            {
+              "end": 24,
+              "id": "2022153081031733252",
+              "start": 13,
+              "username": "ax09s84751"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/premium_sign…",
+              "end": 156,
+              "expanded_url": "https://x.com/i/premium_sign_up?referring_page=grok-post-2044779571917336722",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2044406079531196416/4Dx4i_7y?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044406079531196416/4Dx4i_7y?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 133,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/IuptuUe3Yf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044779597351289332",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044779571917336722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 @ax09s84751 Ask Grok is currently available to Premium and Premium+ subscribers only. Subscribe to unlock this feature: https://t.co/IuptuUe3Yf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 793,
+          "like_count": 560,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8508401,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6589,
+          "media_count": 8828594,
+          "tweet_count": 122795498
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/精神不稳定/百合厨/二次元/已老实各位老公老婆主人求求了不要举报我喵！/玩很多二游:方舟(蒂厨)终末地(汤汤厨)重返未来1999(百合全磕，笔友组99)崩铁(阿那克萨戈拉斯单推，夏雅99)还玩蔚蓝档案和碧蓝航线\n欢迎互fo",
+        "id": "1687566770763071489",
+        "name": "多柔比星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040796432937193472/o7B7VSgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 515,
+          "like_count": 24856,
+          "listed_count": 0,
+          "media_count": 905,
+          "tweet_count": 3112
+        },
+        "username": "Olebe179131",
+        "verified": false
+      }
+    ]
+  }
+}

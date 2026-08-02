@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2045729604900470818",
+    "created_at": "2026-04-20T01:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T02:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046036463763300547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2021473672545087488",
+          "start": 0,
+          "username": "xiaochuan8688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046036463763300547",
+    "in_reply_to_user_id": "2021473672545087488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045729604900470818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaochuan8688 有公交车附近的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2045729604900470818",
+        "created_at": "2026-04-20T01:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046036463763300547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2021473672545087488",
+              "start": 0,
+              "username": "xiaochuan8688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046036463763300547",
+        "in_reply_to_user_id": "2021473672545087488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045729604900470818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaochuan8688 有公交车附近的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021473672545087488",
+        "conversation_id": "2045729604900470818",
+        "created_at": "2026-04-19T05:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045729604900470818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045729604900470818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 178282,
+          "like_count": 1563,
+          "quote_count": 0,
+          "reply_count": 179,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "早上挤公交，爆挤。\n\n一男子不小心撞了一女子，\n\n该女子回头厉声喝道：“三条腿你都站不稳？”\n\n顿时车内一片寂静。\n\n男子憋了一脸通红：“两张嘴说话就是狠！”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 1077,
+          "like_count": 729,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 803
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-11T06:37:43.000Z",
+        "description": "互联网快乐筛选器  \n段子｜热梗｜神级视频",
+        "id": "2021473672545087488",
+        "name": "Mr. 小川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021475288681742336/9ttqoPbH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3122,
+          "following_count": 2315,
+          "like_count": 2326,
+          "listed_count": 9,
+          "media_count": 27,
+          "tweet_count": 2988
+        },
+        "username": "xiaochuan8688",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2058066127427899531",
+    "created_at": "2026-05-23T06:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058066127427899531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058066127427899531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058033980826689539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @anblk984: 全体中国人听令\n从今天起\n炒股只用同花顺、东方财富、雪球、指南 针、大智慧\nAI只用豆包、DeepSeek、通义千问、文心 一言、Kimi、讯飞星火、腾讯元宝、智谱清 言、天工AI、MiniMax、阶跃星辰、百川 智能、零一万物、商量SenseCha…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2058066127427899531",
+        "created_at": "2026-05-23T06:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058066127427899531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058066127427899531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058033980826689539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @anblk984: 全体中国人听令\n从今天起\n炒股只用同花顺、东方财富、雪球、指南 针、大智慧\nAI只用豆包、DeepSeek、通义千问、文心 一言、Kimi、讯飞星火、腾讯元宝、智谱清 言、天工AI、MiniMax、阶跃星辰、百川 智能、零一万物、商量SenseCha…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103830967163117568",
+        "conversation_id": "2058033980826689539",
+        "created_at": "2026-05-23T03:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058033980826689539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058033980826689539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "全体中国人听令\n从今天起\n炒股只用同花顺、东方财富、雪球、指南 针、大智慧\nAI只用豆包、DeepSeek、通义千问、文心 一言、Kimi、讯飞星火、腾讯元宝、智谱清 言、天工AI、MiniMax、阶跃星辰、百川 智能、零一万物、商量SenseChat、海螺A 1、可灵AI、即梦AI、通义万相、文心一格\n银行只用招商银行、工商银行、建设银行、 农业银行、中国银行、交通银行、邮储银 行、中信银行、兴业银行、浦发银行、平安 银行、民生银行\n支付只用支付宝、微信支付、云闪付、京东 <、美团支付\n搜索只用百度、夸克、搜狗、360搜索、神 马搜索、微信搜一搜、小红书搜索、知乎搜索\n工作只用WPS、飞书、钉钉、企业微信、腾 讯文档、石墨文档、金山文档、语雀\n邮箱只用163、126、QQ邮箱、阿里邮箱、 网易企业邮箱、139邮箱、189邮箱、搜狐邮箱\n发帖只用微博、贴吧、知乎、小红书、豆 瓣、虎扑、NGA、B站动态、即刻\n装逼只用小红书,严肃装逼用知乎,抽象装 逼用微博,学术装逼用知网,朋友圈装逼用 九宫格\n看病只看中医,也认三甲医院、互联网医 院、社区医院、同仁堂、广誉远、片仔廣、 云南白药\n新闻只看新闻联播、央视新闻、人报 <社、光明日报、经济日报、澎 观察者网、环球时报\n学习只用学习强国、中国大学MOOC、学堂 在线、智慧树、超星学习通、网易公开课、 B站课堂、得到、喜马拉雅\n手机只用华为、荣耀、小米、OPPO、 vivo、一加、realme、魅族、中兴、努比 亚、红魔、联想拯救者\n电脑只用华为、联想、小米、荣耀、机械革 命、清华同方、方正、攀升、雷神\n系统只用鸿蒙、统信UOS、麒麟系统、 OpenEuler OpenHarmony\n浏览器只用夸克、QQ浏览器、360浏览器、 搜狗浏览器、UC浏览器、百度浏览器\n网盘只用百度网盘、阿里云盘、夸克网盘、 天翼云盘、和彩云、迅雷云盘\n地图只用高德地图、百度地图、腾讯地图、 北斗导航\n打车只用滴滴、高德打车、曹操出行、T3出 行、享道出行、首汽约车\n外卖只用美团、饿了么、京东到家、闪送、 顺丰同城\n购物只用淘宝、天猫、京东、拼多多、抖音 电商、快手小店、得物、唯品会、闲鱼\n买菜只用美团买菜、盒马、叮咚买菜、朴 朴、京东七鲜、多点、永辉生活\n社交只用微信、QQ、微博、小红书、知 乎、豆瓣、贴吧\n短视频只刷抖音、快手、视频号、B站、小 红书\n汽车只开比亚迪、问界、理想、蔚来、小 鹏、吉利、长城、奇瑞、长安、极氪、岚 图、腾势、阿维塔、小米汽车\n家电只用海尔、美的、格力、海信、TCL、 创维、老板、方太、九阳、苏泊尔、小\n运动只穿安踏、李宁、特步、361°、鸿星尔 克、匹克、回力、飞跃\n奶茶只喝蜜雪冰城、茶百道、霸王茶姬、古 茗、沪上阿姨、喜茶、奈雪、书亦烧仙草\n咖啡只喝瑞幸、库迪、Manner、M Stand 幸运咖\n快递只用顺丰、京东物流、中通、圆通、韵 达、申通、极兔、邮政EMS\n旅游只在国内,北上广深看繁华,江浙沪看 精致,川渝看烟火,西北看辽阔,东北看 雪,新疆看山河,西藏看信仰,云南看风花 雪月,海南看海,贵州看山水,内蒙古看草 原\n住宿只订携程、去哪儿、飞猪、同程、美 团、华住会、锦江、首旅如家、亚朵\n吃饭只认大众点评、美团、饿了么、小红书 探店"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2360,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "other",
+        "text": "全体中国人听令\n从今天起\n炒股只用同花顺、东方财富、雪球、指南 针、大智慧\nAI只用豆包、DeepSeek、通义千问、文心 一言、Kimi、讯飞星火、腾讯元宝、智谱清 言、天工AI、MiniMax、阶跃星辰、百川 智能、零一万物、商量SenseChat、海螺A 1、可灵AI、即梦AI、通义万相、文心一格"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 1716,
+          "like_count": 2352,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 2118
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/劳保爱鸟楠/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /有偿数学家教接单中 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14124,
+          "following_count": 995,
+          "like_count": 117678,
+          "listed_count": 70,
+          "media_count": 2822,
+          "tweet_count": 28660
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

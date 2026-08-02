@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024274461617254867",
+    "created_at": "2026-02-20T12:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024830970034356618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983458615961985024",
+          "start": 0,
+          "username": "ZXJ2350881"
+        },
+        {
+          "end": 23,
+          "id": "1963122622553612288",
+          "start": 12,
+          "username": "Davidwzjsh"
+        },
+        {
+          "end": 34,
+          "id": "53074745",
+          "start": 24,
+          "username": "ni1hannah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024830970034356618",
+    "in_reply_to_user_id": "1983458615961985024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024346932903293425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZXJ2350881 @Davidwzjsh @ni1hannah 谭浩强没发明C++大家都知道，但中文还真就是共产党帮忙简化的，你想拿这个类比啥，类比你自己没文化吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024274461617254867",
+        "created_at": "2026-02-20T12:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024830970034356618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983458615961985024",
+              "start": 0,
+              "username": "ZXJ2350881"
+            },
+            {
+              "end": 23,
+              "id": "1963122622553612288",
+              "start": 12,
+              "username": "Davidwzjsh"
+            },
+            {
+              "end": 34,
+              "id": "53074745",
+              "start": 24,
+              "username": "ni1hannah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024830970034356618",
+        "in_reply_to_user_id": "1983458615961985024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024346932903293425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZXJ2350881 @Davidwzjsh @ni1hannah 谭浩强没发明C++大家都知道，但中文还真就是共产党帮忙简化的，你想拿这个类比啥，类比你自己没文化吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983458615961985024",
+        "conversation_id": "2024274461617254867",
+        "created_at": "2026-02-19T04:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024346932903293425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1963122622553612288",
+              "start": 0,
+              "username": "Davidwzjsh"
+            },
+            {
+              "end": 22,
+              "id": "53074745",
+              "start": 12,
+              "username": "ni1hannah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024346932903293425",
+        "in_reply_to_user_id": "1963122622553612288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024330113681412371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Davidwzjsh @ni1hannah 中共发明了中文就跟谭浩强发明了C++一样可笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 155,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 87
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T08:59:30.000Z",
+        "description": "赛博张献忠二代目\n宇宙超级无敌找屎大王\n我草饲你的🐴",
+        "id": "1983458615961985024",
+        "name": "哈基米南北绿豆",
+        "pinned_tweet_id": "2022709748433592698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008134798540505088/E3tiLZPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 56,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2042
+        },
+        "username": "ZXJ2350881",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T06:11:30.000Z",
+        "description": "",
+        "id": "1963122622553612288",
+        "name": "D.W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012409203265355776/OQFesr5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1091
+        },
+        "username": "Davidwzjsh",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-02T14:19:51.000Z",
+        "description": "Math teacher. Former college professor from China. Ph.D, Blog writer. Bilingual tweets （English & Chinese) about education & culture. 英语学习， 美国生活、教育、文化资讯。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Hannahni7716?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@Hannahni7716?feature=shared",
+                "start": 0,
+                "url": "https://t.co/XGliNjlrU9"
+              }
+            ]
+          }
+        },
+        "id": "53074745",
+        "name": "Hannah倪妮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686183910365929472/HDQuIwNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16695,
+          "following_count": 2183,
+          "like_count": 3125,
+          "listed_count": 128,
+          "media_count": 461,
+          "tweet_count": 3230
+        },
+        "url": "https://t.co/XGliNjlrU9",
+        "username": "ni1hannah",
+        "verified": true
+      }
+    ]
+  }
+}

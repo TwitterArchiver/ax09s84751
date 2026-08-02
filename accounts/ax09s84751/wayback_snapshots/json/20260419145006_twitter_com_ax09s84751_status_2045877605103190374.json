@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045877462098423808",
+        "3_2045877591916388352"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2045877605103190374",
+    "created_at": "2026-04-19T14:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045877605103190374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wKgXcTRfXM",
+          "end": 34,
+          "expanded_url": "https://x.com/ax09s84751/status/2045877605103190374/photo/1",
+          "media_key": "3_2045877462098423808",
+          "start": 11,
+          "url": "https://t.co/wKgXcTRfXM"
+        },
+        {
+          "display_url": "pic.x.com/wKgXcTRfXM",
+          "end": 34,
+          "expanded_url": "https://x.com/ax09s84751/status/2045877605103190374/photo/1",
+          "media_key": "3_2045877591916388352",
+          "start": 11,
+          "url": "https://t.co/wKgXcTRfXM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045877605103190374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这tmd啥啊。。 。 https://t.co/wKgXcTRfXM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2045877462098423808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRqtlZasAA8tHO.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1042,
+        "media_key": "3_2045877591916388352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRq1JAboAAHz0L.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045877462098423808",
+            "3_2045877591916388352"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2045877605103190374",
+        "created_at": "2026-04-19T14:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045877605103190374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKgXcTRfXM",
+              "end": 34,
+              "expanded_url": "https://x.com/ax09s84751/status/2045877605103190374/photo/1",
+              "media_key": "3_2045877462098423808",
+              "start": 11,
+              "url": "https://t.co/wKgXcTRfXM"
+            },
+            {
+              "display_url": "pic.x.com/wKgXcTRfXM",
+              "end": 34,
+              "expanded_url": "https://x.com/ax09s84751/status/2045877605103190374/photo/1",
+              "media_key": "3_2045877591916388352",
+              "start": 11,
+              "url": "https://t.co/wKgXcTRfXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045877605103190374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这tmd啥啊。。 。 https://t.co/wKgXcTRfXM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 1054,
+          "like_count": 713,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

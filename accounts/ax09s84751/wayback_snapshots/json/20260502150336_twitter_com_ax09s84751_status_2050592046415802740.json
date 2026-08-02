@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050592037859463168"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2050592046415802740",
+    "created_at": "2026-05-02T15:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050592046415802740"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cXw5QLozLz",
+          "end": 23,
+          "expanded_url": "https://x.com/ax09s84751/status/2050592046415802740/photo/1",
+          "media_key": "3_2050592037859463168",
+          "start": 0,
+          "url": "https://t.co/cXw5QLozLz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050592046415802740",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/cXw5QLozLz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2050592037859463168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUqmAvbkAAmgX6.jpg",
+        "width": 293
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050592037859463168"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2050592046415802740",
+        "created_at": "2026-05-02T15:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050592046415802740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cXw5QLozLz",
+              "end": 23,
+              "expanded_url": "https://x.com/ax09s84751/status/2050592046415802740/photo/1",
+              "media_key": "3_2050592037859463168",
+              "start": 0,
+              "url": "https://t.co/cXw5QLozLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050592046415802740",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cXw5QLozLz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 1439,
+          "like_count": 952,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1318
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2054820082145259780",
+    "created_at": "2026-05-14T07:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054831687436247410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1385919167971282946",
+          "start": 0,
+          "username": "whyyoutangping"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2054831687436247410",
+    "in_reply_to_user_id": "1385919167971282946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054828571953430869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutangping 呃呃呃呃呃呃呃呃呃。。"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2054820082145259780",
+        "created_at": "2026-05-14T07:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054831687436247410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385919167971282946",
+              "start": 0,
+              "username": "whyyoutangping"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2054831687436247410",
+        "in_reply_to_user_id": "1385919167971282946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054828571953430869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutangping 呃呃呃呃呃呃呃呃呃。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385919167971282946",
+        "conversation_id": "2054820082145259780",
+        "created_at": "2026-05-14T07:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054828571953430869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054828571953430869",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054820082145259780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 没有我喵，那就不贴贴了😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtf🏳️‍⚧️？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 1632,
+          "like_count": 1930,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 1694
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-24T11:31:04.000Z",
+        "description": "无证含豆｜含豆日2026.4.2｜世界唯一豆娘｜04｜心情超棒（一直吃喵！）｜I人（友跨喵！）｜服用大豆异黄酮｜禁止涩涩｜也许是MTX？？？｜互fo喵！！！\n欢迎骚扰我喵：https://t.co/fmhkL0PNyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tangpingDN",
+                "end": 109,
+                "expanded_url": "http://t.me/tangpingDN",
+                "start": 86,
+                "url": "https://t.co/fmhkL0PNyb"
+              }
+            ]
+          }
+        },
+        "id": "1385919167971282946",
+        "location": "躺平星球",
+        "name": "𝑆𝑜𝑦𝑖𝑠𝑜～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050243518149636096/lalp9RN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 105,
+          "like_count": 1903,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 714
+        },
+        "username": "whyyoutangping",
+        "verified": true
+      }
+    ]
+  }
+}

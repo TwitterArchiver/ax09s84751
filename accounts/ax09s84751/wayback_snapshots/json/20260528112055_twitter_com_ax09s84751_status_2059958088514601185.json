@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2059958088514601185",
+    "created_at": "2026-05-28T11:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059958088514601185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1757760766357450752",
+          "start": 3,
+          "username": "yell_0502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059958088514601185",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5319
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059528899659513899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yell_0502: 학교에서 제일 싫어하는 것들\n-발표\n-발표\n-발표\n-발표\n-발표\n-발표\n-발표\n-발표\n-발표"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2059958088514601185",
+        "created_at": "2026-05-28T11:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059958088514601185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1757760766357450752",
+              "start": 3,
+              "username": "yell_0502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059958088514601185",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5319
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059528899659513899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yell_0502: 학교에서 제일 싫어하는 것들\n-발표\n-발표\n-발표\n-발표\n-발표\n-발표\n-발표\n-발표\n-발표"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757760766357450752",
+        "conversation_id": "2059528899659513899",
+        "created_at": "2026-05-27T06:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059528899659513899"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "019ed1552e140545"
+        },
+        "id": "2059528899659513899",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 339584,
+          "like_count": 20112,
+          "quote_count": 883,
+          "reply_count": 10,
+          "retweet_count": 5319
+        },
+        "reply_settings": "everyone",
+        "text": "학교에서 제일 싫어하는 것들\n-발표\n-발표\n-발표\n-발표\n-발표\n-발표\n-발표\n-발표\n-발표"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 1834,
+          "like_count": 2643,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 2316
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T13:36:56.000Z",
+        "description": "분노일상계 \n아 마라탕 먹고싶어",
+        "id": "1757760766357450752",
+        "location": "신세계의 신이 되는 그 날까지",
+        "name": "학교등교거부증",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035964474293944320/ehbHMXOG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 8,
+          "like_count": 2881,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 173
+        },
+        "username": "yell_0502",
+        "verified": false
+      }
+    ]
+  }
+}

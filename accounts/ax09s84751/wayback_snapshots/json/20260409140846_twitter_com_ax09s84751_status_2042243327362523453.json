@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042243327362523453",
+    "created_at": "2026-04-09T14:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042243327362523453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tanka_TWT/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/tanka_TWT/status/2042096281242497062",
+          "start": 8,
+          "url": "https://t.co/OnL2SfESOe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042243327362523453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042096281242497062",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神他妈经典常谈 https://t.co/OnL2SfESOe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042243327362523453",
+        "created_at": "2026-04-09T14:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042243327362523453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tanka_TWT/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/tanka_TWT/status/2042096281242497062",
+              "start": 8,
+              "url": "https://t.co/OnL2SfESOe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042243327362523453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042096281242497062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神他妈经典常谈 https://t.co/OnL2SfESOe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022980944723095552",
+        "conversation_id": "2042094817862414561",
+        "created_at": "2026-04-09T04:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042096281242497062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042096281242497062",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042094902096621580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 经典长谈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 673,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T10:27:07.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼\n丨ptsd 因創傷而躲藏\n丨FOW參與 接受藥物咨詢和投稿\n丨私信解锁RC菜单\n丨已逝的愛人@Edward_8964\n丨只是病弱小貓無法為任何言行負責 喜歡可以投餵\n丨有什么事跟1161说去吧！！\n丨提問https://t.co/Nz6tp4jrDq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hequanjingyin",
+                "end": 148,
+                "expanded_url": "https://ngl.link/hequanjingyin",
+                "start": 125,
+                "url": "https://t.co/Nz6tp4jrDq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/J3Aw5nOs0V"
+              }
+            ]
+          }
+        },
+        "id": "2022980944723095552",
+        "location": "🚪88/188無上限",
+        "name": "滅死炭",
+        "pinned_tweet_id": "2032439798405964212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030628768289812480/IQzPG9VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 282,
+          "like_count": 1393,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/J3Aw5nOs0V",
+        "username": "tanka_TWT",
+        "verified": false
+      }
+    ]
+  }
+}

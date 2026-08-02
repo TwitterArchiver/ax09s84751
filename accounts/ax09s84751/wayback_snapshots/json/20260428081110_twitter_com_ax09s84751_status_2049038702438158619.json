@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2049038702438158619",
+    "created_at": "2026-04-28T08:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T09:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049038702438158619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "大白话给你讲清楚，我觉得正确的做法应该是什么。 1. 正确的做法应该是什么？（详细版） 正确的做法不是喊口号、甩锅，而是老老实实把问题当问题解决，一步步来： 第一步：公开承认根源 直接说：躺平的主要原因是国内现实压力太大——房价高得离谱、努力了也买不起房、工资增长慢、内卷太狠、阶层流动越来越难、结婚生娃成本高、996文化压得人喘不过气。这些是实打实的结构性问题，不是年轻人“懒”或“被骗”。 第二步：真金白银的结构性改革（最核心） 住房：大力推保障性住房、严格限价、打击炒房，让年轻人能买得起或租得起房（不是口头“保交楼”）。 劳动权益：真正执行劳动法，严打996、强制加班，推行合理工时+加班费。 教育和就业：把内卷教育改成实用技能教育，减少“鸡娃”式竞争；同时大幅降低大学学费、提供更多高质量岗位补贴。 收入分配：提高最低工资、加强社保、给灵活就业人员更多保障，让“奋斗”真的有回报。 生育支持：真金白银的育儿补贴、产假延长、住房优惠，让年轻人敢生娃。 心理+文化层面：公开承认“躺平”是一种正常的社会压力反应，提供免费心理咨询、推广工作-生活平衡的文化，而不是把躺平定性成“国家安全问题”。 第三步：沟通方式要透明、真诚 用数据说话（比如公布真实青年失业率、房价收入比），邀请年轻人代表对话，听他们吐槽，然后把改进措施和时间表公开。不要动不动上升到“境外势力”或“意识形态斗争”。 第四步：长期监测和调整 每年发一份公开的“青年生活质量报告”，根据数据随时调整政策，像联合国/ILO建议的那样，把青年脱节当成经济+社会政策问题来解决，而不是政治问题。 这些做法在北欧、德国、日本（部分政策）都试过，效果是能把“躺平”情绪大幅降低，让年轻人重新看到希望。 2. 和他们现在的做法对比 现在的做法（国安部+宣传口）： 核心：把躺平定性为“境外反华势力大力资助网红洗脑”，上升到国家安全高度。 手段：发长文喊“警惕”、号召“擦亮双眼继续奋斗”、甩锅给看不见的敌人。 优点：成本极低、速度快、能短期制造紧张感和“团结”感。 缺点：完全回避国内真实原因，不需要改任何政策，不触动任何利益集团。 正确做法 vs 现在做法： 正确做法是面对镜子（承认自己治下的问题，然后改）。 现在做法是对着外面骂（找外部敌人，把锅甩出去）。 正确做法是真改结构（动房价、劳动法、分配），需要时间、勇气、得罪人。 现在做法",
+          "display_url": "x.com/i/grok/share/1…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/grok/share/111e2511176f412f81f717e2315277e9",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2049038707651715072/bmukbL78?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2049038707651715072/bmukbL78?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "那你觉得正确的做法应该是什么呀？详细点说，并且和他们现在的做法进行一个对比，然后再表达你的评价",
+          "unwound_url": "https://x.com/i/grok/share/111e2511176f412f81f717e2315277e9",
+          "url": "https://t.co/6eQTYRHJLh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049038702438158619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/6eQTYRHJLh \ngrok 说的真对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2049038702438158619",
+        "created_at": "2026-04-28T08:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049038702438158619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "大白话给你讲清楚，我觉得正确的做法应该是什么。 1. 正确的做法应该是什么？（详细版） 正确的做法不是喊口号、甩锅，而是老老实实把问题当问题解决，一步步来： 第一步：公开承认根源 直接说：躺平的主要原因是国内现实压力太大——房价高得离谱、努力了也买不起房、工资增长慢、内卷太狠、阶层流动越来越难、结婚生娃成本高、996文化压得人喘不过气。这些是实打实的结构性问题，不是年轻人“懒”或“被骗”。 第二步：真金白银的结构性改革（最核心） 住房：大力推保障性住房、严格限价、打击炒房，让年轻人能买得起或租得起房（不是口头“保交楼”）。 劳动权益：真正执行劳动法，严打996、强制加班，推行合理工时+加班费。 教育和就业：把内卷教育改成实用技能教育，减少“鸡娃”式竞争；同时大幅降低大学学费、提供更多高质量岗位补贴。 收入分配：提高最低工资、加强社保、给灵活就业人员更多保障，让“奋斗”真的有回报。 生育支持：真金白银的育儿补贴、产假延长、住房优惠，让年轻人敢生娃。 心理+文化层面：公开承认“躺平”是一种正常的社会压力反应，提供免费心理咨询、推广工作-生活平衡的文化，而不是把躺平定性成“国家安全问题”。 第三步：沟通方式要透明、真诚 用数据说话（比如公布真实青年失业率、房价收入比），邀请年轻人代表对话，听他们吐槽，然后把改进措施和时间表公开。不要动不动上升到“境外势力”或“意识形态斗争”。 第四步：长期监测和调整 每年发一份公开的“青年生活质量报告”，根据数据随时调整政策，像联合国/ILO建议的那样，把青年脱节当成经济+社会政策问题来解决，而不是政治问题。 这些做法在北欧、德国、日本（部分政策）都试过，效果是能把“躺平”情绪大幅降低，让年轻人重新看到希望。 2. 和他们现在的做法对比 现在的做法（国安部+宣传口）： 核心：把躺平定性为“境外反华势力大力资助网红洗脑”，上升到国家安全高度。 手段：发长文喊“警惕”、号召“擦亮双眼继续奋斗”、甩锅给看不见的敌人。 优点：成本极低、速度快、能短期制造紧张感和“团结”感。 缺点：完全回避国内真实原因，不需要改任何政策，不触动任何利益集团。 正确做法 vs 现在做法： 正确做法是面对镜子（承认自己治下的问题，然后改）。 现在做法是对着外面骂（找外部敌人，把锅甩出去）。 正确做法是真改结构（动房价、劳动法、分配），需要时间、勇气、得罪人。 现在做法",
+              "display_url": "x.com/i/grok/share/1…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/111e2511176f412f81f717e2315277e9",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2049038707651715072/bmukbL78?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049038707651715072/bmukbL78?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "那你觉得正确的做法应该是什么呀？详细点说，并且和他们现在的做法进行一个对比，然后再表达你的评价",
+              "unwound_url": "https://x.com/i/grok/share/111e2511176f412f81f717e2315277e9",
+              "url": "https://t.co/6eQTYRHJLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049038702438158619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6eQTYRHJLh \ngrok 说的真对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 1381,
+          "like_count": 905,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1146
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2056675166747529316",
+    "created_at": "2026-05-19T09:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056675166747529316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1261560609214087168",
+          "start": 3,
+          "username": "Cathy_eko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056675166747529316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056629048391221346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cathy_eko: mute一些trans关键词是对的，相关话题本身就会带来群体焦虑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2056675166747529316",
+        "created_at": "2026-05-19T09:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056675166747529316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1261560609214087168",
+              "start": 3,
+              "username": "Cathy_eko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056675166747529316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056629048391221346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cathy_eko: mute一些trans关键词是对的，相关话题本身就会带来群体焦虑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261560609214087168",
+        "conversation_id": "2056629048391221346",
+        "created_at": "2026-05-19T06:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056629048391221346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056629048391221346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 591,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "mute一些trans关键词是对的，相关话题本身就会带来群体焦虑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1696,
+          "like_count": 2230,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 2005
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "备用号@Cathylp1984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Cathylp1984"
+              }
+            ]
+          }
+        },
+        "id": "1261560609214087168",
+        "location": "弓張",
+        "name": "小学茜",
+        "pinned_tweet_id": "2054859575267131548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053372636898725888/9buW95xv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5023,
+          "following_count": 1403,
+          "like_count": 162915,
+          "listed_count": 58,
+          "media_count": 6145,
+          "tweet_count": 64918
+        },
+        "username": "Cathy_eko",
+        "verified": false
+      }
+    ]
+  }
+}

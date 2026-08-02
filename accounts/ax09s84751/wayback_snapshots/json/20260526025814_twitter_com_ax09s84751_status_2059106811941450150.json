@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2058576427386392878",
+    "created_at": "2026-05-26T02:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T03:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059106811941450150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "744901309132734465",
+          "start": 0,
+          "username": "TonyChe23982320"
+        },
+        {
+          "end": 32,
+          "id": "2041449281677045760",
+          "start": 17,
+          "username": "Sorcerer198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059106811941450150",
+    "in_reply_to_user_id": "744901309132734465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058955731995631972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TonyChe23982320 @Sorcerer198964 你好善良，抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2058576427386392878",
+        "created_at": "2026-05-26T02:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059106811941450150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "744901309132734465",
+              "start": 0,
+              "username": "TonyChe23982320"
+            },
+            {
+              "end": 32,
+              "id": "2041449281677045760",
+              "start": 17,
+              "username": "Sorcerer198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059106811941450150",
+        "in_reply_to_user_id": "744901309132734465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058955731995631972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TonyChe23982320 @Sorcerer198964 你好善良，抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "744901309132734465",
+        "conversation_id": "2058576427386392878",
+        "created_at": "2026-05-25T16:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058955731995631972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058955731995631972",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058576427386392878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer198964 他们只是一群缺爱的孩子，只是想被关注，只是博取关注的方式不讨喜，但是他们并没传播什么，找不到认可自己的人，摆脱不了现实的束缚，OD是他们唯一可以换个角度看待这个世界的方法，你可以不认同，但请别否定，不是每个人都有超越自身年纪的理解来跨越心理门槛的，祝你好运，也希望你永远没有他们的苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1796,
+          "like_count": 2489,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 2221
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-20T14:34:46.000Z",
+        "description": "",
+        "id": "744901309132734465",
+        "name": "Tony Cheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040859184925962240/zM1TiOD__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 81,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 172
+        },
+        "username": "TonyChe23982320",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 645,
+          "like_count": 739,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 1832
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2053053952770601169",
+    "created_at": "2026-05-09T10:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053053952770601169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/senzhiwu/statu…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/senzhiwu/status/2053053026953548099",
+          "start": 107,
+          "url": "https://t.co/nOPIoNYgDi"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2053053952770601169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053053026953548099",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘻嘻嘻…妳已经变成可爱的中国人妖了喵..世界上最可爱的群体喵，妳已经被东亚去雄计划洗脑成功了喵..妳的身体已经回不去了喵🤪你的未来已经有了喵..🤪妳要认清现实喵，立刻继续使用药物喵，并开始穿上美丽裙子喵～喵呜🤪🤪 https://t.co/nOPIoNYgDi"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2053053952770601169",
+        "created_at": "2026-05-09T10:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053053952770601169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/senzhiwu/statu…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/senzhiwu/status/2053053026953548099",
+              "start": 107,
+              "url": "https://t.co/nOPIoNYgDi"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2053053952770601169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053053026953548099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘻嘻嘻…妳已经变成可爱的中国人妖了喵..世界上最可爱的群体喵，妳已经被东亚去雄计划洗脑成功了喵..妳的身体已经回不去了喵🤪你的未来已经有了喵..🤪妳要认清现实喵，立刻继续使用药物喵，并开始穿上美丽裙子喵～喵呜🤪🤪 https://t.co/nOPIoNYgDi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031270533359349761",
+        "conversation_id": "2053053026953548099",
+        "created_at": "2026-05-09T10:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053053026953548099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hiyouneko/stat…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/hiyouneko/status/2051961238914248746",
+              "start": 108,
+              "url": "https://t.co/PBpMKQVVJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053053026953548099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051961238914248746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘻嘻嘻…妳已经变成可爱的中国人妖了喵..世界上最可爱的群体喵，妳已经被东亚去雄计划洗脑成功了喵..妳的身体已经回不去了喵😋你的未来已经有了喵..😋妳要认清现实喵，立刻继续使用药物喵，并开始穿上美丽裙子喵～喵呜🤤❤️ https://t.co/PBpMKQVVJ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 1542,
+          "like_count": 1349,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1554
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物吧（或许❓）生产日期2008（真的重要吗🤔）mtx小证含糖ing（我要大证喵😭）ENTP-T（不知道测了有啥用😇）hrt 3.29（未免太短了吧😡）🇲🇾留学生/常驻南京 欢迎来吉隆坡和南京找我玩喵（谁会跟长相顺男玩呢😭）主人 @zhandeng_（她胁迫我写的喵😭）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "zhandeng_"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2050233709190959151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047353915830882304/u21sPFyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 225,
+          "like_count": 1589,
+          "listed_count": 4,
+          "media_count": 67,
+          "tweet_count": 1579
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

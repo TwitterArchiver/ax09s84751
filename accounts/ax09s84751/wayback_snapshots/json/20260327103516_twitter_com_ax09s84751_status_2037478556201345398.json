@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2037078627305873810",
+    "created_at": "2026-03-27T10:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T11:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037478556201345398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1343151486432399360",
+          "start": 0,
+          "username": "StarryNocts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037478556201345398",
+    "in_reply_to_user_id": "1343151486432399360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037460590197973280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarryNocts 😢😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2037078627305873810",
+        "created_at": "2026-03-27T10:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037478556201345398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037478556201345398",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037460590197973280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 😢😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2037078627305873810",
+        "created_at": "2026-03-27T09:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037460590197973280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037460590197973280",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037078627305873810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 不要。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 530,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑拉满！！！｜淡推中｜致歉一切｜都是逃生舱@GrapeJellyCat @SharkyCola @WindyLuster\n对不起大家 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "GrapeJellyCat"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "SharkyCola"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 131,
+          "like_count": 813,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1728
+        },
+        "username": "StarryNocts",
+        "verified": false
+      }
+    ]
+  }
+}

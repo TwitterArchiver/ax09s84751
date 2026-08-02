@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047699686157623805",
+    "created_at": "2026-04-24T15:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047699686157623805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WujiChem/statu…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/WujiChem/status/2047621724775256507",
+          "start": 76,
+          "url": "https://t.co/AdtZWexlgX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047699686157623805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047621724775256507",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个非常有道理\n在神经科学来说，确实是这样的\n包括药物滥用什么的\n嗯，怎么说呢，确实是毁了一辈子\n但是很多时候是。可以，也是一种无奈的心情吧\n可以理解 https://t.co/AdtZWexlgX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047699686157623805",
+        "created_at": "2026-04-24T15:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047699686157623805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WujiChem/statu…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/WujiChem/status/2047621724775256507",
+              "start": 76,
+              "url": "https://t.co/AdtZWexlgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047699686157623805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047621724775256507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个非常有道理\n在神经科学来说，确实是这样的\n包括药物滥用什么的\n嗯，怎么说呢，确实是毁了一辈子\n但是很多时候是。可以，也是一种无奈的心情吧\n可以理解 https://t.co/AdtZWexlgX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038975737055543296",
+        "conversation_id": "2047621724775256507",
+        "created_at": "2026-04-24T10:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047621724775256507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_vvni_/status/…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/_vvni_/status/2047612127985258975",
+              "start": 112,
+              "url": "https://t.co/kbxc6nFdoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047621724775256507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2849,
+          "like_count": 51,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047612127985258975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "未成年人的大脑没有发育完全，如果他们前额叶、前扣带没有发育的时候有Porn addiction会永久性改变他们大脑的奖励通路\n\n他们成年以后会有更难的冲动控制、难以长时间保持注意力、对于需要无法即时满足与反馈的任务更难完成 https://t.co/kbxc6nFdoX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 1293,
+          "like_count": 822,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-31T13:44:41.000Z",
+        "description": "中國政治犯(CPPC编号：01154）｜反社會人格｜毫无同理心｜厭蠢症｜武士道｜☯️🧬無極的经理皆创始人｜ADHD",
+        "id": "2038975737055543296",
+        "name": "☯️🧬玄陽 AKA 葉經理",
+        "pinned_tweet_id": "2046977183034519644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046606935378767872/Ux18SO6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 72,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 298
+        },
+        "username": "WujiChem",
+        "verified": false
+      }
+    ]
+  }
+}

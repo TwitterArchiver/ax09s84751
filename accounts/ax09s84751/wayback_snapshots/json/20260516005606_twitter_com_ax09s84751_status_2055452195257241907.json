@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055183910355759202",
+    "created_at": "2026-05-16T00:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T01:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055452195257241907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1643490407094030338",
+          "start": 0,
+          "username": "Usam8964"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055452195257241907",
+    "in_reply_to_user_id": "1643490407094030338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055183910355759202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Usam8964 确实"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055183910355759202",
+        "created_at": "2026-05-16T00:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055452195257241907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055452195257241907",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055183910355759202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2055183910355759202",
+        "created_at": "2026-05-15T07:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055183910355759202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055183910355759202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1297,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "轻躁狂才是双相最爽的时候吧？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1657,
+          "like_count": 2068,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 1804
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3754,
+          "following_count": 1231,
+          "like_count": 59346,
+          "listed_count": 6,
+          "media_count": 511,
+          "tweet_count": 7170
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

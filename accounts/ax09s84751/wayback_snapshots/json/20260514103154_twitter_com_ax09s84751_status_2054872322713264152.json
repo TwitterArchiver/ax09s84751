@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2054846100352508003",
+    "created_at": "2026-05-14T10:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T11:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054872322713264152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "1ced79e46942159d"
+    },
+    "id": "2054872322713264152",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054846100352508003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS 这个吸收率啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2054846076591775744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRHnp9boAAtWby.jpg",
+        "width": 1271
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2054846076558135297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRHnp1aUAEuWQ1.jpg",
+        "width": 1246
+      }
+    ],
+    "places": [
+      {
+        "country": "Russia",
+        "country_code": "RU",
+        "full_name": "Богородск, Тульская область",
+        "geo": {
+          "bbox": [
+            38.0513,
+            53.7282856,
+            38.1738001,
+            53.7989
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "1ced79e46942159d",
+        "name": "Богородск",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2054846100352508003",
+        "created_at": "2026-05-14T10:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054872322713264152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "1ced79e46942159d"
+        },
+        "id": "2054872322713264152",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054846100352508003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 这个吸收率啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054846076591775744",
+            "3_2054846076558135297"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054846100352508003",
+        "created_at": "2026-05-14T08:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054846100352508003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbkRbqUsgm",
+              "end": 129,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2054846100352508003/photo/1",
+              "media_key": "3_2054846076591775744",
+              "start": 106,
+              "url": "https://t.co/zbkRbqUsgm"
+            },
+            {
+              "display_url": "pic.x.com/zbkRbqUsgm",
+              "end": 129,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2054846100352508003/photo/1",
+              "media_key": "3_2054846076558135297",
+              "start": 106,
+              "url": "https://t.co/zbkRbqUsgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054846100352508003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 983,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天化验怎么雌二醇更高了啊，每天1mg补每两天6.25mg色为啥雌还能将近五百。两个周前测的381还以为是之前每天2mg补没代谢完，测的都是谷值。该不会是咱的蛋蛋因为长时间被雌二醇腌制入味，已经变异成卵巢了吧😰 https://t.co/zbkRbqUsgm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtf🏳️‍⚧️？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1632,
+          "like_count": 1940,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4429,
+          "following_count": 3382,
+          "like_count": 1307,
+          "listed_count": 18,
+          "media_count": 245,
+          "tweet_count": 1676
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

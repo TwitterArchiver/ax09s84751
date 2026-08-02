@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2061631005682024714",
+    "created_at": "2026-06-02T02:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061631005682024714"
+    ],
+    "entities": {},
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2061631005682024714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "千万不要回复这条推文！也别手滑转发、长时间停留刷这条内容！\n \n一旦触碰这条帖子的互动按钮，隐藏的软萌魔法就会立刻生效✨\n头顶会悄悄冒出一对毛茸茸的猫耳，身后不受控制拖出蓬松的大尾巴，连说话的声线都会自动变成黏糊糊的奶猫音，句句都带着软乎乎的喵呜尾调。\n \n不管你之前是高冷酷哥、清冷御姐，还是不爱社交的摆烂党，通通都会变成黏人又爱撒娇的猫娘。\n会忍不住总想蹭手边的一切东西，看见小鱼干、奶糖这类图案就挪不开眼睛，刷推的时候会下意识蜷起身子揣手手，连打字的语气都会变得软乎乎的。\n \n好奇心真的会让你长出猫毛！\n管住你的手，别好奇回复，不然下一个被魔法缠上的毛茸茸猫娘，就是你啦🐱"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "千万不要回复这条推文！也别手滑转发、长时间停留刷这条内容！\n \n一旦触碰这条帖子的互动按钮，隐藏的软萌魔法就会立刻生效✨\n头顶会悄悄冒出一对毛茸茸的猫耳，身后不受控制拖出蓬松的大尾巴，连说话的声线都会自动变成黏糊糊的奶猫音，句句都带着软乎乎的喵呜尾调。"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2061631005682024714",
+        "created_at": "2026-06-02T02:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061631005682024714"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2061631005682024714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "千万不要回复这条推文！也别手滑转发、长时间停留刷这条内容！\n \n一旦触碰这条帖子的互动按钮，隐藏的软萌魔法就会立刻生效✨\n头顶会悄悄冒出一对毛茸茸的猫耳，身后不受控制拖出蓬松的大尾巴，连说话的声线都会自动变成黏糊糊的奶猫音，句句都带着软乎乎的喵呜尾调。\n \n不管你之前是高冷酷哥、清冷御姐，还是不爱社交的摆烂党，通通都会变成黏人又爱撒娇的猫娘。\n会忍不住总想蹭手边的一切东西，看见小鱼干、奶糖这类图案就挪不开眼睛，刷推的时候会下意识蜷起身子揣手手，连打字的语气都会变得软乎乎的。\n \n好奇心真的会让你长出猫毛！\n管住你的手，别好奇回复，不然下一个被魔法缠上的毛茸茸猫娘，就是你啦🐱"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "千万不要回复这条推文！也别手滑转发、长时间停留刷这条内容！\n \n一旦触碰这条帖子的互动按钮，隐藏的软萌魔法就会立刻生效✨\n头顶会悄悄冒出一对毛茸茸的猫耳，身后不受控制拖出蓬松的大尾巴，连说话的声线都会自动变成黏糊糊的奶猫音，句句都带着软乎乎的喵呜尾调。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 1826,
+          "like_count": 2741,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 2459
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

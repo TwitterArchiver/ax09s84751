@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2070449423411503427",
+    "created_at": "2026-06-26T10:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070449423411503427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "622036546",
+          "start": 3,
+          "username": "Overdose_Rx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070449423411503427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070388398687408225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Overdose_Rx: 化学极乐百科的使用体验日益恶化，其功能已显著偏离初衷，演变为论坛性质。我们呼吁支持精神药品百科。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2070449423411503427",
+        "created_at": "2026-06-26T10:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070449423411503427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "622036546",
+              "start": 3,
+              "username": "Overdose_Rx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070449423411503427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070388398687408225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Overdose_Rx: 化学极乐百科的使用体验日益恶化，其功能已显著偏离初衷，演变为论坛性质。我们呼吁支持精神药品百科。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2070388398687408225",
+        "created_at": "2026-06-26T06:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070388398687408225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070388398687408225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "化学极乐百科的使用体验日益恶化，其功能已显著偏离初衷，演变为论坛性质。我们呼吁支持精神药品百科。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echo42es"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2069963485296066978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065816996605005824/yyrl8vBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 1818,
+          "like_count": 3027,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 2640
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 · 减害信息 | 世另我 @sacred1124 | 官号 @Psycho_Wiki | 社群：https://t.co/uRB7PdGquY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "sacred1124"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "Psycho_Wiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/gfchxhnm",
+                "end": 125,
+                "expanded_url": "http://t.me/gfchxhnm",
+                "start": 102,
+                "url": "https://t.co/uRB7PdGquY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/726ooQNAiR"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名Shiina",
+        "pinned_tweet_id": "2068189223023477117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3005,
+          "following_count": 113,
+          "like_count": 11658,
+          "listed_count": 8,
+          "media_count": 719,
+          "tweet_count": 4261
+        },
+        "url": "https://t.co/726ooQNAiR",
+        "username": "Overdose_Rx",
+        "verified": false
+      }
+    ]
+  }
+}

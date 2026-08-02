@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048044652927078400"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047838497567117330",
+    "created_at": "2026-04-25T14:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048044664490705234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2016546965497212928",
+          "start": 0,
+          "username": "chen914103"
+        },
+        {
+          "end": 22,
+          "id": "1813561571941183488",
+          "start": 12,
+          "username": "care1337_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m5XcBB7Vgj",
+          "end": 46,
+          "expanded_url": "https://x.com/ax09s84751/status/2048044664490705234/photo/1",
+          "media_key": "3_2048044652927078400",
+          "start": 23,
+          "url": "https://t.co/m5XcBB7Vgj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048044664490705234",
+    "in_reply_to_user_id": "2016546965497212928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048043922195399015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen914103 @care1337_ https://t.co/m5XcBB7Vgj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1832,
+        "media_key": "3_2048044652927078400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwdwsXbUAA5DmR.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048044652927078400"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047838497567117330",
+        "created_at": "2026-04-25T14:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048044664490705234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2016546965497212928",
+              "start": 0,
+              "username": "chen914103"
+            },
+            {
+              "end": 22,
+              "id": "1813561571941183488",
+              "start": 12,
+              "username": "care1337_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m5XcBB7Vgj",
+              "end": 46,
+              "expanded_url": "https://x.com/ax09s84751/status/2048044664490705234/photo/1",
+              "media_key": "3_2048044652927078400",
+              "start": 23,
+              "url": "https://t.co/m5XcBB7Vgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048044664490705234",
+        "in_reply_to_user_id": "2016546965497212928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048043922195399015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen914103 @care1337_ https://t.co/m5XcBB7Vgj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016546965497212928",
+        "conversation_id": "2047838497567117330",
+        "created_at": "2026-04-25T14:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048043922195399015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            },
+            {
+              "end": 22,
+              "id": "1813561571941183488",
+              "start": 12,
+              "username": "care1337_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048043922195399015",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047857586813411505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 @care1337_ 强化中南海猛攻吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 1320,
+          "like_count": 837,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1011
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-28T16:20:50.000Z",
+        "description": "我永远都是中国人",
+        "id": "2016546965497212928",
+        "name": "少伦少圆脸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021953584485871620/gWgWsS3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 168,
+          "like_count": 4279,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 550
+        },
+        "username": "chen914103",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互关！男(ftm)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2048041538224287890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 251,
+          "like_count": 3892,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 1562
+        },
+        "username": "care1337_",
+        "verified": true
+      }
+    ]
+  }
+}

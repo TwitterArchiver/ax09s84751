@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058492778083188736"
+      ],
+      "media_source_tweet_id": [
+        "2058492786387943502"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2058743499336675538",
+    "created_at": "2026-05-25T02:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T03:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058743499336675538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1611246341728120835",
+          "start": 3,
+          "username": "Aureliax17QwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Io6QQ80VU4",
+          "end": 75,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2058492786387943502/photo/1",
+          "media_key": "3_2058492778083188736",
+          "start": 52,
+          "url": "https://t.co/Io6QQ80VU4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058743499336675538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058492786387943502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aureliax17QwQ: 冷知识：当你用［image］假装这是图片时\ngrok会假装看见（ https://t.co/Io6QQ80VU4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1674,
+        "media_key": "3_2058492778083188736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE8RnpbAAA6ijR.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058492778083188736"
+          ],
+          "media_source_tweet_id": [
+            "2058492786387943502"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2058743499336675538",
+        "created_at": "2026-05-25T02:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058743499336675538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1611246341728120835",
+              "start": 3,
+              "username": "Aureliax17QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Io6QQ80VU4",
+              "end": 75,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2058492786387943502/photo/1",
+              "media_key": "3_2058492778083188736",
+              "start": 52,
+              "url": "https://t.co/Io6QQ80VU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058743499336675538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058492786387943502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aureliax17QwQ: 冷知识：当你用［image］假装这是图片时\ngrok会假装看见（ https://t.co/Io6QQ80VU4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058492778083188736"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2058492786387943502",
+        "created_at": "2026-05-24T10:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058492786387943502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Io6QQ80VU4",
+              "end": 56,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2058492786387943502/photo/1",
+              "media_key": "3_2058492778083188736",
+              "start": 33,
+              "url": "https://t.co/Io6QQ80VU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058492786387943502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 93177,
+          "like_count": 349,
+          "quote_count": 5,
+          "reply_count": 43,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：当你用［image］假装这是图片时\ngrok会假装看见（ https://t.co/Io6QQ80VU4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1790,
+          "like_count": 2437,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2194
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2896,
+          "following_count": 687,
+          "like_count": 6602,
+          "listed_count": 7,
+          "media_count": 372,
+          "tweet_count": 2136
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

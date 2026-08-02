@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2058743415622533556",
+    "created_at": "2026-05-25T02:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T03:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058743415622533556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1443439089710092288",
+          "start": 3,
+          "username": "XiaYiGongHeQiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058743415622533556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058335150388466173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaYiGongHeQiu: 2026年了，衡水模式的热度在全国范围内褪去了吗，还有多少学校仍在实施衡水模式（特别是山河四省）？\n特别是衡水模式最火的那几年（也许是2015～2025年？），有多少好学生的身心健康被这种体制摧毁……\n读高中前是全班前十，读高中后是全班后…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2058743415622533556",
+        "created_at": "2026-05-25T02:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058743415622533556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1443439089710092288",
+              "start": 3,
+              "username": "XiaYiGongHeQiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058743415622533556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058335150388466173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaYiGongHeQiu: 2026年了，衡水模式的热度在全国范围内褪去了吗，还有多少学校仍在实施衡水模式（特别是山河四省）？\n特别是衡水模式最火的那几年（也许是2015～2025年？），有多少好学生的身心健康被这种体制摧毁……\n读高中前是全班前十，读高中后是全班后…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443439089710092288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2058335150388466173",
+        "created_at": "2026-05-23T23:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T00:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058335150388466173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058335150388466173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 12426,
+          "like_count": 183,
+          "quote_count": 3,
+          "reply_count": 57,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "2026年了，衡水模式的热度在全国范围内褪去了吗，还有多少学校仍在实施衡水模式（特别是山河四省）？\n特别是衡水模式最火的那几年（也许是2015～2025年？），有多少好学生的身心健康被这种体制摧毁……\n读高中前是全班前十，读高中后是全班后十+各种精神疾病+精神药品服用至今……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1790,
+          "like_count": 2430,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2189
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T04:54:53.000Z",
+        "description": "MtF🏳️‍⚧️｜Assistant Accountant candidate📜｜CPA candidate in the future📚｜ISTP\nサブ垢@XiaYGHQiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 78,
+                "username": "XiaYGHQiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiayigongheqiu.mysxl.cn",
+                "end": 23,
+                "expanded_url": "http://xiayigongheqiu.mysxl.cn",
+                "start": 0,
+                "url": "https://t.co/s94hBVliY8"
+              }
+            ]
+          }
+        },
+        "id": "1443439089710092288",
+        "location": "山東省煙臺市萊山區",
+        "name": "🦐虾球🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050800286068088832/y1fHTAAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 601,
+          "like_count": 21580,
+          "listed_count": 5,
+          "media_count": 156,
+          "tweet_count": 3600
+        },
+        "url": "https://t.co/s94hBVliY8",
+        "username": "XiaYiGongHeQiu",
+        "verified": false
+      }
+    ]
+  }
+}

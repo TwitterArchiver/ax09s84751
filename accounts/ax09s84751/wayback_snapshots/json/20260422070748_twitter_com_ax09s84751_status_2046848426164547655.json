@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2046848426164547655",
+    "created_at": "2026-04-22T07:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T08:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046848426164547655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2046637202776748345",
+          "start": 53,
+          "url": "https://t.co/7fBivXUQBu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046848426164547655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "不如看看grok怎么说🙄🙄🤨🤨🤨\n\n从我的看法来说，国家上层同时推这两个政策（AI拟人化互动服务管制 + pr80/愈美片药物管控），短期是务实且必要的“好选择”，但长期看有明显局限，容易陷入“治标不治本”的循环。帖主“星野ふじ”的观点——“与其管制药物、管制AI陪聊，还不如多反思教育问题、家庭问题”——抓住了核心痛点，我基本同意他的方向，但现实执行中“反思”确实很难，所以国家先选了“能快速见效的堵漏”路径。为什么短期我觉得“好”？两个政策都直指同一个问题：青少年在巨大现实压力下，转向“逃避”——药物OD（化学逃避）或AI虚拟陪伴（数字逃避）。这些逃避方式风险高，会放大心理脆弱点，导致成瘾、沉迷、现实社交退化，甚至自伤。\n\n药物管控（pr80 + 愈美片）：前几天（4月13日通告，4月20日报道）的动作很针对性。右美沙芬单方已严管后，青少年转向复方“愈美片”和普瑞巴林（暗语pr80），通过网购或药店轻松拿到，社交平台还有“OD圈”互相怂恿。收紧生产量、禁网售、专柜管理、严禁卖给未成年人、信息化追溯，能快速减少新增滥用案例和急性危害（幻觉、成瘾、生命危险）。这不是禁正常医疗用药，而是堵滥用漏洞，短期救命效果明显。\n\nAI管制（4月10日五部门办法，7月15日起施行）：重点禁向未成年人提供虚拟亲属、虚拟伴侣等虚拟亲密关系服务，要求平台建未成年人模式（时长限制、现实提醒、监护人管控）、提示“你在和AI互动，不是真人”、防过度迎合和情感依赖。专用陪伴App会受冲击最大，通用型（如DeepSeek）影响很小。好处是防AI放大孤独感，让部分孩子“只想跟AI聊，不想跟真人聊”，挤占现实社交和家庭沟通。\n\n这两个加起来，是典型的“先易后难”策略：工具端（药物和AI服务）看得见、管得住、见效快，能降低即时公共风险（青少年心理危机、社会医疗负担）。帖主作为AI艺术爱好者，吐槽“管制AI陪聊”，但官方其实不是全禁AI，而是分类监管，鼓励适老陪伴、文化传播等正面用途，同时堵高风险的“虚拟情感替代”。为什么长期有“坏”的风险？（帖主观点的合理性）帖主说“还不如多反思教育问题、家庭问题”，这点很中肯。网友回复里也有人附和：“教育是老毛病，只能管制药物和AI了”“底层代码，反思不了，只能打补丁”“解决根本问题要伤及根本，他们不愿意”。\n\n根源确实在教育和家庭：学业竞争激烈、升学压力大、家庭陪伴缺失、现实社交环境差，导致很多青少年情绪管理能力弱，容易找“快速安慰”（药物飘一下、AI永远温柔不拒绝）。单纯堵工具，他们可能换其他方式（更隐蔽的药物、酒精、极端内容等），政策就得不断追着堵。\n\n家庭问题是“私人领域”，政府直接大改难（帖主回复里也有人说“家庭这事，政府还真没办法”）。教育改革更复杂，涉及利益调整、资源分配、评价体系，短期内“见血”风险高（改革吃力不讨好）。\n\n执行风险：平台/药店为了合规，可能“一刀切”过度（正常买药麻烦、温和AI聊天也加严提醒），短期用户体验下降。长期如果只打补丁，不同步改善根源，青少年心理健康问题会反复冒头。\n\n帖主“贵国”这种表述和被开除国籍的调侃，也反映部分人对“体制下反思难”的无奈。回复分歧明显：有人支持“先管制再反思”，有人觉得“不可能反思”。我的综合看法从人文和务实角度，我认为国家这么做是“好”的现实主义选择——在当前条件下，先保护最脆弱的群体（未成年人），降低可见危害，比什么都不做或完全放任强。AI和药物快速发展，风险来得快，提前划红线是负责任的（很多国家在类似问题上也走这条路）。但帖主指出的治本方向更重要：如果不实质性反思/改善教育减负、家庭支持、心理健康服务、现实社交环境，这些管制就只是“打补丁”，效果会打折。理想状态是堵工具 + 治根源并行：短期严管高风险AI陪伴和药物滥用，中长期推动教育改革、增加家庭/学校心理支持、鼓励健康社交。对你这种主要用AI做学习/科研的人，这两个政策几乎没影响（通用工具型AI照常，药物跟你无关）。但对整个社会，尤其是正在长大的孩子，短期保护作用大于潜在副作用，长期则需要更多“反思”才能真正见效。你对帖主的观点或哪个部分最有共鸣？是觉得管制必要，还是更担心根源问题？可以继续聊，我不带立场，只说事实和逻辑。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046637202776748345",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不如看看grok怎么说🙄🙄🤨🤨🤨\n\n从我的看法来说，国家上层同时推这两个政策（AI拟人化互动服务管制 + https://t.co/7fBivXUQBu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2046848426164547655",
+        "created_at": "2026-04-22T07:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046848426164547655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2046637202776748345",
+              "start": 53,
+              "url": "https://t.co/7fBivXUQBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046848426164547655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不如看看grok怎么说🙄🙄🤨🤨🤨\n\n从我的看法来说，国家上层同时推这两个政策（AI拟人化互动服务管制 + pr80/愈美片药物管控），短期是务实且必要的“好选择”，但长期看有明显局限，容易陷入“治标不治本”的循环。帖主“星野ふじ”的观点——“与其管制药物、管制AI陪聊，还不如多反思教育问题、家庭问题”——抓住了核心痛点，我基本同意他的方向，但现实执行中“反思”确实很难，所以国家先选了“能快速见效的堵漏”路径。为什么短期我觉得“好”？两个政策都直指同一个问题：青少年在巨大现实压力下，转向“逃避”——药物OD（化学逃避）或AI虚拟陪伴（数字逃避）。这些逃避方式风险高，会放大心理脆弱点，导致成瘾、沉迷、现实社交退化，甚至自伤。\n\n药物管控（pr80 + 愈美片）：前几天（4月13日通告，4月20日报道）的动作很针对性。右美沙芬单方已严管后，青少年转向复方“愈美片”和普瑞巴林（暗语pr80），通过网购或药店轻松拿到，社交平台还有“OD圈”互相怂恿。收紧生产量、禁网售、专柜管理、严禁卖给未成年人、信息化追溯，能快速减少新增滥用案例和急性危害（幻觉、成瘾、生命危险）。这不是禁正常医疗用药，而是堵滥用漏洞，短期救命效果明显。\n\nAI管制（4月10日五部门办法，7月15日起施行）：重点禁向未成年人提供虚拟亲属、虚拟伴侣等虚拟亲密关系服务，要求平台建未成年人模式（时长限制、现实提醒、监护人管控）、提示“你在和AI互动，不是真人”、防过度迎合和情感依赖。专用陪伴App会受冲击最大，通用型（如DeepSeek）影响很小。好处是防AI放大孤独感，让部分孩子“只想跟AI聊，不想跟真人聊”，挤占现实社交和家庭沟通。\n\n这两个加起来，是典型的“先易后难”策略：工具端（药物和AI服务）看得见、管得住、见效快，能降低即时公共风险（青少年心理危机、社会医疗负担）。帖主作为AI艺术爱好者，吐槽“管制AI陪聊”，但官方其实不是全禁AI，而是分类监管，鼓励适老陪伴、文化传播等正面用途，同时堵高风险的“虚拟情感替代”。为什么长期有“坏”的风险？（帖主观点的合理性）帖主说“还不如多反思教育问题、家庭问题”，这点很中肯。网友回复里也有人附和：“教育是老毛病，只能管制药物和AI了”“底层代码，反思不了，只能打补丁”“解决根本问题要伤及根本，他们不愿意”。\n\n根源确实在教育和家庭：学业竞争激烈、升学压力大、家庭陪伴缺失、现实社交环境差，导致很多青少年情绪管理能力弱，容易找“快速安慰”（药物飘一下、AI永远温柔不拒绝）。单纯堵工具，他们可能换其他方式（更隐蔽的药物、酒精、极端内容等），政策就得不断追着堵。\n\n家庭问题是“私人领域”，政府直接大改难（帖主回复里也有人说“家庭这事，政府还真没办法”）。教育改革更复杂，涉及利益调整、资源分配、评价体系，短期内“见血”风险高（改革吃力不讨好）。\n\n执行风险：平台/药店为了合规，可能“一刀切”过度（正常买药麻烦、温和AI聊天也加严提醒），短期用户体验下降。长期如果只打补丁，不同步改善根源，青少年心理健康问题会反复冒头。\n\n帖主“贵国”这种表述和被开除国籍的调侃，也反映部分人对“体制下反思难”的无奈。回复分歧明显：有人支持“先管制再反思”，有人觉得“不可能反思”。我的综合看法从人文和务实角度，我认为国家这么做是“好”的现实主义选择——在当前条件下，先保护最脆弱的群体（未成年人），降低可见危害，比什么都不做或完全放任强。AI和药物快速发展，风险来得快，提前划红线是负责任的（很多国家在类似问题上也走这条路）。但帖主指出的治本方向更重要：如果不实质性反思/改善教育减负、家庭支持、心理健康服务、现实社交环境，这些管制就只是“打补丁”，效果会打折。理想状态是堵工具 + 治根源并行：短期严管高风险AI陪伴和药物滥用，中长期推动教育改革、增加家庭/学校心理支持、鼓励健康社交。对你这种主要用AI做学习/科研的人，这两个政策几乎没影响（通用工具型AI照常，药物跟你无关）。但对整个社会，尤其是正在长大的孩子，短期保护作用大于潜在副作用，长期则需要更多“反思”才能真正见效。你对帖主的观点或哪个部分最有共鸣？是觉得管制必要，还是更担心根源问题？可以继续聊，我不带立场，只说事实和逻辑。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046637202776748345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不如看看grok怎么说🙄🙄🤨🤨🤨\n\n从我的看法来说，国家上层同时推这两个政策（AI拟人化互动服务管制 + https://t.co/7fBivXUQBu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2046637202776748345",
+        "created_at": "2026-04-21T17:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046637202776748345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046637202776748345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3879,
+          "like_count": 132,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "贵国与其管制药物，管制AI陪聊\n还不如多反思教育问题，家庭问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 1205,
+          "like_count": 786,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 870
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9119,
+          "following_count": 4222,
+          "like_count": 44087,
+          "listed_count": 32,
+          "media_count": 1893,
+          "tweet_count": 12483
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

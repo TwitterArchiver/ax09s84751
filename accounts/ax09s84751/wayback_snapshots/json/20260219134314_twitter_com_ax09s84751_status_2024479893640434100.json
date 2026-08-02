@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024479893640434100",
+    "created_at": "2026-02-19T13:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024479893640434100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022153081031733252",
+          "start": 3,
+          "username": "ax09s84751"
+        },
+        {
+          "end": 28,
+          "id": "1953663148139196419",
+          "start": 16,
+          "username": "Syrfg891202"
+        },
+        {
+          "end": 40,
+          "id": "1581478431274983424",
+          "start": 29,
+          "username": "yoyobewild"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024479893640434100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024479872245203116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax09s84751: @Syrfg891202 @yoyobewild 你不挺共也不挺西方那你挺啥，挺空气吗，殖人眼里你是基本盘因为你屁股早歪了，把政府比医院你咋不把投票比挂号呢，你病了不能自己做手术但连哪个医生靠谱都不让问，还说什么想做医生先从学医做起，你自己对政治…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024479893640434100",
+        "created_at": "2026-02-19T13:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024479893640434100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022153081031733252",
+              "start": 3,
+              "username": "ax09s84751"
+            },
+            {
+              "end": 28,
+              "id": "1953663148139196419",
+              "start": 16,
+              "username": "Syrfg891202"
+            },
+            {
+              "end": 40,
+              "id": "1581478431274983424",
+              "start": 29,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024479893640434100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024479872245203116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax09s84751: @Syrfg891202 @yoyobewild 你不挺共也不挺西方那你挺啥，挺空气吗，殖人眼里你是基本盘因为你屁股早歪了，把政府比医院你咋不把投票比挂号呢，你病了不能自己做手术但连哪个医生靠谱都不让问，还说什么想做医生先从学医做起，你自己对政治…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024162805054918893",
+        "created_at": "2026-02-19T13:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024479872245203116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953663148139196419",
+              "start": 0,
+              "username": "Syrfg891202"
+            },
+            {
+              "end": 24,
+              "id": "1581478431274983424",
+              "start": 13,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024479872245203116",
+        "in_reply_to_user_id": "1953663148139196419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024415315783028848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Syrfg891202 @yoyobewild 你不挺共也不挺西方那你挺啥，挺空气吗，殖人眼里你是基本盘因为你屁股早歪了，把政府比医院你咋不把投票比挂号呢，你病了不能自己做手术但连哪个医生靠谱都不让问，还说什么想做医生先从学医做起，你自己对政治一窍不通倒指点江山，装什么人间清醒其实就是墙头草，最烦这种我谁也不站我最客观的虚伪样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 110,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 58
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T03:43:08.000Z",
+        "description": "",
+        "id": "1953663148139196419",
+        "name": "李璐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953663348928917506/eNu5BYnx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 101,
+          "like_count": 1652,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 174
+        },
+        "username": "Syrfg891202",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4637,
+          "following_count": 194,
+          "like_count": 32815,
+          "listed_count": 17,
+          "media_count": 363,
+          "tweet_count": 7566
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

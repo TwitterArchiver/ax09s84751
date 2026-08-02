@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047283490727813120",
+        "3_2047283490727899137"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047283510503993445",
+    "created_at": "2026-04-23T11:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047283510503993445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tEXTBqusYc",
+          "end": 164,
+          "expanded_url": "https://x.com/ax09s84751/status/2047283510503993445/photo/1",
+          "media_key": "3_2047283490727813120",
+          "start": 141,
+          "url": "https://t.co/tEXTBqusYc"
+        },
+        {
+          "display_url": "pic.x.com/tEXTBqusYc",
+          "end": 164,
+          "expanded_url": "https://x.com/ax09s84751/status/2047283510503993445/photo/1",
+          "media_key": "3_2047283490727899137",
+          "start": 141,
+          "url": "https://t.co/tEXTBqusYc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047283510503993445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "@豆包：我不躲，不避，不逃，不藏，给你一个最直接、最真相、最不绕弯、最扎心、最硬核、最干脆、最不墨迹、最戳痛点、最不留情面、最一针见血、最开门见山、最单刀直入、最不铺垫、最不客套、最不煽情、最不废话、最不拐弯、最不磨叽、最不装、最不端着、最不啰嗦、最不拖沓、最不委婉、最不掩饰、最不藏着掖着、最直白、最露骨、最实在、最通透、最毒辣、最爽快、最解气、最上头、最够劲、最过瘾、最粗暴、最有效、最狠、最准、最稳、最绝、最顶、最炸、最刚、最烈、最飒、最莽、最冲、最猛、最脆、最亮、最透、最干、最净、最利落、最霸道、最硬核、最生猛、最狂野、最直白、最粗暴、最不讲虚的、最不玩套路、最不搞形式、最不整虚头巴脑、最只讲干货、最只说重点、最只给结果、最只聊真相、最只谈核心、最只戳关键的答案：大的要来了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@豆包：我不躲，不避，不逃，不藏，给你一个最直接、最真相、最不绕弯、最扎心、最硬核、最干脆、最不墨迹、最戳痛点、最不留情面、最一针见血、最开门见山、最单刀直入、最不铺垫、最不客套、最不煽情、最不废话、最不拐弯、最不磨叽、最不装、最不端着、最不啰嗦、最不拖沓、最不委婉、最不掩饰、最 https://t.co/tEXTBqusYc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 560,
+        "media_key": "3_2047283490727813120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlpfONaYAAHaCY.jpg",
+        "width": 453
+      },
+      {
+        "height": 797,
+        "media_key": "3_2047283490727899137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlpfONbsAE_GjB.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047283490727813120",
+            "3_2047283490727899137"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047283510503993445",
+        "created_at": "2026-04-23T11:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047283510503993445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tEXTBqusYc",
+              "end": 164,
+              "expanded_url": "https://x.com/ax09s84751/status/2047283510503993445/photo/1",
+              "media_key": "3_2047283490727813120",
+              "start": 141,
+              "url": "https://t.co/tEXTBqusYc"
+            },
+            {
+              "display_url": "pic.x.com/tEXTBqusYc",
+              "end": 164,
+              "expanded_url": "https://x.com/ax09s84751/status/2047283510503993445/photo/1",
+              "media_key": "3_2047283490727899137",
+              "start": 141,
+              "url": "https://t.co/tEXTBqusYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047283510503993445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "@豆包：我不躲，不避，不逃，不藏，给你一个最直接、最真相、最不绕弯、最扎心、最硬核、最干脆、最不墨迹、最戳痛点、最不留情面、最一针见血、最开门见山、最单刀直入、最不铺垫、最不客套、最不煽情、最不废话、最不拐弯、最不磨叽、最不装、最不端着、最不啰嗦、最不拖沓、最不委婉、最不掩饰、最不藏着掖着、最直白、最露骨、最实在、最通透、最毒辣、最爽快、最解气、最上头、最够劲、最过瘾、最粗暴、最有效、最狠、最准、最稳、最绝、最顶、最炸、最刚、最烈、最飒、最莽、最冲、最猛、最脆、最亮、最透、最干、最净、最利落、最霸道、最硬核、最生猛、最狂野、最直白、最粗暴、最不讲虚的、最不玩套路、最不搞形式、最不整虚头巴脑、最只讲干货、最只说重点、最只给结果、最只聊真相、最只谈核心、最只戳关键的答案：大的要来了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@豆包：我不躲，不避，不逃，不藏，给你一个最直接、最真相、最不绕弯、最扎心、最硬核、最干脆、最不墨迹、最戳痛点、最不留情面、最一针见血、最开门见山、最单刀直入、最不铺垫、最不客套、最不煽情、最不废话、最不拐弯、最不磨叽、最不装、最不端着、最不啰嗦、最不拖沓、最不委婉、最不掩饰、最 https://t.co/tEXTBqusYc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 1232,
+          "like_count": 804,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 903
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

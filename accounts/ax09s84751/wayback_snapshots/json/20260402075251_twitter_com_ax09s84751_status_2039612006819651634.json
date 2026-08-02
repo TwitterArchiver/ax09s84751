@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2039612006819651634",
+    "created_at": "2026-04-02T07:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T08:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039612006819651634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2023691065266778112",
+          "start": 3,
+          "username": "dai_xiao76509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039612006819651634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039153782932766753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dai_xiao76509: 大家不要裸睡了 我一觉睡醒从我的屁眼里面扯出来了一根头发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2039612006819651634",
+        "created_at": "2026-04-02T07:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039612006819651634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2023691065266778112",
+              "start": 3,
+              "username": "dai_xiao76509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039612006819651634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039153782932766753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dai_xiao76509: 大家不要裸睡了 我一觉睡醒从我的屁眼里面扯出来了一根头发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023691065266778112",
+        "conversation_id": "2039153782932766753",
+        "created_at": "2026-04-01T01:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T02:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039153782932766753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039153782932766753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 435706,
+          "like_count": 1714,
+          "quote_count": 5,
+          "reply_count": 309,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "大家不要裸睡了 我一觉睡醒从我的屁眼里面扯出来了一根头发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 663,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T09:28:51.000Z",
+        "description": "老子不约炮\n我没起号 都是真事",
+        "id": "2023691065266778112",
+        "name": "小呆呆",
+        "pinned_tweet_id": "2034327808101740550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035033635699740672/nMsQWLAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 7,
+          "like_count": 51,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 86
+        },
+        "username": "dai_xiao76509",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024426107307471019",
+    "created_at": "2026-02-20T13:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T14:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024841905104994652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1956067020228722694",
+          "start": 0,
+          "username": "qin88484"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024841905104994652",
+    "in_reply_to_user_id": "1956067020228722694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024426107307471019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qin88484 出家人不沾钱财，所以专门雇人帮忙数是吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 686,
+        "media_key": "3_2024426100022026240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBg0z-XXoAABXeM.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024426107307471019",
+        "created_at": "2026-02-20T13:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024841905104994652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1956067020228722694",
+              "start": 0,
+              "username": "qin88484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024841905104994652",
+        "in_reply_to_user_id": "1956067020228722694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024426107307471019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qin88484 出家人不沾钱财，所以专门雇人帮忙数是吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024426100022026240"
+          ]
+        },
+        "author_id": "1956067020228722694",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024426107307471019",
+        "created_at": "2026-02-19T10:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024426107307471019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFs9JQj962",
+              "end": 60,
+              "expanded_url": "https://x.com/qin88484/status/2024426107307471019/photo/1",
+              "media_key": "3_2024426100022026240",
+              "start": 37,
+              "url": "https://t.co/MFs9JQj962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024426107307471019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 16770,
+          "like_count": 241,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "国家懒虫\n民间蛀虫\n色中饿鬼\n财上罗刹\n朱元璋评语，他自己当过和尚最了解 https://t.co/MFs9JQj962"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 154,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 94
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T18:55:26.000Z",
+        "description": "上帝即公义与爱 ，中国共产党是没有人民选票授权的非法政府，共产党是万恶之源，共产党是邪教组织，共产党用暴力谎言，反人类反人性的奴役中国人民。结束共产党统治，自由中国人民！",
+        "id": "1956067020228722694",
+        "name": "秦剑波",
+        "pinned_tweet_id": "2011929277806059702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011875887491530753/ckq42a-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7484,
+          "following_count": 361,
+          "like_count": 22505,
+          "listed_count": 47,
+          "media_count": 1363,
+          "tweet_count": 4194
+        },
+        "username": "qin88484",
+        "verified": true
+      }
+    ]
+  }
+}

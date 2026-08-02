@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2052703721801605186",
+    "created_at": "2026-05-08T10:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052703721801605186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789599446881513472",
+          "start": 3,
+          "username": "xchase173294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052703721801605186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052555331214114934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xchase173294: 所以户晨风这些观点有没有问题？\n\n1、中医，不科学。  \n\n2、不会英语，就是信息盲。  \n\n3、手机，只选苹果。  \n\n4、中餐，大多不健康。  \n\n5、油车买丰田，电车买特斯拉。  \n\n6、热水养生，是伪命题；粥是碳水陷阱。  \n\n8、小…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2052703721801605186",
+        "created_at": "2026-05-08T10:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052703721801605186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789599446881513472",
+              "start": 3,
+              "username": "xchase173294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052703721801605186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052555331214114934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xchase173294: 所以户晨风这些观点有没有问题？\n\n1、中医，不科学。  \n\n2、不会英语，就是信息盲。  \n\n3、手机，只选苹果。  \n\n4、中餐，大多不健康。  \n\n5、油车买丰田，电车买特斯拉。  \n\n6、热水养生，是伪命题；粥是碳水陷阱。  \n\n8、小…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789599446881513472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2052555331214114934",
+        "created_at": "2026-05-08T01:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T02:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052555331214114934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052555331214114934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "所以户晨风这些观点有没有问题？\n\n1、中医，不科学。  \n\n2、不会英语，就是信息盲。  \n\n3、手机，只选苹果。  \n\n4、中餐，大多不健康。  \n\n5、油车买丰田，电车买特斯拉。  \n\n6、热水养生，是伪命题；粥是碳水陷阱。  \n\n8、小城市，困不住年轻人，但会拖死你。  \n\n9、信息差，就是财富差；效率，比情绪重要；认知，比努力值钱。  \n\n12、稳定，是慢性淘汰；不进市场，就没价值。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 19552,
+          "like_count": 183,
+          "quote_count": 1,
+          "reply_count": 110,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "所以户晨风这些观点有没有问题？\n\n1、中医，不科学。  \n\n2、不会英语，就是信息盲。  \n\n3、手机，只选苹果。  \n\n4、中餐，大多不健康。  \n\n5、油车买丰田，电车买特斯拉。  \n\n6、热水养生，是伪命题；粥是碳水陷阱。  \n\n8、小城市，困不住年轻人，但会拖死你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 1506,
+          "like_count": 1277,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1508
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-12T10:12:25.000Z",
+        "description": "🚀985经济学本科在读\n🇸🇬非传统NUS留子\n👀现象思考、经济分析",
+        "id": "1789599446881513472",
+        "name": "Xu",
+        "pinned_tweet_id": "2042954888179781717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044695956634157056/gXVFkotO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 296,
+          "like_count": 3543,
+          "listed_count": 8,
+          "media_count": 424,
+          "tweet_count": 3236
+        },
+        "username": "xchase173294",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069877985524555776"
+      ],
+      "media_source_tweet_id": [
+        "2069963793824964861"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2070445249412178142",
+    "created_at": "2026-06-26T09:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070445249412178142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X9KVWSv1yL",
+          "end": 120,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2069963793824964861/photo/1",
+          "media_key": "3_2069877985524555776",
+          "start": 97,
+          "url": "https://t.co/X9KVWSv1yL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070445249412178142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069963793824964861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 6月24日，有网友发现，steam国区用户 已经无法在客户端 打开LGBTQ+标签页\n\n根据页面提示，相关内容因“违反当地法律法规而被标记为不当内容”。 https://t.co/X9KVWSv1yL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1001,
+        "media_key": "3_2069877985524555776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmvD6eXoAAOKJX.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069877985524555776"
+          ],
+          "media_source_tweet_id": [
+            "2069963793824964861"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2070445249412178142",
+        "created_at": "2026-06-26T09:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070445249412178142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X9KVWSv1yL",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2069963793824964861/photo/1",
+              "media_key": "3_2069877985524555776",
+              "start": 97,
+              "url": "https://t.co/X9KVWSv1yL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070445249412178142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069963793824964861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 6月24日，有网友发现，steam国区用户 已经无法在客户端 打开LGBTQ+标签页\n\n根据页面提示，相关内容因“违反当地法律法规而被标记为不当内容”。 https://t.co/X9KVWSv1yL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069877985524555776"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2069963793824964861",
+        "created_at": "2026-06-25T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069963793824964861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X9KVWSv1yL",
+              "end": 100,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2069963793824964861/photo/1",
+              "media_key": "3_2069877985524555776",
+              "start": 77,
+              "url": "https://t.co/X9KVWSv1yL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069963793824964861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 180509,
+          "like_count": 1010,
+          "quote_count": 12,
+          "reply_count": 111,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "6月24日，有网友发现，steam国区用户 已经无法在客户端 打开LGBTQ+标签页\n\n根据页面提示，相关内容因“违反当地法律法规而被标记为不当内容”。 https://t.co/X9KVWSv1yL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echo42es"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2069963485296066978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065816996605005824/yyrl8vBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 1817,
+          "like_count": 2984,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 2631
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238654,
+          "following_count": 1071,
+          "like_count": 9741,
+          "listed_count": 8800,
+          "media_count": 49266,
+          "tweet_count": 56437
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

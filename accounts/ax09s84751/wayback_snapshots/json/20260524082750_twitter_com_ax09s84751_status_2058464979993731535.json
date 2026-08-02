@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2058464979993731535",
+    "created_at": "2026-05-24T08:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058464979993731535"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/45_206MHz/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/45_206MHz/status/2058401864190992662",
+          "start": 4,
+          "url": "https://t.co/p3fXJvIUOJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058464979993731535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058401864190992662",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赢麻了 https://t.co/p3fXJvIUOJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2058464979993731535",
+        "created_at": "2026-05-24T08:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058464979993731535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/45_206MHz/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/45_206MHz/status/2058401864190992662",
+              "start": 4,
+              "url": "https://t.co/p3fXJvIUOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058464979993731535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058401864190992662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赢麻了 https://t.co/p3fXJvIUOJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "2058401864190992662",
+        "created_at": "2026-05-24T04:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058401864190992662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058401864190992662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 11181,
+          "like_count": 423,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "感觉你像是会一口一个“咱妈”“央妈”“六公主”“小日子““漂亮国”“兔子”“鹰酱”“斩杀线”“当日本人整”“棒子”“美爹”“湾湾”“丑国”“小韩”“县城”的那种人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 1747,
+          "like_count": 2410,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2172
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN / en-NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "45_206io"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 123,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 100,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2055643018267684993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2605,
+          "following_count": 495,
+          "like_count": 35109,
+          "listed_count": 1,
+          "media_count": 770,
+          "tweet_count": 4279
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

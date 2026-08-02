@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2061421991304049119",
+    "created_at": "2026-06-01T12:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T13:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061421991304049119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022153081031733252",
+          "start": 3,
+          "username": "ax09s84751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061421991304049119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060676697025040734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax09s84751: 嗯，幸存者偏差这个 可真让咱烦恼惹... 嗯... 只能看到，比我有钱的，比我pass的，比我过得好的，比我流量关注度更多的，可是，咱也是知道也有很多，推友天天徘徊在自杀线附近.... 嗯.. 天天饱受精神疾病的痛苦😣... 好想说的是我.. 最…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2061421991304049119",
+        "created_at": "2026-06-01T12:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061421991304049119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022153081031733252",
+              "start": 3,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061421991304049119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060676697025040734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax09s84751: 嗯，幸存者偏差这个 可真让咱烦恼惹... 嗯... 只能看到，比我有钱的，比我pass的，比我过得好的，比我流量关注度更多的，可是，咱也是知道也有很多，推友天天徘徊在自杀线附近.... 嗯.. 天天饱受精神疾病的痛苦😣... 好想说的是我.. 最…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2060676697025040734",
+        "created_at": "2026-05-30T10:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060676697025040734"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2060676697025040734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "嗯，幸存者偏差这个 可真让咱烦恼惹... 嗯... 只能看到，比我有钱的，比我pass的，比我过得好的，比我流量关注度更多的，可是，咱也是知道也有很多，推友天天徘徊在自杀线附近.... 嗯.. 天天饱受精神疾病的痛苦😣... 好想说的是我.. 最近怎么感觉精神状态越来越差了咪....\n\n嗯.. 人永远无法真正体会另一个人的痛苦......  可是咱会尽力的.. 尽力地活下去！! ...."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，幸存者偏差这个 可真让咱烦恼惹... 嗯... 只能看到，比我有钱的，比我pass的，比我过得好的，比我流量关注度更多的，可是，咱也是知道也有很多，推友天天徘徊在自杀线附近.... 嗯.. 天天饱受精神疾病的痛苦😣... 好想说的是我.. 最近怎么感觉精神状态越来越差了咪....\n\n嗯.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 1832,
+          "like_count": 2716,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 2444
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

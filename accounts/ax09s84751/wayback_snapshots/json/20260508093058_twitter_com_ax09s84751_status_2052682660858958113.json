@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Elder care",
+          "id": "847547735393710080",
+          "name": "Elder care"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Senior living",
+          "id": "847896601955770369",
+          "name": "Retired life"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Senior living",
+          "id": "847896601955770369",
+          "name": "Retired life"
+        }
+      }
+    ],
+    "conversation_id": "2052682660858958113",
+    "created_at": "2026-05-08T09:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T10:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052682660858958113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "35017335",
+          "start": 3,
+          "username": "DoctorLemma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052682660858958113",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9815
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052380032828428335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DoctorLemma: In Australia, a man named Alfie Date moved into a retirement home at the age of 109. About 12 hours after he arrived, two…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2052380023781216257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuEwfWWUAE-X4K.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Elder care",
+              "id": "847547735393710080",
+              "name": "Elder care"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          }
+        ],
+        "conversation_id": "2052682660858958113",
+        "created_at": "2026-05-08T09:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052682660858958113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "35017335",
+              "start": 3,
+              "username": "DoctorLemma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052682660858958113",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9815
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052380032828428335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DoctorLemma: In Australia, a man named Alfie Date moved into a retirement home at the age of 109. About 12 hours after he arrived, two…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052380023781216257"
+          ]
+        },
+        "author_id": "35017335",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1243199082996219905",
+              "name": "Nursing & nurses"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Elder care",
+              "id": "847547735393710080",
+              "name": "Elder care"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Needlework",
+              "id": "847869593674698752",
+              "name": "Needlework"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          }
+        ],
+        "conversation_id": "2052380032828428335",
+        "created_at": "2026-05-07T13:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052380032828428335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFdhBbgesL",
+              "end": 304,
+              "expanded_url": "https://x.com/DoctorLemma/status/2052380032828428335/photo/1",
+              "media_key": "3_2052380023781216257",
+              "start": 281,
+              "url": "https://t.co/JFdhBbgesL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052380032828428335",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "In Australia, a man named Alfie Date moved into a retirement home at the age of 109. About 12 hours after he arrived, two of the nurses came to his room and asked if he could knit. He could, he’d been at it since 1932.\n\nThey told him about a program asking volunteers to knit tiny woolen sweaters for an endangered species called Little Penguins. The sweaters stop oil-covered birds from cleaning themselves with their beaks during a spill, because the oil is toxic if they swallow it. Alfie said yes. He spent his last two years knitting hundreds of them. He was lost in 2016, at 110."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5537,
+          "impression_count": 2086898,
+          "like_count": 70543,
+          "quote_count": 466,
+          "reply_count": 466,
+          "retweet_count": 9815
+        },
+        "reply_settings": "everyone",
+        "text": "In Australia, a man named Alfie Date moved into a retirement home at the age of 109. About 12 hours after he arrived, two of the nurses came to his room and asked if he could knit. He could, he’d been at it since 1932.\n\nThey told him about a program asking volunteers to knit tiny https://t.co/JFdhBbgesL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 1507,
+          "like_count": 1270,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1503
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-24T19:41:32.000Z",
+        "description": "Uplifting history wonders: kindness, courage, animals & little-known stories that restore faith in humanity. I take occasional  animal Photos 📸",
+        "id": "35017335",
+        "name": "Dr. Lemma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042498100431110144/GBmNeTKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428621,
+          "following_count": 712,
+          "like_count": 4171,
+          "listed_count": 397,
+          "media_count": 768,
+          "tweet_count": 1307
+        },
+        "username": "DoctorLemma",
+        "verified": true
+      }
+    ]
+  }
+}

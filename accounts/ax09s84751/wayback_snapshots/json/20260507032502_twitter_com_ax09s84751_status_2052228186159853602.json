@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2052200143043383298",
+    "created_at": "2026-05-07T03:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T04:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052228186159853602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902217890738401281",
+          "start": 0,
+          "username": "Sylvviiae"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2052228186159853602",
+    "in_reply_to_user_id": "1902217890738401281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052213025407709504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sylvviiae 谢谢你☺️"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2052200143043383298",
+        "created_at": "2026-05-07T03:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052228186159853602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2052228186159853602",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052213025407709504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae 谢谢你☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2052200143043383298",
+        "created_at": "2026-05-07T02:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052213025407709504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052213025407709504",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052200143043383298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 人类不会和过去割席。中考分数高证明你有学习能力，休息一两年除了更自由、以后不会轻易被pua、更执着于探索自己之外基本上没有别的功效。学习不是唯一的出路，不工作也不会万劫不复。你或许还会回到课堂上，但是先睡一觉吧，希望你睁开眼之后可以不再恐惧🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 1482,
+          "like_count": 1135,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1437
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2046748938527772777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 468,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1141
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

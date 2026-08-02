@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2056629665809469890",
+    "created_at": "2026-05-19T06:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T07:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056629665809469890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761282483834998784",
+          "start": 3,
+          "username": "qiancongxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056629665809469890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056341726428865000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiancongxyn: 跨圈每隔一段时间就换一批人\n可怕..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2056629665809469890",
+        "created_at": "2026-05-19T06:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056629665809469890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761282483834998784",
+              "start": 3,
+              "username": "qiancongxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056629665809469890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056341726428865000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiancongxyn: 跨圈每隔一段时间就换一批人\n可怕..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761282483834998784",
+        "conversation_id": "2056341726428865000",
+        "created_at": "2026-05-18T11:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056341726428865000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TransCircleOrg…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/TransCircleOrg/status/2055975013145260489",
+              "start": 20,
+              "url": "https://t.co/X5hjggK9Ym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056341726428865000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1466,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055975013145260489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨圈每隔一段时间就换一批人\n可怕... https://t.co/X5hjggK9Ym"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1694,
+          "like_count": 2214,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 1998
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥hrt 26.2.21｜出厂 09.3.14｜无证含糖\n隐居两周归来～重新营业中!\n高二在读物化生｜班里倒数｜在考虑休学\n已炸柜呜🥺半家长党（？母亲友善父亲反对党）\n爱哭➕发牢骚｜不可爱不pass😭｜好想被爱❤️\n看成分fo...会block讨厌的人🚫直男和性压抑退散\n姐姐@xiaoyimiaoaaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 142,
+                "username": "xiaoyimiaoaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049365274881835008/cuwwHfF0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 642,
+          "like_count": 601,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 693
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2053314371770851824",
+    "created_at": "2026-05-10T03:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053314371770851824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1815379036782411776",
+          "start": 3,
+          "username": "bnbn26082698"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/SeAev",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/SeAev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053314371770851824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050896547546874158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bnbn26082698: 在一个新朋友对我的声音进行长达几分钟的研究后终于想来试试这个🧐哇哦\n念东西的时候如图一，平时说话是图二上下，开心的时候完全是图三，，原来我的本音居然还挺符合人设吗\n代价是跟着网上教程学伪音从来没成功过（） https://t.co/SeAev…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2050893835073654784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHY9E6-akAAq6om.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2050893834314506240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHY9E4Ja4AAyeQS.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2050893834331246592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHY9E4NaUAAWTVZ.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2053314371770851824",
+        "created_at": "2026-05-10T03:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053314371770851824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1815379036782411776",
+              "start": 3,
+              "username": "bnbn26082698"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/SeAev",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/SeAev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053314371770851824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050896547546874158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bnbn26082698: 在一个新朋友对我的声音进行长达几分钟的研究后终于想来试试这个🧐哇哦\n念东西的时候如图一，平时说话是图二上下，开心的时候完全是图三，，原来我的本音居然还挺符合人设吗\n代价是跟着网上教程学伪音从来没成功过（） https://t.co/SeAev…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050893835073654784",
+            "3_2050893834314506240",
+            "3_2050893834331246592"
+          ]
+        },
+        "author_id": "1815379036782411776",
+        "conversation_id": "2050896547546874158",
+        "created_at": "2026-05-03T11:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050896547546874158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SeAevPYUyh",
+              "end": 126,
+              "expanded_url": "https://x.com/bnbn26082698/status/2050896547546874158/photo/1",
+              "media_key": "3_2050893835073654784",
+              "start": 103,
+              "url": "https://t.co/SeAevPYUyh"
+            },
+            {
+              "display_url": "pic.x.com/SeAevPYUyh",
+              "end": 126,
+              "expanded_url": "https://x.com/bnbn26082698/status/2050896547546874158/photo/1",
+              "media_key": "3_2050893834314506240",
+              "start": 103,
+              "url": "https://t.co/SeAevPYUyh"
+            },
+            {
+              "display_url": "pic.x.com/SeAevPYUyh",
+              "end": 126,
+              "expanded_url": "https://x.com/bnbn26082698/status/2050896547546874158/photo/1",
+              "media_key": "3_2050893834331246592",
+              "start": 103,
+              "url": "https://t.co/SeAevPYUyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050896547546874158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在一个新朋友对我的声音进行长达几分钟的研究后终于想来试试这个🧐哇哦\n念东西的时候如图一，平时说话是图二上下，开心的时候完全是图三，，原来我的本音居然还挺符合人设吗\n代价是跟着网上教程学伪音从来没成功过（） https://t.co/SeAevPYUyh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 1555,
+          "like_count": 1398,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1565
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-22T13:31:14.000Z",
+        "description": "09/1/1？←(๑ت๑)→2024/7/28//MTF还是MTX呢难说哦",
+        "id": "1815379036782411776",
+        "location": "璃瑜三",
+        "name": "醒了就去璃瑜二（🍥—）鱼板棒棒糖ww~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024461832803799044/nPU131D-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 59,
+          "like_count": 7443,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 432
+        },
+        "username": "bnbn26082698",
+        "verified": false
+      }
+    ]
+  }
+}

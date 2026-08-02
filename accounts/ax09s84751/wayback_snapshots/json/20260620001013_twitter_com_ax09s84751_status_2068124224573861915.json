@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068124149634289664",
+        "3_2068124149625896960",
+        "3_2068124149600722944",
+        "3_2068124149600673792"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2068124224573861915",
+    "created_at": "2026-06-20T00:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T01:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068124224573861915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dnbxaVPdtI",
+          "end": 42,
+          "expanded_url": "https://x.com/ax09s84751/status/2068124224573861915/photo/1",
+          "media_key": "3_2068124149634289664",
+          "start": 19,
+          "url": "https://t.co/dnbxaVPdtI"
+        },
+        {
+          "display_url": "pic.x.com/dnbxaVPdtI",
+          "end": 42,
+          "expanded_url": "https://x.com/ax09s84751/status/2068124224573861915/photo/1",
+          "media_key": "3_2068124149625896960",
+          "start": 19,
+          "url": "https://t.co/dnbxaVPdtI"
+        },
+        {
+          "display_url": "pic.x.com/dnbxaVPdtI",
+          "end": 42,
+          "expanded_url": "https://x.com/ax09s84751/status/2068124224573861915/photo/1",
+          "media_key": "3_2068124149600722944",
+          "start": 19,
+          "url": "https://t.co/dnbxaVPdtI"
+        },
+        {
+          "display_url": "pic.x.com/dnbxaVPdtI",
+          "end": 42,
+          "expanded_url": "https://x.com/ax09s84751/status/2068124224573861915/photo/1",
+          "media_key": "3_2068124149600673792",
+          "start": 19,
+          "url": "https://t.co/dnbxaVPdtI"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "06abe7c8174aaf0f"
+    },
+    "id": "2068124224573861915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚起来，又做恶梦了，我恨你中式教育。 https://t.co/dnbxaVPdtI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [06abe7c8174aaf0f].",
+      "parameter": "geo.place_id",
+      "resource_id": "06abe7c8174aaf0f",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "06abe7c8174aaf0f"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1061,
+        "media_key": "3_2068124149634289664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNz9Opb0AALDYh.jpg",
+        "width": 1125
+      },
+      {
+        "height": 196,
+        "media_key": "3_2068124149625896960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNz9OnbwAA1htl.jpg",
+        "width": 257
+      },
+      {
+        "height": 184,
+        "media_key": "3_2068124149600722944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNz9OhboAAnM7g.jpg",
+        "width": 274
+      },
+      {
+        "height": 194,
+        "media_key": "3_2068124149600673792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNz9Oha4AABZ7f.jpg",
+        "width": 259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068124149634289664",
+            "3_2068124149625896960",
+            "3_2068124149600722944",
+            "3_2068124149600673792"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2068124224573861915",
+        "created_at": "2026-06-20T00:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068124224573861915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dnbxaVPdtI",
+              "end": 42,
+              "expanded_url": "https://x.com/ax09s84751/status/2068124224573861915/photo/1",
+              "media_key": "3_2068124149634289664",
+              "start": 19,
+              "url": "https://t.co/dnbxaVPdtI"
+            },
+            {
+              "display_url": "pic.x.com/dnbxaVPdtI",
+              "end": 42,
+              "expanded_url": "https://x.com/ax09s84751/status/2068124224573861915/photo/1",
+              "media_key": "3_2068124149625896960",
+              "start": 19,
+              "url": "https://t.co/dnbxaVPdtI"
+            },
+            {
+              "display_url": "pic.x.com/dnbxaVPdtI",
+              "end": 42,
+              "expanded_url": "https://x.com/ax09s84751/status/2068124224573861915/photo/1",
+              "media_key": "3_2068124149600722944",
+              "start": 19,
+              "url": "https://t.co/dnbxaVPdtI"
+            },
+            {
+              "display_url": "pic.x.com/dnbxaVPdtI",
+              "end": 42,
+              "expanded_url": "https://x.com/ax09s84751/status/2068124224573861915/photo/1",
+              "media_key": "3_2068124149600673792",
+              "start": 19,
+              "url": "https://t.co/dnbxaVPdtI"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "06abe7c8174aaf0f"
+        },
+        "id": "2068124224573861915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚起来，又做恶梦了，我恨你中式教育。 https://t.co/dnbxaVPdtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echo42es"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2062097916781797730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065816996605005824/yyrl8vBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 1826,
+          "like_count": 2943,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 2605
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

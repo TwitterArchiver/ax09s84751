@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047532387136119283",
+    "created_at": "2026-04-24T04:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047532387136119283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1641378826537295874",
+          "start": 3,
+          "username": "arena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047532387136119283",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047518354903359697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arena: Exciting news - DeepSeek V4 Pro is in the Arena with 1.6T parameters (49B activated) alongside V4 Flash at 284B parameters (13B…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_2047518034051637248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGo-zcLaoAATiKa.png",
+        "width": 805
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047532387136119283",
+        "created_at": "2026-04-24T04:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047532387136119283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1641378826537295874",
+              "start": 3,
+              "username": "arena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047532387136119283",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047518354903359697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arena: Exciting news - DeepSeek V4 Pro is in the Arena with 1.6T parameters (49B activated) alongside V4 Flash at 284B parameters (13B…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047518034051637248"
+          ]
+        },
+        "author_id": "1641378826537295874",
+        "conversation_id": "2047518354903359697",
+        "created_at": "2026-04-24T03:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047518354903359697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vInKhfk58x",
+              "end": 304,
+              "expanded_url": "https://x.com/arena/status/2047518354903359697/photo/1",
+              "media_key": "3_2047518034051637248",
+              "start": 281,
+              "url": "https://t.co/vInKhfk58x"
+            },
+            {
+              "display_url": "x.com/deepseek_ai/st…",
+              "end": 328,
+              "expanded_url": "https://twitter.com/deepseek_ai/status/2047516922263285776",
+              "start": 305,
+              "url": "https://t.co/JFXBNSl397"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047518354903359697",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 602,
+                "id": "1714580962569588736",
+                "start": 590,
+                "username": "DeepSeek_AI"
+              }
+            ]
+          },
+          "text": "Exciting news - DeepSeek V4 Pro is in the Arena with 1.6T parameters (49B activated) alongside V4 Flash at 284B parameters (13B activated). Both support 1M token context. It’s a major leap over DeepSeek V3.2!\n\nCode Arena:\n- DeepSeek V4 Pro (thinking): #3 open model (#14 overall), on par with GPT-5.4-high and Gemini-3.1-Pro in agentic webdev tasks\n\nText Arena:\n- DeepSeek V4 Pro (thinking): #2 open model (#14 overall), matching Kimi-2.6\n- DeepSeek V4 Flash (thinking): #10 open model (#47 overall)\n\nCompetition at the top of the open model leaderboards keeps heating up. Huge congrats to @DeepSeek_AI on the strong comeback!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 23387,
+          "like_count": 361,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047516922263285776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Exciting news - DeepSeek V4 Pro is in the Arena with 1.6T parameters (49B activated) alongside V4 Flash at 284B parameters (13B activated). Both support 1M token context. It’s a major leap over DeepSeek V3.2!\n\nCode Arena:\n- DeepSeek V4 Pro (thinking): #3 open model (#14 overall), https://t.co/vInKhfk58x https://t.co/JFXBNSl397"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 1233,
+          "like_count": 806,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 911
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-30T09:56:38.000Z",
+        "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "arena.ai/jobs",
+                "end": 166,
+                "expanded_url": "http://arena.ai/jobs",
+                "start": 143,
+                "url": "https://t.co/XBZCrseaWF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arena.ai",
+                "end": 23,
+                "expanded_url": "https://arena.ai",
+                "start": 0,
+                "url": "https://t.co/e6ZOLLZ9N1"
+              }
+            ]
+          }
+        },
+        "id": "1641378826537295874",
+        "location": "US",
+        "name": "Arena.ai",
+        "pinned_tweet_id": "2016577708831232140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150898,
+          "following_count": 211,
+          "like_count": 2292,
+          "listed_count": 1975,
+          "media_count": 1330,
+          "tweet_count": 3047
+        },
+        "url": "https://t.co/e6ZOLLZ9N1",
+        "username": "arena",
+        "verified": true
+      }
+    ]
+  }
+}

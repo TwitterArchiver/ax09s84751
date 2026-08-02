@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047318984304021504"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047318994273861663",
+    "created_at": "2026-04-23T14:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047318994273861663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JYmeJFloCr",
+          "end": 43,
+          "expanded_url": "https://x.com/ax09s84751/status/2047318994273861663/photo/1",
+          "media_key": "3_2047318984304021504",
+          "start": 20,
+          "url": "https://t.co/JYmeJFloCr"
+        },
+        {
+          "display_url": "x.com/roger73005305/…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/roger73005305/status/2047223160098140329",
+          "start": 44,
+          "url": "https://t.co/LyZ0sai77E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047318994273861663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047223160098140329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个梯子怎么样？ 我基本到哪我都会用的 https://t.co/JYmeJFloCr https://t.co/LyZ0sai77E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "3_2047318984304021504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmJxOFa0AArP2n.jpg",
+        "width": 160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047318984304021504"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047318994273861663",
+        "created_at": "2026-04-23T14:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047318994273861663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYmeJFloCr",
+              "end": 43,
+              "expanded_url": "https://x.com/ax09s84751/status/2047318994273861663/photo/1",
+              "media_key": "3_2047318984304021504",
+              "start": 20,
+              "url": "https://t.co/JYmeJFloCr"
+            },
+            {
+              "display_url": "x.com/roger73005305/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/roger73005305/status/2047223160098140329",
+              "start": 44,
+              "url": "https://t.co/LyZ0sai77E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047318994273861663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047223160098140329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个梯子怎么样？ 我基本到哪我都会用的 https://t.co/JYmeJFloCr https://t.co/LyZ0sai77E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280882761100910598",
+        "conversation_id": "2047223160098140329",
+        "created_at": "2026-04-23T07:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047223160098140329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047223160098140329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 152310,
+          "like_count": 248,
+          "quote_count": 3,
+          "reply_count": 233,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "推荐一下好用的VPN吧，\n试了几个都不好用🥺\n快连支持的登录终端太少了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 1232,
+          "like_count": 805,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 906
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-08T15:13:55.000Z",
+        "description": "#Bitget 邀请码(返30%):   tzda5052\n                        \nBG注册: https://t.co/J1UI3fIOix\n                \n油管:  https://t.co/k15aolLFUx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "Bitget"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "partner.hdmune.cn/bg/347h3dcz",
+                "end": 84,
+                "expanded_url": "http://partner.hdmune.cn/bg/347h3dcz",
+                "start": 61,
+                "url": "https://t.co/J1UI3fIOix"
+              },
+              {
+                "display_url": "youtube.com/@RogerDong2582",
+                "end": 130,
+                "expanded_url": "https://www.youtube.com/@RogerDong2582",
+                "start": 107,
+                "url": "https://t.co/k15aolLFUx"
+              }
+            ]
+          }
+        },
+        "id": "1280882761100910598",
+        "location": "Poland",
+        "name": "比特进",
+        "pinned_tweet_id": "1931179850963759553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045698627612606464/Cpzgcm8R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66556,
+          "following_count": 968,
+          "like_count": 9578,
+          "listed_count": 1217,
+          "media_count": 3837,
+          "tweet_count": 22365
+        },
+        "username": "roger73005305",
+        "verified": true
+      }
+    ]
+  }
+}

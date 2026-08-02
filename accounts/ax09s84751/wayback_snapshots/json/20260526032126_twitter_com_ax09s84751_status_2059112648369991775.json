@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2058970692847271951",
+    "created_at": "2026-05-26T03:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T04:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059112648369991775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059112648369991775",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058970692847271951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq 噢唉，我都我我都无所谓了，骂就骂了呗."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2058970692847271951",
+        "created_at": "2026-05-26T03:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059112648369991775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059112648369991775",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058970692847271951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq 噢唉，我都我我都无所谓了，骂就骂了呗."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2058970692847271951",
+        "created_at": "2026-05-25T17:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058970692847271951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058970692847271951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 991,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特还是比我的朋友圈包容得多的多。即使被骂也只是一笑而过的事，不会有人因为一句话就嘲笑我几个月。直至今日微信依然是我使用起来顾虑最多的地方。\n或许有一天我会连微信也换上这一套皮套，用我喜欢的方式来使用。站在刀锋之上\n但总之\n我喜欢这里。kksk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1799,
+          "like_count": 2524,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 2236
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友跨顺男@whatasiger｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "whatasiger"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 143,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 120,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3094,
+          "following_count": 1773,
+          "like_count": 6167,
+          "listed_count": 4,
+          "media_count": 599,
+          "tweet_count": 4431
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

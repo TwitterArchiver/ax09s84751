@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2059958996170379556",
+    "created_at": "2026-05-28T11:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059958996170379556"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059958996170379556",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {},
+      "text": "英语\n \nWith automatic translation available now, I can post tweets in different languages at any time？\n \n日语\n \n今では自動翻訳があるので、いつでも複数の言語でツイートを投稿できます？\n \n韩语\n \n자동 번역이 생긴 지금, 언제든지 여러 언어로 트윗을 올릴 수 있습니다？\n \n法语\n \nGrâce à la traduction automatique, je peux publier des tweets dans différentes langues à tout moment？\n \n西班牙语\n \nCon la traducción automática disponible, puedo publicar tuits en distintos idiomas en cualquier momento？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "英语\n \nWith automatic translation available now, I can post tweets in different languages at any time？\n \n日语\n \n今では自動翻訳があるので、いつでも複数の言語でツイートを投稿できます？\n \n韩语\n \n자동 번역이 생긴 지금, 언제든지 여러 언어로 트윗을 올릴 수 있습니다？\n \n法语\n \nGrâce à"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059958996170379556",
+        "created_at": "2026-05-28T11:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059958996170379556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059958996170379556",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "英语\n \nWith automatic translation available now, I can post tweets in different languages at any time？\n \n日语\n \n今では自動翻訳があるので、いつでも複数の言語でツイートを投稿できます？\n \n韩语\n \n자동 번역이 생긴 지금, 언제든지 여러 언어로 트윗을 올릴 수 있습니다？\n \n法语\n \nGrâce à la traduction automatique, je peux publier des tweets dans différentes langues à tout moment？\n \n西班牙语\n \nCon la traducción automática disponible, puedo publicar tuits en distintos idiomas en cualquier momento？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "英语\n \nWith automatic translation available now, I can post tweets in different languages at any time？\n \n日语\n \n今では自動翻訳があるので、いつでも複数の言語でツイートを投稿できます？\n \n韩语\n \n자동 번역이 생긴 지금, 언제든지 여러 언어로 트윗을 올릴 수 있습니다？\n \n法语\n \nGrâce à"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 1834,
+          "like_count": 2643,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 2318
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

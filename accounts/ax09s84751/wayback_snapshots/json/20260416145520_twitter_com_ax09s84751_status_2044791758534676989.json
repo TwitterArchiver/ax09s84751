@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2044791758534676989",
+    "created_at": "2026-04-16T14:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044791758534676989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Stanleysobest/…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/Stanleysobest/status/2044637809039007879",
+          "start": 25,
+          "url": "https://t.co/kZo2tE9ybY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044791758534676989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044637809039007879",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中心竟然是那个全国自杀率最高的湖北吗😲😲😲😨😨😨 https://t.co/kZo2tE9ybY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1461,
+        "media_key": "3_2044637794577121280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGADPcAbgAAjopL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2044791758534676989",
+        "created_at": "2026-04-16T14:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044791758534676989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Stanleysobest/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Stanleysobest/status/2044637809039007879",
+              "start": 25,
+              "url": "https://t.co/kZo2tE9ybY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044791758534676989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044637809039007879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中心竟然是那个全国自杀率最高的湖北吗😲😲😲😨😨😨 https://t.co/kZo2tE9ybY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044637794577121280"
+          ]
+        },
+        "author_id": "1479550299815645185",
+        "conversation_id": "2044637809039007879",
+        "created_at": "2026-04-16T04:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044637809039007879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iKGUeiavwI",
+              "end": 53,
+              "expanded_url": "https://x.com/Stanleysobest/status/2044637809039007879/photo/1",
+              "media_key": "3_2044637794577121280",
+              "start": 30,
+              "url": "https://t.co/iKGUeiavwI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044637809039007879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 346,
+          "impression_count": 378344,
+          "like_count": 1807,
+          "quote_count": 50,
+          "reply_count": 390,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "研究了一晚上，终于确定好全国旅游路线了！\n\n有旅游搭子么？ https://t.co/iKGUeiavwI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2044423846170877962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 827,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-07T20:27:57.000Z",
+        "description": "头部私域职业玩家，互联网风口项目推手",
+        "id": "1479550299815645185",
+        "name": "Stanley",
+        "pinned_tweet_id": "2004868035409313879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730639637599883265/KDOrRfwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36339,
+          "following_count": 1687,
+          "like_count": 24780,
+          "listed_count": 150,
+          "media_count": 4401,
+          "tweet_count": 29739
+        },
+        "username": "Stanleysobest",
+        "verified": true
+      }
+    ]
+  }
+}

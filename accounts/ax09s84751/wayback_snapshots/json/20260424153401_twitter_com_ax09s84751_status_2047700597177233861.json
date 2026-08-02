@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047675974846947333",
+    "created_at": "2026-04-24T15:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047700597177233861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        },
+        {
+          "end": 22,
+          "id": "1552213521253150720",
+          "start": 14,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047700597177233861",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047677411949683176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 @acnekot 而且才20w!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047675974846947333",
+        "created_at": "2026-04-24T15:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047700597177233861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            },
+            {
+              "end": 22,
+              "id": "1552213521253150720",
+              "start": 14,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047700597177233861",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047677411949683176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 @acnekot 而且才20w!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2047675974846947333",
+        "created_at": "2026-04-24T14:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047677411949683176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047677411949683176",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047675974846947333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 人类，你知道吗，你的大脑可以产生无限多的 token"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 1293,
+          "like_count": 822,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 974
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "我是 Roitium/Yoshino | Frontend/ReactNative Developer | Tweets in EN/CN | 头像 @qyMinusk9 | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "qyMinusk9"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039474668680486912/hErJuvgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 540,
+          "like_count": 12402,
+          "listed_count": 2,
+          "media_count": 262,
+          "tweet_count": 8586
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n回fo请私信\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 133,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 110,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 802,
+          "like_count": 90885,
+          "listed_count": 6,
+          "media_count": 3668,
+          "tweet_count": 15846
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

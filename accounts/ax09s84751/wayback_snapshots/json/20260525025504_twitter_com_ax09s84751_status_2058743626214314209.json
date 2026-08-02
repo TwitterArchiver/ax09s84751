@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058557833071718400"
+      ],
+      "media_source_tweet_id": [
+        "2058557847068176704"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2058743626214314209",
+    "created_at": "2026-05-25T02:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T03:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058743626214314209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993455710274043905",
+          "start": 3,
+          "username": "satireorcry1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BVCeqCoWGo",
+          "end": 70,
+          "expanded_url": "https://x.com/satireorcry1/status/2058557847068176704/photo/1",
+          "media_key": "3_2058557833071718400",
+          "start": 47,
+          "url": "https://t.co/BVCeqCoWGo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058743626214314209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058557847068176704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satireorcry1: 冷知识：Google在中国大陆还在运营着一个搜索门户网站 https://t.co/BVCeqCoWGo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 935,
+        "media_key": "3_2058557833071718400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJF3cUXWcAAjIMm.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058557833071718400"
+          ],
+          "media_source_tweet_id": [
+            "2058557847068176704"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2058743626214314209",
+        "created_at": "2026-05-25T02:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058743626214314209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993455710274043905",
+              "start": 3,
+              "username": "satireorcry1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BVCeqCoWGo",
+              "end": 70,
+              "expanded_url": "https://x.com/satireorcry1/status/2058557847068176704/photo/1",
+              "media_key": "3_2058557833071718400",
+              "start": 47,
+              "url": "https://t.co/BVCeqCoWGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058743626214314209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058557847068176704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satireorcry1: 冷知识：Google在中国大陆还在运营着一个搜索门户网站 https://t.co/BVCeqCoWGo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058557833071718400"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2058557847068176704",
+        "created_at": "2026-05-24T14:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058557847068176704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BVCeqCoWGo",
+              "end": 52,
+              "expanded_url": "https://x.com/satireorcry1/status/2058557847068176704/photo/1",
+              "media_key": "3_2058557833071718400",
+              "start": 29,
+              "url": "https://t.co/BVCeqCoWGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058557847068176704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 115231,
+          "like_count": 243,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：Google在中国大陆还在运营着一个搜索门户网站 https://t.co/BVCeqCoWGo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1790,
+          "like_count": 2444,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2201
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvog37z"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31431,
+          "following_count": 1615,
+          "like_count": 18833,
+          "listed_count": 74,
+          "media_count": 4095,
+          "tweet_count": 5735
+        },
+        "url": "https://t.co/EYxWvog37z",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

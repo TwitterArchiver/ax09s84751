@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970807742962323456"
+      ],
+      "media_source_tweet_id": [
+        "1970808226854957227"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024854809514492371",
+    "created_at": "2026-02-20T14:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T15:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024854809514492371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1706259950530396160",
+          "start": 3,
+          "username": "waster8345"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d7XMJSkReF",
+          "end": 46,
+          "expanded_url": "https://x.com/waster8345/status/1970808226854957227/photo/1",
+          "media_key": "3_1970807742962323456",
+          "start": 23,
+          "url": "https://t.co/d7XMJSkReF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024854809514492371",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970808226854957227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @waster8345: 普瑞巴林之神 https://t.co/d7XMJSkReF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1970807742962323456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1m3M0_b0AA8-og.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970807742962323456"
+          ],
+          "media_source_tweet_id": [
+            "1970808226854957227"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024854809514492371",
+        "created_at": "2026-02-20T14:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024854809514492371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1706259950530396160",
+              "start": 3,
+              "username": "waster8345"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7XMJSkReF",
+              "end": 46,
+              "expanded_url": "https://x.com/waster8345/status/1970808226854957227/photo/1",
+              "media_key": "3_1970807742962323456",
+              "start": 23,
+              "url": "https://t.co/d7XMJSkReF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024854809514492371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970808226854957227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @waster8345: 普瑞巴林之神 https://t.co/d7XMJSkReF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970807742962323456"
+          ]
+        },
+        "author_id": "1706259950530396160",
+        "conversation_id": "1970808226854957227",
+        "created_at": "2025-09-24T11:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T12:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970808226854957227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7XMJSkReF",
+              "end": 30,
+              "expanded_url": "https://x.com/waster8345/status/1970808226854957227/photo/1",
+              "media_key": "3_1970807742962323456",
+              "start": 7,
+              "url": "https://t.co/d7XMJSkReF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970808226854957227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 19355,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林之神 https://t.co/d7XMJSkReF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 164,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 103
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-25T10:51:02.000Z",
+        "description": "=West/乏 只要让我知道你在叫我|genderqueer|any pronouns|全然的Juggalo小丑迷|我不知道这他妈都是些什么|互fo说一声",
+        "id": "1706259950530396160",
+        "name": "世界不是他妈围着你转的",
+        "pinned_tweet_id": "1996949104874967411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997286753338793985/uQ0dUIv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 34,
+          "like_count": 502,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 101
+        },
+        "username": "waster8345",
+        "verified": false
+      }
+    ]
+  }
+}

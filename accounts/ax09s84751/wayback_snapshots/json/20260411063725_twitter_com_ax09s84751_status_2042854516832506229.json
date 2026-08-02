@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042568672917823562",
+    "created_at": "2026-04-11T06:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042854516832506229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainBuild_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042854516832506229",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042568672917823562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainBuild_2024 gd是什么意思啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042568672917823562",
+        "created_at": "2026-04-11T06:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042854516832506229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042854516832506229",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042568672917823562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainBuild_2024 gd是什么意思啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2042568672917823562",
+        "created_at": "2026-04-10T11:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042568672917823562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jaciezyt/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Jaciezyt/status/2042536926004359630",
+              "start": 16,
+              "url": "https://t.co/6gkDsiFgwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042568672917823562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2471,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042536926004359630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前看过了，越看越gd怎么办（ https://t.co/6gkDsiFgwA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 680,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 517
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/喜欢的事就要做到极致",
+        "id": "1810873766119100416",
+        "name": "晴日向",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9524,
+          "following_count": 906,
+          "like_count": 73679,
+          "listed_count": 18,
+          "media_count": 1475,
+          "tweet_count": 10463
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      }
+    ]
+  }
+}

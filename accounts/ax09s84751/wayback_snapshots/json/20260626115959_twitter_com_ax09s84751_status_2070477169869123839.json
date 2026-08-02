@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2070477169869123839",
+    "created_at": "2026-06-26T11:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070477169869123839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/45_206MHz/stat…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/45_206MHz/status/2070472590368587784",
+          "start": 65,
+          "url": "https://t.co/9SDDPyuZal"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070477169869123839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070472590368587784",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男孩子千万不要去卖淫，别信那些来钱快的鬼话\n那其实是万丈深渊，卖的是尊严，耗的是青春\n靠双手挣钱才踏实，身体和自尊比什么都值钱！ https://t.co/9SDDPyuZal"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2070477169869123839",
+        "created_at": "2026-06-26T11:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070477169869123839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/45_206MHz/stat…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/45_206MHz/status/2070472590368587784",
+              "start": 65,
+              "url": "https://t.co/9SDDPyuZal"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070477169869123839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070472590368587784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男孩子千万不要去卖淫，别信那些来钱快的鬼话\n那其实是万丈深渊，卖的是尊严，耗的是青春\n靠双手挣钱才踏实，身体和自尊比什么都值钱！ https://t.co/9SDDPyuZal"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "2070472590368587784",
+        "created_at": "2026-06-26T11:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070472590368587784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070472590368587784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男孩子千万不要去卖淫，别信那些来钱快的鬼话\n那其实是万丈深渊，卖的是尊严，耗的是青春\n靠双手挣钱才踏实，身体和自尊比什么都值钱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echo42es"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2069963485296066978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065816996605005824/yyrl8vBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 1818,
+          "like_count": 3039,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 2643
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN / en-NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "45_206io"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 112,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 89,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x45_206mhz",
+                "end": 23,
+                "expanded_url": "https://t.me/x45_206mhz",
+                "start": 0,
+                "url": "https://t.co/eEc1irn5gW"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2055643018267684993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3132,
+          "following_count": 498,
+          "like_count": 37393,
+          "listed_count": 1,
+          "media_count": 821,
+          "tweet_count": 4558
+        },
+        "url": "https://t.co/eEc1irn5gW",
+        "username": "45_206MHz",
+        "verified": true
+      }
+    ]
+  }
+}

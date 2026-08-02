@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049844166893715456"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2049495221994737850",
+    "created_at": "2026-04-30T13:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T14:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049844259017384444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yf9m1gmEVz",
+          "end": 59,
+          "expanded_url": "https://x.com/ax09s84751/status/2049844259017384444/photo/1",
+          "media_key": "3_2049844166893715456",
+          "start": 36,
+          "url": "https://t.co/yf9m1gmEVz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049844259017384444",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049495221994737850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 Deepseek V4 Pro 生成的 https://t.co/yf9m1gmEVz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2700,
+        "media_key": "3_2049844166893715456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKCaMSbQAAWrhX.jpg",
+        "width": 1224
+      },
+      {
+        "height": 1041,
+        "media_key": "3_2049495112728936448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFE8kMbgAArAQF.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049844166893715456"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2049495221994737850",
+        "created_at": "2026-04-30T13:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049844259017384444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yf9m1gmEVz",
+              "end": 59,
+              "expanded_url": "https://x.com/ax09s84751/status/2049844259017384444/photo/1",
+              "media_key": "3_2049844166893715456",
+              "start": 36,
+              "url": "https://t.co/yf9m1gmEVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049844259017384444",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049495221994737850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 Deepseek V4 Pro 生成的 https://t.co/yf9m1gmEVz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049495112728936448"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2049495221994737850",
+        "created_at": "2026-04-29T14:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049495221994737850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXgqO7bRgp",
+              "end": 66,
+              "expanded_url": "https://x.com/Rococo90933671/status/2049495221994737850/photo/1",
+              "media_key": "3_2049495112728936448",
+              "start": 43,
+              "url": "https://t.co/hXgqO7bRgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049495221994737850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5408,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "看到躺平话题流行，想起了鲁迅的这段话，就在豆包试了一下。\n\n好吧，咱们做自己就行…… https://t.co/hXgqO7bRgp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 1423,
+          "like_count": 935,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1277
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11055,
+          "following_count": 3008,
+          "like_count": 36881,
+          "listed_count": 36,
+          "media_count": 3830,
+          "tweet_count": 21129
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

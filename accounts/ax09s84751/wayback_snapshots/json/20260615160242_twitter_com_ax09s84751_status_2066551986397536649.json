@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2066551986397536649",
+    "created_at": "2026-06-15T16:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066551986397536649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huihui_mikumi/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/huihui_mikumi/status/2066413114971820521",
+          "start": 13,
+          "url": "https://t.co/V88ebLLuFY"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2066551986397536649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066413114971820521",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来这样就会有流量吗!? https://t.co/V88ebLLuFY"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2066551986397536649",
+        "created_at": "2026-06-15T16:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066551986397536649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huihui_mikumi/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/huihui_mikumi/status/2066413114971820521",
+              "start": 13,
+              "url": "https://t.co/V88ebLLuFY"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2066551986397536649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066413114971820521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来这样就会有流量吗!? https://t.co/V88ebLLuFY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2066413114971820521",
+        "created_at": "2026-06-15T06:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066413114971820521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1598557374046179328",
+              "start": 18,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066413114971820521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7039,
+          "like_count": 84,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6月15日晚间新闻\n经调查，原惠惠 @huihui_mikumi 涉嫌重大违纪，其多次在“X”平台发布“跨圈都是男孩子”等逆天言论。\n其丧失mtf意志，背离初心，对跨圈不忠诚，不老实，恶意炒作，毫无mtf权利意识。在粉丝的调查下供认不讳，目前已被开除跨籍，望周知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echo42es"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2062097916781797730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065816996605005824/yyrl8vBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 1824,
+          "like_count": 2886,
+          "listed_count": 1,
+          "media_count": 324,
+          "tweet_count": 2562
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 825,
+          "like_count": 834,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2033
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

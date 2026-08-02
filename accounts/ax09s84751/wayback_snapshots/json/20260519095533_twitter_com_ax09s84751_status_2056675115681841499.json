@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2056675115681841499",
+    "created_at": "2026-05-19T09:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056675115681841499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TransYuwen/sta…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/TransYuwen/status/2056531111904415940",
+          "start": 34,
+          "url": "https://t.co/rONXE25DbY"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2056675115681841499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056531111904415940",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我这辈子不会碰这玩意儿。\n呕呕呕呕呕呕呕呕呕呕呕呕呕呕呕呕呕呕呕呕 https://t.co/rONXE25DbY"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2056675115681841499",
+        "created_at": "2026-05-19T09:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056675115681841499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TransYuwen/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/TransYuwen/status/2056531111904415940",
+              "start": 34,
+              "url": "https://t.co/rONXE25DbY"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2056675115681841499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056531111904415940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这辈子不会碰这玩意儿。\n呕呕呕呕呕呕呕呕呕呕呕呕呕呕呕呕呕呕呕呕 https://t.co/rONXE25DbY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054877291633909760",
+        "conversation_id": "2056531111904415940",
+        "created_at": "2026-05-19T00:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056531111904415940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056531111904415940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我发现大家有个误区：\n\n“只要在圆角 乱交 群交前每个人都测了四联试纸 就没事了”\n\n其实这相当错误，就拿艾滋病来说 感染者通常有3个月到6个月的潜伏期 完全检查不出来 但一样传染\n甚至在非洲一些免疫力强的人身上 是可以有几年，十几年的潜伏期的\n\n而你们能够幸免 大部分都是因为艾滋病本身传染率很低 而不是四联试纸的功劳\n\n艾滋病的传染率极低 肛交0传染率1.38%，肛交1传染率0.11%，阴道性交插入方0.04%，阴道性交接受方0.08%，所有口交概率几乎为0，一万个人里一般一个人都不会出现\n\n所以 那个试纸仅仅是个形式主义 起到的作用极小 大家要防止性病最主要还是洁身自好 实在不行 起码带个套吧！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1290,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现大家有个误区：\n\n“只要在圆角 乱交 群交前每个人都测了四联试纸 就没事了”\n\n其实这相当错误，就拿艾滋病来说 感染者通常有3个月到6个月的潜伏期 完全检查不出来 但一样传染\n甚至在非洲一些免疫力强的人身上 是可以有几年，十几年的潜伏期的\n\n而你们能够幸免 大部分都是因为艾滋病本身传染率很低"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1696,
+          "like_count": 2228,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 2003
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | 174厘米 | 75公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍|",
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2056648262275453392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 33,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 505
+        },
+        "username": "TransYuwen",
+        "verified": true
+      }
+    ]
+  }
+}

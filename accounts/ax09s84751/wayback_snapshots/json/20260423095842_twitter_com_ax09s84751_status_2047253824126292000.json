@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047137976589979955",
+    "created_at": "2026-04-23T09:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047253824126292000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "975134504393347072",
+          "start": 0,
+          "username": "zhinarencnm8964"
+        },
+        {
+          "end": 22,
+          "id": "1720665183188922368",
+          "start": 17,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047253824126292000",
+    "in_reply_to_user_id": "975134504393347072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047137976589979955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarencnm8964 @grok 这一份餐热量多少？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2047137947921854464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjlHhAasAA8Ku5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047137976589979955",
+        "created_at": "2026-04-23T09:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047253824126292000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "975134504393347072",
+              "start": 0,
+              "username": "zhinarencnm8964"
+            },
+            {
+              "end": 22,
+              "id": "1720665183188922368",
+              "start": 17,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047253824126292000",
+        "in_reply_to_user_id": "975134504393347072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047137976589979955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarencnm8964 @grok 这一份餐热量多少？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047137947921854464"
+          ]
+        },
+        "author_id": "975134504393347072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047137976589979955",
+        "created_at": "2026-04-23T02:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047137976589979955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MmbduNmfpy",
+              "end": 48,
+              "expanded_url": "https://x.com/zhinarencnm8964/status/2047137976589979955/photo/1",
+              "media_key": "3_2047137947921854464",
+              "start": 25,
+              "url": "https://t.co/MmbduNmfpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047137976589979955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2830,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "刚点了份蛋炒饭准备吃，怎么总感觉天上要掉什么东西 https://t.co/MmbduNmfpy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 1232,
+          "like_count": 803,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 901
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-17T22:19:17.000Z",
+        "description": "纯良温和支黑，一个四大皆空的老东西，少拉我站队谈立场｜喜欢中东战争和日帝，欢迎历史同好友好交流\n小号@zhinarensml8964\n逃生舱@zhinarensb8964\n究极逃生舱@zhinarencs8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "zhinarensml8964"
+              },
+              {
+                "end": 85,
+                "start": 70,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "975134504393347072",
+        "location": "支那汉蛆和东北狗它妈逼里",
+        "name": "中東の虎✡️内格夫🩵🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045434310237589504/UrpPa--O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 1046,
+          "like_count": 40817,
+          "listed_count": 3,
+          "media_count": 917,
+          "tweet_count": 3711
+        },
+        "username": "zhinarencnm8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8566872,
+          "following_count": 4,
+          "like_count": 88,
+          "listed_count": 6671,
+          "media_count": 8855720,
+          "tweet_count": 123562406
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

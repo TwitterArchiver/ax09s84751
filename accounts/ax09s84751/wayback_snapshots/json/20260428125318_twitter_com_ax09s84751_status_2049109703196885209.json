@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2049099668295123426",
+    "created_at": "2026-04-28T12:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T13:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049109703196885209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743330426985594881",
+          "start": 0,
+          "username": "jianggejiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049109703196885209",
+    "in_reply_to_user_id": "1743330426985594881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049099668295123426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianggejiang 人家小瑶是万卡选手🥱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049099663652052992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_dSZlaYAATKYU.jpg",
+        "width": 543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2049099668295123426",
+        "created_at": "2026-04-28T12:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049109703196885209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743330426985594881",
+              "start": 0,
+              "username": "jianggejiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049109703196885209",
+        "in_reply_to_user_id": "1743330426985594881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049099668295123426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianggejiang 人家小瑶是万卡选手🥱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049099663652052992"
+          ]
+        },
+        "author_id": "1743330426985594881",
+        "conversation_id": "2049099668295123426",
+        "created_at": "2026-04-28T12:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049099668295123426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TxaCoAWN4e",
+              "end": 44,
+              "expanded_url": "https://x.com/jianggejiang/status/2049099668295123426/photo/1",
+              "media_key": "3_2049099663652052992",
+              "start": 21,
+              "url": "https://t.co/TxaCoAWN4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049099668295123426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有人类吗 第一次吃到4000k太牛逼了 https://t.co/TxaCoAWN4e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 1388,
+          "like_count": 909,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1163
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-05T17:55:57.000Z",
+        "description": "-烟代找我 外烟电子烟💚🏳️‍🌈\n-叫我姜鴿江/阿团/JunoPhilip/J \n-CN/ENG🤏\n-从你妈逼良\n-🚪66￥ 详🔝plq\n-英文号:@jiangziqiqqq\n-备用:@poorspider1014",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "jiangziqiqqq"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "poorspider1014"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianggejiang66…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianggejiang66281",
+                "start": 0,
+                "url": "https://t.co/AFwFYoJq3x"
+              }
+            ]
+          }
+        },
+        "id": "1743330426985594881",
+        "location": "Ion Jupiter",
+        "name": "姜鸽江⑧⑨⑥④",
+        "pinned_tweet_id": "2046542186985226598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041290057857052672/gf13WBSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 929,
+          "like_count": 6030,
+          "listed_count": 0,
+          "media_count": 527,
+          "tweet_count": 3552
+        },
+        "url": "https://t.co/AFwFYoJq3x",
+        "username": "jianggejiang",
+        "verified": false
+      }
+    ]
+  }
+}

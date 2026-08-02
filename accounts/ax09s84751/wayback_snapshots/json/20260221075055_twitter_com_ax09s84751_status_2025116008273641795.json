@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2025097431252435343",
+    "created_at": "2026-02-21T07:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025116008273641795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1639247931898306561",
+          "start": 0,
+          "username": "sam51824016070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025116008273641795",
+    "in_reply_to_user_id": "1639247931898306561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025097431252435343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sam51824016070 还敢用微信？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1316,
+        "media_key": "3_2025093153045594112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqTfkhbwAA9wi1.png",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2025097431252435343",
+        "created_at": "2026-02-21T07:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025116008273641795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1639247931898306561",
+              "start": 0,
+              "username": "sam51824016070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025116008273641795",
+        "in_reply_to_user_id": "1639247931898306561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025097431252435343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sam51824016070 还敢用微信？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025093153045594112"
+          ]
+        },
+        "author_id": "1639247931898306561",
+        "conversation_id": "2025097431252435343",
+        "created_at": "2026-02-21T06:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:20:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025093159076991305",
+          "2025097431252435343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XW2M9qYYV2",
+              "end": 67,
+              "expanded_url": "https://x.com/sam51824016070/status/2025097431252435343/photo/1",
+              "media_key": "3_2025093153045594112",
+              "start": 44,
+              "url": "https://t.co/XW2M9qYYV2"
+            },
+            {
+              "display_url": "x.com/deNSvllfRa2051…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/deNSvllfRa20516/status/2025088456721137821",
+              "start": 68,
+              "url": "https://t.co/s2iikSC2jX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025097431252435343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我的微信被中共指挥的腾讯严重限制使用功能，所有群聊和朋友圈，以及微信视频号全部被限制。\n\n先说群聊，群里所有的信息我能看得见，但我发出去的所有信息，群里人都看不见，只有部分海外手机号绑定的微信能看到我发的部分信息。朋友圈也是如此。视频号直接不能用了，以前发布的视频还在，有的也被屏蔽。\n\n私聊方面，所有信息对方都能看得见，这就很容易被监控到是谁在跟我交流。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 773,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025088456721137821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的微信被中共指挥的腾讯严重限制使用功能，所有群聊和朋友圈，以及微信视频号全部被限制。 https://t.co/XW2M9qYYV2 https://t.co/s2iikSC2jX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～/看od精神科圈/坚持跟随党的领导🇨🇳🇨🇳🇨🇳/关注那些殖蛆是为了更好的骂它们喵～",
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 173,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 113
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T12:50:09.000Z",
+        "description": "共产党那么邪恶，如果我们不反共，我们还是人吗❓\n\n爱国就反共，反共才是真爱国，没有共产党才有新中国，爱国反共，反共光荣，亲共可耻！\n\n请关注小号https://t.co/dllXpw0KFa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Jamesso972309?…",
+                "end": 95,
+                "expanded_url": "https://x.com/Jamesso972309?t=HqKwQBV3q3Iar0J1ZHYvFQ&s=09",
+                "start": 72,
+                "url": "https://t.co/dllXpw0KFa"
+              }
+            ]
+          }
+        },
+        "id": "1639247931898306561",
+        "location": "California, USA",
+        "name": "YiFeng Su",
+        "pinned_tweet_id": "1989405859685024239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836500437815693314/URQTGhSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23825,
+          "following_count": 8699,
+          "like_count": 34738,
+          "listed_count": 126,
+          "media_count": 2833,
+          "tweet_count": 8412
+        },
+        "username": "sam51824016070",
+        "verified": true
+      }
+    ]
+  }
+}

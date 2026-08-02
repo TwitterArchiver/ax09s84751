@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2060553281588658448",
+    "created_at": "2026-05-30T03:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060565845114585275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1664742004423794688",
+          "start": 0,
+          "username": "rwayne"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2060565845114585275",
+    "in_reply_to_user_id": "1664742004423794688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060553281588658448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rwayne 这个是真有用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_2060519145163431936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhvPtRboAAvpNZ.jpg",
+        "width": 690
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2060553281588658448",
+        "created_at": "2026-05-30T03:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060565845114585275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1664742004423794688",
+              "start": 0,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2060565845114585275",
+        "in_reply_to_user_id": "1664742004423794688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060553281588658448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwayne 这个是真有用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060519145163431936"
+          ]
+        },
+        "author_id": "1664742004423794688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2060553281588658448",
+        "created_at": "2026-05-30T02:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060553281588658448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2x70rmscpJ",
+              "end": 77,
+              "expanded_url": "https://x.com/rwayne/status/2060553281588658448/photo/1",
+              "media_key": "3_2060519145163431936",
+              "start": 54,
+              "url": "https://t.co/2x70rmscpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060553281588658448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1594,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "华为设计师都是哑巴吗？\n\n这放其他厂商那里不得吹上十天半个月啊，你华为是一声不吭。\n\n我才知道竟然还能这样 https://t.co/2x70rmscpJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 1839,
+          "like_count": 2669,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 2393
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "一切身份标签都是当下的自我逃避\n⭐ 订阅都是本人精华｜优先回复订阅者评论和私信👈",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2059873043292520557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50847,
+          "following_count": 797,
+          "like_count": 34776,
+          "listed_count": 270,
+          "media_count": 2761,
+          "tweet_count": 15429
+        },
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

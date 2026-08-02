@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2042520153641095473",
+    "created_at": "2026-04-10T08:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042520153641095473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FreeXOvO/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/FreeXOvO/status/2042182412847980739",
+          "start": 15,
+          "url": "https://t.co/aw26lcPEPl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042520153641095473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042182412847980739",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有万达广场附近的吗？我是真人 https://t.co/aw26lcPEPl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2042520153641095473",
+        "created_at": "2026-04-10T08:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042520153641095473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FreeXOvO/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/FreeXOvO/status/2042182412847980739",
+              "start": 15,
+              "url": "https://t.co/aw26lcPEPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042520153641095473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042182412847980739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有万达广场附近的吗？我是真人 https://t.co/aw26lcPEPl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027318824568320000",
+        "conversation_id": "2042182412847980739",
+        "created_at": "2026-04-09T10:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042182412847980739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042182412847980739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 52192,
+          "like_count": 654,
+          "quote_count": 5,
+          "reply_count": 69,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "王健林应该感谢X！因为这里全是万达广场的广告！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 674,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T09:45:20.000Z",
+        "description": "一竹米\nbrat |脾气好|09年高二在读\n偶尔萌萌偶尔发骚 我很可爱^ω^",
+        "id": "2027318824568320000",
+        "location": "Tianjin",
+        "name": "FreeX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042021861224280064/gTa0SAjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 33,
+          "like_count": 937,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 168
+        },
+        "username": "FreeXOvO",
+        "verified": false
+      }
+    ]
+  }
+}

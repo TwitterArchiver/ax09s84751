@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055450289155821568",
+    "created_at": "2026-05-16T00:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T01:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055450289155821568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/nyaepheia/status/2055287485358559300",
+          "start": 10,
+          "url": "https://t.co/YnTOyK5tuD"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055450289155821568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055287485358559300",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "错误\n是少于10个 https://t.co/YnTOyK5tuD"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055450289155821568",
+        "created_at": "2026-05-16T00:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055450289155821568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2055287485358559300",
+              "start": 10,
+              "url": "https://t.co/YnTOyK5tuD"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055450289155821568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055287485358559300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "错误\n是少于10个 https://t.co/YnTOyK5tuD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608637128132685825",
+        "conversation_id": "2055224581770862810",
+        "created_at": "2026-05-15T14:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055287485358559300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "qiancongxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055287485358559300",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 491,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055224581770862810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiancongxyn 🤓👆文科班男生少于20个，那就要把男生全部纠正成女生👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1654,
+          "like_count": 2067,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 808,
+          "like_count": 21321,
+          "listed_count": 3,
+          "media_count": 316,
+          "tweet_count": 3887
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047617485449683407",
+    "created_at": "2026-04-24T13:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047673642860126671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1448206950903255040",
+          "start": 0,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047673642860126671",
+    "in_reply_to_user_id": "1448206950903255040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047617485449683407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Shikieiki 我吃的是桂林南药的舍曲林 是不是这个牌子的？。。这个舍曲林真的很便宜，30片才9块钱8块钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047617485449683407",
+        "created_at": "2026-04-24T13:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047673642860126671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047673642860126671",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047617485449683407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 我吃的是桂林南药的舍曲林 是不是这个牌子的？。。这个舍曲林真的很便宜，30片才9块钱8块钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2047617485449683407",
+        "created_at": "2026-04-24T10:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047617485449683407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047617485449683407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 832,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说线下药店是不是买不到云药的愈美，其他牌子的愈美都好贵。\n云药的愈美还有哪里能买吗（ᴗˬᴗ*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 1274,
+          "like_count": 822,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 958
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2047351982030258527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 880,
+          "like_count": 26193,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 3493
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

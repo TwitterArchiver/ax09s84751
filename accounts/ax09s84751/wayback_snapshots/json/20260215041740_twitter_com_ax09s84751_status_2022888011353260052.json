@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022888008975028225"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2022888011353260052",
+    "created_at": "2026-02-15T04:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022888011353260052"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LJIbCy4ELG",
+          "end": 52,
+          "expanded_url": "https://x.com/ax09s84751/status/2022888011353260052/photo/1",
+          "media_key": "3_2022888008975028225",
+          "start": 29,
+          "url": "https://t.co/LJIbCy4ELG"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2022888011353260052",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推特上好猎奇 od 地雷女 💊娘  不过我愛看😂🤔🤔🤔🤔 https://t.co/LJIbCy4ELG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 584,
+        "media_key": "3_2022888008975028225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBK97StakAEkoU0.jpg",
+        "width": 593
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022888008975028225"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2022888011353260052",
+        "created_at": "2026-02-15T04:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022888011353260052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LJIbCy4ELG",
+              "end": 52,
+              "expanded_url": "https://x.com/ax09s84751/status/2022888011353260052/photo/1",
+              "media_key": "3_2022888008975028225",
+              "start": 29,
+              "url": "https://t.co/LJIbCy4ELG"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2022888011353260052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特上好猎奇 od 地雷女 💊娘  不过我愛看😂🤔🤔🤔🤔 https://t.co/LJIbCy4ELG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 59,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

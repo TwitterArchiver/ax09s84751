@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048966242179100769",
+    "created_at": "2026-04-28T03:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T04:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048966242179100769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Im_Just__Girl/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Im_Just__Girl/status/2048757042714935603",
+          "start": 22,
+          "url": "https://t.co/SfGrauQvzE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048966242179100769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048757042714935603",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中推圈不本来就是由精神疾病组成的吗？😇😋😋 https://t.co/SfGrauQvzE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048966242179100769",
+        "created_at": "2026-04-28T03:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048966242179100769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Im_Just__Girl/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Im_Just__Girl/status/2048757042714935603",
+              "start": 22,
+              "url": "https://t.co/SfGrauQvzE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048966242179100769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048757042714935603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中推圈不本来就是由精神疾病组成的吗？😇😋😋 https://t.co/SfGrauQvzE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "2048757042714935603",
+        "created_at": "2026-04-27T13:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048757042714935603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048757042714935603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3969,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉从这个春天开始，中推圈很多人精神状态开始不对劲，也包括我，这不是幻觉。很奇怪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 1372,
+          "like_count": 902,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "可怜的有机小女孩，脾气也很坏，说不定哪天就死了|I'm a Good girl. Please don't hurt me.👧|🌈|OD雌二醇",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462232961372162/WYgmAow1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 857,
+          "like_count": 12998,
+          "listed_count": 4,
+          "media_count": 143,
+          "tweet_count": 6704
+        },
+        "username": "Im_Just__Girl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2038535184933646371",
+    "created_at": "2026-03-30T08:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038535184933646371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fayoubaike003/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/fayoubaike003/status/2038483872518938963",
+          "start": 9,
+          "url": "https://t.co/4fqB4HZYK3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038535184933646371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038483872518938963",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。\n不o但混圈 https://t.co/4fqB4HZYK3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2038535184933646371",
+        "created_at": "2026-03-30T08:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038535184933646371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fayoubaike003/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/fayoubaike003/status/2038483872518938963",
+              "start": 9,
+              "url": "https://t.co/4fqB4HZYK3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038535184933646371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038483872518938963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。\n不o但混圈 https://t.co/4fqB4HZYK3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920438493647368192",
+        "conversation_id": "2038483872518938963",
+        "created_at": "2026-03-30T05:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038483872518938963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038483872518938963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "药圈更新换代太快了……（\n事实上核心圈子基本不动，下层的小商贩，小oder每半年就要换一大批。\n真正的药圈常青树，od不倒翁很少很少🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf/爱看od圈/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 636,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 276
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T11:20:03.000Z",
+        "description": "+86 137 3719 8964 | cosplayer | ﮩ٨ـﮩﮩ٨ـ♡ﮩﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ﮩ෴ﮩ_____ | 地雷系女孩 ‼️⚠️自傷⚠️‼️ ┊︎工口❌‼️备战中考‼️| 注意：本人不卖图包不援交不卖原味也不约 | 下体男滚开",
+        "id": "1920438493647368192",
+        "name": "法友百科",
+        "pinned_tweet_id": "2036728295350587636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036779484662423552/lyLmmGPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 102,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 56
+        },
+        "username": "fayoubaike003",
+        "verified": false
+      }
+    ]
+  }
+}

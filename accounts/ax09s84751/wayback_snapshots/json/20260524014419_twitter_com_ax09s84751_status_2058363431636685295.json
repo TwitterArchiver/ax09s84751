@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058167277338382336"
+      ],
+      "media_source_tweet_id": [
+        "2058167280937128072"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2058363431636685295",
+    "created_at": "2026-05-24T01:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T02:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058363431636685295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1418942200457662477",
+          "start": 3,
+          "username": "Rikka_Ela"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uZztlbdR7W",
+          "end": 51,
+          "expanded_url": "https://x.com/Rikka_Ela/status/2058167280937128072/photo/1",
+          "media_key": "3_2058167277338382336",
+          "start": 28,
+          "url": "https://t.co/uZztlbdR7W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058363431636685295",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058167280937128072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rikka_Ela: 😭😭😭我一直在哭.jpg https://t.co/uZztlbdR7W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1014,
+        "media_key": "3_2058167277338382336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAUO-4WUAAF6uO.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058167277338382336"
+          ],
+          "media_source_tweet_id": [
+            "2058167280937128072"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2058363431636685295",
+        "created_at": "2026-05-24T01:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058363431636685295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1418942200457662477",
+              "start": 3,
+              "username": "Rikka_Ela"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZztlbdR7W",
+              "end": 51,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2058167280937128072/photo/1",
+              "media_key": "3_2058167277338382336",
+              "start": 28,
+              "url": "https://t.co/uZztlbdR7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058363431636685295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058167280937128072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rikka_Ela: 😭😭😭我一直在哭.jpg https://t.co/uZztlbdR7W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058167277338382336"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2058167280937128072",
+        "created_at": "2026-05-23T12:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058167280937128072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZztlbdR7W",
+              "end": 36,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2058167280937128072/photo/1",
+              "media_key": "3_2058167277338382336",
+              "start": 13,
+              "url": "https://t.co/uZztlbdR7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058167280937128072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 80431,
+          "like_count": 367,
+          "quote_count": 8,
+          "reply_count": 55,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "😭😭😭我一直在哭.jpg https://t.co/uZztlbdR7W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 1720,
+          "like_count": 2375,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 2140
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5265,
+          "following_count": 3783,
+          "like_count": 85104,
+          "listed_count": 7,
+          "media_count": 432,
+          "tweet_count": 9595
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2037801418200129836",
+    "created_at": "2026-03-28T08:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037805202984898636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920438493647368192",
+          "start": 0,
+          "username": "fayoubaike003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037805202984898636",
+    "in_reply_to_user_id": "1920438493647368192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037801418200129836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fayoubaike003 咋这么可怜啊？( p′︵‵。) 好想抱抱你。。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2037801411019431936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEe5liqaYAAILi8.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2037801418200129836",
+        "created_at": "2026-03-28T08:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037805202984898636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920438493647368192",
+              "start": 0,
+              "username": "fayoubaike003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037805202984898636",
+        "in_reply_to_user_id": "1920438493647368192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037801418200129836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike003 咋这么可怜啊？( p′︵‵。) 好想抱抱你。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037801411019431936"
+          ]
+        },
+        "author_id": "1920438493647368192",
+        "conversation_id": "2037801418200129836",
+        "created_at": "2026-03-28T07:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037801418200129836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YyvYe4DJC2",
+              "end": 139,
+              "expanded_url": "https://x.com/fayoubaike003/status/2037801418200129836/photo/1",
+              "media_key": "3_2037801411019431936",
+              "start": 116,
+              "url": "https://t.co/YyvYe4DJC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037801418200129836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有钱人家的小孩一开口就有几千拿，我把胸口划烂勉强赚了400，然后留一辈子的增生疤痕……位置特殊，被发现大概会被骂死吧\n凌晨被赶出家，吞药昏迷进医院，醒来听见第一句话是“你咋不再多吃点，直接死了得了”\n活着真的很恶心\n法，我一直在哭 https://t.co/YyvYe4DJC2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/爱看mtf但不认/爱看od圈不下场/🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/禁止共情\n认真你就输了/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 568,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T11:20:03.000Z",
+        "description": "+86 137 3719 8964 | cosplayer | ﮩ٨ـﮩﮩ٨ـ♡ﮩﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ﮩ෴ﮩ_____ | 地雷系女孩 ‼️⚠️自傷⚠️‼️ ┊︎工口❌‼️备战中考‼️| 注意：本人不卖图包不援交不卖原味也不约 | 下体男滚开",
+        "id": "1920438493647368192",
+        "name": "法友百科",
+        "pinned_tweet_id": "2036728295350587636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036779484662423552/lyLmmGPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 80,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 37
+        },
+        "username": "fayoubaike003",
+        "verified": false
+      }
+    ]
+  }
+}

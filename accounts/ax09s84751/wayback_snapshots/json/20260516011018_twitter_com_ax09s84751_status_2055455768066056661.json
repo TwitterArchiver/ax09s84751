@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055356449753284852",
+    "created_at": "2026-05-16T01:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055455768066056661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673364955171782657",
+          "start": 0,
+          "username": "kxk1388574"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055455768066056661",
+    "in_reply_to_user_id": "1673364955171782657",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055356449753284852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kxk1388574 6666666"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055356449753284852",
+        "created_at": "2026-05-16T01:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055455768066056661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673364955171782657",
+              "start": 0,
+              "username": "kxk1388574"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055455768066056661",
+        "in_reply_to_user_id": "1673364955171782657",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055356449753284852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kxk1388574 6666666"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673364955171782657",
+        "conversation_id": "2055356449753284852",
+        "created_at": "2026-05-15T18:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055356449753284852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055356449753284852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1485,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开了蓝勾终于可以随便下片了，太爽了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 1656,
+          "like_count": 2069,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 1825
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9623,
+          "following_count": 5811,
+          "like_count": 52426,
+          "listed_count": 14,
+          "media_count": 936,
+          "tweet_count": 7459
+        },
+        "username": "kxk1388574",
+        "verified": true
+      }
+    ]
+  }
+}

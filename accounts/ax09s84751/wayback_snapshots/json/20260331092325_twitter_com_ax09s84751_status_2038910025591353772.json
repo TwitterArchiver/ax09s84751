@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2038910025591353772",
+    "created_at": "2026-03-31T09:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038910025591353772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4810524492",
+          "start": 3,
+          "username": "JesseLiOH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038910025591353772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038645669955850710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JesseLiOH: 00后小孩的基本时代特征\n\n1. 比起打电话更喜欢发文字消息，且手机永远常驻静音模式。\n2. 认为只要一个复变函数在某区域内是全纯函数，它在该区域内就必然解析且无穷次可微。\n3. 熟悉怎么用伽罗瓦理论证明一般五次及以上的多项式方程不存在根式解。\n4…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2038910025591353772",
+        "created_at": "2026-03-31T09:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038910025591353772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4810524492",
+              "start": 3,
+              "username": "JesseLiOH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038910025591353772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038645669955850710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JesseLiOH: 00后小孩的基本时代特征\n\n1. 比起打电话更喜欢发文字消息，且手机永远常驻静音模式。\n2. 认为只要一个复变函数在某区域内是全纯函数，它在该区域内就必然解析且无穷次可微。\n3. 熟悉怎么用伽罗瓦理论证明一般五次及以上的多项式方程不存在根式解。\n4…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4810524492",
+        "conversation_id": "2038645669955850710",
+        "created_at": "2026-03-30T15:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038645669955850710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038645669955850710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "00后小孩的基本时代特征\n\n1. 比起打电话更喜欢发文字消息，且手机永远常驻静音模式。\n2. 认为只要一个复变函数在某区域内是全纯函数，它在该区域内就必然解析且无穷次可微。\n3. 熟悉怎么用伽罗瓦理论证明一般五次及以上的多项式方程不存在根式解。\n4. 认为所有的有限向量空间都与ℂ^n或ℝ^n同构\n5. 喜欢在二分图中使用匈牙利算法寻找最大匹配\n6. 认为用分离变量求解一阶常微分方程就像拼图一样解压\n7. 喜欢用洛必达法则硬解各种 0/0 型未定式极限。\n8. 认为所有的平移和旋转操作都可以通过齐次坐标的矩阵乘法轻松搞定。\n9. 喜欢寻找正规子群以便构造出结构完美的商群\n10. 认为任何复数域上的方阵无论是否可以对角化都可以化为若尔当标准型\n11. 喜欢一致收敛的优良性质，因为它能保证极限函数的连续性并允许交换极限与积分的顺序\n12. 喜欢把整数集合看作由单个元素生成的循环群并用同余算术迅速化解整除问题\n13. 喜欢在希尔伯特空间中利用内积的几何直观来处理复杂的无穷维问题\n14. 找不到第8种饰带群和第18种壁纸群\n15. 喜欢通过研究交换环的素理想 (prime ideal) 来洞察代数簇的几何结构\n16. 认为黎曼猜想中关于非平凡零点分布的规律隐藏着素数的最深层秘密\n17. 喜欢欧拉公式 e^{iπ}=-1并认为e是除了0和1以外最尊贵的实数\n18. 认为只要算一下矩阵的行列式就能立刻判断一个线性变换是否会把空间降维压扁\n19. 喜欢对任何庞大且复杂的数据矩阵进行奇异值分解以提取其最核心的主成分特征\n20. 认为即使是在非欧几里得几何的世界里，逻辑的严密性也绝不亚于我们在平坦空间中的直觉"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 45091,
+          "like_count": 398,
+          "quote_count": 8,
+          "reply_count": 28,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "00后小孩的基本时代特征\n\n1. 比起打电话更喜欢发文字消息，且手机永远常驻静音模式。\n2. 认为只要一个复变函数在某区域内是全纯函数，它在该区域内就必然解析且无穷次可微。\n3. 熟悉怎么用伽罗瓦理论证明一般五次及以上的多项式方程不存在根式解。\n4. 认为所有的有限向量空间都与ℂ^n或ℝ^n同构\n5."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 656,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-25T04:15:00.000Z",
+        "description": "(he/him) If you find me inconsistent it’s my problem. I’ll fix it. If you find me controversial it’s your problem. You should fμck off. 普通话|English|日本語|français",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "my.flightradar24.com/ForeverZZR_666",
+                "end": 23,
+                "expanded_url": "https://my.flightradar24.com/ForeverZZR_666",
+                "start": 0,
+                "url": "https://t.co/Vwzjqpf9R8"
+              }
+            ]
+          }
+        },
+        "id": "4810524492",
+        "location": "Calgary, Alberta",
+        "name": "🇨🇦 That AC Fan at CYYC",
+        "pinned_tweet_id": "1990319895360504166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739637897207398400/ifL0uran_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 1741,
+          "like_count": 11516,
+          "listed_count": 4,
+          "media_count": 3379,
+          "tweet_count": 13619
+        },
+        "url": "https://t.co/Vwzjqpf9R8",
+        "username": "JesseLiOH",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2071178462774309264",
+    "created_at": "2026-06-28T10:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071178462774309264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luoshuyao/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/luoshuyao/status/2071161336168628579",
+          "start": 24,
+          "url": "https://t.co/DgCiaHD1DC"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2071178462774309264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071161336168628579",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么我们俩粉丝数差不多 \n而且都不涨粉了好久 https://t.co/DgCiaHD1DC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c00e5392b3fa46fb].",
+      "parameter": "geo.place_id",
+      "resource_id": "c00e5392b3fa46fb",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c00e5392b3fa46fb"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2071178462774309264",
+        "created_at": "2026-06-28T10:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071178462774309264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2071161336168628579",
+              "start": 24,
+              "url": "https://t.co/DgCiaHD1DC"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2071178462774309264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071161336168628579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我们俩粉丝数差不多 \n而且都不涨粉了好久 https://t.co/DgCiaHD1DC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2071161336168628579",
+        "created_at": "2026-06-28T09:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071161336168628579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2071087688921580011",
+              "start": 66,
+              "url": "https://t.co/rY9EMEgKY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071161336168628579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071087688921580011",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三倍效率太难了，完全来不及。类似于做饭的时候一边煮饭一边炒菜一边蒸菜，实际上比这还要紧迫多了，最多两三分钟就走不开，只能两倍效率。 https://t.co/rY9EMEgKY0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echo42es"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2069963485296066978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065816996605005824/yyrl8vBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 1814,
+          "like_count": 3045,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 2646
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 273,
+          "like_count": 19041,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 4253
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

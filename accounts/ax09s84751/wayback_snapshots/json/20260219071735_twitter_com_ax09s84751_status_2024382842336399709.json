@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024381811871359257",
+    "created_at": "2026-02-19T07:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T08:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024382842336399709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024382842336399709",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024381811871359257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 我4200😙😙😙😙😙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2024381808562098176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgMh30bUAAKZov.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024381811871359257",
+        "created_at": "2026-02-19T07:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024382842336399709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024382842336399709",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024381811871359257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 我4200😙😙😙😙😙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024381808562098176"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "conversation_id": "2024381811871359257",
+        "created_at": "2026-02-19T07:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024381811871359257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XFWdNpdCXC",
+              "end": 69,
+              "expanded_url": "https://x.com/mwdxj29477/status/2024381811871359257/photo/1",
+              "media_key": "3_2024381808562098176",
+              "start": 46,
+              "url": "https://t.co/XFWdNpdCXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024381811871359257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太好啦＾w＾，昨晚爷爷又给了我200 !🥰 才到大年初二，我就已经收到了1400喵qwq🤤 https://t.co/XFWdNpdCXC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09年的/不od/不割手/不zc/不见证/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 108,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 39
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨顺男/🍥Hrt🏳️‍⚧️01.28.2026/无证含糖/14岁年龄党/生产日期:11.13.2011/喜欢xnn xyn mtf/INFP-T/性别认同探索中/社恐/初二牲/家长放养/161cm51kg/坐标湖北/只玩Minecraft/民國派🇹🇼華獨/简中&繁中🆗/欢迎互fo/\nTG:「mwdxj」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 23,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 0,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "ROC淪陷區,湖北/孝感「漢川城」",
+        "name": "🍥MWdxj🍥🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023075572533121025/bEp-7N8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 572,
+          "like_count": 5559,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/fG6XzUT3Y3",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2039978400090411468",
+    "created_at": "2026-04-03T08:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T09:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039978400090411468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1854784694602416130",
+          "start": 3,
+          "username": "Chiyuyu1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039978400090411468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039718736253612073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chiyuyu1314: 推特的跨圈太恐怖了 三个月换一批人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2039978400090411468",
+        "created_at": "2026-04-03T08:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039978400090411468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1854784694602416130",
+              "start": 3,
+              "username": "Chiyuyu1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039978400090411468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039718736253612073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chiyuyu1314: 推特的跨圈太恐怖了 三个月换一批人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854784694602416130",
+        "conversation_id": "2039718736253612073",
+        "created_at": "2026-04-02T14:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039718736253612073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039718736253612073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10490,
+          "like_count": 97,
+          "quote_count": 8,
+          "reply_count": 27,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "推特的跨圈太恐怖了 三个月换一批人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 670,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 451
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T07:15:17.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | 完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "https://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/QbQHwWnzpI"
+              }
+            ]
+          }
+        },
+        "id": "1854784694602416130",
+        "location": "苏州",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2038493326530564452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007997816963313664/0uIxeBrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 30,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 183
+        },
+        "url": "https://t.co/QbQHwWnzpI",
+        "username": "Chiyuyu1314",
+        "verified": true
+      }
+    ]
+  }
+}

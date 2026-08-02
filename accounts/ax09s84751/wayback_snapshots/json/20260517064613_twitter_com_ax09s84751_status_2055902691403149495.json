@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055851708585213952",
+        "3_2055851708543373312"
+      ],
+      "media_source_tweet_id": [
+        "2055851717158449605",
+        "2055851717158449605"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2055902691403149495",
+    "created_at": "2026-05-17T06:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055902691403149495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1723532985679704064",
+          "start": 3,
+          "username": "HFRin_CN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qQ5TvZtQEE",
+          "end": 81,
+          "expanded_url": "https://x.com/HFRin_CN/status/2055851717158449605/photo/1",
+          "media_key": "3_2055851708585213952",
+          "start": 58,
+          "url": "https://t.co/qQ5TvZtQEE"
+        },
+        {
+          "display_url": "pic.x.com/qQ5TvZtQEE",
+          "end": 81,
+          "expanded_url": "https://x.com/HFRin_CN/status/2055851717158449605/photo/1",
+          "media_key": "3_2055851708543373312",
+          "start": 58,
+          "url": "https://t.co/qQ5TvZtQEE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055902691403149495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055851717158449605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HFRin_CN: 5月30日开始，四川省全面禁止戒网瘾类似机构，明确规定不得强迫未成年人进行不适合的劳动 https://t.co/qQ5TvZtQEE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055851708585213952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfaPJEaAAAKfFl.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055851708543373312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfaPI6bkAAbk1n.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055851708585213952",
+            "3_2055851708543373312"
+          ],
+          "media_source_tweet_id": [
+            "2055851717158449605",
+            "2055851717158449605"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2055902691403149495",
+        "created_at": "2026-05-17T06:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055902691403149495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1723532985679704064",
+              "start": 3,
+              "username": "HFRin_CN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQ5TvZtQEE",
+              "end": 81,
+              "expanded_url": "https://x.com/HFRin_CN/status/2055851717158449605/photo/1",
+              "media_key": "3_2055851708585213952",
+              "start": 58,
+              "url": "https://t.co/qQ5TvZtQEE"
+            },
+            {
+              "display_url": "pic.x.com/qQ5TvZtQEE",
+              "end": 81,
+              "expanded_url": "https://x.com/HFRin_CN/status/2055851717158449605/photo/1",
+              "media_key": "3_2055851708543373312",
+              "start": 58,
+              "url": "https://t.co/qQ5TvZtQEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055902691403149495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055851717158449605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HFRin_CN: 5月30日开始，四川省全面禁止戒网瘾类似机构，明确规定不得强迫未成年人进行不适合的劳动 https://t.co/qQ5TvZtQEE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055851708585213952",
+            "3_2055851708543373312"
+          ]
+        },
+        "author_id": "1723532985679704064",
+        "conversation_id": "2055851717158449605",
+        "created_at": "2026-05-17T03:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055851717158449605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQ5TvZtQEE",
+              "end": 67,
+              "expanded_url": "https://x.com/HFRin_CN/status/2055851717158449605/photo/1",
+              "media_key": "3_2055851708585213952",
+              "start": 44,
+              "url": "https://t.co/qQ5TvZtQEE"
+            },
+            {
+              "display_url": "pic.x.com/qQ5TvZtQEE",
+              "end": 67,
+              "expanded_url": "https://x.com/HFRin_CN/status/2055851717158449605/photo/1",
+              "media_key": "3_2055851708543373312",
+              "start": 44,
+              "url": "https://t.co/qQ5TvZtQEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055851717158449605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 23330,
+          "like_count": 188,
+          "quote_count": 13,
+          "reply_count": 28,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "5月30日开始，四川省全面禁止戒网瘾类似机构，明确规定不得强迫未成年人进行不适合的劳动 https://t.co/qQ5TvZtQEE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055644471820451840/_bJB_vSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 1675,
+          "like_count": 2139,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1894
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:47:55.000Z",
+        "description": "2007.10/大一在读/165-46kg/已有对象/欢迎扩列",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hfrin.com",
+                "end": 23,
+                "expanded_url": "https://www.hfrin.com/",
+                "start": 0,
+                "url": "https://t.co/N9WRdgdbbx"
+              }
+            ]
+          }
+        },
+        "id": "1723532985679704064",
+        "location": "不明",
+        "name": "HFRin🍼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052322043283259392/ncPV9icw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2596,
+          "following_count": 210,
+          "like_count": 2419,
+          "listed_count": 3,
+          "media_count": 451,
+          "tweet_count": 2741
+        },
+        "url": "https://t.co/N9WRdgdbbx",
+        "username": "HFRin_CN",
+        "verified": false
+      }
+    ]
+  }
+}

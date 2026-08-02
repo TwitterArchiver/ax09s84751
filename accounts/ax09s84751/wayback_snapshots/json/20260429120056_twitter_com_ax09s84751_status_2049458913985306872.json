@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048967178280644759",
+    "created_at": "2026-04-29T12:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049458913985306872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938963008",
+          "start": 0,
+          "username": "HotmailfromSH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049458913985306872",
+    "in_reply_to_user_id": "1938963008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048967178280644759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HotmailfromSH 厉害!"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40768,
+        "height": 1158,
+        "media_key": "7_2048967117572354048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048967117572354048/pu/img/Hi8hst-_c7SXbNzH.jpg",
+        "public_metrics": {
+          "view_count": 8152275
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048967117572354048/pu/vid/avc1/320x514/Z3x2D40wmnMOTXVs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048967117572354048/pu/vid/avc1/480x772/ZoDpPdcfxNPCbCS6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048967117572354048/pu/vid/avc1/720x1158/_PKlCtcI7s-VgHy2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048967117572354048/pu/pl/dD9fDF7vFPEFWpwz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048967178280644759",
+        "created_at": "2026-04-29T12:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049458913985306872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938963008",
+              "start": 0,
+              "username": "HotmailfromSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049458913985306872",
+        "in_reply_to_user_id": "1938963008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048967178280644759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HotmailfromSH 厉害!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048967117572354048"
+          ]
+        },
+        "author_id": "1938963008",
+        "conversation_id": "2048967178280644759",
+        "created_at": "2026-04-28T03:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048967178280644759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSYqkWB9Gc",
+              "end": 135,
+              "expanded_url": "https://x.com/HotmailfromSH/status/2048967178280644759/video/1",
+              "media_key": "7_2048967117572354048",
+              "start": 112,
+              "url": "https://t.co/eSYqkWB9Gc"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "5a110d312052166f"
+        },
+        "id": "2048967178280644759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11200,
+          "impression_count": 16657855,
+          "like_count": 50698,
+          "quote_count": 265,
+          "reply_count": 2360,
+          "retweet_count": 2347
+        },
+        "reply_settings": "everyone",
+        "text": "4月26日，海南万宁。下午六点左右，一名女性不慎落水，被救上岸时已口吐白沫、面色青紫、心脏骤停……\n\n危机时刻，正在此度假的浙大一院90后护士夫妇姜智文＆袁苑立即跪地抢救，经过心肺复苏急救，溺水女子最终恢复自主呼吸和心跳。 https://t.co/eSYqkWB9Gc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 1408,
+          "like_count": 924,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1214
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2013-10-05T22:00:24.000Z",
+        "description": "医学科普",
+        "id": "1938963008",
+        "location": "Thailand",
+        "name": "Dr.Wang",
+        "pinned_tweet_id": "2017921212920545531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826341547211980807/ijybUGyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165163,
+          "following_count": 949,
+          "like_count": 182930,
+          "listed_count": 890,
+          "media_count": 6259,
+          "tweet_count": 63142
+        },
+        "username": "HotmailfromSH",
+        "verified": true
+      }
+    ]
+  }
+}

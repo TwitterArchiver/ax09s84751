@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2049808982144172405",
+    "created_at": "2026-04-30T11:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049808982144172405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jituiroubaogu/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/jituiroubaogu/status/2049722083530424400",
+          "start": 18,
+          "url": "https://t.co/ZOtOkOTjGf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049808982144172405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049722083530424400",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家来吃喹硫平吧因为喹硫平很牛逼。 https://t.co/ZOtOkOTjGf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2049808982144172405",
+        "created_at": "2026-04-30T11:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049808982144172405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jituiroubaogu/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/jituiroubaogu/status/2049722083530424400",
+              "start": 18,
+              "url": "https://t.co/ZOtOkOTjGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049808982144172405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049722083530424400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家来吃喹硫平吧因为喹硫平很牛逼。 https://t.co/ZOtOkOTjGf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2049722083530424400",
+        "created_at": "2026-04-30T05:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049722083530424400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bing2000100830…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/bing2000100830/status/2048883738617188390",
+              "start": 18,
+              "url": "https://t.co/FPD1S7yUph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049722083530424400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 490,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048883738617188390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家来吃喹硫平吧因为喹硫平很牛逼。 https://t.co/FPD1S7yUph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 1417,
+          "like_count": 932,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1241
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "我素叽菇。\n希望每个人都能获得自己的幸福。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2038600816073076855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 472,
+          "like_count": 1762,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 848
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jituiroubaogu",
+        "verified": false
+      }
+    ]
+  }
+}

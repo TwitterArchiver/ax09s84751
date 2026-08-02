@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2059298305742635121",
+    "created_at": "2026-05-26T15:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059298305742635121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942368986051796992",
+          "start": 3,
+          "username": "CunZai1069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059298305742635121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059263294888964117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CunZai1069: 我清楚我在自杀潮里起到了推波助澜的作用……\n服毒到定时推文间隔12h，我没死成。我不敢想象我的讣告影响了多少人，我活下来才是最有罪的。\n我发两个字不就得了，发那么一大堆是有病吗。\n我就苟活吧，互fo一个一个离开，我什么都做不到，让罪恶压死我😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2059298305742635121",
+        "created_at": "2026-05-26T15:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059298305742635121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942368986051796992",
+              "start": 3,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059298305742635121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059263294888964117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CunZai1069: 我清楚我在自杀潮里起到了推波助澜的作用……\n服毒到定时推文间隔12h，我没死成。我不敢想象我的讣告影响了多少人，我活下来才是最有罪的。\n我发两个字不就得了，发那么一大堆是有病吗。\n我就苟活吧，互fo一个一个离开，我什么都做不到，让罪恶压死我😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2059263294888964117",
+        "created_at": "2026-05-26T13:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059263294888964117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059263294888964117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1688,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我清楚我在自杀潮里起到了推波助澜的作用……\n服毒到定时推文间隔12h，我没死成。我不敢想象我的讣告影响了多少人，我活下来才是最有罪的。\n我发两个字不就得了，发那么一大堆是有病吗。\n我就苟活吧，互fo一个一个离开，我什么都做不到，让罪恶压死我😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 1820,
+          "like_count": 2563,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 2260
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai106999120",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai106999120",
+                "start": 0,
+                "url": "https://t.co/aFn5aJJGzp"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2059246921689268487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 1119,
+          "like_count": 3242,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 1001
+        },
+        "url": "https://t.co/aFn5aJJGzp",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

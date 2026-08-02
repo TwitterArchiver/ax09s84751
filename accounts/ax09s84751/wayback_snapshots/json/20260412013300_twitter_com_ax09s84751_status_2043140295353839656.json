@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042892501904674816"
+      ],
+      "media_source_tweet_id": [
+        "2042892518837121063"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2043140295353839656",
+    "created_at": "2026-04-12T01:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T02:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043140295353839656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758324617838788608",
+          "start": 3,
+          "username": "axzamyzed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oBRWmYjxia",
+          "end": 43,
+          "expanded_url": "https://x.com/axzamyzed/status/2042892518837121063/photo/1",
+          "media_key": "3_2042892501904674816",
+          "start": 20,
+          "url": "https://t.co/oBRWmYjxia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043140295353839656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042892518837121063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @axzamyzed: 还挺严谨 https://t.co/oBRWmYjxia"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2042892501904674816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnP6CJWUAALi2W.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042892501904674816"
+          ],
+          "media_source_tweet_id": [
+            "2042892518837121063"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2043140295353839656",
+        "created_at": "2026-04-12T01:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043140295353839656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758324617838788608",
+              "start": 3,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBRWmYjxia",
+              "end": 43,
+              "expanded_url": "https://x.com/axzamyzed/status/2042892518837121063/photo/1",
+              "media_key": "3_2042892501904674816",
+              "start": 20,
+              "url": "https://t.co/oBRWmYjxia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043140295353839656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042892518837121063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @axzamyzed: 还挺严谨 https://t.co/oBRWmYjxia"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042892501904674816"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2042892518837121063",
+        "created_at": "2026-04-11T09:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042892518837121063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBRWmYjxia",
+              "end": 28,
+              "expanded_url": "https://x.com/axzamyzed/status/2042892518837121063/photo/1",
+              "media_key": "3_2042892501904674816",
+              "start": 5,
+              "url": "https://t.co/oBRWmYjxia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042892518837121063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7372,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "还挺严谨 https://t.co/oBRWmYjxia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 687,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 568
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 925,
+          "like_count": 8861,
+          "listed_count": 6,
+          "media_count": 716,
+          "tweet_count": 5337
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

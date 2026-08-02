@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2059977961709965353",
+    "created_at": "2026-05-28T12:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059977961709965353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__fanqie__/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/__fanqie__/status/2059817049787113892",
+          "start": 20,
+          "url": "https://t.co/IGY1aF8aRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059977961709965353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059817049787113892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冷知识\n- 宫崎勤：日本著名连环杀人犯 https://t.co/IGY1aF8aRW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1054,
+        "media_key": "3_2059817037229338624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXwrpZaMAA64Fk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2059977961709965353",
+        "created_at": "2026-05-28T12:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059977961709965353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2059817049787113892",
+              "start": 20,
+              "url": "https://t.co/IGY1aF8aRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059977961709965353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059817049787113892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷知识\n- 宫崎勤：日本著名连环杀人犯 https://t.co/IGY1aF8aRW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059817037229338624"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2059817049787113892",
+        "created_at": "2026-05-28T02:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059817049787113892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8DN3EddX8",
+              "end": 25,
+              "expanded_url": "https://x.com/__fanqie__/status/2059817049787113892/photo/1",
+              "media_key": "3_2059817037229338624",
+              "start": 2,
+              "url": "https://t.co/m8DN3EddX8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059817049787113892",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 57540,
+          "like_count": 1421,
+          "quote_count": 6,
+          "reply_count": 47,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/m8DN3EddX8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 1835,
+          "like_count": 2650,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 2327
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发小头梗图为主/\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2059895523402981792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7578,
+          "following_count": 2941,
+          "like_count": 1568,
+          "listed_count": 16,
+          "media_count": 1493,
+          "tweet_count": 9726
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

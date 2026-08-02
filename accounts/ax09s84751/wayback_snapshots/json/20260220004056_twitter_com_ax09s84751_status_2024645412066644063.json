@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024645412066644063",
+    "created_at": "2026-02-20T00:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T01:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024645412066644063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022153081031733252",
+          "start": 3,
+          "username": "ax09s84751"
+        },
+        {
+          "end": 32,
+          "id": "1678785994387243009",
+          "start": 16,
+          "username": "Christoper61529"
+        },
+        {
+          "end": 44,
+          "id": "1581478431274983424",
+          "start": 33,
+          "username": "yoyobewild"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024645412066644063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024645322069450971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax09s84751: @Christoper61529 @yoyobewild 还调教 你当我是你养狗呢 你连个AI都斗不过还搁这指点江山"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024645412066644063",
+        "created_at": "2026-02-20T00:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T01:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024645412066644063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022153081031733252",
+              "start": 3,
+              "username": "ax09s84751"
+            },
+            {
+              "end": 32,
+              "id": "1678785994387243009",
+              "start": 16,
+              "username": "Christoper61529"
+            },
+            {
+              "end": 44,
+              "id": "1581478431274983424",
+              "start": 33,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024645412066644063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024645322069450971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax09s84751: @Christoper61529 @yoyobewild 还调教 你当我是你养狗呢 你连个AI都斗不过还搁这指点江山"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024162805054918893",
+        "created_at": "2026-02-20T00:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T01:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024645322069450971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678785994387243009",
+              "start": 0,
+              "username": "Christoper61529"
+            },
+            {
+              "end": 28,
+              "id": "1581478431274983424",
+              "start": 17,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024645322069450971",
+        "in_reply_to_user_id": "1678785994387243009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024524081690005732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Christoper61529 @yoyobewild 还调教 你当我是你养狗呢 你连个AI都斗不过还搁这指点江山"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵/看od精神科圈/坚持跟随党的领导/偶尔骂骂殖人",
+        "id": "2022153081031733252",
+        "location": "中华人民共和国",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 129,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 67
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T15:19:55.000Z",
+        "description": "",
+        "id": "1678785994387243009",
+        "name": "Christoper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742409137978580992/5RqF_N79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 268,
+          "like_count": 6794,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 44
+        },
+        "username": "Christoper61529",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4651,
+          "following_count": 194,
+          "like_count": 32848,
+          "listed_count": 17,
+          "media_count": 363,
+          "tweet_count": 7570
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

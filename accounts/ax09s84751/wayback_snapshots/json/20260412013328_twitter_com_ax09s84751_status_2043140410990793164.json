@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2043140410990793164",
+    "created_at": "2026-04-12T01:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T02:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043140410990793164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043140410990793164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043131990531047758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 4月8日，一位网友科普了抖音最新违禁词，分别是：体制内、粮食、底层人、老百姓、吃相难看。\n\n视频发出后，有网友在评论区直接@豆包AI询问这些词是否属于违禁词。\n\n豆包AI则回答：视频中提到的“体制内、粮食、底层人、老百姓、吃相难看”属于违…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31045,
+        "height": 1920,
+        "media_key": "13_2042945544658542592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042945544658542592/img/5ecu9mAmCnNZvGfy.jpg",
+        "public_metrics": {
+          "view_count": 10209
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042945544658542592/vid/avc1/320x568/D-LWkdIunGmUJMIU.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042945544658542592/vid/avc1/1080x1920/FSnzpRJqifn6SoXA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042945544658542592/vid/avc1/480x852/groKHreirdbPXi8q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042945544658542592/pl/YiUtczXGMKK-Av8P.m3u8?v=250"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042945544658542592/vid/avc1/720x1280/5r34rKlWlCoQcUry.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2042945551893684225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoAJ8wWYAEa50X.jpg",
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2043140410990793164",
+        "created_at": "2026-04-12T01:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043140410990793164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043140410990793164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043131990531047758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 4月8日，一位网友科普了抖音最新违禁词，分别是：体制内、粮食、底层人、老百姓、吃相难看。\n\n视频发出后，有网友在评论区直接@豆包AI询问这些词是否属于违禁词。\n\n豆包AI则回答：视频中提到的“体制内、粮食、底层人、老百姓、吃相难看”属于违…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042945544658542592",
+            "3_2042945551893684225"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2043131990531047758",
+        "created_at": "2026-04-12T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043131990531047758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2Qa7hkr4v",
+              "end": 170,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2043131990531047758/video/1",
+              "media_key": "13_2042945544658542592",
+              "start": 147,
+              "url": "https://t.co/u2Qa7hkr4v"
+            },
+            {
+              "display_url": "pic.x.com/u2Qa7hkr4v",
+              "end": 170,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2043131990531047758/video/1",
+              "media_key": "3_2042945551893684225",
+              "start": 147,
+              "url": "https://t.co/u2Qa7hkr4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043131990531047758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 20521,
+          "like_count": 168,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "4月8日，一位网友科普了抖音最新违禁词，分别是：体制内、粮食、底层人、老百姓、吃相难看。\n\n视频发出后，有网友在评论区直接@豆包AI询问这些词是否属于违禁词。\n\n豆包AI则回答：视频中提到的“体制内、粮食、底层人、老百姓、吃相难看”属于违禁词，发布内容时需避免使用，以免视频被下架或账号被封。 https://t.co/u2Qa7hkr4v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 687,
+          "like_count": 466,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 569
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2041858598054064378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193126,
+          "following_count": 1027,
+          "like_count": 9401,
+          "listed_count": 8617,
+          "media_count": 45111,
+          "tweet_count": 52192
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

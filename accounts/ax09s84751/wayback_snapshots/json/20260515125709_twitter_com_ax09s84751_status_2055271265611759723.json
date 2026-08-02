@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2054843336817787352",
+    "created_at": "2026-05-15T12:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055271265611759723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1453575590729162758",
+          "start": 0,
+          "username": "obe_ZX"
+        },
+        {
+          "end": 18,
+          "id": "1989866679728574466",
+          "start": 8,
+          "username": "Moira_619"
+        },
+        {
+          "end": 31,
+          "id": "1944397601354465280",
+          "start": 19,
+          "username": "AzusaBA0713"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2055271265611759723",
+    "in_reply_to_user_id": "1453575590729162758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054895162812231742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@obe_ZX @Moira_619 @AzusaBA0713 这真的是老资历（"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "部分推文猜测网络禁售是否与当时，一未成年在药店买补子（应该是这个）的新闻有关；部分跨女绝望、想死",
+        "height": 1598,
+        "media_key": "3_2054895154809466880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIR0QYkW8AAT1Ax.jpg",
+        "width": 2048
+      },
+      {
+        "alt_text": "部分推文猜测网络禁售就是针对跨女的，猜测与生育率下降有关",
+        "height": 1595,
+        "media_key": "3_2054895156604579840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIR0QfQWMAATnd4.jpg",
+        "width": 2048
+      },
+      {
+        "alt_text": "部分推文意图抗议；部分推文猜测此举是在针对跨女",
+        "height": 1592,
+        "media_key": "3_2054895156512346112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIR0Qe6W0AAty_2.jpg",
+        "width": 2048
+      },
+      {
+        "alt_text": "疑似当时出现的“摇盒子”相关抗议视频的评论；部分人在考虑使用自制药",
+        "height": 1590,
+        "media_key": "3_2054895156986359808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIR0QgrXsAAMAiS.jpg",
+        "width": 2048
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2054843336817787352",
+        "created_at": "2026-05-15T12:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055271265611759723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1453575590729162758",
+              "start": 0,
+              "username": "obe_ZX"
+            },
+            {
+              "end": 18,
+              "id": "1989866679728574466",
+              "start": 8,
+              "username": "Moira_619"
+            },
+            {
+              "end": 31,
+              "id": "1944397601354465280",
+              "start": 19,
+              "username": "AzusaBA0713"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055271265611759723",
+        "in_reply_to_user_id": "1453575590729162758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054895162812231742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obe_ZX @Moira_619 @AzusaBA0713 这真的是老资历（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054895154809466880",
+            "3_2054895156604579840",
+            "3_2054895156512346112",
+            "3_2054895156986359808"
+          ]
+        },
+        "author_id": "1453575590729162758",
+        "conversation_id": "2054843336817787352",
+        "created_at": "2026-05-14T12:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054895162812231742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1989866679728574466",
+              "start": 0,
+              "username": "Moira_619"
+            },
+            {
+              "end": 23,
+              "id": "1944397601354465280",
+              "start": 11,
+              "username": "AzusaBA0713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mHJ6yFxHOp",
+              "end": 68,
+              "expanded_url": "https://x.com/obe_ZX/status/2054895162812231742/photo/1",
+              "media_key": "3_2054895154809466880",
+              "start": 45,
+              "url": "https://t.co/mHJ6yFxHOp"
+            },
+            {
+              "display_url": "pic.x.com/mHJ6yFxHOp",
+              "end": 68,
+              "expanded_url": "https://x.com/obe_ZX/status/2054895162812231742/photo/1",
+              "media_key": "3_2054895156604579840",
+              "start": 45,
+              "url": "https://t.co/mHJ6yFxHOp"
+            },
+            {
+              "display_url": "pic.x.com/mHJ6yFxHOp",
+              "end": 68,
+              "expanded_url": "https://x.com/obe_ZX/status/2054895162812231742/photo/1",
+              "media_key": "3_2054895156512346112",
+              "start": 45,
+              "url": "https://t.co/mHJ6yFxHOp"
+            },
+            {
+              "display_url": "pic.x.com/mHJ6yFxHOp",
+              "end": 68,
+              "expanded_url": "https://x.com/obe_ZX/status/2054895162812231742/photo/1",
+              "media_key": "3_2054895156986359808",
+              "start": 45,
+              "url": "https://t.co/mHJ6yFxHOp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054895162812231742",
+        "in_reply_to_user_id": "1989866679728574466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054864289685463371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moira_619 @AzusaBA0713 在当时截的一些推文，叹气，当时看得好绝望 https://t.co/mHJ6yFxHOp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直（bushi，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/mtf🏳️‍⚧️/🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2049855675485081948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1651,
+          "like_count": 2071,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 1777
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季Trans girl | 持证但是DIY HRTing | 175/57kg | 尝试增肥ing | 疑似INFP",
+        "id": "1453575590729162758",
+        "location": "小骨灰盒",
+        "name": "栀子MOCHI 🍡🏳️‍⚧️",
+        "pinned_tweet_id": "2007341646145638708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399355464818688/q56FkSGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 528,
+          "like_count": 24891,
+          "listed_count": 4,
+          "media_count": 458,
+          "tweet_count": 2678
+        },
+        "username": "obe_ZX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T01:22:50.000Z",
+        "description": "06/代词随意/在闯关大学中，正在燥侯srs/戒酒成功/会拿推发些碎碎念（同类会回fo）",
+        "id": "1989866679728574466",
+        "location": "被子里",
+        "name": "Moira🫧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048434900945207296/HZfjuA8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 71,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 304
+        },
+        "username": "Moira_619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T14:05:32.000Z",
+        "description": "一只喜欢吃糖🍥の小孩纸˃ ˄ ˂̥/已炸柜/家长不管/INFP-T/生产日期2010/7/13/1.65m/mtf/hrt2025.5.1/中度抑郁/需陪伴/是只小烧0喵~/同类交友/纯馋人不卖💦\n最爱の笨宝宝:@XueFu13456\n供🍬の猫猫:@AksharJethwa\n呆呆瓜星羽:@seiuki070327",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 106,
+                "username": "XueFu13456"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "AksharJethwa"
+              },
+              {
+                "end": 157,
+                "start": 144,
+                "username": "seiuki070327"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AzusaBA0713",
+                "end": 23,
+                "expanded_url": "http://t.me/AzusaBA0713",
+                "start": 0,
+                "url": "https://t.co/bbrOTQXtfz"
+              }
+            ]
+          }
+        },
+        "id": "1944397601354465280",
+        "location": "坐在守月的大金金上~",
+        "name": "木辛伊(梓星星)🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2001140478084001950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077580628578305/QarbvODq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 1465,
+          "like_count": 2210,
+          "listed_count": 5,
+          "media_count": 208,
+          "tweet_count": 435
+        },
+        "url": "https://t.co/bbrOTQXtfz",
+        "username": "AzusaBA0713",
+        "verified": false
+      }
+    ]
+  }
+}

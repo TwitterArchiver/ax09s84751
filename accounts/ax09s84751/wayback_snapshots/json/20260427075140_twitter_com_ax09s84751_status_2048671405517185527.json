@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2048421683816759765",
+    "created_at": "2026-04-27T07:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T08:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048671405517185527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048299765763309568",
+          "start": 0,
+          "username": "ShawnGalla16478"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048671405517185527",
+    "in_reply_to_user_id": "2048299765763309568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048667225490407793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShawnGalla16478 你妈的，怎么在我评论区刷怪？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2048421683816759765",
+        "created_at": "2026-04-27T07:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048671405517185527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048299765763309568",
+              "start": 0,
+              "username": "ShawnGalla16478"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048671405517185527",
+        "in_reply_to_user_id": "2048299765763309568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048667225490407793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShawnGalla16478 你妈的，怎么在我评论区刷怪？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048299765763309568",
+        "conversation_id": "2048421683816759765",
+        "created_at": "2026-04-27T07:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048667225490407793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048667225490407793",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048421683816759765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 男大弟弟‌来‌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 1349,
+          "like_count": 886,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1094
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-26T07:14:56.000Z",
+        "description": "已入驻约p平台:👉https://t.co/GaJIZxH18h只在平台上约推特绝大部分女主播都入驻的平台，安全可靠.下载直接打开不用注册，日常更新具体位置平台都有显示.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 32,
+                "expanded_url": "http://d93g.top",
+                "start": 9,
+                "url": "https://t.co/GaJIZxH18h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 23,
+                "expanded_url": "http://d93g.top",
+                "start": 0,
+                "url": "https://t.co/GaJIZxH18h"
+              }
+            ]
+          }
+        },
+        "id": "2048299765763309568",
+        "location": "附近2.88km",
+        "name": "梦洁🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048667234382610432/osQ0_HtP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/GaJIZxH18h",
+        "username": "ShawnGalla16478",
+        "verified": false
+      }
+    ]
+  }
+}

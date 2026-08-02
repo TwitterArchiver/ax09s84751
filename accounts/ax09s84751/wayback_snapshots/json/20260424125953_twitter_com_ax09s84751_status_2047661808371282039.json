@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2047310366032413185",
+    "created_at": "2026-04-24T12:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047661808371282039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891311621991219200",
+          "start": 0,
+          "username": "Numiouo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047661808371282039",
+    "in_reply_to_user_id": "1891311621991219200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047310366032413185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo1 从联合国的角度来说，作为一个正常有同理心的人来说，人道主义的角度来说，肯定是不允许这种传播的呀。 如果互相鼓励的话，肯定是支持的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047310366032413185",
+        "created_at": "2026-04-24T12:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047661808371282039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891311621991219200",
+              "start": 0,
+              "username": "Numiouo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047661808371282039",
+        "in_reply_to_user_id": "1891311621991219200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047310366032413185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo1 从联合国的角度来说，作为一个正常有同理心的人来说，人道主义的角度来说，肯定是不允许这种传播的呀。 如果互相鼓励的话，肯定是支持的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891311621991219200",
+        "conversation_id": "2047310366032413185",
+        "created_at": "2026-04-23T13:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047310366032413185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047310366032413185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3558,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "在推特也是快过上文字狱生活了喵🥰🥰谁说上外网可以安安心心用中文了，被检索出关键词就不分青红皂白说你煽动自残自杀🥰🥰跟中国倒是如出一辙呢 遇到难题先把被难题害的人杀了这样就没有难题啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/有关必回！\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046853614304645121/kV0U6f4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 1263,
+          "like_count": 817,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-17T02:20:21.000Z",
+        "description": "@Numiouo大号\n大号的互关都会回 \n纯黄/红推会双取勿fo\n举报我不得好死不得好活",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "Numiouo"
+              }
+            ]
+          }
+        },
+        "id": "1891311621991219200",
+        "name": "糯米（备用号）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031380479656730624/btRtgWSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 238,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 88
+        },
+        "username": "Numiouo1",
+        "verified": false
+      }
+    ]
+  }
+}

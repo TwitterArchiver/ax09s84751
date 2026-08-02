@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2070143392668057953",
+    "created_at": "2026-06-26T09:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070445202326876211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1948395176831131648",
+          "start": 0,
+          "username": "zy89644"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2070445202326876211",
+    "in_reply_to_user_id": "1948395176831131648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070143392668057953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zy89644 Wow 留学生来的"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2070143392668057953].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2070143392668057953",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2070143392668057953"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2070143392668057953",
+        "created_at": "2026-06-26T09:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070445202326876211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1948395176831131648",
+              "start": 0,
+              "username": "zy89644"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2070445202326876211",
+        "in_reply_to_user_id": "1948395176831131648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070143392668057953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zy89644 Wow 留学生来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "苏州09；坐标不定，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echo42es"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2069963485296066978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065816996605005824/yyrl8vBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 1817,
+          "like_count": 2983,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 2630
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-24T14:50:02.000Z",
+        "description": "我喜欢听音乐\n最近在收集实体专辑\n381,618,168+55,952,266",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zy89644",
+                "end": 23,
+                "expanded_url": "http://ngl.link/zy89644",
+                "start": 0,
+                "url": "https://t.co/tLgc8L3Uoh"
+              }
+            ]
+          }
+        },
+        "id": "1948395176831131648",
+        "location": "上下左右之处",
+        "name": "이×3",
+        "pinned_tweet_id": "2067969211973218734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068971569154834432/h7pnNM3z_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 290,
+          "like_count": 55581,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 7264
+        },
+        "url": "https://t.co/tLgc8L3Uoh",
+        "username": "zy89644",
+        "verified": true
+      }
+    ]
+  }
+}

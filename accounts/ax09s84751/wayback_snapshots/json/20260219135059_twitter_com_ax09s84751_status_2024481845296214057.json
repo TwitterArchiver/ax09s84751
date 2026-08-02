@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024419349151588352",
+        "3_2024419350174978052",
+        "3_2024419354654408704"
+      ],
+      "media_source_tweet_id": [
+        "2024419366281105774",
+        "2024419366281105774",
+        "2024419366281105774"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2024481845296214057",
+    "created_at": "2026-02-19T13:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024481845296214057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1591591219590623234",
+          "start": 3,
+          "username": "Koucha194"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hNDQpmLXUs",
+          "end": 52,
+          "expanded_url": "https://x.com/Koucha194/status/2024419366281105774/photo/1",
+          "media_key": "3_2024419349151588352",
+          "start": 29,
+          "url": "https://t.co/hNDQpmLXUs"
+        },
+        {
+          "display_url": "pic.x.com/hNDQpmLXUs",
+          "end": 52,
+          "expanded_url": "https://x.com/Koucha194/status/2024419366281105774/photo/1",
+          "media_key": "3_2024419350174978052",
+          "start": 29,
+          "url": "https://t.co/hNDQpmLXUs"
+        },
+        {
+          "display_url": "pic.x.com/hNDQpmLXUs",
+          "end": 52,
+          "expanded_url": "https://x.com/Koucha194/status/2024419366281105774/photo/1",
+          "media_key": "3_2024419354654408704",
+          "start": 29,
+          "url": "https://t.co/hNDQpmLXUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024481845296214057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024419366281105774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Koucha194: 何意味？？\n地西洋片没绷住 https://t.co/hNDQpmLXUs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2250,
+        "media_key": "3_2024419349151588352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgurBaboAAAtVF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2261,
+        "media_key": "3_2024419350174978052",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgurFObUAQCrLo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2234,
+        "media_key": "3_2024419354654408704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgurV6aAAAGJau.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024419349151588352",
+            "3_2024419350174978052",
+            "3_2024419354654408704"
+          ],
+          "media_source_tweet_id": [
+            "2024419366281105774",
+            "2024419366281105774",
+            "2024419366281105774"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2024481845296214057",
+        "created_at": "2026-02-19T13:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024481845296214057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1591591219590623234",
+              "start": 3,
+              "username": "Koucha194"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNDQpmLXUs",
+              "end": 52,
+              "expanded_url": "https://x.com/Koucha194/status/2024419366281105774/photo/1",
+              "media_key": "3_2024419349151588352",
+              "start": 29,
+              "url": "https://t.co/hNDQpmLXUs"
+            },
+            {
+              "display_url": "pic.x.com/hNDQpmLXUs",
+              "end": 52,
+              "expanded_url": "https://x.com/Koucha194/status/2024419366281105774/photo/1",
+              "media_key": "3_2024419350174978052",
+              "start": 29,
+              "url": "https://t.co/hNDQpmLXUs"
+            },
+            {
+              "display_url": "pic.x.com/hNDQpmLXUs",
+              "end": 52,
+              "expanded_url": "https://x.com/Koucha194/status/2024419366281105774/photo/1",
+              "media_key": "3_2024419354654408704",
+              "start": 29,
+              "url": "https://t.co/hNDQpmLXUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024481845296214057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024419366281105774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Koucha194: 何意味？？\n地西洋片没绷住 https://t.co/hNDQpmLXUs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024419349151588352",
+            "3_2024419350174978052",
+            "3_2024419354654408704"
+          ]
+        },
+        "author_id": "1591591219590623234",
+        "conversation_id": "2024419366281105774",
+        "created_at": "2026-02-19T09:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024419366281105774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNDQpmLXUs",
+              "end": 37,
+              "expanded_url": "https://x.com/Koucha194/status/2024419366281105774/photo/1",
+              "media_key": "3_2024419349151588352",
+              "start": 14,
+              "url": "https://t.co/hNDQpmLXUs"
+            },
+            {
+              "display_url": "pic.x.com/hNDQpmLXUs",
+              "end": 37,
+              "expanded_url": "https://x.com/Koucha194/status/2024419366281105774/photo/1",
+              "media_key": "3_2024419350174978052",
+              "start": 14,
+              "url": "https://t.co/hNDQpmLXUs"
+            },
+            {
+              "display_url": "pic.x.com/hNDQpmLXUs",
+              "end": 37,
+              "expanded_url": "https://x.com/Koucha194/status/2024419366281105774/photo/1",
+              "media_key": "3_2024419354654408704",
+              "start": 14,
+              "url": "https://t.co/hNDQpmLXUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024419366281105774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 887,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味？？\n地西洋片没绷住 https://t.co/hNDQpmLXUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09年的/不od/不割手/不zc/不是mtf/顺直/中度抑郁焦虑/愛看抽象/坐标苏州/可以互fo喵～",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 116,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 60
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-13T00:38:56.000Z",
+        "description": "芳与泽其杂糅兮，唯昭质其犹未亏。\n高三党/od/偶尔割手/音游/数学/Nanahira/Swarm/Minecraft/中文/English   不会block任何人，接受任何对我的block\n随意对待我。",
+        "id": "1591591219590623234",
+        "name": "红茶",
+        "pinned_tweet_id": "1908352007427277177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876652738177888256/RlNtTkWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 473,
+          "like_count": 8458,
+          "listed_count": 4,
+          "media_count": 287,
+          "tweet_count": 3112
+        },
+        "username": "Koucha194",
+        "verified": false
+      }
+    ]
+  }
+}

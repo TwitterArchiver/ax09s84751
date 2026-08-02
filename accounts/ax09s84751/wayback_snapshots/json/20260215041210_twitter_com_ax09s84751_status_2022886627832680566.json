@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021492216548687872"
+      ],
+      "media_source_tweet_id": [
+        "2021492219862188125"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2022886627832680566",
+    "created_at": "2026-02-15T04:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022886627832680566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2009620713460887553",
+          "start": 3,
+          "username": "HujiaoFen_sad"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QyS0GpEjJz",
+          "end": 59,
+          "expanded_url": "https://x.com/HujiaoFen_sad/status/2021492219862188125/photo/1",
+          "media_key": "3_2021492216548687872",
+          "start": 36,
+          "url": "https://t.co/QyS0GpEjJz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022886627832680566",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021492219862188125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HujiaoFen_sad: 1500mg普瑞巴林配可乐#od https://t.co/QyS0GpEjJz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021492216548687872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3IdeuaAAALdDh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021492216548687872"
+          ],
+          "media_source_tweet_id": [
+            "2021492219862188125"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2022886627832680566",
+        "created_at": "2026-02-15T04:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022886627832680566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2009620713460887553",
+              "start": 3,
+              "username": "HujiaoFen_sad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyS0GpEjJz",
+              "end": 59,
+              "expanded_url": "https://x.com/HujiaoFen_sad/status/2021492219862188125/photo/1",
+              "media_key": "3_2021492216548687872",
+              "start": 36,
+              "url": "https://t.co/QyS0GpEjJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022886627832680566",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021492219862188125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HujiaoFen_sad: 1500mg普瑞巴林配可乐#od https://t.co/QyS0GpEjJz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021492216548687872"
+          ]
+        },
+        "author_id": "2009620713460887553",
+        "conversation_id": "2021492219862188125",
+        "created_at": "2026-02-11T07:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021492219862188125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyS0GpEjJz",
+              "end": 40,
+              "expanded_url": "https://x.com/HujiaoFen_sad/status/2021492219862188125/photo/1",
+              "media_key": "3_2021492216548687872",
+              "start": 17,
+              "url": "https://t.co/QyS0GpEjJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021492219862188125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1658,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1500mg普瑞巴林配可乐#od https://t.co/QyS0GpEjJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "",
+        "id": "2022153081031733252",
+        "name": "Ax09s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 57,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T13:43:28.000Z",
+        "description": "无聊……我要看到血流成河\n🚪38 重度抑郁/LGBT友好/男の娘/自伤/平常都会回私信，我是个很温良的小男孩呀请来过我门槛谢谢泥૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა",
+        "id": "2009620713460887553",
+        "location": "广东省",
+        "name": "我为你撑起蓝色雨伞",
+        "pinned_tweet_id": "2021651507595379051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017126866835169280/V_t4SvIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 66,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 117
+        },
+        "username": "HujiaoFen_sad",
+        "verified": false
+      }
+    ]
+  }
+}

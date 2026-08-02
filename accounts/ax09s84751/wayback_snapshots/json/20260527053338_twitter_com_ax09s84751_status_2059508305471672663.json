@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2059508305471672663",
+    "created_at": "2026-05-27T05:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059508305471672663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PriseTwinkle/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/PriseTwinkle/status/2059496965684248792",
+          "start": 11,
+          "url": "https://t.co/rC0xOoeNZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059508305471672663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059496965684248792",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "徐静 有这么多病啊？ https://t.co/rC0xOoeNZY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1655,
+        "media_key": "3_2059496950555422720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTNkJnbMAAEfEf.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2059508305471672663",
+        "created_at": "2026-05-27T05:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059508305471672663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PriseTwinkle/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/PriseTwinkle/status/2059496965684248792",
+              "start": 11,
+              "url": "https://t.co/rC0xOoeNZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059508305471672663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059496965684248792",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "徐静 有这么多病啊？ https://t.co/rC0xOoeNZY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059496950555422720"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2059496965684248792",
+        "created_at": "2026-05-27T04:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059496965684248792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/geX7CPLJe9",
+              "end": 34,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2059496965684248792/photo/1",
+              "media_key": "3_2059496950555422720",
+              "start": 11,
+              "url": "https://t.co/geX7CPLJe9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059496965684248792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啥时候让我也得一个🤤 https://t.co/geX7CPLJe9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "苏州09；坐标不定，随遇而安\nMDD/PDD/GAD\nMTF🏳️‍⚧️，本质天然，坚守本心，同好相交，情投意合，生于斯长于斯，根脉所依🇨🇳\n生于2009.10.05 | 始于2026.2，长久相伴，不离不散\n主号关联@Echo42es @Echog6xf\n同频相聚，同向而行，共赴长",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Echo42es"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2056343958226420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059220535587016704/5FkMfQ1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1826,
+          "like_count": 2601,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 2274
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？跨圈最小的? \n无证小药娘🍥2026.4.7 MTF\n从小想做个女孩子-炸柜：5.2,/继续深柜ing\n喜欢折腾电脑和会一点编程\n分享Hrt日常- ❓❓❓\n喜欢我的话点个关注吧🥺 求求你了~\n@TeamRain_2024 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "TeamRain_2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 150,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 128,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/vVpfNV6DFI"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝕻𝖗𝖎𝖘𝖊𝕿𝖜𝖎𝖓𝖐𝖑𝖊 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059287173812412416/vAimrkvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 7,
+          "like_count": 2000,
+          "listed_count": 5,
+          "media_count": 102,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/vVpfNV6DFI",
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}
