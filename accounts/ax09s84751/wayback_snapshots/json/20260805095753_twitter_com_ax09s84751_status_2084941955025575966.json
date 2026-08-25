@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2084941955025575966",
+    "created_at": "2026-08-05T09:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084941955025575966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687337760708046848",
+          "start": 3,
+          "username": "Maplerirs"
+        },
+        {
+          "end": 26,
+          "id": "1873708075619946497",
+          "start": 15,
+          "username": "qik1182069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084941955025575966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084660531072573685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maplerirs: @qik1182069 这种冲击力无法形容。当你看到他的推文时，他可能已经不在这个世界了，但是他留下的东西还在提醒着你，他曾经存在过。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2084941955025575966",
+        "created_at": "2026-08-05T09:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084941955025575966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687337760708046848",
+              "start": 3,
+              "username": "Maplerirs"
+            },
+            {
+              "end": 26,
+              "id": "1873708075619946497",
+              "start": 15,
+              "username": "qik1182069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084941955025575966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084660531072573685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Maplerirs: @qik1182069 这种冲击力无法形容。当你看到他的推文时，他可能已经不在这个世界了，但是他留下的东西还在提醒着你，他曾经存在过。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687337760708046848",
+        "conversation_id": "2084489505394819229",
+        "created_at": "2026-08-04T15:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084660531072573685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1873708075619946497",
+              "start": 0,
+              "username": "qik1182069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084660531072573685",
+        "in_reply_to_user_id": "1873708075619946497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1256,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084489505394819229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qik1182069 这种冲击力无法形容。当你看到他的推文时，他可能已经不在这个世界了，但是他留下的东西还在提醒着你，他曾经存在过。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "KuroHikari.",
+        "pinned_tweet_id": "2081573482882895956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 1806,
+          "like_count": 3339,
+          "listed_count": 1,
+          "media_count": 449,
+          "tweet_count": 2802
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-04T05:40:58.000Z",
+        "description": "",
+        "id": "1687337760708046848",
+        "name": "Maple",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687339441223012352/knRa7B6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 38,
+          "like_count": 544,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "Maplerirs",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T12:30:09.000Z",
+        "description": "无性别 - 泛性恋\n自由 - 平等 - 博爱\n开放 - 包容 - 多元",
+        "id": "1873708075619946497",
+        "name": "✝️春沫✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049306580643123200/u3zr6mwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 57,
+          "like_count": 2400,
+          "listed_count": 4,
+          "media_count": 4,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "qik1182069",
+        "verified": false
+      }
+    ]
+  }
+}

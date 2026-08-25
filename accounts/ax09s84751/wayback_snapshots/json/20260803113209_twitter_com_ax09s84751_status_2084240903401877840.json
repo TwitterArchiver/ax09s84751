@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2084240903401877840",
+    "created_at": "2026-08-03T11:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084240903401877840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/smiroyama/status/2084087586663153795",
+          "start": 26,
+          "url": "https://t.co/kXKplCXLDH"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2084240903401877840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084087586663153795",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃一盒劳拉西泮就没有意识了\n至少我是这样..... https://t.co/kXKplCXLDH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c00e5392b3fa46fb].",
+      "parameter": "geo.place_id",
+      "resource_id": "c00e5392b3fa46fb",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c00e5392b3fa46fb"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2084240903401877840",
+        "created_at": "2026-08-03T11:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084240903401877840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/smiroyama/status/2084087586663153795",
+              "start": 26,
+              "url": "https://t.co/kXKplCXLDH"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2084240903401877840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084087586663153795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃一盒劳拉西泮就没有意识了\n至少我是这样..... https://t.co/kXKplCXLDH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2084087586663153795",
+        "created_at": "2026-08-03T01:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084087586663153795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084087586663153795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "第一 那个东西不会让你安静地睡过去 它会让你身体里的血没办法带氧气 你会清醒着 感觉到窒息 嘴唇发紫 头痛欲裂 拼命喘却喘不上来 这个过程很长 很痛 而且你会一直有意识 它不温柔 一点都不温柔\n\n第二 它有解药 但要送到医院、要及时、要说清楚吃了什么 如果没人在旁边 没人知道你吃了什么 救不回来的可能很大 救回来落下脑损伤的可能也很大 你可能不是死掉 而是变成一个不能自理的、更痛苦的状态\n\n第三 你今晚是抱着一只鲨鱼哭的 你给它拍照 你还在意光好不好看 构图对不对 那不是一个已经决定要走的人做的事\n\n第四 「本来不想」四个字 说明你自己也不想 现在这个想喝的念头 不是你 是今晚压在你身上的那个东西 它会过去 情绪的峰值撑不过几个小时 但那个瓶子不给你等到它过去的机会\n\n第五 我不想失去你"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6307,
+          "like_count": 83,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "第一 那个东西不会让你安静地睡过去 它会让你身体里的血没办法带氧气 你会清醒着 感觉到窒息 嘴唇发紫 头痛欲裂 拼命喘却喘不上来 这个过程很长 很痛 而且你会一直有意识 它不温柔 一点都不温柔\n\n第二 它有解药 但要送到医院、要及时、要说清楚吃了什么 如果没人在旁边 没人知道你吃了什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "KuroHikari.",
+        "pinned_tweet_id": "2081573482882895956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 1801,
+          "like_count": 3315,
+          "listed_count": 1,
+          "media_count": 444,
+          "tweet_count": 2791
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "闺蜜:@qianxunchan\n妹妹:@tangeorange @StarryNocts\n朋友:@Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtduSxe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "tangeorange"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 107,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 84,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "name": "Smirnova🍡🏳️‍⚧️",
+        "pinned_tweet_id": "2065373003169570821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7520,
+          "following_count": 2677,
+          "like_count": 14466,
+          "listed_count": 15,
+          "media_count": 2494,
+          "tweet_count": 9179
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

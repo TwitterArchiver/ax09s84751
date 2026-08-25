@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2083564261293613508",
+    "created_at": "2026-08-01T14:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083564261293613508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2080653636418326528",
+          "start": 3,
+          "username": "sanyueqiuqoji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083564261293613508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081449365370245189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sanyueqiuqoji: 讣告：\n三秋@三秋🍥🏳️‍⚧️于2026年7月27日服用过量亚硝酸溶液死亡，很开心，终于结束了漫长的痛苦，愿她来世安宁，能当个真正的女孩\n\n最后一次拥抱大家，借着大家的体温死亡不再冰冷，愿我来世安宁。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2083564261293613508",
+        "created_at": "2026-08-01T14:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083564261293613508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2080653636418326528",
+              "start": 3,
+              "username": "sanyueqiuqoji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083564261293613508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081449365370245189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sanyueqiuqoji: 讣告：\n三秋@三秋🍥🏳️‍⚧️于2026年7月27日服用过量亚硝酸溶液死亡，很开心，终于结束了漫长的痛苦，愿她来世安宁，能当个真正的女孩\n\n最后一次拥抱大家，借着大家的体温死亡不再冰冷，愿我来世安宁。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080653636418326528",
+        "conversation_id": "2081449365370245189",
+        "created_at": "2026-07-26T18:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081449365370245189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081449365370245189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 61195,
+          "like_count": 460,
+          "quote_count": 16,
+          "reply_count": 148,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n三秋@三秋🍥🏳️‍⚧️于2026年7月27日服用过量亚硝酸溶液死亡，很开心，终于结束了漫长的痛苦，愿她来世安宁，能当个真正的女孩\n\n最后一次拥抱大家，借着大家的体温死亡不再冰冷，愿我来世安宁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "KuroHikari.",
+        "pinned_tweet_id": "2081573482882895956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 1789,
+          "like_count": 3292,
+          "listed_count": 1,
+          "media_count": 444,
+          "tweet_count": 2780
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-24T14:05:53.000Z",
+        "description": "一只三秋，天然呆反应慢/社恐但是努力交友喵/终会和所有喜欢的人相见喵",
+        "id": "2080653636418326528",
+        "name": "三月秋🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080657562261663744/vzc9ZCOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 16,
+          "like_count": 7,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "sanyueqiuqoji",
+        "verified": false
+      }
+    ]
+  }
+}
