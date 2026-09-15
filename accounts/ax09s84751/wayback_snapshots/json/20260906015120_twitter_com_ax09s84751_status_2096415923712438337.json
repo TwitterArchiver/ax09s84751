@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2096293488010879419",
+    "created_at": "2026-09-06T01:51:20.000Z",
+    "display_text_range": [
+      30,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T02:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096415923712438337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001675650994999296",
+          "start": 0,
+          "username": "Pluralitysubsys"
+        },
+        {
+          "end": 29,
+          "id": "1832763086039896064",
+          "start": 17,
+          "username": "NanoCatfish"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2096415923712438337",
+    "in_reply_to_user_id": "2001675650994999296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096293488010879419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pluralitysubsys @NanoCatfish 神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2096293481711112192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HReH0KJbkAAmrMx.jpg",
+        "width": 1200
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2096293488010879419",
+        "created_at": "2026-09-06T01:51:20.000Z",
+        "display_text_range": [
+          30,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096415923712438337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001675650994999296",
+              "start": 0,
+              "username": "Pluralitysubsys"
+            },
+            {
+              "end": 29,
+              "id": "1832763086039896064",
+              "start": 17,
+              "username": "NanoCatfish"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2096415923712438337",
+        "in_reply_to_user_id": "2001675650994999296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096293488010879419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pluralitysubsys @NanoCatfish 神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096293481711112192"
+          ]
+        },
+        "author_id": "2001675650994999296",
+        "conversation_id": "2096293488010879419",
+        "created_at": "2026-09-05T17:44:49.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096293488010879419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eLsye7ryva",
+              "end": 36,
+              "expanded_url": "https://x.com/Pluralitysubsys/status/2096293488010879419/photo/1",
+              "media_key": "3_2096293481711112192",
+              "start": 13,
+              "url": "https://t.co/eLsye7ryva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096293488010879419",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096293481711112192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4519,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个人被晶哥抓了，小心点 https://t.co/eLsye7ryva"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "BD-II (Dep, Mixed, RC, AnxD, Mel)\n苏州/09/MTF🏳️‍⚧️\n关联主号@Echo42es @Echog6xf\n聚于共鸣，行于热爱，成于坚守",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Echo42es"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "is_identity_verified": false,
+        "location": "The People's Republic of China",
+        "most_recent_tweet_id": "2096415923712438337",
+        "name": "KuroHikari.",
+        "pinned_tweet_id": "2090353587255943405",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022153081031733252/1785028949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 1769,
+          "like_count": 3855,
+          "listed_count": 1,
+          "media_count": 491,
+          "tweet_count": 3264
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "喜爱生物化学 | 渴望成为全知者 | HK | They | audhd | 道德感极强 | nssi | od | 绝不自杀 | 法外狂徒 | 精神状态疯癫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/plurality…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/pluralitysubsystem2025personal",
+                "start": 0,
+                "url": "https://t.co/Bv5TPNjkK9"
+              }
+            ]
+          }
+        },
+        "id": "2001675650994999296",
+        "is_identity_verified": false,
+        "location": "全球最大的化工厂 A区第8期11栋0318室",
+        "most_recent_tweet_id": "2096294175662813605",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2078683512438464528",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2001675650994999296/1778736401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920070571335680/QMy39m02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 181,
+          "like_count": 2445,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 4051
+        },
+        "url": "https://t.co/Bv5TPNjkK9",
+        "username": "Pluralitysubsys",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-08T12:51:34.000Z",
+        "description": "自由、平等、博爱 | 无性别认同\n\n另一个我 @Nano_Catfish\n\n梦 @wimzylens0\n蛍 @akenohotaru\n猫 @bth95147\n\n寻寻 @smiroyama\n姐姐 @LeavesMao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "Nano_Catfish"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "wimzylens0"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "akenohotaru"
+              },
+              {
+                "end": 78,
+                "start": 69,
+                "username": "bth95147"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "smiroyama"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanocatfish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nanocatfish",
+                "start": 0,
+                "url": "https://t.co/I3vJIN1yOJ"
+              }
+            ]
+          }
+        },
+        "id": "1832763086039896064",
+        "is_identity_verified": false,
+        "location": "🍀四叶草园🍀",
+        "most_recent_tweet_id": "2096295138503119306",
+        "name": "🍀Nano Catfish🐟🐟🐟",
+        "pinned_tweet_id": "1985858852060070241",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832763086039896064/1765570075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007057714342461440/5Gc8L4A0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 322,
+          "like_count": 7646,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1732
+        },
+        "url": "https://t.co/I3vJIN1yOJ",
+        "username": "NanoCatfish",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

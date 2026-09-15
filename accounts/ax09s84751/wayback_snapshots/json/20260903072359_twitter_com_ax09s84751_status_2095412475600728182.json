@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095213078875111424"
+      ],
+      "media_source_tweet_id": [
+        "2095213085615398937"
+      ]
+    },
+    "author_id": "2022153081031733252",
+    "conversation_id": "2095412475600728182",
+    "created_at": "2026-09-03T07:23:59.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T08:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095412475600728182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1414259680612818951",
+          "start": 3,
+          "username": "RainEngine2021"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PRUYSpchD3",
+          "end": 107,
+          "expanded_url": "https://x.com/RainEngine2021/status/2095213085615398937/photo/1",
+          "media_key": "3_2095213078875111424",
+          "start": 84,
+          "url": "https://t.co/PRUYSpchD3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095412475600728182",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095213078875111424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095213085615398937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine2021: 小米18 Fold 预约权益限时开启\n预约抽大奖，至高赢万元豪礼\n预约并购机，得限时尊享好礼\n付款还可享至高 12 期分期免息 https://t.co/PRUYSpchD3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095213078875111424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROxMb8agAAUDNV.jpg",
+        "width": 748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095213078875111424"
+          ],
+          "media_source_tweet_id": [
+            "2095213085615398937"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2095412475600728182",
+        "created_at": "2026-09-03T07:23:59.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095412475600728182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1414259680612818951",
+              "start": 3,
+              "username": "RainEngine2021"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRUYSpchD3",
+              "end": 107,
+              "expanded_url": "https://x.com/RainEngine2021/status/2095213085615398937/photo/1",
+              "media_key": "3_2095213078875111424",
+              "start": 84,
+              "url": "https://t.co/PRUYSpchD3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095412475600728182",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095213078875111424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095213085615398937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine2021: 小米18 Fold 预约权益限时开启\n预约抽大奖，至高赢万元豪礼\n预约并购机，得限时尊享好礼\n付款还可享至高 12 期分期免息 https://t.co/PRUYSpchD3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095213078875111424"
+          ]
+        },
+        "author_id": "1414259680612818951",
+        "conversation_id": "2095213085615398937",
+        "created_at": "2026-09-02T18:11:41.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T19:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095213085615398937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRUYSpchD3",
+              "end": 87,
+              "expanded_url": "https://x.com/RainEngine2021/status/2095213085615398937/photo/1",
+              "media_key": "3_2095213078875111424",
+              "start": 64,
+              "url": "https://t.co/PRUYSpchD3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095213085615398937",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095213078875111424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小米18 Fold 预约权益限时开启\n预约抽大奖，至高赢万元豪礼\n预约并购机，得限时尊享好礼\n付款还可享至高 12 期分期免息 https://t.co/PRUYSpchD3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "BD-II (Dep, Mixed, RC, AnxD, Mel)\n苏州/09/MTF🏳️‍⚧️\n关联主号@Echo42es @Echog6xf\n聚于共鸣，行于热爱，成于坚守",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Echo42es"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "is_identity_verified": false,
+        "location": "The People's Republic of China",
+        "most_recent_tweet_id": "2095412475600728182",
+        "name": "KuroHikari.",
+        "pinned_tweet_id": "2090353587255943405",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022153081031733252/1785028949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 1775,
+          "like_count": 3663,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 3062
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-11T16:26:11.000Z",
+        "description": "小米合作伙伴 / RainEngine UX設計 / 安卓ROM開發者 / Unity3D初學者 / 19y.o / GMT+8 / ZH-CN",
+        "id": "1414259680612818951",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095411251686015479",
+        "name": "晴泽QinZor",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414259680612818951/1787410997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093699707315060737/A28jEelG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 96,
+          "like_count": 1243,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "RainEngine2021",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

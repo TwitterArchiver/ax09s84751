@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2092862851933413480",
+    "created_at": "2026-08-27T06:32:42.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T07:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092862851933413480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ax09s84751/sta…",
+          "end": 146,
+          "expanded_url": "https://twitter.com/ax09s84751/status/2092862365088018797",
+          "start": 123,
+          "url": "https://t.co/gs0ENGZ0V2"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2092862851933413480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "不要自杀，不要自杀，不要自杀。\n\n可以难受的时候把认知解离。\n\n就是我知道自己生病了，这些想法都是扭曲的，但这事实中并没有发生。\n\n下面就放这些东西。\n\n上面放正常的思维，比如说你要干的事情，你要想的事情，你要的目的什么的。\n\n这个叫认知解离。\n\n还有就是可以训练一下元认知，就是自己观察自己的状态。\n\n这样子能最大程度在你濒临崩溃的时候，尽量不做一些傻事.............."
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092862365088018797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要自杀，不要自杀，不要自杀。\n\n可以难受的时候把认知解离。\n\n就是我知道自己生病了，这些想法都是扭曲的，但这事实中并没有发生。\n\n下面就放这些东西。\n\n上面放正常的思维，比如说你要干的事情，你要想的事情，你要的目的什么的。\n\n这个叫认知解离。 https://t.co/gs0ENGZ0V2"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2092862851933413480",
+        "created_at": "2026-08-27T06:32:42.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092862851933413480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ax09s84751/sta…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/ax09s84751/status/2092862365088018797",
+              "start": 123,
+              "url": "https://t.co/gs0ENGZ0V2"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2092862851933413480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不要自杀，不要自杀，不要自杀。\n\n可以难受的时候把认知解离。\n\n就是我知道自己生病了，这些想法都是扭曲的，但这事实中并没有发生。\n\n下面就放这些东西。\n\n上面放正常的思维，比如说你要干的事情，你要想的事情，你要的目的什么的。\n\n这个叫认知解离。\n\n还有就是可以训练一下元认知，就是自己观察自己的状态。\n\n这样子能最大程度在你濒临崩溃的时候，尽量不做一些傻事.............."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092862365088018797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要自杀，不要自杀，不要自杀。\n\n可以难受的时候把认知解离。\n\n就是我知道自己生病了，这些想法都是扭曲的，但这事实中并没有发生。\n\n下面就放这些东西。\n\n上面放正常的思维，比如说你要干的事情，你要想的事情，你要的目的什么的。\n\n这个叫认知解离。 https://t.co/gs0ENGZ0V2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2092862365088018797",
+        "created_at": "2026-08-27T06:30:45.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092862365088018797"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2092862365088018797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇你们天天高强度刷推的，到底在刷什么？\n\n我一般就搬点搞笑图片来，然后就下线了\n\n这么久不怎么刷推，发现最近在买盐，还有自杀潮，这是怎么回事？有没有推友跟我讲讲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "is_identity_verified": false,
+        "location": "The People's Republic of China",
+        "most_recent_tweet_id": "2092862851933413480",
+        "name": "KuroHikari.",
+        "pinned_tweet_id": "2090353587255943405",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022153081031733252/1785028949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 1762,
+          "like_count": 3395,
+          "listed_count": 1,
+          "media_count": 465,
+          "tweet_count": 2862
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

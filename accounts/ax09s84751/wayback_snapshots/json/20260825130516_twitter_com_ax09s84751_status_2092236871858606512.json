@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2092236871858606512",
+    "created_at": "2026-08-25T13:05:16.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T14:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092236871858606512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KiraMyao/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/KiraMyao/status/2091833858564272366",
+          "start": 9,
+          "url": "https://t.co/umoOqPkCdO"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2092236871858606512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091833858564272366",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "算我一例，哈哈哈 https://t.co/umoOqPkCdO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2091833510961291265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQevfsYbIAE0lbW.jpg",
+        "width": 973
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2092236871858606512",
+        "created_at": "2026-08-25T13:05:16.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092236871858606512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KiraMyao/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/KiraMyao/status/2091833858564272366",
+              "start": 9,
+              "url": "https://t.co/umoOqPkCdO"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2092236871858606512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091833858564272366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算我一例，哈哈哈 https://t.co/umoOqPkCdO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091833510961291265"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "conversation_id": "2091833858564272366",
+        "created_at": "2026-08-24T10:23:50.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091833858564272366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8wPOkwbTZE",
+              "end": 165,
+              "expanded_url": "https://x.com/KiraMyao/status/2091833858564272366/photo/1",
+              "media_key": "3_2091833510961291265",
+              "start": 142,
+              "url": "https://t.co/8wPOkwbTZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091833858564272366",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091833510961291265"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 190,
+                "id": "1585145286598483968",
+                "start": 178,
+                "username": "lianyiganyu"
+              }
+            ]
+          },
+          "text": "2026年以来 仅推特中文圈上的不完全统计\n亚硝酸钠自杀事件就有整整27例\n不管TA们是不是跨性别，这都足以警示各位。\n活下来的人里，有人进过 ICU，有人事后明确劝过：\n不要用这种方法。\n愿逝者安息，我们能做的只有三件事：\n提高危险化学品的售卖和寄送门槛；\n遇到自杀事件及时干预；\n不盲从，愿你找到活下去的希望。\n\n如需立刻帮助：请拨打当地 110 / @lianyiganyu"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 14690,
+          "like_count": 219,
+          "quote_count": 11,
+          "reply_count": 50,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "2026年以来 仅推特中文圈上的不完全统计\n亚硝酸钠自杀事件就有整整27例\n不管TA们是不是跨性别，这都足以警示各位。\n活下来的人里，有人进过 ICU，有人事后明确劝过：\n不要用这种方法。\n愿逝者安息，我们能做的只有三件事：\n提高危险化学品的售卖和寄送门槛；\n遇到自杀事件及时干预； https://t.co/8wPOkwbTZE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "is_identity_verified": false,
+        "location": "The People's Republic of China",
+        "most_recent_tweet_id": "2092236871858606512",
+        "name": "KuroHikari.",
+        "pinned_tweet_id": "2090353587255943405",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022153081031733252/1785028949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 1764,
+          "like_count": 3388,
+          "listed_count": 1,
+          "media_count": 465,
+          "tweet_count": 2845
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiramyao.com",
+                "end": 23,
+                "expanded_url": "https://kiramyao.com/",
+                "start": 0,
+                "url": "https://t.co/NVGsHKEdLi"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "is_identity_verified": true,
+        "location": "Japan",
+        "most_recent_tweet_id": "2092219855785390274",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2088478447643578384",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811265295849598976/1772529789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 377,
+          "like_count": 10500,
+          "listed_count": 7,
+          "media_count": 432,
+          "tweet_count": 1966
+        },
+        "url": "https://t.co/NVGsHKEdLi",
+        "username": "KiraMyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2096421764083654971",
+    "created_at": "2026-09-06T07:07:53.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096495585654341884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2096286557678575617",
+          "start": 0,
+          "username": "jrdh_jidu"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2096495585654341884",
+    "in_reply_to_user_id": "2096286557678575617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096475320052531561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jrdh_jidu 唔姆"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2096421764083654971",
+        "created_at": "2026-09-06T07:07:53.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096495585654341884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2096286557678575617",
+              "start": 0,
+              "username": "jrdh_jidu"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2096495585654341884",
+        "in_reply_to_user_id": "2096286557678575617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096475320052531561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jrdh_jidu 唔姆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096286557678575617",
+        "conversation_id": "2096421764083654971",
+        "created_at": "2026-09-06T05:47:21.000Z",
+        "display_text_range": [
+          12,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096475320052531561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096475320052531561",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096421764083654971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 但是我没得这么乖啊，要是我也有这么乖就好了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "BD-II (Dep, Mixed, RC, AnxD, Mel)\n苏州/09/MTF🏳️‍⚧️\n关联主号@Echo42es @Echog6xf\n聚于共鸣，行于热爱，成于坚守",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Echo42es"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "is_identity_verified": false,
+        "location": "The People's Republic of China",
+        "most_recent_tweet_id": "2096495585654341884",
+        "name": "KuroHikari.",
+        "pinned_tweet_id": "2090353587255943405",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022153081031733252/1785028949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 1768,
+          "like_count": 3879,
+          "listed_count": 1,
+          "media_count": 493,
+          "tweet_count": 3282
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T17:18:58.000Z",
+        "description": "提问↓\nhttps://t.co/kTCT4N0HQE还不了解可以发什么，所以不知道写什么\n我以前就说过要这么做\n这里自由吗？我想说点奇怪的话",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jrdh72559",
+                "end": 27,
+                "expanded_url": "https://ngl.link/jrdh72559",
+                "start": 4,
+                "url": "https://t.co/kTCT4N0HQE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "这又是啥子.com",
+                "end": 23,
+                "expanded_url": "http://xn--for80b44j93mxx4c.com",
+                "start": 0,
+                "url": "https://t.co/7ZNGlurmsb"
+              }
+            ]
+          }
+        },
+        "id": "2096286557678575617",
+        "is_identity_verified": false,
+        "location": "在哪啊在哪啊，这个该怎么填？",
+        "most_recent_tweet_id": "2096494358933745683",
+        "name": "孑然妒火",
+        "pinned_tweet_id": "2096433809025806487",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096286557678575617/1788629319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096287263659601920/9u7RmJkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 51
+        },
+        "url": "https://t.co/7ZNGlurmsb",
+        "username": "jrdh_jidu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

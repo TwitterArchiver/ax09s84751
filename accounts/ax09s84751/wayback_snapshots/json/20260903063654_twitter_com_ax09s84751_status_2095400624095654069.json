@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2095400624095654069",
+    "created_at": "2026-09-03T06:36:54.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T07:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095400624095654069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2095109481440969203",
+          "start": 29,
+          "url": "https://t.co/pzWezFLtHW"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2095400624095654069",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095109481440969203",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 中国对于LGBTQ trans 都态度怎么样 https://t.co/pzWezFLtHW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2094994252162052096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLqLC6asAAM9yL.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2094994289369743360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLqNNhbAAALdOD.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2094994326443151360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLqPXoaUAAY_TA.jpg",
+        "width": 1080
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2095400624095654069",
+        "created_at": "2026-09-03T06:36:54.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T07:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095400624095654069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2095109481440969203",
+              "start": 29,
+              "url": "https://t.co/pzWezFLtHW"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2095400624095654069",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095109481440969203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 中国对于LGBTQ trans 都态度怎么样 https://t.co/pzWezFLtHW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094994252162052096",
+            "3_2094994289369743360",
+            "3_2094994326443151360"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2095109481440969203",
+        "created_at": "2026-09-02T11:20:00.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T12:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095109481440969203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MjJ1GXd1sd",
+              "end": 165,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2095109481440969203/photo/1",
+              "media_key": "3_2094994252162052096",
+              "start": 142,
+              "url": "https://t.co/MjJ1GXd1sd"
+            },
+            {
+              "display_url": "pic.x.com/MjJ1GXd1sd",
+              "end": 165,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2095109481440969203/photo/1",
+              "media_key": "3_2094994289369743360",
+              "start": 142,
+              "url": "https://t.co/MjJ1GXd1sd"
+            },
+            {
+              "display_url": "pic.x.com/MjJ1GXd1sd",
+              "end": 165,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2095109481440969203/photo/1",
+              "media_key": "3_2094994326443151360",
+              "start": 142,
+              "url": "https://t.co/MjJ1GXd1sd"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1672239070146117636",
+              "start": 166,
+              "url": "https://t.co/cjMHLFWNML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095109481440969203",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094994252162052096"
+          },
+          {
+            "media_key": "3_2094994289369743360"
+          },
+          {
+            "media_key": "3_2094994326443151360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 111614,
+          "like_count": 933,
+          "quote_count": 6,
+          "reply_count": 95,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1672239070146117636",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“我们曾短暂到达过未来”\n\n9月1日，有网友晒出大学时期的旧照称，2018年前后，其所在高校仍允许LGBTQ社团公开存在，并可以和其他学生社团一起参加校园招新。\n\n网友发布的照片中，社团摊位摆放着彩虹旗、彩虹徽章等物品。\n\n其称，到2020年，该社团最终以“活动人数不足”为由关闭。 https://t.co/MjJ1GXd1sd https://t.co/cjMHLFWNML"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "BD-II (Dep, Mixed, RC, AnxD, Mel)\n苏州/09/MTF🏳️‍⚧️\n关联主号@Echo42es @Echog6xf\n聚于共鸣，行于热爱，成于坚守",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Echo42es"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "is_identity_verified": false,
+        "location": "The People's Republic of China",
+        "most_recent_tweet_id": "2095400624095654069",
+        "name": "KuroHikari.",
+        "pinned_tweet_id": "2090353587255943405",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022153081031733252/1785028949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 1775,
+          "like_count": 3646,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 3051
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095400624963629227",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9029740,
+          "following_count": 4,
+          "like_count": 135,
+          "listed_count": 7500,
+          "media_count": 9333375,
+          "tweet_count": 138686820
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2095396371750683096",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2260195,
+          "following_count": 1083,
+          "like_count": 10410,
+          "listed_count": 8889,
+          "media_count": 53177,
+          "tweet_count": 60502
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

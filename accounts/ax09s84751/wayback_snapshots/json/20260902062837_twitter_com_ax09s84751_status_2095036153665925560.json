@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2094817439989276885",
+    "created_at": "2026-09-02T06:28:37.000Z",
+    "display_text_range": [
+      11,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T07:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095036153665925560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042902564048355328",
+          "start": 0,
+          "username": "TTTypezhi"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2095036153665925560",
+    "in_reply_to_user_id": "2042902564048355328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094817439989276885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTTypezhi PDD的补佳乐不还是随便买"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2094817291980636161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJJOm3aAAE1AB6.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2094817304223825920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJJPUeaQAAipnt.jpg",
+        "width": 1220
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2094817439989276885",
+        "created_at": "2026-09-02T06:28:37.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T07:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095036153665925560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042902564048355328",
+              "start": 0,
+              "username": "TTTypezhi"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2095036153665925560",
+        "in_reply_to_user_id": "2042902564048355328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094817439989276885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTTypezhi PDD的补佳乐不还是随便买"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094817291980636161",
+            "3_2094817304223825920"
+          ]
+        },
+        "author_id": "2042902564048355328",
+        "conversation_id": "2094817439989276885",
+        "created_at": "2026-09-01T15:59:32.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094817439989276885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVrNFxlQ9c",
+              "end": 87,
+              "expanded_url": "https://x.com/TTTypezhi/status/2094817439989276885/photo/1",
+              "media_key": "3_2094817291980636161",
+              "start": 64,
+              "url": "https://t.co/WVrNFxlQ9c"
+            },
+            {
+              "display_url": "pic.x.com/WVrNFxlQ9c",
+              "end": 87,
+              "expanded_url": "https://x.com/TTTypezhi/status/2094817439989276885/photo/1",
+              "media_key": "3_2094817304223825920",
+              "start": 64,
+              "url": "https://t.co/WVrNFxlQ9c"
+            },
+            {
+              "display_url": "x.com/TTTypezhi/stat…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/TTTypezhi/status/2094816075527643180",
+              "start": 88,
+              "url": "https://t.co/Y6tLuCY5QN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094817439989276885",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094817291980636161"
+          },
+          {
+            "media_key": "3_2094817304223825920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3510,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094816075527643180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给大家说个不好的事（）\npdd的拜耳补佳乐被隐藏了但并非完全下架\n收藏过商品或仍有原链接的还是能正常看到的（没试过能不能下单） https://t.co/WVrNFxlQ9c https://t.co/Y6tLuCY5QN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "is_identity_verified": false,
+        "location": "The People's Republic of China",
+        "most_recent_tweet_id": "2095036153665925560",
+        "name": "KuroHikari.",
+        "pinned_tweet_id": "2090353587255943405",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022153081031733252/1785028949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 1758,
+          "like_count": 3443,
+          "listed_count": 1,
+          "media_count": 474,
+          "tweet_count": 2926
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-11T09:48:33.000Z",
+        "description": "全世界最好的小女孩/She.Her/17岁的小笨蛋🥺/🎂2009.3.7/🍥:2025.1.9/RLE时间太长不记得了😢/有大证/不割手od/家长不支持/💰打工攒钱SRS中.../💀死了五个号/❌线下/努力生活中喵...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "https://zinet.top",
+                "start": 0,
+                "url": "https://t.co/tc7gn1vBTW"
+              }
+            ]
+          }
+        },
+        "id": "2042902564048355328",
+        "is_identity_verified": false,
+        "location": "你家",
+        "most_recent_tweet_id": "2094820258515419438",
+        "name": "知式（四代目）🍥🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042902713881731072/m36bwUKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 491,
+          "like_count": 32,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/tc7gn1vBTW",
+        "username": "TTTypezhi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

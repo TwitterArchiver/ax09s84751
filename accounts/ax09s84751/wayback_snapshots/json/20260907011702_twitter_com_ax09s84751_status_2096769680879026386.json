@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2022153081031733252",
+    "conversation_id": "2096769680879026386",
+    "created_at": "2026-09-07T01:17:02.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T02:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096769680879026386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NeInflux/statu…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/NeInflux/status/2096685822842196012",
+          "start": 27,
+          "url": "https://t.co/KXdB3TLj5K"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2096769680879026386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096685822842196012",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笨蛋，梦醒不过来了哦 \nEndless Dreams https://t.co/KXdB3TLj5K"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2096769680879026386",
+        "created_at": "2026-09-07T01:17:02.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096769680879026386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NeInflux/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/NeInflux/status/2096685822842196012",
+              "start": 27,
+              "url": "https://t.co/KXdB3TLj5K"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2096769680879026386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096685822842196012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笨蛋，梦醒不过来了哦 \nEndless Dreams https://t.co/KXdB3TLj5K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811910905200021504",
+        "conversation_id": "2096685822842196012",
+        "created_at": "2026-09-06T19:43:49.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T20:42:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096685520663593284",
+          "2096685822842196012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096685822842196012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是一条因字数限制被耽误了的帖子\n［定时］8月6日 08：05\n\n一位Mother曾在一年多以前告诉我她16岁的孩子跳楼自杀了......\n我.....我完全不知道说什么\n即使我早有预料\n不是所有不幸的孩子都能找到自己的路\n.........\n我去过他家......我感受过那种绝望\n..........\n我甚至可以嘲笑他16岁了怎么还对这个世界的理解如此浅显......\n可是......\n他的家长将他控制得死死的 他没有真正意义上自己的电子设备\n他就是我们身边........\n最普通的被迫害得最深的小孩......\n你说交友....？混圈.....？\n不......这种事......他没了解过....\n也不会\n你甚至可以认为他的「情商」挺低的\n问题是.......这样家庭出来的小孩\n没有爱 温暖 共情\n又能指望他的情绪智力能有多好.......\n\n我见证了他的末路\n我曾替他感到无比绝望与哀伤\n后来我明白了\n这也是这个世界运作法则的一部分\n不幸的小孩只是这个世界之法则运转起来后一个必然产生的节点........\n他一辈子也没有挣脱这个体系\n他永远地留在那个体系里了......\n也没有同类为他而哀悼\n但这不怪他 他很聪明......可惜不够天才.......他没有跳出这个体系观看自己的存在\n他临死前依然恨着他的Mother."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条因字数限制被耽误了的帖子\n［定时］8月6日 08：05\n\n一位Mother曾在一年多以前告诉我她16岁的孩子跳楼自杀了......\n我.....我完全不知道说什么\n即使我早有预料\n不是所有不幸的孩子都能找到自己的路\n.........\n我去过他家......我感受过那种绝望\n.........."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MK",
+              "full_name": "Macedonia (The former Yugoslav Republic of)",
+              "geo": {
+                "coordinates": [
+                  22.0,
+                  41.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "BD-II (Dep, Mixed, RC, AnxD, Mel)\n苏州/09/MTF🏳️‍⚧️\n关联主号@Echo42es @Echog6xf\n聚于共鸣，行于热爱，成于坚守",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Echo42es"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "is_identity_verified": false,
+        "location": "The People's Republic of China",
+        "most_recent_tweet_id": "2096769680879026386",
+        "name": "KuroHikari.",
+        "pinned_tweet_id": "2090353587255943405",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022153081031733252/1785028949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 1770,
+          "like_count": 3926,
+          "listed_count": 1,
+          "media_count": 495,
+          "tweet_count": 3329
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-12T23:50:12.000Z",
+        "description": "AuDHD | MTF/X | 2006.12 | 自傷 | No NSFW\nMandarin/English | 里推@NeuxIce\nMusic Theory | Pharmacology | Art  \nC-PTSD和人格障碍的幸存者\n继续活下去吧 连我都做到了.....\n你也可以的.....",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "NeuxIce"
+              }
+            ]
+          }
+        },
+        "id": "1811910905200021504",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2096690897211867185",
+        "name": "Neux溶ける",
+        "pinned_tweet_id": "2089153140419637291",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811910905200021504/1787381169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095183505563238400/Fh_kRJ5r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 142,
+          "like_count": 1701,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "NeInflux",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
